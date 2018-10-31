@@ -2,4 +2,4 @@
 
 ./collection/example_1-pets/import.sh
 ./collection/example_2-photos/import.sh
-./collection/example_3-catalogs/import.sh
+make --directory=collection/ex_sherry_lehmann ldp

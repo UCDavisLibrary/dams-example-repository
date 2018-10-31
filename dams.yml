@@ -1,0 +1,139 @@
+version: '3'
+
+###
+# Demo Fin Server from deployed DockerHub container images
+###
+services:
+
+  ###
+  # Font End NodeJS Application Server
+  ###
+  server:
+    image: ucdlib/fin-server:master
+    env_file:
+      - dams.yml.env
+    volumes:
+      - ./conf/default-services.js:/etc/fin/default-services.js
+      - ./conf/default-transforms:/etc/fin/transforms
+    ports:
+      - 4001:3001
+    depends_on:
+      - fcrepo
+      - redis
+      - elasticsearch
+
+  ###
+  # Fedora Repository
+  ###
+  fcrepo:
+    image: ucdlib/fin-fcrepo:master
+    env_file:
+      - dams.yml.env
+    volumes:
+      - fedora-data:/var/lib/jetty/fedora-data
+
+###
+  # Session, admin store
+  ###
+  redis:
+    image: redis:3.2
+    volumes:
+      - redis-data:/data
+    depends_on:
+      - fcrepo
+
+  ###
+  # UC DAMS Client UI
+  ###
+  ucd-lib-client:
+    image: ucdlib/fin-ucd-lib-client:master
+    env_file:
+      - dams.yml.env
+    depends_on:
+      - elasticsearch
+
+  ###
+  # Search
+  ###
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:5.4.1
+    environment:
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - es-data:/usr/share/elasticsearch/data
+      - ./conf/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
+    depends_on:
+      - fcrepo
+
+  ###
+  # Trusted Proxy for Services
+  ###
+  trustedproxy:
+    image: ucdlib/fin-trusted-proxy:master
+    env_file:
+      - dams.yml.env
+    depends_on:
+      - fcrepo
+
+  ###
+  # IIIF Service
+  ###
+  loris:
+    image: ucdlib/fin-loris-service:master
+    env_file:
+      - dams.yml.env
+    depends_on:
+      - fcrepo
+    volumes:
+      - loris-cache:/var/cache/loris
+      - ./conf/loris/loris2.conf:/opt/loris/etc/loris2.conf
+      - ./conf/loris/start.py:/opt/loris/loris/start.py
+
+  ###
+  # Tesseract OCR Services
+  ###
+  tesseract:
+    image: ucdlib/fin-tesseract-service:master
+    env_file:
+      - dams.yml.env
+    depends_on:
+      - server
+    command: node service
+
+  ###
+  # ES Indexer
+  ###
+  essync:
+    image: ucdlib/fin-essync-service:master
+    env_file:
+      - dams.yml.env
+    depends_on:
+      - server
+
+  ###
+  # Basic Username/Password AuthenticationService
+  ###
+  basic-auth:
+    image: ucdlib/fin-basic-auth-service:master
+    env_file:
+      - dams.yml.env
+    depends_on:
+      - server
+
+###
+# Docker data volumes
+###
+volumes:
+  fedora-data:
+    driver: local
+  es-data:
+    driver: local
+  redis-data:
+    driver: local
+  loris-cache:
+    driver: local
