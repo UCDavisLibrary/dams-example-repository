@@ -12,7 +12,7 @@
 
 <ex2-photos>
   a ldp:BasicContainer, schema:Collection;
-  acl:accessControl <ex2-photos/.inf4/acl>;
+  acl:accessControl <ex2-photos/.fin/acl>;
   schema:name "An Example of Eastman's Originals Collection";
   schema:publisher <lcna:no2008108707> , "University of California, Davis. General Library. Dept. of Special Collections" ;
   schema:keywords "Photographs", "California, Northern", "Pictorial Works";

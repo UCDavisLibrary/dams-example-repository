@@ -1,11 +1,4 @@
-host: https://sandbox.dams.library.ucdavis.edu
-base: /fcrepo/rest/collection
-collection: ex2-photos
-transaction: true
-metadata:
-  is_metadata: ^(.*).ttl$
-  file: FILE.ttl
-http:
-  session: inf4
-  ssl: tls1.2
-  print: hb
+source:
+  host: https://sandbox.dams.library.ucdavis.edu
+  base: /fcrepo/rest
+  collection: ex2-photos
