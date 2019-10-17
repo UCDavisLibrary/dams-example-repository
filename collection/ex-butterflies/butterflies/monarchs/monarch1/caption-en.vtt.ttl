@@ -1,0 +1,6 @@
+@prefix schema: <http://schema.org/> .
+
+<../caption-en.vtt> a schema:CreativeWork;
+  schema:encodingFormat "text/vtt";
+  schema:inLanguage "en";
+  .

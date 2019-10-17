@@ -1,4 +1,0 @@
-@prefix schema: <http://schema.org/> .
-
-<>
-	 a schema:MediaObject .

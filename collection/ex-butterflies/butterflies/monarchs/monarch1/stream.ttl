@@ -1,0 +1,12 @@
+@prefix schema: <http://schema.org/> .
+@prefix ldp:  <http://www.w3.org/ns/ldp#> .
+@prefix ucdlib: <http://digital.ucdavis.edu/schema#> .
+
+<>
+    a ldp:Container, schema:VideoObject, ucdlib:StreamingVideo;
+    schema:contentUrl <stream/playlist.m3u8> ;
+    ucdlib:clientMediaDownload <monarch_butterfly.mp4> ;
+    schema:encodesCreativeWork <monarch_butterfly.mp4> ;
+    schema:encodingFormat "application/x-mpegURL";
+    schema:caption <caption-en.vtt>, <caption-fr.vtt> ;
+    .
