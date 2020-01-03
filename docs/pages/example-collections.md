@@ -7,7 +7,7 @@ permalink: /example-collections/
 From here, we can look at some of the example collections in this project and
 see how data can be added and maintained in our repository.
 
-- [Example 1](../collection/ex1-pets) This is the most
+- [Example 1](../../collection/ex1-pets) This is the most
   simple example of adding data into the repository.  The data is born digital,
   and the organization of the data and the metadata is very basic.
 
