@@ -2,6 +2,7 @@
 layout: page
 title: Example Collections
 permalink: /example-collections/
+
 ---
 
 From here, we can look at some of the example collections in this project and
@@ -18,3 +19,7 @@ see how data can be added and maintained in our repository.
 - [Example 3](../examples/ex3-sherry-lehmann) Here, we show how you
 might organize objects that have multiple digital encodings, in this case where
 each catalog has a complete PDF file, but we also have each page as an image.
+
+# Example 1
+
+{% include_relative ../../collection/ex1-pets/README.md %}
