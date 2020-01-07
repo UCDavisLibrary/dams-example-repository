@@ -2,7 +2,6 @@
 layout: page
 title: Example Collections
 permalink: /example-collections/
-
 ---
 
 From here, we can look at some of the example collections in this project and
