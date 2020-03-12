@@ -1,5 +1,4 @@
 source:
-  #host: http://192.168.99.103:3000/
-  host: https://sandbox.dams.library.ucdavis.edu/
+  host: http://192.168.99.103:3000/
   base: /fcrepo/rest/moments
   collection: cats
