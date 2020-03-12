@@ -1,0 +1,14 @@
+@prefix schema: <http://schema.org/> .
+@prefix fast:  <http://id.worldcat.org/fast/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ucdlib: <http://digital.ucdavis.edu/schema#> .
+@prefix wdt:   <http://www.wikidata.org/prop/direct/> .
+@prefix w:     <http://library.ucdavis.edu/wine-ontology#> .
+
+<>    schema:about        "cats" ;
+        schema:description  "Trello2Moment demo pet board" ;
+        schema:license      "[cats](http://id.worldcat.org/fast/1902713)" ;
+        schema:license      <http://rightsstatements.org/vocab/CNE/1.0/> ;
+        schema:name         "cats" ;
+        schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
+        schema:thumbnail    <https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1483x2048/559747bc8e310e0fde81d540a8382d59/photo-1548247416-ec66f4900b2e> .

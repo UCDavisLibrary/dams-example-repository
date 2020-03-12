@@ -13,9 +13,7 @@
         schema:name         "Ashley" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:relatedLink  "Tabby Cat" ;
-        schema:relatedLink  [ a           schema:WebPage ;
-                              schema:url  "https://en.wikipedia.org/wiki/Tabby_cat "
-                            ] ;
+        schema:relatedLink  <https://en.wikipedia.org/wiki/Tabby_cat> ;
         schema:spatial      "Davis, California" ;
         schema:spatial      [ a                 schema:Place ;
                               schema:latitude   "38.5568789"^^<http://www.w3.org/2001/XMLSchema#double> ;
@@ -36,9 +34,7 @@
         schema:name         "Gimli" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:relatedLink  "Domestic Shorthair" ;
-        schema:relatedLink  [ a           schema:WebPage ;
-                              schema:url  "https://en.wikipedia.org/wiki/Domestic_short-haired_cat "
-                            ] ;
+        schema:relatedLink  <https://en.wikipedia.org/wiki/Domestic_short-haired_cat> ;
         schema:spatial      "Sacramento, California" ;
         schema:spatial      [ a                 schema:Place ;
                               schema:latitude   "38.5619185"^^<http://www.w3.org/2001/XMLSchema#double> ;
@@ -73,9 +69,7 @@
         schema:name         "CatCon" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:relatedLink  "Cat Con Worldwide" ;
-        schema:relatedLink  [ a           schema:WebPage ;
-                              schema:url  "https://www.catconworldwide.com/ "
-                            ] ;
+        schema:relatedLink  <https://www.catconworldwide.com/> ;
         schema:spatial      "Los Angeles, California" ;
         schema:spatial      [ a                 schema:Place ;
                               schema:latitude   "34.0414337"^^<http://www.w3.org/2001/XMLSchema#double> ;
@@ -90,9 +84,7 @@
         schema:name         "Quinn Hart" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:relatedLink  "Quinn Hart - Digital Applications Manager" ;
-        schema:relatedLink  [ a           schema:WebPage ;
-                              schema:url  "https://www.library.ucdavis.edu/author/quinn-hart/"
-                            ] ;
+        schema:relatedLink  <https://www.library.ucdavis.edu/author/quinn-hart/> ;
         schema:spatial      "Davis, California" ;
         schema:spatial      [ a                 schema:Place ;
                               schema:latitude   "38.5568789"^^<http://www.w3.org/2001/XMLSchema#double> ;
@@ -130,7 +122,7 @@
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> .
 
 <#pbvSxg06>  a            schema:WebPage , ucdlib:Breeds ;
-        schema:description  "The British Shorthair is the pedigreed version of the traditional British domestic cat, with a distinctively stocky body, dense coat, and broad face. The most familiar color variant is the \"British Blue,\" a solid grey-blue coat, copper eyes, and a medium-sized tail. The breed has also been developed in a wide range of other colours and patterns, including tabby and colorpoint. From  [WikiPedia] (https://en.wikipedia.org/wiki/British_Shorthair)" , "Image By Prskavka - Own work, Public Domain, \nhttps://commons.wikimedia.org/w/index.php?curid=502968" ;
+        schema:description  "The British Shorthair is the pedigreed version of the traditional British domestic cat, with a distinctively stocky body, dense coat, and broad face. The most familiar color variant is the \"British Blue,\" a solid grey-blue coat, copper eyes, and a medium-sized tail. The breed has also been developed in a wide range of other colours and patterns, including tabby and colorpoint. From  \n[WikiPedia](https://en.wikipedia.org/wiki/British_Shorthair)" , "Image By Prskavka - Own work, Public Domain, \nhttps://commons.wikimedia.org/w/index.php?curid=502968" ;
         schema:license      <http://rightsstatements.org/vocab/CNE/1.0/> ;
         schema:name         "British Short Hair" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
@@ -151,9 +143,7 @@
         schema:name         "Domestic long-haired cat" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:relatedLink  "Domestic long-haired cat" ;
-        schema:relatedLink  [ a           schema:WebPage ;
-                              schema:url  "https://en.wikipedia.org/wiki/Domestic_long-haired_cat "
-                            ] ;
+        schema:relatedLink  <https://en.wikipedia.org/wiki/Domestic_long-haired_cat> ;
         schema:spatial      "Western Asia" ;
         schema:spatial      [ a                 schema:Place ;
                               schema:latitude   "27.9087072"^^<http://www.w3.org/2001/XMLSchema#double> ;
@@ -181,9 +171,7 @@
         schema:name         "Bengal" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:relatedLink  "Bengal Cat" ;
-        schema:relatedLink  [ a           schema:WebPage ;
-                              schema:url  "https://en.wikipedia.org/wiki/Bengal_cat "
-                            ] ;
+        schema:relatedLink  <https://en.wikipedia.org/wiki/Bengal_cat> ;
         schema:spatial      "[United States](https://goo.gl/maps/A1QCfaoHpwKvkkPL6)" ;
         schema:thumbnail    <8Q0KPdUx/800px-Paintedcats_Red_Star_standing.jpg> .
 
@@ -201,9 +189,7 @@
         schema:name         "Juniper" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:relatedLink  "Deer-Head Chihuahua Dogs" ;
-        schema:relatedLink  [ a           schema:WebPage ;
-                              schema:url  "https://en.wikipedia.org/wiki/Chihuahua_(dog) "
-                            ] ;
+        schema:relatedLink  <https://en.wikipedia.org/wiki/Chihuahua_(dog)> ;
         schema:spatial      "Sacramento, California" ;
         schema:spatial      [ a                 schema:Place ;
                               schema:latitude   "38.5619185"^^<http://www.w3.org/2001/XMLSchema#double> ;
@@ -224,9 +210,7 @@
         schema:name         "Chester" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:relatedLink  "Polydactyl cats" ;
-        schema:relatedLink  [ a           schema:WebPage ;
-                              schema:url  "https://en.wikipedia.org/wiki/Polydactyl_cat "
-                            ] ;
+        schema:relatedLink  <https://en.wikipedia.org/wiki/Polydactyl_cat> ;
         schema:spatial      "Davis, California" ;
         schema:spatial      [ a                 schema:Place ;
                               schema:latitude   "38.5568789"^^<http://www.w3.org/2001/XMLSchema#double> ;
@@ -248,12 +232,7 @@
         schema:name         "Stealth Siamese Cat" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:relatedLink  "Unbreeds: The Stealth Siamese Cat" , "Snowshoe Cat" ;
-        schema:relatedLink  [ a           schema:WebPage ;
-                              schema:url  "https://en.wikipedia.org/wiki/Snowshoe_cat "
-                            ] ;
-        schema:relatedLink  [ a           schema:WebPage ;
-                              schema:url  "https://www.wayofcats.com/blog/unbreeds-the-stealth-siamese-cat/31673"
-                            ] ;
+        schema:relatedLink  <https://en.wikipedia.org/wiki/Snowshoe_cat> , <https://www.wayofcats.com/blog/unbreeds-the-stealth-siamese-cat/31673> ;
         schema:spatial      "Thailand" ;
         schema:spatial      [ a                 schema:Place ;
                               schema:latitude   "13.0108743"^^<http://www.w3.org/2001/XMLSchema#double> ;
@@ -281,9 +260,7 @@
         schema:name         "Mochi" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:relatedLink  "Bengal Cat" ;
-        schema:relatedLink  [ a           schema:WebPage ;
-                              schema:url  "https://en.wikipedia.org/wiki/Bengal_cat "
-                            ] ;
+        schema:relatedLink  <https://en.wikipedia.org/wiki/Bengal_cat> ;
         schema:spatial      "Rocklin, California" ;
         schema:spatial      [ a                 schema:Place ;
                               schema:latitude   "38.8119585"^^<http://www.w3.org/2001/XMLSchema#double> ;
@@ -301,9 +278,7 @@
         schema:name         "Marie" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:relatedLink  "Title to display" ;
-        schema:relatedLink  [ a           schema:WebPage ;
-                              schema:url  "https://en.wikipedia.org/wiki/Bicolor_cat "
-                            ] ;
+        schema:relatedLink  <https://en.wikipedia.org/wiki/Bicolor_cat> ;
         schema:spatial      "Sacramento, California)" ;
         schema:spatial      [ a                 schema:Place ;
                               schema:latitude   "38.5619185"^^<http://www.w3.org/2001/XMLSchema#double> ;
@@ -323,9 +298,7 @@
         schema:name         "Bicolor Cat" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:relatedLink  "Bicolor Cat" ;
-        schema:relatedLink  [ a           schema:WebPage ;
-                              schema:url  "https://en.wikipedia.org/wiki/Bicolor_cat "
-                            ] ;
+        schema:relatedLink  <https://en.wikipedia.org/wiki/Bicolor_cat> ;
         schema:spatial      "Google Maps link" , "Location name to display (Ex: Livermore, California)" ;
         schema:temporal     "XXXX" ;
         schema:thumbnail    <yvH439FE/Socks-clinton.jpg> ;
@@ -348,9 +321,7 @@
         schema:name         "Mika" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:relatedLink  "Bengal Cat" ;
-        schema:relatedLink  [ a           schema:WebPage ;
-                              schema:url  "https://en.wikipedia.org/wiki/Bengal_cat "
-                            ] ;
+        schema:relatedLink  <https://en.wikipedia.org/wiki/Bengal_cat> ;
         schema:spatial      "Rocklin, California" ;
         schema:spatial      [ a                 schema:Place ;
                               schema:latitude   "38.8119585"^^<http://www.w3.org/2001/XMLSchema#double> ;
@@ -374,9 +345,7 @@
         schema:name         "Fiona & Finn" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:relatedLink  "Medium-Coat Cat" ;
-        schema:relatedLink  [ a           schema:WebPage ;
-                              schema:url  "https://en.wikipedia.org/wiki/Cat_coat_genetics "
-                            ] ;
+        schema:relatedLink  <https://en.wikipedia.org/wiki/Cat_coat_genetics> ;
         schema:spatial      "Sacramento, California)" ;
         schema:spatial      [ a                 schema:Place ;
                               schema:latitude   "38.5619185"^^<http://www.w3.org/2001/XMLSchema#double> ;
