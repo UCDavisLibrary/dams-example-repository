@@ -79,9 +79,6 @@
         schema:temporal     "2020" ;
         schema:thumbnail    <Kwg7igEZ/Adoptee_AH-WEB2019.jpg> .
 
-<#DAZJB1ba_rev>  a  ucdlib:has_instance , schema:significantLinks ;
-        schema:name  "has instance" .
-
 <#U4UASHMg>  a            schema:WebPage , schema:Person ;
         schema:license      <http://rightsstatements.org/vocab/CNE/1.0/> ;
         schema:name         "Quinn Hart" ;
@@ -96,6 +93,9 @@
                             ] ;
         schema:thumbnail    <U4UASHMg/quinn-450x450-c-center.jpg> ;
         <#5PL2z7dx>       <#Tsm36okM> .
+
+<#DAZJB1ba_rev>  a  ucdlib:has_instance , schema:significantLinks ;
+        schema:name  "has instance" .
 
 <#DAZJB1ba>  a            ucdlib:is_instance_of_ , schema:significantLinks ;
         schema:description  "Describe the connection between subjects here (minimum length: one sentence)." ;
