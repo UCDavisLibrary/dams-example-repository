@@ -1,6 +1,6 @@
 source:
-  host: https://sandbox.dams.library.ucdavis.edu
-  base: /fcrepo/rest/collection
+  host: 'https://sandbox.dams.library.ucdavis.edu'
+  base: /fcrepo/rest
   collection: moments
 http:
   session: inf4

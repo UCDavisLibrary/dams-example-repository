@@ -1,0 +1,1512 @@
+{
+  "@graph" : [ {
+    "@id" : "_:b0",
+    "@type" : "schema:Place",
+    "schema:latitude" : 42.8962336,
+    "schema:longitude" : -78.8994615,
+    "name" : "Buffalo,+NY"
+  }, {
+    "@id" : "_:b1",
+    "@type" : "schema:Place",
+    "schema:latitude" : 39.729881,
+    "schema:longitude" : -75.5995244,
+    "name" : "Wilmington,+DE"
+  }, {
+    "@id" : "_:b2",
+    "@type" : "schema:Place",
+    "schema:latitude" : 51.5285582,
+    "schema:longitude" : -0.2416795,
+    "name" : "London,+UK"
+  }, {
+    "@id" : "_:b3",
+    "@type" : "schema:Place",
+    "schema:latitude" : 34.0206842,
+    "schema:longitude" : -118.551814,
+    "name" : "Los+Angeles,+CA"
+  }, {
+    "@id" : "_:b4",
+    "@type" : "schema:Place",
+    "schema:latitude" : 44.9625003,
+    "schema:longitude" : -93.2830283,
+    "name" : "44°57'59.2\"N+93°14'42.0\"W"
+  }, {
+    "@id" : "_:b5",
+    "@type" : "schema:Place"
+  }, {
+    "@id" : "0Q51kLkB",
+    "@type" : [ "schema:significantLinks", "ucdlib:founded" ],
+    "description" : "In 1961, Joe Heitz and his wife, Alice, bought an 8.5-acre vineyard from Leon Brandel named \"The One & Only.\" It was on this property that Joe and Alice founded Heitz Cellars.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Joe Heitz founded Heitz Cellar", "founded" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "0Q51kLkB:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:founded_by" ],
+    "name" : "founded by"
+  }, {
+    "@id" : "0zqEexpp",
+    "@type" : [ "schema:significantLinks", "ucdlib:planted" ],
+    "description" : "Describe the connection between subjects here (minimum length: one sentence).",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Fred McCrea planted the Wente Clone", "planted" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "0zqEexpp:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:planted_by" ],
+    "name" : "planted by"
+  }, {
+    "@id" : "1K1RedNF",
+    "@type" : [ "schema:significantLinks", "ucdlib:winemaker" ],
+    "description" : "James Zellerbach hired Brad Webb to be Hanzell's winemaker in 1956. While at Hanzell, Webb pioneered a number of technologies in the cellar, including temperature-controlled stainless steel fermentors, controlled malolactic fermentations, and the use of inert gases. He was among the winemakers who pioneered the use of small French oak barrels for aging wines.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Brad Webb was a winemaker at Hanzell Vineyards", "winemaker" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "1K1RedNF:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:winemaker" ],
+    "name" : "winemaker"
+  }, {
+    "@id" : "1OkSrpl8",
+    "@type" : [ "schema:significantLinks", "ucdlib:worked_with" ],
+    "description" : "Goheen developed the index testing techniques and heat treatment therapy for grapevines at the Foundation Plant Materials Service (now Foundation Plant Services). Goheen served as the Scientific Adviser at FPMS from the mid 1950's through 1986.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Austin Goheen worked with Foundation Plant Services", "worked with" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "1OkSrpl8:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:worked_with" ],
+    "name" : "worked with"
+  }, {
+    "@id" : "1iDZI50s",
+    "0Q51kLkB" : "Ci29VDRY",
+    "bRtwlEXl" : "uBuLClSf",
+    "hEZLykqn_rev" : "jI6UTDUl"
+  }, {
+    "@id" : "1zykVMmW",
+    "ACMhcFkv_rev" : "o6X0ntCy",
+    "gkefrODX_rev" : "z8de3Nov",
+    "iK3ijg5z" : "3VZas2z9"
+  }, {
+    "@id" : "2l6NwDe4",
+    "@type" : [ "schema:significantLinks", "ucdlib:planted" ],
+    "description" : "The Martini family's Stanley Ranch was among the vineyards whose Chardonnay plantings were established from the Wente Vineyard, and continued the chain of improvement of the variety by hosting the selection work of Harold Olmo.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Louis P. Martini planted Wente Clone", "planted" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "2l6NwDe4:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:planted_by" ],
+    "name" : "planted by"
+  }, {
+    "@id" : "31pgW633",
+    "@type" : [ "schema:significantLinks", "ucdlib:planted" ],
+    "description" : "In 1882, Theodore Gier planted the budwood that Wetmore brought from Meursault on Gier Vineyard in Pleasanton.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Gier Vineyard planted Meursault Budwood", "planted" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "31pgW633:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:planted_by" ],
+    "name" : "planted by"
+  }, {
+    "@id" : "3MroRLtc",
+    "@type" : [ "schema:significantLinks", "ucdlib:provided_to" ],
+    "description" : "In 1946, Fred and Eleanor McCrea collected budwood from Wente's Livermore vineyard to plant the Stony Hill vineyard in the Spring Mountain District of Napa Valley. At the time, the decision to plant Chardonnay was controversial, as there were only around 200 documented acres of Chardonnay in California. Stony Hill may have been the first winery to plant a Chardonnay vineyard after Prohibition, and the McCreas did so despite warnings from UC Davis that the variety was unlikely to succeed. UC Davis advised the couple to plant Gewurztraminer, Sémillon and Pinot Blanc to protect against the potential failure of the Chardonnay.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Ernest Wente provided budwood to Fred McCrea", "provided to" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "3MroRLtc:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:received_from" ],
+    "name" : "received from"
+  }, {
+    "@id" : "3VZas2z9",
+    "0zqEexpp_rev" : "HSu79Z8N",
+    "2l6NwDe4_rev" : "RGxYAicG",
+    "41Qvzaf6_rev" : "WeN5rOwv",
+    "7iFLY4Yf" : "u2C8OQ1W",
+    "EncfuPil_rev" : "4TOdI5mk",
+    "I9s94n4a_rev" : "jAu8Il7c",
+    "J1juD6B1_rev" : "AmICYFc4",
+    "RSrjNXN7_rev" : "z8de3Nov",
+    "ZhlFEL11_rev" : "jI6UTDUl",
+    "a4shUaw6_rev" : "BZrIPisp",
+    "iK3ijg5z_rev" : "1zykVMmW",
+    "jFpVTNlM" : "IShCL2dT"
+  }, {
+    "@id" : "41Qvzaf6",
+    "@type" : [ "schema:significantLinks", "ucdlib:planted" ],
+    "description" : "The Martini family's Stanley Ranch was among the vineyards whose Chardonnay plantings were established from the Wente Vineyard, and continued the chain of improvement of the variety by hosting the selection work of Harold Olmo.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Stanly Ranch Vineyards planted Wente Clone", "planted" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "41Qvzaf6:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:planted_by" ],
+    "name" : "planted by"
+  }, {
+    "@id" : "43uVA3uZ",
+    "@type" : [ "schema:significantLinks", "ucdlib:co-founded" ],
+    "description" : "Fred and Eleanor McCrea found the property that would become Stony Hill Vineyard in the early 1940s. By 1943, they had made the rugged hillside spot on Spring Mountain their home.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Eleanor McCrea co-founded Stony Hill Vineyard", "co-founded" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "43uVA3uZ:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:co-founded_by" ],
+    "name" : "co-founded by"
+  }, {
+    "@id" : "4TOdI5mk",
+    "43uVA3uZ_rev" : "ME09Pv74",
+    "EncfuPil" : "3VZas2z9",
+    "H4Tu7NCb" : "jI6UTDUl",
+    "qmfR1YjH_rev" : "HSu79Z8N"
+  }, {
+    "@id" : "4Z8uyf60",
+    "@type" : [ "schema:significantLinks", "ucdlib:tasted" ],
+    "description" : "1970 Cabernet Sauvignon from Heitz Wine Cellars Martha's Vineyard was included in the 1976 Judgment of Paris tasting, ranking 7th place among the red wines.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "1976 Judgment of Paris tasted Heitz Cellar", "tasted" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "4Z8uyf60:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:tasted_at" ],
+    "name" : "tasted at"
+  }, {
+    "@id" : "4chPcJaZ",
+    "@type" : [ "schema:significantLinks", "ucdlib:provided_to" ],
+    "description" : "In 1946, Fred and Eleanor McCrea collected budwood from Wente's Livermore vineyard to plant the Stony Hill vineyard in the Spring Mountain District of Napa Valley. At the time, the decision to plant Chardonnay was controversial, as there were only around 200 documented acres of Chardonnay in California. Stony Hill may have been the first winery to plant a Chardonnay vineyard after Prohibition, and the McCreas did so despite warnings from UC Davis that the variety was unlikely to succeed. UC Davis advised the couple to plant Gewurztraminer, Sémillon and Pinot Blanc to protect against the potential failure of the Chardonnay.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Wente Vineyards provided budwood to Fred McCrea", "provided to" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "4chPcJaZ:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:received_from" ],
+    "name" : "received from"
+  }, {
+    "@id" : "5295tRn2",
+    "@type" : [ "schema:significantLinks", "ucdlib:owned" ],
+    "description" : "In 1942 Louis P. Martini purchased approximately 200 acres of the Stanly Ranch for the Louis M. Martini Winery. In 1948 Louis P. Martini began working with UC Davis and the Wente family on Wente clones of Chardonnay planted in the Stanly Ranch Vineyard.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Louis P. Martini owned Stanly Ranch Vineyards", "owned" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "5295tRn2:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:owned_by" ],
+    "name" : "owned by"
+  }, {
+    "@id" : "6CLRuf6q",
+    "@type" : [ "schema:significantLinks", "ucdlib:survived" ],
+    "description" : "Wente Vineyards did not pull up their Chardonnay vines during Prohibition. After Prohibition, they were one of only a few vineyards with Chardonnay intact.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Wente Vineyards survived Prohibition", "survived" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "6CLRuf6q:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:survived_by" ],
+    "name" : "survived by"
+  }, {
+    "@id" : "7iFLY4Yf",
+    "@type" : [ "schema:significantLinks", "ucdlib:sourced_from" ],
+    "description" : "The Chardonnay population at Wente Vineyards, which came to be called the Wente Clone, derived from two sources, one of which was budwood taken from the Theodore Gier Vineyard in Pleasanton, which Wetmore brought from Meursault, France, in 1882.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Wente Clone derived from Gier Vineyard", "sourced from" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "7iFLY4Yf:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:contributed_to" ],
+    "name" : "contributed to"
+  }, {
+    "@id" : "7ykGrofT",
+    "@type" : [ "schema:significantLinks", "ucdlib:released" ],
+    "description" : "In 1936 Wente was the first California winery to produce a wine labeled as Chardonnay.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Wente Vineyards released 1936 Wente Chardonnay", "released" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "7ykGrofT:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:released_by" ],
+    "name" : "released by"
+  }, {
+    "@id" : "8KtpbAfa",
+    "@type" : [ "schema:significantLinks", "ucdlib:participated" ],
+    "description" : "Charles Wetmore was the Secretary of the California Viticultural Commission from its founding in 1880 until it disbanded in 1894.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Charles Wetmore participated on the Board of State Viticultural Commissioners", "participated" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "8KtpbAfa:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:included" ],
+    "name" : "included"
+  }, {
+    "@id" : "AC2jyC4g",
+    "@type" : [ "schema:significantLinks", "ucdlib:provided_to" ],
+    "description" : "In 1908, Ernest Wente obtained Chardonnay cuttings from the Theodore Gier Vineyard in Pleasanton and planted them at the Wente Estate in Livermore. The Gier Vineyard was the primary source used by Ernest Wente to establish the Wente Livermore vineyard.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Gier Vineyard provided Ernest Wente chardonnay cuttings", "provided to" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "AC2jyC4g:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:received_from" ],
+    "name" : "received from"
+  }, {
+    "@id" : "ACMhcFkv",
+    "@type" : [ "schema:significantLinks", "ucdlib:imported" ],
+    "description" : "In 1912 Carl Wente obtained Chardonnay cuttings from the University of Montpellier's F Richter Nursery.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Carl H. Wente imported Montpellier's F Richter Nursery Budwood", "imported" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "ACMhcFkv:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:imported_by" ],
+    "name" : "imported by"
+  }, {
+    "@id" : "AmICYFc4",
+    "DrrhZ4ge" : "IShCL2dT",
+    "J1juD6B1" : "3VZas2z9",
+    "JggXFt1F_rev" : "J3wlnzDW",
+    "hjxKwQMX" : "Fc2EIKDK"
+  }, {
+    "@id" : "BZrIPisp",
+    "@type" : [ "schema:Person", "schema:WebPage" ],
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : "Ernest Wente",
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:spatial" : "Livermore, California",
+    "thumbnail" : "z:BZrIPisp/ernest-wente.jpg",
+    "3MroRLtc" : "HSu79Z8N",
+    "AC2jyC4g_rev" : "u2C8OQ1W",
+    "a4shUaw6" : "3VZas2z9",
+    "hNBrCH4M_rev" : "o6X0ntCy",
+    "vLFkjLoe_rev" : "YjPlGNUB"
+  }, {
+    "@id" : "CQar4tVr",
+    "@type" : [ "schema:significantLinks", "ucdlib:provided_to" ],
+    "description" : "Wente's Chardonnay vineyard was planted with budwood from the Cresta Blanca vineyard.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Cresta Blanca provided budwood to Wente Vineyards", "provided to" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "CQar4tVr:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:received_from" ],
+    "name" : "received from"
+  }, {
+    "@id" : "CfHGKWM5",
+    "@type" : [ "schema:significantLinks", "ucdlib:owned" ],
+    "description" : "Jim Barrett bought Chateau Montelena in 1972.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Jim Barrett owned Chateau Montelena", "owned" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "CfHGKWM5:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:owned_by" ],
+    "name" : "owned by"
+  }, {
+    "@id" : "Ci29VDRY",
+    "0Q51kLkB_rev" : "1iDZI50s",
+    "4Z8uyf60" : "iPp7dt7A",
+    "zmcIlL1Q" : "uBuLClSf"
+  }, {
+    "@id" : "DrrhZ4ge",
+    "@type" : [ "schema:significantLinks", "ucdlib:developed" ],
+    "description" : "Harold Olmo selected promising material from the Martini planting of the Wente Clone, grown at Martini's Stanley Ranch Vineyard in Carneros, California. Through breeding, and heat treatment to eliminate viral infections, the team was able to raise the average yield from one half ton per acre in the 1950s to over five tons per acre. This improvement made Chardonnay commercially viable in California.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Harold Olmo developed FPS 04 Clone", "developed" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "DrrhZ4ge:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:developed_by" ],
+    "name" : "developed by"
+  }, {
+    "@id" : "EMtTbOwZ",
+    "@type" : [ "schema:significantLinks", "ucdlib:worked_with" ],
+    "description" : "Steven Spurrier and Patricia Gastaud-Gallagher taught at L’Academie du Vin, France's first private wine school.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Patricia Gallagher worked with Steven Spurrier", "worked with" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "EMtTbOwZ:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:worked_with" ],
+    "name" : "worked with"
+  }, {
+    "@id" : "EjURVomf",
+    "jPAdpMqW" : "jI6UTDUl"
+  }, {
+    "@id" : "EncfuPil",
+    "@type" : [ "schema:significantLinks", "ucdlib:planted" ],
+    "description" : "In 1946, Fred and Eleanor McCrea collected budwood from Wente's Livermore vineyard to plant the Stony Hill vineyard in the Spring Mountain District of Napa Valley. At the time, the decision to plant Chardonnay was controversial, as there were only around 200 documented acres of Chardonnay in California. Stony Hill may have been the first winery to plant a chardonnay vineyard after Prohibition, and the McCreas did so despite warnings from UC Davis that the variety was unlikely to succeed. UC Davis advised the couple to plant Gewurztraminer, Sémillon and Pinot Blanc to protect against the potential failure of the Chardonnay.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Stony Hill Vineyard planted Wente Clone", "planted" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "EncfuPil:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:planted_by" ],
+    "name" : "planted by"
+  }, {
+    "@id" : "EpSePh4G",
+    "@type" : [ "schema:significantLinks", "ucdlib:won" ],
+    "description" : "1973 Chardonnay from Chateau Montelena, owned by Jim Barrett, was included in the 1976 Judgment of Paris tasting. It won 1st place among the white wines.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Chateau Montelena Winery won the 1976 Judgment of Paris", "won" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "EpSePh4G:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:won_by" ],
+    "name" : "won by"
+  }, {
+    "@id" : "FYxcyPv9",
+    "@type" : [ "schema:significantLinks", "ucdlib:planted" ],
+    "description" : "In 1882, Charles Wetmore, then the Chief Executive Officer of the California State Board of Viticultural Commissioners, carried Chardonnay budwood from Meursault to Livermore, California, to plant his Cresta Blanca vineyard and distributed the material to local growers.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Cresta Blanca Winery planted Meursault Budwood", "planted" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "FYxcyPv9:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:planted_by" ],
+    "name" : "planted by"
+  }, {
+    "@id" : "Fc2EIKDK",
+    "1OkSrpl8" : "hmnI79DX",
+    "hjxKwQMX_rev" : "AmICYFc4",
+    "tVwryvoF" : "IShCL2dT"
+  }, {
+    "@id" : "G2ZGqFOW",
+    "CfHGKWM5_rev" : "M0Md2DCd",
+    "EpSePh4G" : "iPp7dt7A"
+  }, {
+    "@id" : "H4Tu7NCb",
+    "@type" : [ "schema:significantLinks", "ucdlib:provided_to" ],
+    "description" : "In 1953, Stony Hill Vineyard provided James D. Zellerbach the Chardonnay budwood that was used to plant Hanzell Vineyards. Because the Wente brothers were widely respected for their efforts to perfect California Chardonnay, Zellerbach sought out the Wente clone when planting his 1953 Ambassador's Vineyard. He continued Wente's practice of evaluating selection, gradually establishing vines perfectly adapted to the growing conditions of Sonoma. Today the vines are known as the Hanzell clone.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Stony Hill Vineyard provided budwood to Hanzell Vineyards", "provided to" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "H4Tu7NCb:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:received_from" ],
+    "name" : "received from"
+  }, {
+    "@id" : "HSu79Z8N",
+    "@type" : [ "schema:Person", "schema:WebPage" ],
+    "creator" : "https://grapecollective.com/articles/stony-hills-cult-chardonnay-and-napas-longest-tenured-winemaker",
+    "schema:creator" : "Grape Collective",
+    "description" : "Fred McCrea worked in advertising in San Francisco for McCann-Erickson before purchasing the property that would become Stony Hill Vineyard with his wife, Eleanor McCrea.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : "Fred McCrea",
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
+    "schema:relatedLink" : [ "Stony Hill's Cult Chardonnay and Napa's Longest Tenured Winemaker", "Stony Hill Vineyards: The Creation of a Napa Valley Estate Winery", "The Accidental Pioneers" ],
+    "relatedLink" : [ "https://napavalleyregister.com/wine/the-accidental-pioneers/article_bd90269c-879c-11e2-aab6-001a4bcf887a.html", "https://ohc-search.lib.berkeley.edu/catalog/MASTER_686", "https://grapecollective.com/articles/stony-hills-cult-chardonnay-and-napas-longest-tenured-winemaker" ],
+    "spatial" : "_:b4",
+    "schema:spatial" : "Minneapolis, Minnesota",
+    "temporal" : "unknown/1977",
+    "thumbnail" : "z:HSu79Z8N/mccrea-eleanor-fred.jpg",
+    "0zqEexpp" : "3VZas2z9",
+    "3MroRLtc_rev" : "BZrIPisp",
+    "4chPcJaZ_rev" : "z8de3Nov",
+    "V3F2veqZ" : "ME09Pv74",
+    "qmfR1YjH" : "4TOdI5mk"
+  }, {
+    "@id" : "I9s94n4a",
+    "@type" : [ "schema:significantLinks", "ucdlib:became" ],
+    "description" : "Chardonnay budwood from Meursault found its way from Wetmore's Livermore vineyard to the Gier Vineyard in Pleasanton, and from there to the Wente Vineyards, where it was cultivated alongside Chardonnay vines from Montpellier. Through decades of selection, Wente's Chardonnay vines came to be known as the Wente Clone, and adopted by other winemakers seeking to establish plantings of Chardonnay in California.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Meursault Budwood became the Wente Clone", "became" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "I9s94n4a:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:derived_from" ],
+    "name" : "derived from"
+  }, {
+    "@id" : "IShCL2dT",
+    "DrrhZ4ge_rev" : "AmICYFc4",
+    "ZsAq027L_rev" : "hmnI79DX",
+    "jFpVTNlM_rev" : "3VZas2z9",
+    "tVwryvoF_rev" : "Fc2EIKDK"
+  }, {
+    "@id" : "J1juD6B1",
+    "@type" : [ "schema:significantLinks", "ucdlib:improved" ],
+    "description" : "Harold Olmo selected promising material from the Martini planting of the Wente Clone, grown at Wente's Stanley Ranch Vineyard in Carneros, California. Through breeding, and heat treatment to eliminate viral infections, the team was able to raise the average yield from one half ton per acre in the 1950s to over five tons per acre. This improvement made Chardonnay commercially viable in California.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Harold Olmo improved Wente Clone", "improved" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "J1juD6B1:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:improved_by" ],
+    "name" : "improved by"
+  }, {
+    "@id" : "J3wlnzDW",
+    "JggXFt1F" : "AmICYFc4",
+    "PI5oidOI_rev" : "RGxYAicG"
+  }, {
+    "@id" : "JQ4H0pBJ",
+    "@type" : [ "schema:significantLinks", "ucdlib:won" ],
+    "description" : "1973 Cabernet Sauvignon from Stag's Leap Cellar Wine, owner and winemaker Warren Winiarski's first vintage, was included in the historic 1976 Judgment of Paris blind tasting. It won 1st place among the red wines from France and California.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Stag's Leap Wine Cellars won the 1976 Judgment of Paris", "won" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "JQ4H0pBJ:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:won_by" ],
+    "name" : "won by"
+  }, {
+    "@id" : "JggXFt1F",
+    "@type" : [ "schema:significantLinks", "ucdlib:hired" ],
+    "description" : "Dr. Harold Olmo was plant breeder on the faculty of the Viticulture and Enology Department at the University of California, Davis, from 1931 until his retirement in 1977. Olmo continued his research in retirement, until shortly before his death.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "UC Davis Viticulture & Enology Department hired Harold Olmo", "hired" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "JggXFt1F:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:hired_by" ],
+    "name" : "hired by"
+  }, {
+    "@id" : "JvV1t48D",
+    "@type" : [ "schema:significantLinks", "ucdlib:reduced" ],
+    "description" : "Before Prohibition, California's most popular white wines were made from grapes like Green Hungarian, Burger, Sylvaner, Tokay, and Riesling. Chardonnay, now virtually synonymous with California white wine, was grown in such small amounts that it was rarely recorded as a distinct variety.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Prohibition reduced pre-Prohibition white wines", "reduced" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "JvV1t48D:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:reduced_by" ],
+    "name" : "reduced by"
+  }, {
+    "@id" : "M0Md2DCd",
+    "@type" : [ "schema:Person", "schema:WebPage" ],
+    "schema:creator" : "Los Angeles Times",
+    "creator" : "https://www.latimes.com/food/la-xpm-2013-mar-15-la-dd-napa-valley-loses-a-pioneer-james-l-barrett-of-chateau-montelena-20130315-story.html",
+    "description" : "James (Jim) Barrett was the owner of Chateau Montelena, which won the whites category in the 1976 Judgment of Paris.\n\n Born in LA in 1926, Barrett served in the navy during World War II. On his return, he graduated from UCLA in 1946 and went on to complete a law degree at Loyola Marymount University.\n\n When war broke out in Korea he was recalled and served as a lieutenant on a submarine. When the war was over, he built a successful legal practice, but dreamt of starting a winery.\n\n In 1972, Barrett bought the old stone Château Montelena property in Calistoga, at the time covered in overgrown vineyards and in serious need of attention. He cleared and replanted the original vineyard with Cabernet Sauvignon vines, hired Mike Grgich as winemaker and released his first wines that same year.\n\n While his Cabernet vines matured, Barrett focused on Chardonnay made from purchased grapes, with the success of the 1973 Chardonnay at the Judgement of Paris tasting turning Château Montelena into a household name.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : "James (Jim) Barrett",
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
+    "relatedLink" : [ "https://montelena.com/winery/history", "https://www.winespectator.com/articles/chateau-montelena-owner-jim-barrett-dies-at-86-48165", "https://www.thedrinksbusiness.com/2013/03/chateau-montelena-owner-jim-barrett-dies/" ],
+    "schema:relatedLink" : [ "Chateau Montelena Owner Jim Barrett Dies", "Chateau Montelena Owner Jim Barrett Dies at 86", "Chateau Montelena Winery: History" ],
+    "schema:spatial" : "Los Angeles, California",
+    "spatial" : "_:b3",
+    "temporal" : "1926/2013",
+    "thumbnail" : "z:M0Md2DCd/jim-barrett.jpg",
+    "CfHGKWM5" : "G2ZGqFOW"
+  }, {
+    "@id" : "ME09Pv74",
+    "@type" : [ "schema:Person", "schema:WebPage" ],
+    "creator" : "https://grapecollective.com/articles/stony-hills-cult-chardonnay-and-napas-longest-tenured-winemaker",
+    "schema:creator" : "Grape Collective",
+    "description" : "Eleanor McCrea was born in Buffalo, NY, in 1907, and moved with her family to California in 1916. She attended private school in Piedmont and then enrolled in university at Wellesley Collection (1925–1929). Following graduation, she worked as a legal secretary until she met and married Fred McCrea. Prior to purchasing Stony Hill, the couple lived in San Francisco.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : "Eleanor McCrea",
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
+    "relatedLink" : [ "https://napavalleyregister.com/wine/the-accidental-pioneers/article_bd90269c-879c-11e2-aab6-001a4bcf887a.html", "https://grapecollective.com/articles/stony-hills-cult-chardonnay-and-napas-longest-tenured-winemaker", "https://ohc-search.lib.berkeley.edu/catalog/MASTER_686" ],
+    "schema:relatedLink" : [ "Stony Hill's Cult Chardonnay and Napa's Longest Tenured Winemaker", "Stony Hill Vineyards: The Creation of a Napa Valley Estate Winery", "The Accidental Pioneers" ],
+    "spatial" : "_:b0",
+    "schema:spatial" : "Buffalo, New York",
+    "temporal" : "1907/1991",
+    "thumbnail" : "z:ME09Pv74/mccrea-eleanor-fred.jpg",
+    "43uVA3uZ" : "4TOdI5mk",
+    "V3F2veqZ_rev" : "HSu79Z8N"
+  }, {
+    "@id" : "NAt6jyUG",
+    "7ykGrofT_rev" : "z8de3Nov"
+  }, {
+    "@id" : "OCiOWKY0",
+    "JQ4H0pBJ" : "iPp7dt7A",
+    "PbitxomB_rev" : "PiJy9bsb"
+  }, {
+    "@id" : "PI5oidOI",
+    "@type" : [ "schema:significantLinks", "ucdlib:worked_with" ],
+    "description" : "In 1948 and into the 1950s Louis P. Martini worked with UC Davis and with the Wente family on Wente clones of Chardonnay planted in the Stanly Ranch Vineyard.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Louis P. Martini worked with the UC Davis Viticulture & Enology Department", "worked with" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "PI5oidOI:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:worked_with" ],
+    "name" : "worked with"
+  }, {
+    "@id" : "PbitxomB",
+    "@type" : [ "schema:significantLinks", "ucdlib:founded" ],
+    "description" : "Warren Winiarski founded the winery Stag's Leap Wine Cellars in 1970.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Warren Winiarski founded Stag's Leap Cellars", "founded" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "PbitxomB:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:founded_by" ],
+    "name" : "founded by"
+  }, {
+    "@id" : "PiJy9bsb",
+    "PbitxomB" : "OCiOWKY0"
+  }, {
+    "@id" : "Q9r4xbT0",
+    "@type" : [ "schema:Person", "schema:WebPage" ],
+    "schema:creator" : "Bella Spurrier/Smithsonian Institution",
+    "description" : "Steven Spurrier (born 1941) is a British wine expert and train merchant who has been described as a champion of French wine.\n\n Spurrier entered the wine trade in 1964 as a trainee with London's oldest wine merchant Christopher and Co. In 1970 he moved to Paris where he persuaded an elderly lady to walk down the Royal Street. From 1971 he ran the wine shop The Caves of the Madeleine where customers were encouraged to taste wines before they bought them, which achieved recognition as a highly regarded specialist wine shop. In 1973 he started The Academy of Wine, France's first private wine school, which featured Michel Bettane and Charles F. Shaw, namesake of \"Two Buck Chuck\".\n\n Spurrier went on to stage the influential \"Judgment of Paris\" Tasting of 1976, when a Chardonnay and Cabernet Sauvignon from California were listed above some of the most prestigious wines of Burgundy and Bordeaux.\n\n Spurrier sold his wine interests in France and returned to the UK in 1988, becoming a wine consultant and journalist. He is now director of the Christie's Wine Course, which he founded with Christie's Education in 1982. He is also a consultant to Singapore Airlines, and consultant editor at Decanter.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : "Steven Spurrier",
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
+    "relatedLink" : [ "https://en.wikipedia.org/wiki/Steven_Spurrier_(wine_merchant)", "https://www.decanter.com/author/stevenspurrier/", "https://www.oregonwinepress.com/q-and-a-steven-spurrier" ],
+    "schema:relatedLink" : [ "Steven Spurrier (wine merchant)", "Q&A: Steven Spurrier", "Decanter Author Archives for Steven Spurrier" ],
+    "schema:spatial" : "London, United Kingdom",
+    "spatial" : "_:b2",
+    "temporal" : "1941/present",
+    "thumbnail" : "z:Q9r4xbT0/spurrier.jpg",
+    "EMtTbOwZ_rev" : "p0LaSTD3",
+    "sQZZRF9Y" : "iPp7dt7A"
+  }, {
+    "@id" : "RGxYAicG",
+    "2l6NwDe4" : "3VZas2z9",
+    "5295tRn2" : "WeN5rOwv",
+    "PI5oidOI" : "J3wlnzDW"
+  }, {
+    "@id" : "RSrjNXN7",
+    "@type" : [ "schema:significantLinks", "ucdlib:cultivated" ],
+    "description" : "With cuttings from the vine nursery at the University of Montpellier and Chardonnay budwood from the Theodore Gier Vineyard in Pleasanton, which was planted using budwood obtained from Charles Wetmore who brought the budwood from Meursault in Burgundy around 1882, Ernest Wente began the 30- to 40-year process of selecting only vines with favorable traits and replanting them. Over time this Chardonnay became known as the Wente clone (actually several clones) and was planted in many vineyards in California and beyond.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Wente Vineyards cultivated Wente Clone", "cultivated" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "RSrjNXN7:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:cultivated_by" ],
+    "name" : "cultivated by"
+  }, {
+    "@id" : "SE4OIWLk",
+    "@type" : [ "schema:significantLinks", "ucdlib:organized" ],
+    "description" : "It was Patricia Gallagher's idea to organize the 1976 Judgment of Paris in honor of the American Bicentennial. She was the one who suggested the idea to Steven Spurrier. ",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Patricia Gallagher organized the 1976 Judgment of Paris", "organized" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "SE4OIWLk:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:organized_by" ],
+    "name" : "organized by"
+  }, {
+    "@id" : "SZYENj6M",
+    "@type" : [ "schema:significantLinks", "ucdlib:recommended" ],
+    "description" : "Grape varieties planted in California in the 19th century were largely based on recommendations made by the Board of State Viticultural Commissioners.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "The Board of State Viticultural Commissioners recommended pre-Prohibition white wines", "recommended" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "SZYENj6M:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:recommended_by" ],
+    "name" : "recommended by"
+  }, {
+    "@id" : "UB9PvlZX",
+    "@type" : [ "schema:significantLinks", "ucdlib:planted" ],
+    "description" : "In 1882, Theodore Gier planted Chardonnay on his Pleasanton vineyard, Gier Vineyard, using the budwood that Wetmore brought from Meursault.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Theodore Gier planted Meursault Budwood", "planted" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "UB9PvlZX:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:planted_by" ],
+    "name" : "planted by"
+  }, {
+    "@id" : "V3F2veqZ",
+    "@type" : [ "schema:significantLinks", "ucdlib:married" ],
+    "description" : "Fred McCrea and Eleanor Knox \"Charen\" Wheeler and were married in 1934 in Berkeley, California. They later founded Stony Hill Vineyards together.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Fred McCrea married Eleanor McCrea", "married" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "V3F2veqZ:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:married" ],
+    "name" : "married"
+  }, {
+    "@id" : "W8wxR9U3",
+    "6CLRuf6q_rev" : "z8de3Nov",
+    "JvV1t48D" : "ams0J47F"
+  }, {
+    "@id" : "WeN5rOwv",
+    "41Qvzaf6" : "3VZas2z9",
+    "5295tRn2_rev" : "RGxYAicG"
+  }, {
+    "@id" : "YD7pQ9Zn",
+    "@type" : [ "schema:significantLinks", "ucdlib:founded" ],
+    "description" : "Cresta Blanca Winery was founded by Charles Wetmore in 1882. It was was one of the original Livermore Valley wineries.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Charles Wetmore founded Cresta Blanca Winery", "founded" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "YD7pQ9Zn:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:founded_by" ],
+    "name" : "founded by"
+  }, {
+    "@id" : "YjPlGNUB",
+    "UB9PvlZX" : "jAu8Il7c",
+    "gSoxkxSP" : "u2C8OQ1W",
+    "ijFXgUm9_rev" : "kuSgztdM",
+    "vLFkjLoe" : "BZrIPisp"
+  }, {
+    "@id" : "ZhlFEL11",
+    "@type" : [ "schema:significantLinks", "ucdlib:planted" ],
+    "description" : "In 1953, Stony Hill Vineyard provided James D. Zellerbach the Chardonnay budwood that was used to plant Hanzell Vineyards. Because the Wente brothers were widely respected for their efforts to perfect California Chardonnay, Zellerbach sought out the Wente clone when planting his 1953 Ambassador's Vineyard. He continued Wente's practice of evaluating selection, gradually establishing vines perfectly adapted to the growing conditions of Sonoma. Today the vines are known as the Hanzell clone.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Hanzell Vineyards planted Wente Clone", "planted" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "ZhlFEL11:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:planted_by" ],
+    "name" : "planted by"
+  }, {
+    "@id" : "ZsAq027L",
+    "@type" : [ "schema:significantLinks", "ucdlib:released" ],
+    "description" : "Selection and heat treatment of the Wente Clone material at UC Davis produced elite clones, FPS 04 and 05, whose dependable yields finally made Chardonnay commercially viable in California.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Foundation Plant Services released FPS 04 Clone", "released" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "ZsAq027L:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:released_by" ],
+    "name" : "released by"
+  }, {
+    "@id" : "a4shUaw6",
+    "@type" : [ "schema:significantLinks", "ucdlib:cultivated" ],
+    "description" : "With cuttings from the vine nursery at the University of Montpellier and Chardonnay budwood from the Theodore Gier Vineyard in Pleasanton, which was planted using budwood obtained from Charles Wetmore who brought the budwood from Meursault in Burgundy around 1882, Ernest Wente began the 30- to 40-year process of selecting only vines with favorable traits and replanting them. Over time this Chardonnay became known as the Wente clone (actually several clones) and was planted in many vineyards in California and beyond.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Ernest Wente cultivated Wente Clone", "cultivated" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "a4shUaw6:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:cultivated_by" ],
+    "name" : "cultivated by"
+  }, {
+    "@id" : "ams0J47F",
+    "JvV1t48D_rev" : "W8wxR9U3",
+    "SZYENj6M_rev" : "eOd3HkwS"
+  }, {
+    "@id" : "bRtwlEXl",
+    "@type" : [ "schema:significantLinks", "ucdlib:sold" ],
+    "description" : "In 1963, Joe Heitz bottled and sold Zellerbach's '61 and '62 vintages of Chardonnay at a price unheard of at the time for the wine, $9, elevating the variety's reputation as a premium wine.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Joe Heitz sold Heitz Cellar chardonnay", "sold" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "bRtwlEXl:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:sold_by" ],
+    "name" : "sold by"
+  }, {
+    "@id" : "cpxXmAwp",
+    "@type" : [ "schema:significantLinks", "ucdlib:founded" ],
+    "description" : "James Zellerbach founded Hanzell Vineyards with his wife, Hana, in 1953.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "James D. Zellerbach founded Hanzell Vineyards", "founded" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "cpxXmAwp:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:founded_by" ],
+    "name" : "founded by"
+  }, {
+    "@id" : "dvuclolS",
+    "cpxXmAwp" : "jI6UTDUl",
+    "rRmidPT8" : "p4PzNZ75"
+  }, {
+    "@id" : "eOd3HkwS",
+    "8KtpbAfa_rev" : "kuSgztdM",
+    "SZYENj6M" : "ams0J47F"
+  }, {
+    "@id" : "gSoxkxSP",
+    "@type" : [ "schema:significantLinks", "ucdlib:owned" ],
+    "description" : "In 1893 Theodore Gier purchased around 260 acres of land in the Livermore Valley on which he planted 125 varieties of grapes.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Theodore Gier owned Gier Vineyard", "owned" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "gSoxkxSP:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:owned_by" ],
+    "name" : "owned by"
+  }, {
+    "@id" : "gkefrODX",
+    "@type" : [ "schema:significantLinks", "ucdlib:planted" ],
+    "description" : "The Chardonnay population at Wente Vineyards, which came to be called the Wente Clone, derived from two sources, one of which was material Carl Wente imported from the vine nursery of the wine school at the University of Montpellier in southern France around 1912.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Wente Vineyards planted Montpellier's F Richter Nursery Budwood", "planted" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "gkefrODX:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:planted_by" ],
+    "name" : "planted by"
+  }, {
+    "@id" : "h7re5ZiK",
+    "@type" : [ "schema:significantLinks", "ucdlib:founded" ],
+    "description" : "German immigrant Carl H. Wente founded Wente Vineyards in 1883.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Carl H. Wente founded Wente Vineyards", "founded" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "h7re5ZiK:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:founded_by" ],
+    "name" : "founded by"
+  }, {
+    "@id" : "hEZLykqn",
+    "@type" : [ "schema:significantLinks", "ucdlib:sold_to" ],
+    "description" : "Heitz purchased, bottled, and sold Hanzell's '61 and '62 vintages of Chardonnay and pinot noir after James Zellerbach died.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Hanzell Vineyards sold chardonnay to Joe Heitz", "sold to" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "hEZLykqn:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:purchased_from" ],
+    "name" : "purchased from"
+  }, {
+    "@id" : "hNBrCH4M",
+    "@type" : [ "schema:significantLinks", "ucdlib:fathered" ],
+    "description" : "Carl H. Wente was the father of Ernest Wente, who was responsible for the family's vineyards. In 1908, Ernest Wente obtained Chardonnay cuttings from the Theodore Gier Vineyard in Pleasanton and planted them at the Wente Estate in Livermore. The Gier Vineyard was the primary source used by Ernest Wente to establish the Wente Livermore vineyard.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Carl H. Wente fathered Ernest Wente", "fathered" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "hNBrCH4M:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:son_of" ],
+    "name" : "son of"
+  }, {
+    "@id" : "hjxKwQMX",
+    "@type" : [ "schema:significantLinks", "ucdlib:collaborated_with" ],
+    "description" : "University of California viticulturalist, Dr. Harold P. Olmo collaborated with USDA-ARS plant pathologist Dr. Austin Goheen, to select and test promising grape clones. They applied a heat treatment Goheen had developed to eliminate the viruses that reduced grape yields.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Harold Olmo collaborated with Austin Goheen", "collaborated with" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "hjxKwQMX:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:collaborated_with" ],
+    "name" : "collaborated with"
+  }, {
+    "@id" : "hmnI79DX",
+    "1OkSrpl8_rev" : "Fc2EIKDK",
+    "ZsAq027L" : "IShCL2dT"
+  }, {
+    "@id" : "iK3ijg5z",
+    "@type" : [ "schema:significantLinks", "ucdlib:became" ],
+    "description" : "The Chardonnay population at Wente Vineyards, which came to be called the Wente Clone, derived from two sources, one of which was material Carl Wente imported from the vine nursery of the wine school at the University of Montpellier in southern France around 1912.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Montpellier's F Richter Nursery Budwood became the Wente Clone", "became" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "iK3ijg5z:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:derived_from" ],
+    "name" : "derived from"
+  }, {
+    "@id" : "iPp7dt7A",
+    "4Z8uyf60_rev" : "Ci29VDRY",
+    "EpSePh4G_rev" : "G2ZGqFOW",
+    "JQ4H0pBJ_rev" : "OCiOWKY0",
+    "SE4OIWLk_rev" : "p0LaSTD3",
+    "sQZZRF9Y_rev" : "Q9r4xbT0"
+  }, {
+    "@id" : "ijFXgUm9",
+    "@type" : [ "schema:significantLinks", "ucdlib:provided_to" ],
+    "description" : "Describe the connection between subjects here (minimum length: one sentence).",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Charles Wetmore provided budwood to Theodore Gier", "provided to" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "ijFXgUm9:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:received_from" ],
+    "name" : "received from"
+  }, {
+    "@id" : "jAu8Il7c",
+    "31pgW633_rev" : "u2C8OQ1W",
+    "FYxcyPv9_rev" : "lOOnkClR",
+    "I9s94n4a" : "3VZas2z9",
+    "UB9PvlZX_rev" : "YjPlGNUB",
+    "zYS3JcBS_rev" : "kuSgztdM"
+  }, {
+    "@id" : "jFpVTNlM",
+    "@type" : [ "schema:significantLinks", "ucdlib:became" ],
+    "description" : "Selection and heat treatment of the Wente Clone material at UC Davis produced elite clones, FPS 04 and 05, whose dependable yields finally made Chardonnay commercially viable in California.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Wente Clone became FPS 04 Clone", "became" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "jFpVTNlM:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:derived_from" ],
+    "name" : "derived from"
+  }, {
+    "@id" : "jI6UTDUl",
+    "1K1RedNF_rev" : "p4PzNZ75",
+    "H4Tu7NCb_rev" : "4TOdI5mk",
+    "ZhlFEL11" : "3VZas2z9",
+    "cpxXmAwp_rev" : "dvuclolS",
+    "hEZLykqn" : "1iDZI50s",
+    "jPAdpMqW_rev" : "EjURVomf"
+  }, {
+    "@id" : "jPAdpMqW",
+    "@type" : [ "schema:significantLinks", "ucdlib:tasted" ],
+    "description" : "Hanzell’s 1957 Chardonnay was one of the wines tasted at diplomat Morrill Cody’s dinner in 1960. Of the five participants, three of them mistook the California wine as being Corton Charlemagne 1955, a French Burgundy.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Diplomat's Dinner tasted Hanzell Vineyards", "tasted" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "jPAdpMqW:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:tasted_at" ],
+    "name" : "tasted at"
+  }, {
+    "@id" : "kuSgztdM",
+    "8KtpbAfa" : "eOd3HkwS",
+    "YD7pQ9Zn" : "lOOnkClR",
+    "ijFXgUm9" : "YjPlGNUB",
+    "zYS3JcBS" : "jAu8Il7c"
+  }, {
+    "@id" : "lOOnkClR",
+    "CQar4tVr" : "z8de3Nov",
+    "FYxcyPv9" : "jAu8Il7c",
+    "YD7pQ9Zn_rev" : "kuSgztdM"
+  }, {
+    "@id" : "o6X0ntCy",
+    "ACMhcFkv" : "1zykVMmW",
+    "h7re5ZiK" : "z8de3Nov",
+    "hNBrCH4M" : "BZrIPisp"
+  }, {
+    "@id" : "p0LaSTD3",
+    "@type" : [ "schema:WebPage", "schema:Person" ],
+    "creator" : "https://americanhistory.si.edu/blog/40th-anniversary-paris-tasting",
+    "schema:creator" : "National Museum of American History",
+    "description" : "Patricia Gastaud-Gallagher was a director at the Académie du Vin in Paris. She came up with the idea for, co-hosted, and participated in the Judgment of Paris wine tasting event. She was also on the Copia panel that oversaw the rematch on The Judgment of Paris 30th Anniversary. \n\n After her time at Académie du Vin, Gastaud-Gallagher went on to write influential wine columns in French publications, earned a degree as an enology technician, and was the editorial director of the International Who’s Who in Wine & Spirits. She then became the academic director and director of the wine department of the famous Le Cordon Bleu school of cuisine and pastry. She is a co-author of the book Le Cordon Bleu Wine Essentials: Professional Secrets to Buying, Storing, Serving, and Drinking Wine.\n\n Originally from Delaware, she is one of the few non-French natives to have won the distinguished Chevalier du Mérite Agricole given for distinguished service to the French Wine industry (1994).",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : "Patricia Gastaud-Gallagher",
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
+    "relatedLink" : [ "https://www.sfchronicle.com/wine/article/The-hidden-figures-benind-the-Judgment-of-Paris-13333299.php", "https://en.wikipedia.org/wiki/Patricia_Gallagher", "https://americanhistory.si.edu/blog/40th-anniversary-paris-tasting" ],
+    "schema:relatedLink" : [ "Potable Quotables on the 40th Anniversary of the Paris Tasting", "Patricia Gallagher", "The Hidden Figures Behind the Judgment of Paris" ],
+    "schema:spatial" : "Wilmington, Delaware",
+    "spatial" : "_:b1",
+    "temporal" : "1951/present",
+    "thumbnail" : "z:p0LaSTD3/patricia-gallagher.jpg",
+    "EMtTbOwZ" : "Q9r4xbT0",
+    "SE4OIWLk" : "iPp7dt7A"
+  }, {
+    "@id" : "p4PzNZ75",
+    "1K1RedNF" : "jI6UTDUl",
+    "rRmidPT8_rev" : "dvuclolS"
+  }, {
+    "@id" : "qmfR1YjH",
+    "@type" : [ "schema:significantLinks", "ucdlib:co-founded" ],
+    "description" : "Fred and Eleanor McCrea found the property that would become Stony Hill Vineyard in the early 1940s. By 1943, they had made the rugged hillside spot on Spring Mountain their home.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Fred McCrea co-founded Stony Hill Vineyard", "co-founded" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "qmfR1YjH:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:co-founded_by" ],
+    "name" : "co-founded by"
+  }, {
+    "@id" : "rRmidPT8",
+    "@type" : [ "schema:significantLinks", "ucdlib:hired" ],
+    "description" : "James Zellerbach hired Brad Webb to be Hanzell's winemaker in 1956.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "James D. Zellerbach hired Brad Webb", "hired" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "rRmidPT8:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:hired_by" ],
+    "name" : "hired by"
+  }, {
+    "@id" : "sQZZRF9Y",
+    "@type" : [ "schema:significantLinks", "ucdlib:organized" ],
+    "description" : "Steven Spurrier organized the 1976 Judgment of Paris with the help of his friend and colleague Patricia Gallagher. ",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Steven Spurrier organized the 1976 Judgment of Paris", "organized" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "sQZZRF9Y:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:organized_by" ],
+    "name" : "organized by"
+  }, {
+    "@id" : "tVwryvoF",
+    "@type" : [ "schema:significantLinks", "ucdlib:improved" ],
+    "description" : "Chardonnay became one of the first cultivars on which the utility of heat treatment against viruses, or thermotherapy, was demonstrated. In 1964, Harold Olmo took selections of the Wente Clone from the Martini Vineyards to the Foundation Plant Services for heat treatment to remove viruses that were impeding yields. Clones from this improvement program eventually became the most widely planted Chardonnay selections in California.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Austin Goheen improved the FPS 04 Clone", "improved" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "tVwryvoF:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:improved_by" ],
+    "name" : "improved by"
+  }, {
+    "@id" : "u2C8OQ1W",
+    "31pgW633" : "jAu8Il7c",
+    "7iFLY4Yf_rev" : "3VZas2z9",
+    "AC2jyC4g" : "BZrIPisp",
+    "gSoxkxSP_rev" : "YjPlGNUB"
+  }, {
+    "@id" : "uBuLClSf",
+    "bRtwlEXl_rev" : "1iDZI50s",
+    "zmcIlL1Q_rev" : "Ci29VDRY"
+  }, {
+    "@id" : "vLFkjLoe",
+    "@type" : [ "schema:significantLinks", "ucdlib:provided_to" ],
+    "description" : "In 1908, Ernest Wente obtained Chardonnay cuttings from the Theodore Gier Vineyard in Pleasanton, and planted them at the Wente Estate in Livermore. The Gier Vineyard was the primary source used by Ernest Wente to establish the Wente Livermore vineyard.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Theodore Gier provided cuttings to Ernest Wente", "provided to" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "vLFkjLoe:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:received_from" ],
+    "name" : "received from"
+  }, {
+    "@id" : "z8de3Nov",
+    "4chPcJaZ" : "HSu79Z8N",
+    "6CLRuf6q" : "W8wxR9U3",
+    "7ykGrofT" : "NAt6jyUG",
+    "CQar4tVr_rev" : "lOOnkClR",
+    "RSrjNXN7" : "3VZas2z9",
+    "gkefrODX" : "1zykVMmW",
+    "h7re5ZiK_rev" : "o6X0ntCy"
+  }, {
+    "@id" : "zYS3JcBS",
+    "@type" : [ "schema:significantLinks", "ucdlib:imported" ],
+    "description" : "In 1882, Charles Wetmore, then the Chief Executive Officer of the California State Board of Viticultural Commissioners, carried Chardonnay budwood from Meursault to Livermore, California, to plant his Cresta Blanca vineyard and distributed the material to local growers.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Charles Wetmore imported Meursault Budwood", "imported" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "zYS3JcBS:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:imported_by" ],
+    "name" : "imported by"
+  }, {
+    "@id" : "zmcIlL1Q",
+    "@type" : [ "schema:significantLinks", "ucdlib:released" ],
+    "description" : "Describe the connection between subjects here (minimum length: one sentence).",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : [ "Heitz Cellar released Heitz Cellar Chardonnay", "released" ],
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+  }, {
+    "@id" : "zmcIlL1Q:_rev",
+    "@type" : [ "schema:significantLinks", "ucdlib:released_by" ],
+    "name" : "released by"
+  } ],
+  "@context" : {
+    "hEZLykqn_rev" : {
+      "@id" : "hEZLykqn_rev",
+      "@type" : "@id"
+    },
+    "bRtwlEXl" : {
+      "@id" : "bRtwlEXl",
+      "@type" : "@id"
+    },
+    "0Q51kLkB" : {
+      "@id" : "0Q51kLkB",
+      "@type" : "@id"
+    },
+    "publisher" : {
+      "@id" : "http://schema.org/publisher",
+      "@type" : "@id"
+    },
+    "name" : {
+      "@id" : "http://schema.org/name"
+    },
+    "license" : {
+      "@id" : "http://schema.org/license",
+      "@type" : "@id"
+    },
+    "description" : {
+      "@id" : "http://schema.org/description"
+    },
+    "EpSePh4G" : {
+      "@id" : "EpSePh4G",
+      "@type" : "@id"
+    },
+    "CfHGKWM5_rev" : {
+      "@id" : "CfHGKWM5_rev",
+      "@type" : "@id"
+    },
+    "longitude" : {
+      "@id" : "http://schema.org/longitude",
+      "@type" : "http://www.w3.org/2001/XMLSchema#double"
+    },
+    "latitude" : {
+      "@id" : "http://schema.org/latitude",
+      "@type" : "http://www.w3.org/2001/XMLSchema#double"
+    },
+    "zmcIlL1Q_rev" : {
+      "@id" : "zmcIlL1Q_rev",
+      "@type" : "@id"
+    },
+    "bRtwlEXl_rev" : {
+      "@id" : "bRtwlEXl_rev",
+      "@type" : "@id"
+    },
+    "thumbnail" : {
+      "@id" : "http://schema.org/thumbnail",
+      "@type" : "@id"
+    },
+    "creator" : {
+      "@id" : "http://schema.org/creator",
+      "@type" : "@id"
+    },
+    "relatedLink" : {
+      "@id" : "http://schema.org/relatedLink",
+      "@type" : "@id"
+    },
+    "V3F2veqZ_rev" : {
+      "@id" : "V3F2veqZ_rev",
+      "@type" : "@id"
+    },
+    "spatial" : {
+      "@id" : "http://schema.org/spatial",
+      "@type" : "@id"
+    },
+    "43uVA3uZ" : {
+      "@id" : "43uVA3uZ",
+      "@type" : "@id"
+    },
+    "temporal" : {
+      "@id" : "http://schema.org/temporal"
+    },
+    "PbitxomB" : {
+      "@id" : "PbitxomB",
+      "@type" : "@id"
+    },
+    "PI5oidOI_rev" : {
+      "@id" : "PI5oidOI_rev",
+      "@type" : "@id"
+    },
+    "JggXFt1F" : {
+      "@id" : "JggXFt1F",
+      "@type" : "@id"
+    },
+    "EMtTbOwZ_rev" : {
+      "@id" : "EMtTbOwZ_rev",
+      "@type" : "@id"
+    },
+    "sQZZRF9Y" : {
+      "@id" : "sQZZRF9Y",
+      "@type" : "@id"
+    },
+    "SZYENj6M" : {
+      "@id" : "SZYENj6M",
+      "@type" : "@id"
+    },
+    "8KtpbAfa_rev" : {
+      "@id" : "8KtpbAfa_rev",
+      "@type" : "@id"
+    },
+    "SZYENj6M_rev" : {
+      "@id" : "SZYENj6M_rev",
+      "@type" : "@id"
+    },
+    "JvV1t48D_rev" : {
+      "@id" : "JvV1t48D_rev",
+      "@type" : "@id"
+    },
+    "CfHGKWM5" : {
+      "@id" : "CfHGKWM5",
+      "@type" : "@id"
+    },
+    "sQZZRF9Y_rev" : {
+      "@id" : "sQZZRF9Y_rev",
+      "@type" : "@id"
+    },
+    "SE4OIWLk_rev" : {
+      "@id" : "SE4OIWLk_rev",
+      "@type" : "@id"
+    },
+    "JQ4H0pBJ_rev" : {
+      "@id" : "JQ4H0pBJ_rev",
+      "@type" : "@id"
+    },
+    "EpSePh4G_rev" : {
+      "@id" : "EpSePh4G_rev",
+      "@type" : "@id"
+    },
+    "4Z8uyf60_rev" : {
+      "@id" : "4Z8uyf60_rev",
+      "@type" : "@id"
+    },
+    "V3F2veqZ" : {
+      "@id" : "V3F2veqZ",
+      "@type" : "@id"
+    },
+    "qmfR1YjH" : {
+      "@id" : "qmfR1YjH",
+      "@type" : "@id"
+    },
+    "0zqEexpp" : {
+      "@id" : "0zqEexpp",
+      "@type" : "@id"
+    },
+    "4chPcJaZ_rev" : {
+      "@id" : "4chPcJaZ_rev",
+      "@type" : "@id"
+    },
+    "3MroRLtc_rev" : {
+      "@id" : "3MroRLtc_rev",
+      "@type" : "@id"
+    },
+    "tVwryvoF" : {
+      "@id" : "tVwryvoF",
+      "@type" : "@id"
+    },
+    "hjxKwQMX_rev" : {
+      "@id" : "hjxKwQMX_rev",
+      "@type" : "@id"
+    },
+    "1OkSrpl8" : {
+      "@id" : "1OkSrpl8",
+      "@type" : "@id"
+    },
+    "zYS3JcBS" : {
+      "@id" : "zYS3JcBS",
+      "@type" : "@id"
+    },
+    "ijFXgUm9" : {
+      "@id" : "ijFXgUm9",
+      "@type" : "@id"
+    },
+    "YD7pQ9Zn" : {
+      "@id" : "YD7pQ9Zn",
+      "@type" : "@id"
+    },
+    "8KtpbAfa" : {
+      "@id" : "8KtpbAfa",
+      "@type" : "@id"
+    },
+    "PbitxomB_rev" : {
+      "@id" : "PbitxomB_rev",
+      "@type" : "@id"
+    },
+    "JQ4H0pBJ" : {
+      "@id" : "JQ4H0pBJ",
+      "@type" : "@id"
+    },
+    "gSoxkxSP_rev" : {
+      "@id" : "gSoxkxSP_rev",
+      "@type" : "@id"
+    },
+    "AC2jyC4g" : {
+      "@id" : "AC2jyC4g",
+      "@type" : "@id"
+    },
+    "7iFLY4Yf_rev" : {
+      "@id" : "7iFLY4Yf_rev",
+      "@type" : "@id"
+    },
+    "31pgW633" : {
+      "@id" : "31pgW633",
+      "@type" : "@id"
+    },
+    "3MroRLtc" : {
+      "@id" : "3MroRLtc",
+      "@type" : "@id"
+    },
+    "AC2jyC4g_rev" : {
+      "@id" : "AC2jyC4g_rev",
+      "@type" : "@id"
+    },
+    "hNBrCH4M_rev" : {
+      "@id" : "hNBrCH4M_rev",
+      "@type" : "@id"
+    },
+    "a4shUaw6" : {
+      "@id" : "a4shUaw6",
+      "@type" : "@id"
+    },
+    "vLFkjLoe_rev" : {
+      "@id" : "vLFkjLoe_rev",
+      "@type" : "@id"
+    },
+    "zmcIlL1Q" : {
+      "@id" : "zmcIlL1Q",
+      "@type" : "@id"
+    },
+    "4Z8uyf60" : {
+      "@id" : "4Z8uyf60",
+      "@type" : "@id"
+    },
+    "0Q51kLkB_rev" : {
+      "@id" : "0Q51kLkB_rev",
+      "@type" : "@id"
+    },
+    "ZsAq027L" : {
+      "@id" : "ZsAq027L",
+      "@type" : "@id"
+    },
+    "1OkSrpl8_rev" : {
+      "@id" : "1OkSrpl8_rev",
+      "@type" : "@id"
+    },
+    "PI5oidOI" : {
+      "@id" : "PI5oidOI",
+      "@type" : "@id"
+    },
+    "5295tRn2" : {
+      "@id" : "5295tRn2",
+      "@type" : "@id"
+    },
+    "2l6NwDe4" : {
+      "@id" : "2l6NwDe4",
+      "@type" : "@id"
+    },
+    "hjxKwQMX" : {
+      "@id" : "hjxKwQMX",
+      "@type" : "@id"
+    },
+    "JggXFt1F_rev" : {
+      "@id" : "JggXFt1F_rev",
+      "@type" : "@id"
+    },
+    "J1juD6B1" : {
+      "@id" : "J1juD6B1",
+      "@type" : "@id"
+    },
+    "DrrhZ4ge" : {
+      "@id" : "DrrhZ4ge",
+      "@type" : "@id"
+    },
+    "rRmidPT8" : {
+      "@id" : "rRmidPT8",
+      "@type" : "@id"
+    },
+    "cpxXmAwp" : {
+      "@id" : "cpxXmAwp",
+      "@type" : "@id"
+    },
+    "jPAdpMqW" : {
+      "@id" : "jPAdpMqW",
+      "@type" : "@id"
+    },
+    "JvV1t48D" : {
+      "@id" : "JvV1t48D",
+      "@type" : "@id"
+    },
+    "6CLRuf6q_rev" : {
+      "@id" : "6CLRuf6q_rev",
+      "@type" : "@id"
+    },
+    "iK3ijg5z" : {
+      "@id" : "iK3ijg5z",
+      "@type" : "@id"
+    },
+    "gkefrODX_rev" : {
+      "@id" : "gkefrODX_rev",
+      "@type" : "@id"
+    },
+    "ACMhcFkv_rev" : {
+      "@id" : "ACMhcFkv_rev",
+      "@type" : "@id"
+    },
+    "hNBrCH4M" : {
+      "@id" : "hNBrCH4M",
+      "@type" : "@id"
+    },
+    "h7re5ZiK" : {
+      "@id" : "h7re5ZiK",
+      "@type" : "@id"
+    },
+    "ACMhcFkv" : {
+      "@id" : "ACMhcFkv",
+      "@type" : "@id"
+    },
+    "tVwryvoF_rev" : {
+      "@id" : "tVwryvoF_rev",
+      "@type" : "@id"
+    },
+    "jFpVTNlM_rev" : {
+      "@id" : "jFpVTNlM_rev",
+      "@type" : "@id"
+    },
+    "ZsAq027L_rev" : {
+      "@id" : "ZsAq027L_rev",
+      "@type" : "@id"
+    },
+    "DrrhZ4ge_rev" : {
+      "@id" : "DrrhZ4ge_rev",
+      "@type" : "@id"
+    },
+    "SE4OIWLk" : {
+      "@id" : "SE4OIWLk",
+      "@type" : "@id"
+    },
+    "EMtTbOwZ" : {
+      "@id" : "EMtTbOwZ",
+      "@type" : "@id"
+    },
+    "vLFkjLoe" : {
+      "@id" : "vLFkjLoe",
+      "@type" : "@id"
+    },
+    "ijFXgUm9_rev" : {
+      "@id" : "ijFXgUm9_rev",
+      "@type" : "@id"
+    },
+    "gSoxkxSP" : {
+      "@id" : "gSoxkxSP",
+      "@type" : "@id"
+    },
+    "UB9PvlZX" : {
+      "@id" : "UB9PvlZX",
+      "@type" : "@id"
+    },
+    "h7re5ZiK_rev" : {
+      "@id" : "h7re5ZiK_rev",
+      "@type" : "@id"
+    },
+    "gkefrODX" : {
+      "@id" : "gkefrODX",
+      "@type" : "@id"
+    },
+    "RSrjNXN7" : {
+      "@id" : "RSrjNXN7",
+      "@type" : "@id"
+    },
+    "CQar4tVr_rev" : {
+      "@id" : "CQar4tVr_rev",
+      "@type" : "@id"
+    },
+    "7ykGrofT" : {
+      "@id" : "7ykGrofT",
+      "@type" : "@id"
+    },
+    "6CLRuf6q" : {
+      "@id" : "6CLRuf6q",
+      "@type" : "@id"
+    },
+    "4chPcJaZ" : {
+      "@id" : "4chPcJaZ",
+      "@type" : "@id"
+    },
+    "5295tRn2_rev" : {
+      "@id" : "5295tRn2_rev",
+      "@type" : "@id"
+    },
+    "41Qvzaf6" : {
+      "@id" : "41Qvzaf6",
+      "@type" : "@id"
+    },
+    "EncfuPil_rev" : {
+      "@id" : "EncfuPil_rev",
+      "@type" : "@id"
+    },
+    "a4shUaw6_rev" : {
+      "@id" : "a4shUaw6_rev",
+      "@type" : "@id"
+    },
+    "J1juD6B1_rev" : {
+      "@id" : "J1juD6B1_rev",
+      "@type" : "@id"
+    },
+    "jFpVTNlM" : {
+      "@id" : "jFpVTNlM",
+      "@type" : "@id"
+    },
+    "I9s94n4a_rev" : {
+      "@id" : "I9s94n4a_rev",
+      "@type" : "@id"
+    },
+    "7iFLY4Yf" : {
+      "@id" : "7iFLY4Yf",
+      "@type" : "@id"
+    },
+    "iK3ijg5z_rev" : {
+      "@id" : "iK3ijg5z_rev",
+      "@type" : "@id"
+    },
+    "0zqEexpp_rev" : {
+      "@id" : "0zqEexpp_rev",
+      "@type" : "@id"
+    },
+    "ZhlFEL11_rev" : {
+      "@id" : "ZhlFEL11_rev",
+      "@type" : "@id"
+    },
+    "2l6NwDe4_rev" : {
+      "@id" : "2l6NwDe4_rev",
+      "@type" : "@id"
+    },
+    "RSrjNXN7_rev" : {
+      "@id" : "RSrjNXN7_rev",
+      "@type" : "@id"
+    },
+    "41Qvzaf6_rev" : {
+      "@id" : "41Qvzaf6_rev",
+      "@type" : "@id"
+    },
+    "qmfR1YjH_rev" : {
+      "@id" : "qmfR1YjH_rev",
+      "@type" : "@id"
+    },
+    "H4Tu7NCb" : {
+      "@id" : "H4Tu7NCb",
+      "@type" : "@id"
+    },
+    "EncfuPil" : {
+      "@id" : "EncfuPil",
+      "@type" : "@id"
+    },
+    "43uVA3uZ_rev" : {
+      "@id" : "43uVA3uZ_rev",
+      "@type" : "@id"
+    },
+    "YD7pQ9Zn_rev" : {
+      "@id" : "YD7pQ9Zn_rev",
+      "@type" : "@id"
+    },
+    "FYxcyPv9" : {
+      "@id" : "FYxcyPv9",
+      "@type" : "@id"
+    },
+    "CQar4tVr" : {
+      "@id" : "CQar4tVr",
+      "@type" : "@id"
+    },
+    "7ykGrofT_rev" : {
+      "@id" : "7ykGrofT_rev",
+      "@type" : "@id"
+    },
+    "rRmidPT8_rev" : {
+      "@id" : "rRmidPT8_rev",
+      "@type" : "@id"
+    },
+    "1K1RedNF" : {
+      "@id" : "1K1RedNF",
+      "@type" : "@id"
+    },
+    "zYS3JcBS_rev" : {
+      "@id" : "zYS3JcBS_rev",
+      "@type" : "@id"
+    },
+    "UB9PvlZX_rev" : {
+      "@id" : "UB9PvlZX_rev",
+      "@type" : "@id"
+    },
+    "I9s94n4a" : {
+      "@id" : "I9s94n4a",
+      "@type" : "@id"
+    },
+    "FYxcyPv9_rev" : {
+      "@id" : "FYxcyPv9_rev",
+      "@type" : "@id"
+    },
+    "31pgW633_rev" : {
+      "@id" : "31pgW633_rev",
+      "@type" : "@id"
+    },
+    "jPAdpMqW_rev" : {
+      "@id" : "jPAdpMqW_rev",
+      "@type" : "@id"
+    },
+    "hEZLykqn" : {
+      "@id" : "hEZLykqn",
+      "@type" : "@id"
+    },
+    "cpxXmAwp_rev" : {
+      "@id" : "cpxXmAwp_rev",
+      "@type" : "@id"
+    },
+    "ZhlFEL11" : {
+      "@id" : "ZhlFEL11",
+      "@type" : "@id"
+    },
+    "H4Tu7NCb_rev" : {
+      "@id" : "H4Tu7NCb_rev",
+      "@type" : "@id"
+    },
+    "1K1RedNF_rev" : {
+      "@id" : "1K1RedNF_rev",
+      "@type" : "@id"
+    },
+    "schema" : "http://schema.org/",
+    "fast" : "http://id.worldcat.org/fast/",
+    "rdf" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "ucdlib" : "http://digital.ucdavis.edu/schema#",
+    "wdt" : "http://www.wikidata.org/prop/direct/",
+    "w" : "http://library.ucdavis.edu/wine-ontology#"
+  }
+}
