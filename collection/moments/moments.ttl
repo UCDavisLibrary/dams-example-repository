@@ -5,14 +5,10 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix webac:  <http://fedora.info/definitions/v4/webac#> .
 @prefix acl:  <http://www.w3.org/ns/auth/acl#> .
-@prefix ns004:  <moments\cats\pY20Yz5x#> .
-@prefix ns003:  <moments\cats\cats#5> .
-@prefix ns002:  <moments\cats\cats#> .
 @prefix xsi:  <http://www.w3.org/2001/XMLSchema-instance> .
 @prefix ns001:  <http://fedora.info/definitions/v4/> .
 @prefix geo:  <http://www.w3.org/2003/01/geo/wgs84_pos#> .
 @prefix xmlns:  <http://www.w3.org/2000/xmlns/> .
-@prefix ns005:  <moments\cats\pY20Yz5x#5> .
 @prefix xml:  <http://www.w3.org/XML/1998/namespace> .
 @prefix rel:  <http://id.loc.gov/vocabulary/relators/> .
 @prefix dcterms:  <http://purl.org/dc/terms/> .
@@ -35,7 +31,6 @@
 @prefix exif:  <http://www.w3.org/2003/12/exif/ns#> .
 @prefix dc:  <http://purl.org/dc/elements/1.1/> .
 
-<moments>
-        rdf:type           schema:Collection ;
-        rdf:type           ldp:BasicContainer ;
-        acl:accessControl  <moments\.acl> .
+<>
+  a ldp:BasicContainer, schema:Collection;
+  acl:accessControl  <moments/.fin/acl> .
