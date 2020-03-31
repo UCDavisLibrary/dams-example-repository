@@ -8,30 +8,30 @@
   }, {
     "@id" : "_:b1",
     "@type" : "schema:Place",
-    "schema:latitude" : 39.729881,
-    "schema:longitude" : -75.5995244,
-    "name" : "Wilmington,+DE"
-  }, {
-    "@id" : "_:b2",
-    "@type" : "schema:Place",
     "schema:latitude" : 51.5285582,
     "schema:longitude" : -0.2416795,
     "name" : "London,+UK"
   }, {
-    "@id" : "_:b3",
+    "@id" : "_:b2",
     "@type" : "schema:Place",
     "schema:latitude" : 34.0206842,
     "schema:longitude" : -118.551814,
     "name" : "Los+Angeles,+CA"
   }, {
-    "@id" : "_:b4",
+    "@id" : "_:b3",
     "@type" : "schema:Place",
     "schema:latitude" : 44.9625003,
     "schema:longitude" : -93.2830283,
     "name" : "44°57'59.2\"N+93°14'42.0\"W"
   }, {
-    "@id" : "_:b5",
+    "@id" : "_:b4",
     "@type" : "schema:Place"
+  }, {
+    "@id" : "_:b5",
+    "@type" : "schema:Place",
+    "schema:latitude" : 39.729881,
+    "schema:longitude" : -75.5995244,
+    "name" : "Wilmington,+DE"
   }, {
     "@id" : "0Q51kLkB",
     "@type" : [ "schema:significantLinks", "ucdlib:founded" ],
@@ -393,9 +393,9 @@
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Fred McCrea",
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
-    "schema:relatedLink" : [ "Stony Hill's Cult Chardonnay and Napa's Longest Tenured Winemaker", "Stony Hill Vineyards: The Creation of a Napa Valley Estate Winery", "The Accidental Pioneers" ],
-    "relatedLink" : [ "https://napavalleyregister.com/wine/the-accidental-pioneers/article_bd90269c-879c-11e2-aab6-001a4bcf887a.html", "https://ohc-search.lib.berkeley.edu/catalog/MASTER_686", "https://grapecollective.com/articles/stony-hills-cult-chardonnay-and-napas-longest-tenured-winemaker" ],
-    "spatial" : "_:b4",
+    "relatedLink" : [ "Stony Hill's Cult Chardonnay and Napa's Longest Tenured Winemaker", "Stony Hill Vineyards: The Creation of a Napa Valley Estate Winery", "The Accidental Pioneers" ],
+    "relatedLinkText" : [ "https://grapecollective.com/articles/stony-hills-cult-chardonnay-and-napas-longest-tenured-winemaker", "https://ohc-search.lib.berkeley.edu/catalog/MASTER_686", "https://napavalleyregister.com/wine/the-accidental-pioneers/article_bd90269c-879c-11e2-aab6-001a4bcf887a.html" ],
+    "spatial" : "_:b3",
     "schema:spatial" : "Minneapolis, Minnesota",
     "temporal" : "unknown/1977",
     "thumbnail" : "z:HSu79Z8N/mccrea-eleanor-fred.jpg",
@@ -478,10 +478,10 @@
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "James (Jim) Barrett",
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
-    "relatedLink" : [ "https://montelena.com/winery/history", "https://www.winespectator.com/articles/chateau-montelena-owner-jim-barrett-dies-at-86-48165", "https://www.thedrinksbusiness.com/2013/03/chateau-montelena-owner-jim-barrett-dies/" ],
-    "schema:relatedLink" : [ "Chateau Montelena Owner Jim Barrett Dies", "Chateau Montelena Owner Jim Barrett Dies at 86", "Chateau Montelena Winery: History" ],
+    "relatedLink" : [ "Chateau Montelena Owner Jim Barrett Dies", "Chateau Montelena Owner Jim Barrett Dies at 86", "Chateau Montelena Winery: History" ],
+    "relatedLinkText" : [ "https://montelena.com/winery/history", "https://www.winespectator.com/articles/chateau-montelena-owner-jim-barrett-dies-at-86-48165", "https://www.thedrinksbusiness.com/2013/03/chateau-montelena-owner-jim-barrett-dies/" ],
     "schema:spatial" : "Los Angeles, California",
-    "spatial" : "_:b3",
+    "spatial" : "_:b2",
     "temporal" : "1926/2013",
     "thumbnail" : "z:M0Md2DCd/jim-barrett.jpg",
     "CfHGKWM5" : "G2ZGqFOW"
@@ -494,8 +494,8 @@
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Eleanor McCrea",
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
-    "relatedLink" : [ "https://napavalleyregister.com/wine/the-accidental-pioneers/article_bd90269c-879c-11e2-aab6-001a4bcf887a.html", "https://grapecollective.com/articles/stony-hills-cult-chardonnay-and-napas-longest-tenured-winemaker", "https://ohc-search.lib.berkeley.edu/catalog/MASTER_686" ],
-    "schema:relatedLink" : [ "Stony Hill's Cult Chardonnay and Napa's Longest Tenured Winemaker", "Stony Hill Vineyards: The Creation of a Napa Valley Estate Winery", "The Accidental Pioneers" ],
+    "relatedLink" : [ "Stony Hill's Cult Chardonnay and Napa's Longest Tenured Winemaker", "Stony Hill Vineyards: The Creation of a Napa Valley Estate Winery", "The Accidental Pioneers" ],
+    "relatedLinkText" : [ "https://napavalleyregister.com/wine/the-accidental-pioneers/article_bd90269c-879c-11e2-aab6-001a4bcf887a.html", "https://ohc-search.lib.berkeley.edu/catalog/MASTER_686", "https://grapecollective.com/articles/stony-hills-cult-chardonnay-and-napas-longest-tenured-winemaker" ],
     "spatial" : "_:b0",
     "schema:spatial" : "Buffalo, New York",
     "temporal" : "1907/1991",
@@ -542,10 +542,10 @@
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Steven Spurrier",
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
-    "relatedLink" : [ "https://en.wikipedia.org/wiki/Steven_Spurrier_(wine_merchant)", "https://www.decanter.com/author/stevenspurrier/", "https://www.oregonwinepress.com/q-and-a-steven-spurrier" ],
-    "schema:relatedLink" : [ "Steven Spurrier (wine merchant)", "Q&A: Steven Spurrier", "Decanter Author Archives for Steven Spurrier" ],
+    "relatedLink" : [ "Steven Spurrier (wine merchant)", "Q&A: Steven Spurrier", "Decanter Author Archives for Steven Spurrier" ],
+    "relatedLinkText" : [ "https://www.decanter.com/author/stevenspurrier/", "https://www.oregonwinepress.com/q-and-a-steven-spurrier", "https://en.wikipedia.org/wiki/Steven_Spurrier_(wine_merchant)" ],
     "schema:spatial" : "London, United Kingdom",
-    "spatial" : "_:b2",
+    "spatial" : "_:b1",
     "temporal" : "1941/present",
     "thumbnail" : "z:Q9r4xbT0/spurrier.jpg",
     "EMtTbOwZ_rev" : "p0LaSTD3",
@@ -863,10 +863,10 @@
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Patricia Gastaud-Gallagher",
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
-    "relatedLink" : [ "https://www.sfchronicle.com/wine/article/The-hidden-figures-benind-the-Judgment-of-Paris-13333299.php", "https://en.wikipedia.org/wiki/Patricia_Gallagher", "https://americanhistory.si.edu/blog/40th-anniversary-paris-tasting" ],
-    "schema:relatedLink" : [ "Potable Quotables on the 40th Anniversary of the Paris Tasting", "Patricia Gallagher", "The Hidden Figures Behind the Judgment of Paris" ],
+    "relatedLink" : [ "Potable Quotables on the 40th Anniversary of the Paris Tasting", "Patricia Gallagher", "The Hidden Figures Behind the Judgment of Paris" ],
+    "relatedLinkText" : [ "https://americanhistory.si.edu/blog/40th-anniversary-paris-tasting", "https://www.sfchronicle.com/wine/article/The-hidden-figures-benind-the-Judgment-of-Paris-13333299.php", "https://en.wikipedia.org/wiki/Patricia_Gallagher" ],
+    "spatial" : "_:b5",
     "schema:spatial" : "Wilmington, Delaware",
-    "spatial" : "_:b1",
     "temporal" : "1951/present",
     "thumbnail" : "z:p0LaSTD3/patricia-gallagher.jpg",
     "EMtTbOwZ" : "Q9r4xbT0",
@@ -1007,14 +1007,6 @@
       "@id" : "CfHGKWM5_rev",
       "@type" : "@id"
     },
-    "longitude" : {
-      "@id" : "http://schema.org/longitude",
-      "@type" : "http://www.w3.org/2001/XMLSchema#double"
-    },
-    "latitude" : {
-      "@id" : "http://schema.org/latitude",
-      "@type" : "http://www.w3.org/2001/XMLSchema#double"
-    },
     "zmcIlL1Q_rev" : {
       "@id" : "zmcIlL1Q_rev",
       "@type" : "@id"
@@ -1023,25 +1015,28 @@
       "@id" : "bRtwlEXl_rev",
       "@type" : "@id"
     },
+    "spatial" : {
+      "@id" : "http://schema.org/spatial",
+      "@type" : "@id"
+    },
     "thumbnail" : {
       "@id" : "http://schema.org/thumbnail",
+      "@type" : "@id"
+    },
+    "relatedLinkText" : {
+      "@id" : "http://schema.org/relatedLinkText",
       "@type" : "@id"
     },
     "creator" : {
       "@id" : "http://schema.org/creator",
       "@type" : "@id"
     },
-    "relatedLink" : {
-      "@id" : "http://schema.org/relatedLink",
-      "@type" : "@id"
-    },
     "V3F2veqZ_rev" : {
       "@id" : "V3F2veqZ_rev",
       "@type" : "@id"
     },
-    "spatial" : {
-      "@id" : "http://schema.org/spatial",
-      "@type" : "@id"
+    "relatedLink" : {
+      "@id" : "http://schema.org/relatedLink"
     },
     "43uVA3uZ" : {
       "@id" : "43uVA3uZ",
@@ -1129,6 +1124,14 @@
     "3MroRLtc_rev" : {
       "@id" : "3MroRLtc_rev",
       "@type" : "@id"
+    },
+    "longitude" : {
+      "@id" : "http://schema.org/longitude",
+      "@type" : "http://www.w3.org/2001/XMLSchema#double"
+    },
+    "latitude" : {
+      "@id" : "http://schema.org/latitude",
+      "@type" : "http://www.w3.org/2001/XMLSchema#double"
     },
     "tVwryvoF" : {
       "@id" : "tVwryvoF",
