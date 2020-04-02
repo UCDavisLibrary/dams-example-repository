@@ -30,3 +30,7 @@
 @prefix xs:  <http://www.w3.org/2001/XMLSchema> .
 @prefix exif:  <http://www.w3.org/2003/12/exif/ns#> .
 @prefix dc:  <http://purl.org/dc/elements/1.1/> .
+
+<>
+        ebucore:hasMimeType  "image/jpeg"^^<http://www.w3.org/2001/XMLSchema#string> ;
+        ebucore:filename     "Fiona_%26_Finn.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .

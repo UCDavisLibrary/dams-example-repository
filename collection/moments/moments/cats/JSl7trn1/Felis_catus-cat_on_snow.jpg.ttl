@@ -32,5 +32,5 @@
 @prefix dc:  <http://purl.org/dc/elements/1.1/> .
 
 <>
-        ebucore:hasMimeType  "application/octet-stream"^^<http://www.w3.org/2001/XMLSchema#string> ;
-        ebucore:filename     "cats.err"^^<http://www.w3.org/2001/XMLSchema#string> .
+        ebucore:hasMimeType  "image/jpeg"^^<http://www.w3.org/2001/XMLSchema#string> ;
+        ebucore:filename     "Felis_catus-cat_on_snow.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
