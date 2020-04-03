@@ -5,7 +5,7 @@
 @prefix wdt:   <http://www.wikidata.org/prop/direct/> .
 @prefix w:     <http://library.ucdavis.edu/wine-ontology#> .
 
-<#Tsm36okM>  a                ucdlib:Animals , schema:WebPage ;
+<#Tsm36okM>  a                schema:WebPage , ucdlib:Animal ;
         schema:creator          "Quinn Hart" ;
         schema:creator          <https://www.library.ucdavis.edu/author/quinn-hart/> ;
         schema:description      "Why do I need a cat door when I have you to open it for me?" ;
@@ -26,7 +26,7 @@
         <#mrpB0Hyi>           <#pbvSxg06> ;
         <#wJRs9ysG>           <#k70zQ76t> .
 
-<#6RLjRfHs>  a                ucdlib:Animals , schema:WebPage ;
+<#6RLjRfHs>  a                ucdlib:Animal , schema:WebPage ;
         schema:creator          "Justin Merz" ;
         schema:creator          <https://www.library.ucdavis.edu/author/justin-merz/> ;
         schema:description      "I bite faces" ;
@@ -44,7 +44,7 @@
         schema:temporal         "2017" ;
         schema:thumbnail        <6RLjRfHs/Gimli.jpg> .
 
-<#r9pfmvZy>  a            ucdlib:Animals , schema:WebPage ;
+<#r9pfmvZy>  a            ucdlib:Animal , schema:WebPage ;
         schema:creator      "李晓莉" ;
         schema:description  "Not a cat" ;
         schema:license      <http://rightsstatements.org/vocab/CNE/1.0/> ;
@@ -62,7 +62,7 @@
 <#mN12hUWp_rev>  a  ucdlib:dependent , schema:significantLinks ;
         schema:name  "dependent" .
 
-<#Kwg7igEZ>  a                schema:WebPage , ucdlib:Events ;
+<#Kwg7igEZ>  a                schema:WebPage , schema:Event ;
         schema:creator          <https://www.catconworldwide.com/gallery/> , <https://www.catconworldwide.com/gallery/#images-4> ;
         schema:description      "CatCon is the biggest cat-centric, pop culture event in the world dedicated to all things feline, with a community of cat lovers that spans the globe. Part expo, part symposium, CatCon engages, educates and entertains thousands of fans, featuring the latest in groundbreaking products and ideas for cats and their people." ;
         schema:license          <http://rightsstatements.org/vocab/CNE/1.0/> ;
@@ -121,7 +121,7 @@
         schema:name         "is instance of " , "Marie is a Bicolor Cat" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> .
 
-<#pbvSxg06>  a            schema:WebPage , ucdlib:Breeds ;
+<#pbvSxg06>  a            ucdlib:Breed , schema:WebPage ;
         schema:description  "The British Shorthair is the pedigreed version of the traditional British domestic cat, with a distinctively stocky body, dense coat, and broad face. The most familiar color variant is the \"British Blue,\" a solid grey-blue coat, copper eyes, and a medium-sized tail. The breed has also been developed in a wide range of other colours and patterns, including tabby and colorpoint. From  \n[WikiPedia](https://en.wikipedia.org/wiki/British_Shorthair)" , "Image By Prskavka - Own work, Public Domain, \nhttps://commons.wikimedia.org/w/index.php?curid=502968" ;
         schema:license      <http://rightsstatements.org/vocab/CNE/1.0/> ;
         schema:name         "British Short Hair" ;
@@ -131,7 +131,7 @@
         <#mrpB0Hyi_rev>   <#Tsm36okM> .
 
 <#XrpOVlkh>  a          schema:WebPage , ucdlib:Story ;
-        schema:headline   "Cats are great" ;
+        schema:headline   "The Amazing Family Felidae" ;
         schema:license    <http://rightsstatements.org/vocab/CNE/1.0/> ;
         schema:name       "Paragraph 1" ;
         schema:publisher  <http://id.loc.gov/authorities/names/no2008108707> ;
@@ -152,7 +152,7 @@
 <#wJRs9ysG_rev>  a  ucdlib:has_instance , schema:significantLinks ;
         schema:name  "has instance" .
 
-<#8IiOdITK>  a                schema:WebPage , ucdlib:Breeds ;
+<#8IiOdITK>  a                ucdlib:Breed , schema:WebPage ;
         schema:creator          "Source name" , "By K B - originally posted to Flickr as Photo by request! - Vince on a walk., CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=6441523" ;
         schema:description      "A domestic long-haired cat is a cat of mixed ancestry – thus not belonging to any particular recognised cat breed – possessing a coat of semi-long to long fur. Domestic long-haired cats should not be confused with the British Longhair, American Longhair, or other breeds with \"Longhair\" names, which are standardized breeds defined by various registries. Domestic long-haireds are the second most popular cat in the United States after the domestic short-haired; one in ten of the 90 million cats in the US is a domestic long-hair. Other generic terms are long-haired house cat and, in British English, long-haired moggie." ;
         schema:license          <http://rightsstatements.org/vocab/CNE/1.0/> ;
@@ -195,7 +195,7 @@
 <#Zjug5G7h_rev>  a  ucdlib:has_instance , schema:significantLinks ;
         schema:name  "has instance" .
 
-<#8Q0KPdUx>  a                schema:WebPage , ucdlib:Breeds ;
+<#8Q0KPdUx>  a                ucdlib:Breed , schema:WebPage ;
         schema:creator          "Lubbad85" ;
         schema:creator          <https://commons.wikimedia.org/wiki/File:Paintedcats_Red_Star_standing.jpg> ;
         schema:description      "The Bengal cat is a domesticated cat breed created from hybrids of domestic cats, the Asian leopard cat (Prionailurus bengalensis) and the Egyptian Mau, which gives them their golden shimmer – the breed name comes from the taxonomic name. Bengals have a wild appearance and may show spots, rosettes, arrowhead markings, or marbling." ;
@@ -213,7 +213,7 @@
         schema:name         "is instance of " , "Ashley is part American Short Hair" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> .
 
-<#ed8DG7NW>  a                schema:WebPage , ucdlib:Animals ;
+<#ed8DG7NW>  a                ucdlib:Animal , schema:WebPage ;
         schema:creator          "Kevin Miller" ;
         schema:creator          <https://www.library.ucdavis.edu/author/kevin-miller/> ;
         schema:description      "Mrs. Big Ears" ;
@@ -234,7 +234,7 @@
 <#mrpB0Hyi_rev>  a  ucdlib:has_instance , schema:significantLinks ;
         schema:name  "has instance" .
 
-<#poAqymRE>  a                ucdlib:Animals , schema:WebPage ;
+<#poAqymRE>  a                schema:WebPage , ucdlib:Animal ;
         schema:creator          "Quinn Hart" ;
         schema:creator          <https://www.library.ucdavis.edu/author/quinn-hart/> ;
         schema:description      "The squirrel mocks me" ;
@@ -256,7 +256,7 @@
 <#vkz6f49f_rev>  a  ucdlib:has_instance , schema:significantLinks ;
         schema:name  "has instance" .
 
-<#zg9k9Z8u>  a                schema:WebPage , ucdlib:Breeds ;
+<#zg9k9Z8u>  a                schema:WebPage , ucdlib:Breed ;
         schema:creator          "NancyAyumi / iStock / Getty Images Plus" ;
         schema:creator          <https://www.gettyimages.com/> ;
         schema:description      "\"None of my Siamese crosses have looked like Siamese crosses. That’s because kittens with points (the distinctive mask and socks of the Siamese) tend to be snatched up quickly. People recognize such cats and then expect the lively, chatty, attention-devouring ways of the Siamese.\" - the Way of Cats" ;
@@ -264,7 +264,7 @@
         schema:name             "Stealth Siamese Cat" ;
         schema:publisher        <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:relatedLink      <https://en.wikipedia.org/wiki/Snowshoe_cat> , <https://www.wayofcats.com/blog/unbreeds-the-stealth-siamese-cat/31673> ;
-        schema:relatedLinkText  "Snowshoe Cat" , "Unbreeds: The Stealth Siamese Cat" ;
+        schema:relatedLinkText  "Unbreeds: The Stealth Siamese Cat" , "Snowshoe Cat" ;
         schema:spatial          "Thailand" ;
         schema:spatial          [ a                 schema:Place ;
                                   schema:latitude   "13.0108743"^^<http://www.w3.org/2001/XMLSchema#double> ;
@@ -310,7 +310,7 @@
 <#EY1KO8qp_rev>  a  ucdlib:dependent , schema:significantLinks ;
         schema:name  "dependent" .
 
-<#QV3mqDZC>  a                schema:WebPage , ucdlib:Animals ;
+<#QV3mqDZC>  a                schema:WebPage , ucdlib:Animal ;
         schema:creator          "Kimmy Hescock" ;
         schema:creator          <https://www.library.ucdavis.edu/author/kimmy-hescock/> ;
         schema:description      "Two rubs exactly, a third and I will bite as per protocol" ;
@@ -329,7 +329,7 @@
         schema:thumbnail        <QV3mqDZC/Mochi.jpg> ;
         <#EY1KO8qp>           <#IQATijmC> .
 
-<#WJPtqS3y>  a                ucdlib:Animals , schema:WebPage ;
+<#WJPtqS3y>  a                ucdlib:Animal , schema:WebPage ;
         schema:creator          "Leigh Dragoon" ;
         schema:description      "Her life is filled with hardship" ;
         schema:license          <http://rightsstatements.org/vocab/CNE/1.0/> ;
@@ -348,7 +348,7 @@
         <#mN12hUWp>           <#bRkZTUGL> ;
         <#vkz6f49f_rev>       <#yvH439FE> .
 
-<#yvH439FE>  a                schema:WebPage , ucdlib:Breeds ;
+<#yvH439FE>  a                ucdlib:Breed , schema:WebPage ;
         schema:creator          "Wikicommons" ;
         schema:creator          <https://en.wikipedia.org/wiki/Bicolor_cat#/media/File:Socks-clinton.jpg> ;
         schema:description      "Subject description" ;
@@ -362,7 +362,7 @@
         schema:thumbnail        <yvH439FE/Socks-clinton.jpg> ;
         <#vkz6f49f>           <#WJPtqS3y> .
 
-<#k70zQ76t>  a                schema:WebPage , ucdlib:Breeds ;
+<#k70zQ76t>  a                ucdlib:Breed , schema:WebPage ;
         schema:description      "The American Shorthair (ASH) is a breed of domestic cat believed to be descended from European cats brought to North America by early settlers to protect valuable cargo from mice and rats.   From [Wikipedia](https://en.wikipedia.org/wiki/American_Shorthair)" ;
         schema:license          <http://rightsstatements.org/vocab/CNE/1.0/> ;
         schema:name             "American Short Hair" ;
@@ -372,7 +372,7 @@
         schema:thumbnail        <k70zQ76t/image.png> ;
         <#wJRs9ysG_rev>       <#Tsm36okM> .
 
-<#IQATijmC>  a                schema:WebPage , ucdlib:Animals ;
+<#IQATijmC>  a                schema:WebPage , ucdlib:Animal ;
         schema:creator          "Kimmy Hescock" ;
         schema:creator          <https://www.library.ucdavis.edu/author/kimmy-hescock/> ;
         schema:description      "Subject description" ;
@@ -403,7 +403,7 @@
         schema:name         "guardian" , "Kimmy Hescock has Mochi and Mika" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> .
 
-<#bRkZTUGL>  a                ucdlib:Animals , schema:WebPage ;
+<#bRkZTUGL>  a                ucdlib:Animal , schema:WebPage ;
         schema:creator          "Leigh Dragoon" ;
         schema:description      "Also known as the Tiny Whinies" ;
         schema:license          <http://rightsstatements.org/vocab/CNE/1.0/> ;
@@ -424,9 +424,10 @@
 
 <#6yFjc2in>  a            schema:WebPage , ucdlib:Story ;
         schema:description  "In the Beginning there were *cats*.\n\n The domestic cat is a member of the Felidae, a family that had a common ancestor about 10–15 million years ago. The genus Felis diverged from the Felidae around 6–7 million years ago. Results of phylogenetic research confirm that the wild Felis species evolved through sympatric or parapatric speciation, whereas the domestic cat evolved through artificial selection. The domesticated cat and its closest wild ancestor are both diploid organisms that possess 38 chromosomes and roughly 20,000 genes. The leopard cat (Prionailurus bengalensis) was tamed independently in China around 5500 BC. This line of partially domesticated cats leaves no trace in the domestic cat populations of today." ;
-        schema:headline     "Cats" ;
+        schema:headline     "Cats are great" ;
         schema:license      <http://rightsstatements.org/vocab/CNE/1.0/> ;
         schema:name         "EntryPoint" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
+        schema:story        "cats" ;
         schema:temporal     "~1500 BCE / Present" ;
         schema:thumbnail    <6yFjc2in/1280px-Cat_poster_1.jpg> .

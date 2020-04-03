@@ -2,7 +2,11 @@ source:
   host: 'https://sandbox.dams.library.ucdavis.edu'
   base: /fcrepo/rest
   collection: moments
-http:
-  session: inf4
-  ssl: tls1.2
-  print: hb
+contentTypes:
+  jpg: image/jpeg
+  yml: text/yaml
+  jpeg: image/jpeg
+  json: application/json
+  png: image/png
+  hdt: application/octet-stream
+  err: application/octet-stream

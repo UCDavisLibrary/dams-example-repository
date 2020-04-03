@@ -13,21 +13,21 @@
     "name" : "Sacramento,+CA"
   }, {
     "@id" : "_:b10",
-    "@type" : "schema:ImageObject",
-    "caption" : "Cat lying on rice straw",
-    "contentUrl" : "1280px-Felis_silvestris_catus_lying_on_rice_straw.jpg"
-  }, {
-    "@id" : "_:b11",
     "@type" : "schema:Place",
     "schema:latitude" : 38.5568789,
     "schema:longitude" : -121.770049,
     "name" : "Davis,+CA"
   }, {
+    "@id" : "_:b11",
+    "@type" : "schema:ImageObject",
+    "caption" : "Cat close-up",
+    "contentUrl" : "1280px-Kittyply_edit1.jpg"
+  }, {
     "@id" : "_:b12",
     "@type" : "schema:Place",
-    "schema:latitude" : 13.0108743,
-    "schema:longitude" : 96.9834453,
-    "name" : "Thailand"
+    "schema:latitude" : 38.8119585,
+    "schema:longitude" : -121.2802617,
+    "name" : "Rocklin,+CA"
   }, {
     "@id" : "_:b13",
     "@type" : "schema:Place",
@@ -37,14 +37,14 @@
   }, {
     "@id" : "_:b14",
     "@type" : "schema:ImageObject",
-    "caption" : "Cat close-up",
-    "contentUrl" : "1280px-Kittyply_edit1.jpg"
+    "caption" : "Dilated pupils",
+    "contentUrl" : "800px-Domestic_Cat_Demonstrating_Dilated_Slit_Pupils.jpg"
   }, {
     "@id" : "_:b15",
     "@type" : "schema:Place",
-    "schema:latitude" : 38.5619185,
-    "schema:longitude" : -121.5833396,
-    "name" : "Sacramento,+CA"
+    "schema:latitude" : 13.0108743,
+    "schema:longitude" : 96.9834453,
+    "name" : "Thailand"
   }, {
     "@id" : "_:b2",
     "@type" : "schema:Place",
@@ -65,9 +65,10 @@
     "name" : "Davis,+CA"
   }, {
     "@id" : "_:b5",
-    "@type" : "schema:ImageObject",
-    "caption" : "Dilated pupils",
-    "contentUrl" : "800px-Domestic_Cat_Demonstrating_Dilated_Slit_Pupils.jpg"
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.5619185,
+    "schema:longitude" : -121.5833396,
+    "name" : "Sacramento,+CA"
   }, {
     "@id" : "_:b6",
     "@type" : "schema:Place",
@@ -88,10 +89,9 @@
     "name" : "Sacramento,+CA"
   }, {
     "@id" : "_:b9",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.8119585,
-    "schema:longitude" : -121.2802617,
-    "name" : "Rocklin,+CA"
+    "@type" : "schema:ImageObject",
+    "caption" : "Cat lying on rice straw",
+    "contentUrl" : "1280px-Felis_silvestris_catus_lying_on_rice_straw.jpg"
   }, {
     "@id" : "5PL2z7dx",
     "@type" : [ "schema:significantLinks", "ucdlib:guardian" ],
@@ -105,7 +105,7 @@
     "name" : "dependent"
   }, {
     "@id" : "6RLjRfHs",
-    "@type" : [ "ucdlib:Animals", "schema:WebPage" ],
+    "@type" : [ "ucdlib:Animal", "schema:WebPage" ],
     "schema:creator" : "Justin Merz",
     "creator" : "https://www.library.ucdavis.edu/author/justin-merz/",
     "description" : "I bite faces",
@@ -120,17 +120,18 @@
     "thumbnail" : "z:6RLjRfHs/Gimli.jpg"
   }, {
     "@id" : "6yFjc2in",
-    "@type" : [ "ucdlib:Story", "schema:WebPage" ],
+    "@type" : [ "schema:WebPage", "ucdlib:Story" ],
     "description" : "In the Beginning there were *cats*.\n\n The domestic cat is a member of the Felidae, a family that had a common ancestor about 10–15 million years ago. The genus Felis diverged from the Felidae around 6–7 million years ago. Results of phylogenetic research confirm that the wild Felis species evolved through sympatric or parapatric speciation, whereas the domestic cat evolved through artificial selection. The domesticated cat and its closest wild ancestor are both diploid organisms that possess 38 chromosomes and roughly 20,000 genes. The leopard cat (Prionailurus bengalensis) was tamed independently in China around 5500 BC. This line of partially domesticated cats leaves no trace in the domestic cat populations of today.",
-    "headline" : "Cats",
+    "headline" : "Cats are great",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "EntryPoint",
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
+    "story" : "cats",
     "temporal" : "~1500 BCE / Present",
     "thumbnail" : "z:6yFjc2in/1280px-Cat_poster_1.jpg"
   }, {
     "@id" : "8IiOdITK",
-    "@type" : [ "schema:WebPage", "ucdlib:Breeds" ],
+    "@type" : [ "ucdlib:Breed", "schema:WebPage" ],
     "schema:creator" : [ "Source name", "By K B - originally posted to Flickr as Photo by request! - Vince on a walk., CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=6441523" ],
     "description" : "A domestic long-haired cat is a cat of mixed ancestry – thus not belonging to any particular recognised cat breed – possessing a coat of semi-long to long fur. Domestic long-haired cats should not be confused with the British Longhair, American Longhair, or other breeds with \"Longhair\" names, which are standardized breeds defined by various registries. Domestic long-haireds are the second most popular cat in the United States after the domestic short-haired; one in ten of the 90 million cats in the US is a domestic long-hair. Other generic terms are long-haired house cat and, in British English, long-haired moggie.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
@@ -145,7 +146,7 @@
     "Zjug5G7h" : "bRkZTUGL"
   }, {
     "@id" : "8Q0KPdUx",
-    "@type" : [ "schema:WebPage", "ucdlib:Breeds" ],
+    "@type" : [ "ucdlib:Breed", "schema:WebPage" ],
     "schema:creator" : "Lubbad85",
     "creator" : "https://commons.wikimedia.org/wiki/File:Paintedcats_Red_Star_standing.jpg",
     "description" : "The Bengal cat is a domesticated cat breed created from hybrids of domestic cats, the Asian leopard cat (Prionailurus bengalensis) and the Egyptian Mau, which gives them their golden shimmer – the breed name comes from the taxonomic name. Bengals have a wild appearance and may show spots, rosettes, arrowhead markings, or marbling.",
@@ -200,7 +201,7 @@
     "temporal" : "1986"
   }, {
     "@id" : "IQATijmC",
-    "@type" : [ "schema:WebPage", "ucdlib:Animals" ],
+    "@type" : [ "schema:WebPage", "ucdlib:Animal" ],
     "creator" : "https://www.library.ucdavis.edu/author/kimmy-hescock/",
     "schema:creator" : "Kimmy Hescock",
     "description" : "Subject description",
@@ -209,8 +210,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://en.wikipedia.org/wiki/Bengal_cat",
     "relatedLinkText" : "Bengal Cat",
+    "spatial" : "_:b12",
     "schema:spatial" : "Rocklin, California",
-    "spatial" : "_:b9",
     "temporal" : "2018",
     "thumbnail" : "z:IQATijmC/Mika.jpg",
     "EY1KO8qp_rev" : "QV3mqDZC"
@@ -226,7 +227,7 @@
     "thumbnail" : "z:JSl7trn1/Felis_catus-cat_on_snow.jpg"
   }, {
     "@id" : "Kwg7igEZ",
-    "@type" : [ "schema:WebPage", "ucdlib:Events" ],
+    "@type" : [ "schema:WebPage", "schema:Event" ],
     "creator" : [ "https://www.catconworldwide.com/gallery/", "https://www.catconworldwide.com/gallery/#images-4" ],
     "description" : "CatCon is the biggest cat-centric, pop culture event in the world dedicated to all things feline, with a community of cat lovers that spans the globe. Part expo, part symposium, CatCon engages, educates and entertains thousands of fans, featuring the latest in groundbreaking products and ideas for cats and their people.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
@@ -240,7 +241,7 @@
     "thumbnail" : "z:Kwg7igEZ/Adoptee_AH-WEB2019.jpg"
   }, {
     "@id" : "QV3mqDZC",
-    "@type" : [ "schema:WebPage", "ucdlib:Animals" ],
+    "@type" : [ "schema:WebPage", "ucdlib:Animal" ],
     "creator" : "https://www.library.ucdavis.edu/author/kimmy-hescock/",
     "schema:creator" : "Kimmy Hescock",
     "description" : "Two rubs exactly, a third and I will bite as per protocol",
@@ -249,14 +250,14 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://en.wikipedia.org/wiki/Bengal_cat",
     "relatedLinkText" : "Bengal Cat",
-    "schema:spatial" : "Rocklin, California",
     "spatial" : "_:b13",
+    "schema:spatial" : "Rocklin, California",
     "temporal" : "2018",
     "thumbnail" : "z:QV3mqDZC/Mochi.jpg",
     "EY1KO8qp" : "IQATijmC"
   }, {
     "@id" : "Tsm36okM",
-    "@type" : [ "ucdlib:Animals", "schema:WebPage" ],
+    "@type" : [ "schema:WebPage", "ucdlib:Animal" ],
     "creator" : "https://www.library.ucdavis.edu/author/quinn-hart/",
     "schema:creator" : "Quinn Hart",
     "description" : "Why do I need a cat door when I have you to open it for me?",
@@ -280,20 +281,20 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://www.library.ucdavis.edu/author/quinn-hart/",
     "relatedLinkText" : "Quinn Hart - Digital Applications Manager",
-    "spatial" : "_:b4",
     "schema:spatial" : "Davis, California",
+    "spatial" : "_:b4",
     "thumbnail" : "z:U4UASHMg/quinn-450x450-c-center.jpg",
     "5PL2z7dx" : "Tsm36okM"
   }, {
     "@id" : "W31AT2ji",
     "@type" : [ "ucdlib:Story", "schema:WebPage" ],
-    "image" : [ "_:b10", "_:b14", "_:b5" ],
+    "image" : [ "_:b9", "_:b11", "_:b14" ],
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Triptych",
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "WJPtqS3y",
-    "@type" : [ "ucdlib:Animals", "schema:WebPage" ],
+    "@type" : [ "ucdlib:Animal", "schema:WebPage" ],
     "schema:creator" : "Leigh Dragoon",
     "description" : "Her life is filled with hardship",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
@@ -301,8 +302,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://en.wikipedia.org/wiki/Bicolor_cat",
     "relatedLinkText" : "Title to display",
+    "spatial" : "_:b5",
     "schema:spatial" : "Sacramento, California)",
-    "spatial" : "_:b8",
     "temporal" : "2019",
     "thumbnail" : "z:WJPtqS3y/Marie.jpg",
     "mN12hUWp" : "bRkZTUGL",
@@ -310,7 +311,7 @@
   }, {
     "@id" : "XrpOVlkh",
     "@type" : [ "ucdlib:Story", "schema:WebPage" ],
-    "headline" : "Cats are great",
+    "headline" : "The Amazing Family Felidae",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Paragraph 1",
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
@@ -328,7 +329,7 @@
     "name" : "has instance"
   }, {
     "@id" : "bRkZTUGL",
-    "@type" : [ "ucdlib:Animals", "schema:WebPage" ],
+    "@type" : [ "ucdlib:Animal", "schema:WebPage" ],
     "schema:creator" : "Leigh Dragoon",
     "description" : "Also known as the Tiny Whinies",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
@@ -337,14 +338,14 @@
     "relatedLink" : "https://en.wikipedia.org/wiki/Cat_coat_genetics",
     "relatedLinkText" : "Medium-Coat Cat",
     "schema:spatial" : "Sacramento, California)",
-    "spatial" : "_:b15",
+    "spatial" : "_:b6",
     "temporal" : "2019",
     "thumbnail" : "z:bRkZTUGL/Fiona_%26_Finn.jpg",
     "Zjug5G7h_rev" : "8IiOdITK",
     "mN12hUWp_rev" : "WJPtqS3y"
   }, {
     "@id" : "ed8DG7NW",
-    "@type" : [ "schema:WebPage", "ucdlib:Animals" ],
+    "@type" : [ "ucdlib:Animal", "schema:WebPage" ],
     "schema:creator" : "Kevin Miller",
     "creator" : "https://www.library.ucdavis.edu/author/kevin-miller/",
     "description" : "Mrs. Big Ears",
@@ -353,7 +354,7 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://en.wikipedia.org/wiki/Chihuahua_(dog)",
     "relatedLinkText" : "Deer-Head Chihuahua Dogs",
-    "spatial" : "_:b6",
+    "spatial" : "_:b8",
     "schema:spatial" : "Sacramento, California",
     "temporal" : "2018",
     "thumbnail" : "z:ed8DG7NW/Juniper.jpg"
@@ -367,7 +368,7 @@
     "text" : "To aid with navigation and sensation, cats have dozens of movable whiskers (vibrissae) over their body, especially their faces. These provide information on the width of gaps and on the location of objects in the dark, both by touching objects directly and by sensing air currents; they also trigger protective blink reflexes to protect the eyes from damage"
   }, {
     "@id" : "k70zQ76t",
-    "@type" : [ "schema:WebPage", "ucdlib:Breeds" ],
+    "@type" : [ "ucdlib:Breed", "schema:WebPage" ],
     "description" : "The American Shorthair (ASH) is a breed of domestic cat believed to be descended from European cats brought to North America by early settlers to protect valuable cargo from mice and rats.   From [Wikipedia](https://en.wikipedia.org/wiki/American_Shorthair)",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "American Short Hair",
@@ -400,7 +401,7 @@
     "name" : "has instance"
   }, {
     "@id" : "pbvSxg06",
-    "@type" : [ "schema:WebPage", "ucdlib:Breeds" ],
+    "@type" : [ "ucdlib:Breed", "schema:WebPage" ],
     "description" : [ "The British Shorthair is the pedigreed version of the traditional British domestic cat, with a distinctively stocky body, dense coat, and broad face. The most familiar color variant is the \"British Blue,\" a solid grey-blue coat, copper eyes, and a medium-sized tail. The breed has also been developed in a wide range of other colours and patterns, including tabby and colorpoint. From  \n[WikiPedia](https://en.wikipedia.org/wiki/British_Shorthair)", "Image By Prskavka - Own work, Public Domain, \nhttps://commons.wikimedia.org/w/index.php?curid=502968" ],
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "British Short Hair",
@@ -410,7 +411,7 @@
     "mrpB0Hyi_rev" : "Tsm36okM"
   }, {
     "@id" : "poAqymRE",
-    "@type" : [ "ucdlib:Animals", "schema:WebPage" ],
+    "@type" : [ "schema:WebPage", "ucdlib:Animal" ],
     "schema:creator" : "Quinn Hart",
     "creator" : "https://www.library.ucdavis.edu/author/quinn-hart/",
     "description" : "The squirrel mocks me",
@@ -419,14 +420,14 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://en.wikipedia.org/wiki/Polydactyl_cat",
     "relatedLinkText" : "Polydactyl cats",
-    "spatial" : "_:b11",
     "schema:spatial" : "Davis, California",
+    "spatial" : "_:b10",
     "temporal" : "2016",
     "thumbnail" : "z:poAqymRE/Chester.jpg",
     "DAZJB1ba" : "zg9k9Z8u"
   }, {
     "@id" : "r9pfmvZy",
-    "@type" : [ "ucdlib:Animals", "schema:WebPage" ],
+    "@type" : [ "ucdlib:Animal", "schema:WebPage" ],
     "schema:creator" : "李晓莉",
     "description" : "Not a cat",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
@@ -467,7 +468,7 @@
     "name" : "has instance"
   }, {
     "@id" : "yvH439FE",
-    "@type" : [ "schema:WebPage", "ucdlib:Breeds" ],
+    "@type" : [ "ucdlib:Breed", "schema:WebPage" ],
     "schema:creator" : "Wikicommons",
     "creator" : "https://en.wikipedia.org/wiki/Bicolor_cat#/media/File:Socks-clinton.jpg",
     "description" : "Subject description",
@@ -482,7 +483,7 @@
     "vkz6f49f" : "WJPtqS3y"
   }, {
     "@id" : "zg9k9Z8u",
-    "@type" : [ "schema:WebPage", "ucdlib:Breeds" ],
+    "@type" : [ "schema:WebPage", "ucdlib:Breed" ],
     "creator" : "https://www.gettyimages.com/",
     "schema:creator" : "NancyAyumi / iStock / Getty Images Plus",
     "description" : "\"None of my Siamese crosses have looked like Siamese crosses. That’s because kittens with points (the distinctive mask and socks of the Siamese) tend to be snatched up quickly. People recognize such cats and then expect the lively, chatty, attention-devouring ways of the Siamese.\" - the Way of Cats",
@@ -491,19 +492,19 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Snowshoe_cat", "https://www.wayofcats.com/blog/unbreeds-the-stealth-siamese-cat/31673" ],
     "relatedLinkText" : [ "Unbreeds: The Stealth Siamese Cat", "Snowshoe Cat" ],
-    "spatial" : "_:b12",
+    "spatial" : "_:b15",
     "schema:spatial" : "Thailand",
     "temporal" : "2015",
     "thumbnail" : "z:zg9k9Z8u/242934-1600x1030-snowshoe-siamese-cats.jpg",
     "DAZJB1ba_rev" : "poAqymRE"
   } ],
   "@context" : {
-    "spatial" : {
-      "@id" : "http://schema.org/spatial",
-      "@type" : "@id"
-    },
     "5PL2z7dx_rev" : {
       "@id" : "5PL2z7dx_rev",
+      "@type" : "@id"
+    },
+    "spatial" : {
+      "@id" : "http://schema.org/spatial",
       "@type" : "@id"
     },
     "relatedLink" : {
@@ -550,11 +551,13 @@
       "@id" : "5PL2z7dx",
       "@type" : "@id"
     },
-    "contentUrl" : {
-      "@id" : "http://schema.org/contentUrl"
+    "longitude" : {
+      "@id" : "http://schema.org/longitude",
+      "@type" : "http://www.w3.org/2001/XMLSchema#double"
     },
-    "caption" : {
-      "@id" : "http://schema.org/caption"
+    "latitude" : {
+      "@id" : "http://schema.org/latitude",
+      "@type" : "http://www.w3.org/2001/XMLSchema#double"
     },
     "mrpB0Hyi_rev" : {
       "@id" : "mrpB0Hyi_rev",
@@ -566,17 +569,15 @@
     "headline" : {
       "@id" : "http://schema.org/headline"
     },
-    "longitude" : {
-      "@id" : "http://schema.org/longitude",
-      "@type" : "http://www.w3.org/2001/XMLSchema#double"
-    },
-    "latitude" : {
-      "@id" : "http://schema.org/latitude",
-      "@type" : "http://www.w3.org/2001/XMLSchema#double"
+    "caption" : {
+      "@id" : "http://schema.org/caption"
     },
     "Zjug5G7h" : {
       "@id" : "Zjug5G7h",
       "@type" : "@id"
+    },
+    "contentUrl" : {
+      "@id" : "http://schema.org/contentUrl"
     },
     "DAZJB1ba" : {
       "@id" : "DAZJB1ba",
@@ -627,6 +628,9 @@
     "Zjug5G7h_rev" : {
       "@id" : "Zjug5G7h_rev",
       "@type" : "@id"
+    },
+    "story" : {
+      "@id" : "http://schema.org/story"
     },
     "schema" : "http://schema.org/",
     "fast" : "http://id.worldcat.org/fast/",
