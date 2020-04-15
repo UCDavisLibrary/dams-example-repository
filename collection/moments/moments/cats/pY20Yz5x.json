@@ -11,6 +11,18 @@
   "pinned": false,
   "url": "https://trello.com/b/pY20Yz5x/trello2moment",
   "shortUrl": "https://trello.com/b/pY20Yz5x",
+  "labelNames": {
+    "green": "Location Data",
+    "yellow": "Learn More",
+    "orange": "",
+    "red": "Connections",
+    "purple": "Story: Text",
+    "blue": "Description",
+    "sky": "Image / Image Credit",
+    "lime": "",
+    "pink": "Date",
+    "black": "is instance of  / has instance"
+  },
   "prefs": {
     "permissionLevel": "private",
     "hideVotes": false,
@@ -81,24 +93,12 @@
     "canBePrivate": true,
     "canInvite": true
   },
-  "labelNames": {
-    "green": "Location Data",
-    "yellow": "Learn More",
-    "orange": "",
-    "red": "Connections",
-    "purple": "Text",
-    "blue": "Description",
-    "sky": "Image / Image Credit",
-    "lime": "",
-    "pink": "Date",
-    "black": "is instance of  / has instance"
-  },
   "cards": [
     {
       "id": "5e3da51479150702b7e9d346",
       "checkItemStates": null,
       "closed": false,
-      "dateLastActivity": "2020-02-07T17:57:42.803Z",
+      "dateLastActivity": "2020-04-15T21:37:51.982Z",
       "desc": "### Always use the \"Subject Card\" template to create a new subject. \n\n# Subject Columns: Person, Place, Object, Event, Technology\nMake sure to create your new card in the correct column. To do this, click the card icon in the lower right corner of the chosen column and choose \"Subject Card\" template.\n\n# Labels\nWhen you create a new subject card, labels are active for all required fields for that card. When content for a particular section is complete (ie - description), you may remove the corresponding label. Do not remove a label until you feel the content for that label is 100% complete.  \n\n# Location\n- **Location Name to Display**: Should be written as **City, State** (within USA) or **City, Country**. Always type out full name -- do not use abbreviations.\n- **Google Maps Link**: Find the specific location in Google Maps via search or dropping a pin, then copy and paste the URL from the address field. The more specific the location, the better (specific address or road is better than generic city). Example URL: https://www.google.com/maps/place/Peter+J.+Shields+Library/@38.5394406,-121.7512197,16z/data=!4m5!3m4!1s0x0:0x7b5367caeba5025b!8m2!3d38.5398569!4d-121.7491592\n\n# Date\n- Dates may be written in these formats:\n * XXXX\n * XXXX/XXXX\n * XXXX/present\n * Month XXXX\n * Month XX, XXXX\n * Month XX/XX, XXXX\n * circa XXXX\n * unknown\n\n- For people, use birth/death dates (if alive, \"present\" in lieu of death date)\n- For institutions/locations (ie-winery. city) use open/founding date to close date (\"present\" in lieu of date if still existing)\n\n# Description\nGeneral description of the subject / highlights associated with the story context. Remember that some specifics will be identified via connections as well. \n\nApproximate target length: 50-300 words (as succinct as possible is best)\n\n# Learn More\n- **Link title to display:** Avoid redundancies. For example, if you link to a wikipedia page, just use the name of the article as the title and do not include the the site name wikipedia. The base source URL (wikipedia.org) will display beside the title. \n * URL\n\n# Image Credit\n- **Source name** Example: UC Davis\n * URL of source",
       "descData": null,
       "dueReminder": null,
@@ -155,7 +155,7 @@
       "id": "5e3da51479150702b7e9d350",
       "checkItemStates": null,
       "closed": false,
-      "dateLastActivity": "2020-02-07T17:57:42.700Z",
+      "dateLastActivity": "2020-04-15T21:37:56.686Z",
       "desc": "###Always use the \"Connection\" template to create a new connection between subject cards.\n\n# Connection Column\nMake sure to create your new connection card in the Connection column. To do this, click the card icon in the lower right corner of the Connection column and choose \"Subject Card\" template.\n\n# Labels\n### Colored Labels: Missing Content\nWhen you create a new subject card, labels are active for all required fields for that card. When content for a particular section is complete (ie - description), you may remove the corresponding label. Do not remove a label until you feel the content for that label is 100% complete.  \n\n### Black Labels: Connection Words\nUnlike Subject cards, Connection cards should end up with a single black label at the end of the content creation process. Black labels are used to identify the connection word that connects two subjects and the reverse  of that word. Every connection card should have one connection word label. If the word you need does not already exist in the list, create a new connection word label. \n\n# Connection Card Title\nWrite the subjects and connection word as a concise sentence using only those words when possible. Reserve any further details for the description.\n\n# Description\nDescribe the connection between the two subjects. This may be as short as a sentence or as long as a subject card.\n\n# Connect Subject Cards to Connection Cards\n1. While in a connection card, click the \"Attachment\" button.\n2. Choose \"Trello.\"\n3. Search for the card you want and select it.\n4. Select \"connect cards...\" beneath the newly attached card and confirm that you want to \"relate both cards.\" This will allow the connection card to appear on the attached subject card as well.\n\n# Connection Order\nIt is very important to make sure your cards are connected in the correct order. When you are done, read the subjects in order from left to right, using the base form of the connection word on the black connection label (the word on the left side of the slash). \n\n### Example:\nConnection Label: [ organized / organized by ]\nSubject Cards: [ Patricia Gallagher ]  [ Judgment of Paris ]\n\n**Patricia Gallagher - organized - Judgment of Paris**\n\nIt should also make sense reading the order in reverse (right to left) using the transitive version of the word on the black connection label (the word on the right side of slash).\n\n**Judgment of Paris - organized by - Patricia Gallagher**\n\nif you find your subjects are in the wrong order, delete the attachment connection and re-add it. Attachments append themselves to cards with the most recent attachment appearing first.",
       "descData": null,
       "dueReminder": null,
@@ -386,8 +386,8 @@
       "id": "5e6ac5457a370a5f7996463a",
       "checkItemStates": null,
       "closed": false,
-      "dateLastActivity": "2020-04-03T18:30:25.131Z",
-      "desc": "# Headline\n- Cats are great\n\n# Story\n- cats\n\n# Description\nIn the Beginning there were *cats*.\n\nThe domestic cat is a member of the Felidae, a family that had a common ancestor about 10–15 million years ago. The genus Felis diverged from the Felidae around 6–7 million years ago. Results of phylogenetic research confirm that the wild Felis species evolved through sympatric or parapatric speciation, whereas the domestic cat evolved through artificial selection. The domesticated cat and its closest wild ancestor are both diploid organisms that possess 38 chromosomes and roughly 20,000 genes. The leopard cat (Prionailurus bengalensis) was tamed independently in China around 5500 BC. This line of partially domesticated cats leaves no trace in the domestic cat populations of today.\n\n# Date\n- ~1500 BCE / Present\n\n",
+      "dateLastActivity": "2020-04-15T20:09:34.154Z",
+      "desc": "# Identifier\n- cats\n\n# Description\nIn the Beginning there were *cats*.\n\nThe domestic cat is a member of the Felidae, a family that had a common ancestor about 10–15 million years ago. The genus Felis diverged from the Felidae around 6–7 million years ago. Results of phylogenetic research confirm that the wild Felis species evolved through sympatric or parapatric speciation, whereas the domestic cat evolved through artificial selection. The domesticated cat and its closest wild ancestor are both diploid organisms that possess 38 chromosomes and roughly 20,000 genes. The leopard cat (Prionailurus bengalensis) was tamed independently in China around 5500 BC. This line of partially domesticated cats leaves no trace in the domestic cat populations of today.\n\n# Date\n- ~1500 BCE / Present\n\n",
       "descData": {
         "emoji": {}
       },
@@ -401,7 +401,7 @@
         "5e877b247e6e1b70dd0ae056"
       ],
       "manualCoverAttachment": true,
-      "name": "EntryPoint",
+      "name": "Cats Are Great",
       "pos": 65535,
       "shortLink": "6yFjc2in",
       "isTemplate": false,
@@ -434,13 +434,13 @@
         {
           "id": "5e877b247e6e1b70dd0ae056",
           "idBoard": "5e3da51479150702b7e9d323",
-          "name": "EntryPoint",
+          "name": "Story: EntryPoint",
           "color": "purple"
         }
       ],
       "shortUrl": "https://trello.com/c/6yFjc2in",
       "subscribed": false,
-      "url": "https://trello.com/c/6yFjc2in/122-entrypoint",
+      "url": "https://trello.com/c/6yFjc2in/122-cats-are-great",
       "cover": {
         "idAttachment": "5e7937b1908af4372965e164",
         "color": null,
@@ -624,8 +624,8 @@
       "id": "5e7a51a580e2d632405df1cc",
       "checkItemStates": null,
       "closed": false,
-      "dateLastActivity": "2020-04-02T15:23:36.412Z",
-      "desc": "# Quote\nCats choose us, we don't own them.\n\n# Author\n- Kristen Cast\n\n# Date\n- 1986\n\n# Source\n- of California Sotheby Book of Cat Wisdom (1984)",
+      "dateLastActivity": "2020-04-15T22:00:33.880Z",
+      "desc": "# Quote\nCats choose us, we don't own them.\n\n# Attribution\nKristen Cast of California Sotheby Book of Cat Wisdom (1984)",
       "descData": {
         "emoji": {}
       },
@@ -672,7 +672,7 @@
         {
           "id": "5e860378f183fd7852732cb8",
           "idBoard": "5e3da51479150702b7e9d323",
-          "name": "Quote",
+          "name": "Story: Quote",
           "color": "purple"
         }
       ],
@@ -740,7 +740,7 @@
         {
           "id": "5e83a50e82b585260eb35e83",
           "idBoard": "5e3da51479150702b7e9d323",
-          "name": "Text",
+          "name": "Story: Text",
           "color": "purple"
         }
       ],
@@ -808,7 +808,7 @@
         {
           "id": "5e83a50e82b585260eb35e83",
           "idBoard": "5e3da51479150702b7e9d323",
-          "name": "Text",
+          "name": "Story: Text",
           "color": "purple"
         }
       ],
@@ -876,7 +876,7 @@
         {
           "id": "5e8603020047dd503808f3eb",
           "idBoard": "5e3da51479150702b7e9d323",
-          "name": "Text / Image",
+          "name": "Story: Text / Image",
           "color": "purple"
         }
       ],
@@ -1088,7 +1088,7 @@
         {
           "id": "5e8603020047dd503808f3eb",
           "idBoard": "5e3da51479150702b7e9d323",
-          "name": "Text / Image",
+          "name": "Story: Text / Image",
           "color": "purple"
         }
       ],
@@ -1300,7 +1300,7 @@
         {
           "id": "5e83a5b68af81d8e102fbc0b",
           "idBoard": "5e3da51479150702b7e9d323",
-          "name": "Triptych",
+          "name": "Story: Triptych",
           "color": "purple"
         }
       ],
@@ -1600,7 +1600,7 @@
         {
           "id": "5e84d254a830898d829abccc",
           "idBoard": "5e3da51479150702b7e9d323",
-          "name": "Sources",
+          "name": "Story: Sources",
           "color": "purple"
         }
       ],
@@ -5658,91 +5658,91 @@
       "id": "5e3da51479150702b7e9d324",
       "name": "Card Creation Guides / Not Exported",
       "closed": false,
-      "idBoard": "5e3da51479150702b7e9d323",
       "pos": 8192,
-      "subscribed": false,
-      "softLimit": null
+      "softLimit": null,
+      "idBoard": "5e3da51479150702b7e9d323",
+      "subscribed": false
     },
     {
       "id": "5e6ac52f52ec20611cf5c93a",
       "name": "Story",
       "closed": false,
-      "idBoard": "5e3da51479150702b7e9d323",
       "pos": 8704,
-      "subscribed": false,
-      "softLimit": null
+      "softLimit": null,
+      "idBoard": "5e3da51479150702b7e9d323",
+      "subscribed": false
     },
     {
       "id": "5e3da51479150702b7e9d325",
       "name": "Connections",
       "closed": false,
-      "idBoard": "5e3da51479150702b7e9d323",
       "pos": 9216,
-      "subscribed": false,
-      "softLimit": null
+      "softLimit": null,
+      "idBoard": "5e3da51479150702b7e9d323",
+      "subscribed": false
     },
     {
       "id": "5e3da51479150702b7e9d326",
       "name": "Person",
       "closed": false,
-      "idBoard": "5e3da51479150702b7e9d323",
       "pos": 16384,
-      "subscribed": false,
-      "softLimit": null
+      "softLimit": null,
+      "idBoard": "5e3da51479150702b7e9d323",
+      "subscribed": false
     },
     {
       "id": "5e3da51479150702b7e9d328",
       "name": "Animal",
       "closed": false,
-      "idBoard": "5e3da51479150702b7e9d323",
       "pos": 24576,
-      "subscribed": false,
-      "softLimit": null
+      "softLimit": null,
+      "idBoard": "5e3da51479150702b7e9d323",
+      "subscribed": false
     },
     {
       "id": "5e3da51479150702b7e9d327",
       "name": "Place",
       "closed": true,
-      "idBoard": "5e3da51479150702b7e9d323",
       "pos": 32768,
-      "subscribed": false,
-      "softLimit": null
+      "softLimit": null,
+      "idBoard": "5e3da51479150702b7e9d323",
+      "subscribed": false
     },
     {
       "id": "5e41dd7220baa710ebde463f",
       "name": "Breed",
       "closed": false,
-      "idBoard": "5e3da51479150702b7e9d323",
       "pos": 90112,
-      "subscribed": false,
-      "softLimit": null
+      "softLimit": null,
+      "idBoard": "5e3da51479150702b7e9d323",
+      "subscribed": false
     },
     {
       "id": "5e3da51479150702b7e9d329",
       "name": "Event",
       "closed": true,
-      "idBoard": "5e3da51479150702b7e9d323",
       "pos": 114688,
-      "subscribed": false,
-      "softLimit": null
+      "softLimit": null,
+      "idBoard": "5e3da51479150702b7e9d323",
+      "subscribed": false
     },
     {
       "id": "5e41e1f01189be6575cd1eaa",
       "name": "Event",
       "closed": false,
-      "idBoard": "5e3da51479150702b7e9d323",
       "pos": 155648,
-      "subscribed": false,
-      "softLimit": null
+      "softLimit": null,
+      "idBoard": "5e3da51479150702b7e9d323",
+      "subscribed": false
     },
     {
       "id": "5e3da51479150702b7e9d32a",
       "name": "Technology",
       "closed": true,
-      "idBoard": "5e3da51479150702b7e9d323",
       "pos": 180224,
-      "subscribed": false,
-      "softLimit": null
+      "softLimit": null,
+      "idBoard": "5e3da51479150702b7e9d323",
+      "subscribed": false
     }
   ]
 }

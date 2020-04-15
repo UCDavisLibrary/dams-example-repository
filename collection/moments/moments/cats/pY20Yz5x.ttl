@@ -132,6 +132,7 @@
 
 <#XrpOVlkh>  a          schema:WebPage , ucdlib:Story ;
         schema:headline   "The Amazing Family Felidae" ;
+        schema:label      "Story: Text" ;
         schema:license    <http://rightsstatements.org/vocab/CNE/1.0/> ;
         schema:name       "Paragraph 1" ;
         schema:publisher  <http://id.loc.gov/authorities/names/no2008108707> ;
@@ -140,9 +141,10 @@
 <#5PL2z7dx_rev>  a  ucdlib:dependent , schema:significantLinks ;
         schema:name  "dependent" .
 
-<#JSl7trn1>  a          schema:WebPage , ucdlib:Story ;
+<#JSl7trn1>  a          ucdlib:Story , schema:WebPage ;
         schema:caption    "A cat in snow" ;
         schema:headline   "Habitats" ;
+        schema:label      "Story: Text / Image" ;
         schema:license    <http://rightsstatements.org/vocab/CNE/1.0/> ;
         schema:name       "Image Left" ;
         schema:publisher  <http://id.loc.gov/authorities/names/no2008108707> ;
@@ -172,6 +174,7 @@
 
 <#jmwsGQzJ>  a          schema:WebPage , ucdlib:Story ;
         schema:headline   "Cat whiskers" ;
+        schema:label      "Story: Text" ;
         schema:license    <http://rightsstatements.org/vocab/CNE/1.0/> ;
         schema:name       "Paragraph 2" ;
         schema:publisher  <http://id.loc.gov/authorities/names/no2008108707> ;
@@ -183,9 +186,10 @@
         schema:name         "is instance of " , "The Tiny Whinies are Long Haired Cats" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> .
 
-<#GPKv1RCM>  a          schema:WebPage , ucdlib:Story ;
+<#GPKv1RCM>  a          ucdlib:Story , schema:WebPage ;
         schema:caption    "A tame barn cat" ;
         schema:headline   "Farm/Barn Cats" ;
+        schema:label      "Story: Text / Image" ;
         schema:license    <http://rightsstatements.org/vocab/CNE/1.0/> ;
         schema:name       "Image Right" ;
         schema:publisher  <http://id.loc.gov/authorities/names/no2008108707> ;
@@ -276,13 +280,11 @@
         <#DAZJB1ba_rev>       <#poAqymRE> .
 
 <#HkTw741X>  a            schema:WebPage , ucdlib:Story ;
-        schema:author       "Kristen Cast" ;
-        schema:description  "Cats choose us, we don't own them." ;
+        schema:description  "Kristen Cast of California Sotheby Book of Cat Wisdom (1984)" , "Cats choose us, we don't own them." ;
+        schema:label        "Story: Quote" ;
         schema:license      <http://rightsstatements.org/vocab/CNE/1.0/> ;
         schema:name         "Quote" ;
-        schema:publication  "of California Sotheby Book of Cat Wisdom (1984)" ;
-        schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
-        schema:temporal     "1986" .
+        schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> .
 
 <#mrpB0Hyi>  a            ucdlib:is_instance_of_ , schema:significantLinks ;
         schema:description  "Although we can't be sure, Ashley looks alot like these British Short Hairs" ;
@@ -303,6 +305,7 @@
                             schema:caption     "Cat lying on rice straw" ;
                             schema:contentUrl  "1280px-Felis_silvestris_catus_lying_on_rice_straw.jpg"
                           ] ;
+        schema:label      "Story: Triptych" ;
         schema:license    <http://rightsstatements.org/vocab/CNE/1.0/> ;
         schema:name       "Triptych" ;
         schema:publisher  <http://id.loc.gov/authorities/names/no2008108707> .
@@ -392,6 +395,7 @@
         <#EY1KO8qp_rev>       <#QV3mqDZC> .
 
 <#tRYEwPsg>  a            schema:WebPage , ucdlib:Story ;
+        schema:label        "Story: Sources" ;
         schema:license      <http://rightsstatements.org/vocab/CNE/1.0/> ;
         schema:name         "Sources" ;
         schema:publication  "Rowan, Andrew N, 2006, The State of the Animals." , "Wade N, 2007, [Study Traces Cat's Ancestry to Middle East](https://web.archive.org/web/20090418082840/http://www.nytimes.com/2007/06/29/science/29cat.html)." ;
@@ -424,9 +428,9 @@
 
 <#6yFjc2in>  a            schema:WebPage , ucdlib:Story ;
         schema:description  "In the Beginning there were *cats*.\n\n The domestic cat is a member of the Felidae, a family that had a common ancestor about 10–15 million years ago. The genus Felis diverged from the Felidae around 6–7 million years ago. Results of phylogenetic research confirm that the wild Felis species evolved through sympatric or parapatric speciation, whereas the domestic cat evolved through artificial selection. The domesticated cat and its closest wild ancestor are both diploid organisms that possess 38 chromosomes and roughly 20,000 genes. The leopard cat (Prionailurus bengalensis) was tamed independently in China around 5500 BC. This line of partially domesticated cats leaves no trace in the domestic cat populations of today." ;
-        schema:headline     "Cats are great" ;
+        schema:label        "Story: EntryPoint" ;
         schema:license      <http://rightsstatements.org/vocab/CNE/1.0/> ;
-        schema:name         "EntryPoint" ;
+        schema:name         "Cats Are Great" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:story        "cats" ;
         schema:temporal     "~1500 BCE / Present" ;
