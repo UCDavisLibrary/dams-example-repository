@@ -134,7 +134,7 @@
         schema:headline   "The Amazing Family Felidae" ;
         schema:label      "Story: Text" ;
         schema:license    <http://rightsstatements.org/vocab/CNE/1.0/> ;
-        schema:name       "Paragraph 1" ;
+        schema:name       "The Amazing Family Felidae" ;
         schema:publisher  <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:text       "The family Felidae, to which all living feline species belong, arose about ten to eleven million years ago. This family is divided into eight major phylogenetic lineages. The domestic cat is a member of the Felis lineage. A number of investigations have shown that all domestic varieties of cats come from a single species of the Felis lineage, Felis catus. Variations of this lineage are found all over the world and up until recently scientists have had a hard time pinning down exactly which region gave rise to modern domestic cat breeds. Scientists believed that it was not just one incident that led to the domesticated cat but multiple, independent incidents at different places that lead to these breeds. More complications arose from the fact that the wildcat population as a whole is very widespread and very similar to one another. These variations of wild cat can and will interbreed freely with one another when in close contact further blurring the lines between taxa. Recent DNA studies, advancement in genetic technologies, and a better understanding of DNA and genetics as a whole has helped make discoveries in the evolutionary history of the domestic cat." .
 
@@ -144,11 +144,11 @@
 <#JSl7trn1>  a          ucdlib:Story , schema:WebPage ;
         schema:caption    "A cat in snow" ;
         schema:headline   "Habitats" ;
-        schema:label      "Story: Text / Image" ;
+        schema:label      "Story: Image / Text" ;
         schema:license    <http://rightsstatements.org/vocab/CNE/1.0/> ;
-        schema:name       "Image Left" ;
+        schema:name       "Habitats" ;
         schema:publisher  <http://id.loc.gov/authorities/names/no2008108707> ;
-        schema:text       "The domestic cat is a cosmopolitan species and occurs across much of the world. It is adaptable and now present on all continents except Antarctica, and on 118 of the 131 main groups of islands—even on isolated islands such as the Kerguelen Islands. Due to its ability to thrive in almost any terrestrial habitat, it is among the world's most invasive species. As it is little altered from the wildcat, it can readily interbreed with the wildcat. This hybridization poses a danger to the genetic distinctiveness of some wildcat populations, particularly in Scotland and Hungary and possibly also the Iberian Peninsula. It lives on small islands with no human inhabitants. Feral cats can live in forests, grasslands, tundra, coastal areas, agricultural land, scrublands, urban areas, and wetlands." ;
+        schema:text       "A few attempts to build a cat census have been made over the years, both through associations or national and international organizations (such as the Canadian Federation of Humane Societies's one) and over the Internet, but such a task does not seem simple to achieve. General estimates for the global population of domestic cats range widely from anywhere between 200 million to 600 million. Walter Chandoha made his career photographing cats after his 1949 images of Loco, an especially charming stray taken in, were published around the world. He is reported to have photographed 90,000 cats during his career and maintained an archive of 225,000 images that he drew from for publications during his lifetime" , "The domestic cat is a cosmopolitan species and occurs across much of the world. It is adaptable and now present on all continents except Antarctica, and on 118 of the 131 main groups of islands—even on isolated islands such as the Kerguelen Islands. Due to its ability to thrive in almost any terrestrial habitat, it is among the world's most invasive species. As it is little altered from the wildcat, it can readily interbreed with the wildcat. This hybridization poses a danger to the genetic distinctiveness of some wildcat populations, particularly in Scotland and Hungary and possibly also the Iberian Peninsula. It lives on small islands with no human inhabitants. Feral cats can live in forests, grasslands, tundra, coastal areas, agricultural land, scrublands, urban areas, and wetlands." ;
         schema:thumbnail  <JSl7trn1/Felis_catus-cat_on_snow.jpg> .
 
 <#wJRs9ysG_rev>  a  ucdlib:has_instance , schema:significantLinks ;
@@ -176,7 +176,7 @@
         schema:headline   "Cat whiskers" ;
         schema:label      "Story: Text" ;
         schema:license    <http://rightsstatements.org/vocab/CNE/1.0/> ;
-        schema:name       "Paragraph 2" ;
+        schema:name       "Cat Whiskers" ;
         schema:publisher  <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:text       "To aid with navigation and sensation, cats have dozens of movable whiskers (vibrissae) over their body, especially their faces. These provide information on the width of gaps and on the location of objects in the dark, both by touching objects directly and by sensing air currents; they also trigger protective blink reflexes to protect the eyes from damage" .
 
@@ -191,7 +191,7 @@
         schema:headline   "Farm/Barn Cats" ;
         schema:label      "Story: Text / Image" ;
         schema:license    <http://rightsstatements.org/vocab/CNE/1.0/> ;
-        schema:name       "Image Right" ;
+        schema:name       "Farm/Barn Cats" ;
         schema:publisher  <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:text       "The farm cat, also known as a barn cat, is a domestic cat, usually of mixed breed, that lives primarily out-of-doors, in a feral or semi-feral condition on agricultural properties, usually sheltering in outbuildings. They eat assorted vermin such as rodents and other small animals that live in or around outbuildings and farm fields. The need for the farm cat may have been the original reason cats were domesticated, to keep rodents from consuming or contaminating grain crops stored for later human consumption. They are still commonly kept for their effectiveness at controlling undesired vermin found on farms and ranches, which would otherwise eat or contaminate crops, especially grain or feed stocks. Farm cats hunt the initial rodent population, and pheromones keep further rodents from filling the void." ;
         schema:thumbnail  <GPKv1RCM/HappyBarnCat.jpg> .
@@ -268,7 +268,7 @@
         schema:name             "Stealth Siamese Cat" ;
         schema:publisher        <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:relatedLink      <https://en.wikipedia.org/wiki/Snowshoe_cat> , <https://www.wayofcats.com/blog/unbreeds-the-stealth-siamese-cat/31673> ;
-        schema:relatedLinkText  "Snowshoe Cat" , "Unbreeds: The Stealth Siamese Cat" ;
+        schema:relatedLinkText  "Unbreeds: The Stealth Siamese Cat" , "Snowshoe Cat" ;
         schema:spatial          "Thailand" ;
         schema:spatial          [ a                 schema:Place ;
                                   schema:latitude   "13.0108743"^^<http://www.w3.org/2001/XMLSchema#double> ;
