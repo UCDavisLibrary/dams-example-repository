@@ -106,7 +106,7 @@
 <#5PL2z7dx>  a            ucdlib:guardian , schema:significantLinks ;
         schema:description  "# Location\n* https://goo.gl/maps/Y64NNcxvA9wm2Vwa7\n" ;
         schema:license      <http://rightsstatements.org/vocab/CNE/1.0/> ;
-        schema:name         "guardian" , "Quinn hosts Ashley" ;
+        schema:name         "guardian" , "Quinn Hart has Ashley" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> .
 
 <#mN12hUWp>  a            ucdlib:guardian , schema:significantLinks ;
