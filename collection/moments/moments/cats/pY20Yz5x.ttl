@@ -5,6 +5,9 @@
 @prefix wdt:   <http://www.wikidata.org/prop/direct/> .
 @prefix w:     <http://library.ucdavis.edu/wine-ontology#> .
 
+<#R9al4rS9_rev>  a  ucdlib:participant , schema:significantLinks ;
+        schema:name  "participant" .
+
 <#Tsm36okM>  a                schema:WebPage , ucdlib:Animal ;
         schema:creator          "Quinn Hart" ;
         schema:creator          <https://www.library.ucdavis.edu/author/quinn-hart/> ;
@@ -44,6 +47,12 @@
         schema:temporal         "2017" ;
         schema:thumbnail        <6RLjRfHs/Gimli.jpg> .
 
+<#zhtoa6lr>  a            ucdlib:guardian , schema:significantLinks ;
+        schema:description  "Could describe anything about how Leigh and Marie became a pair" ;
+        schema:license      <http://rightsstatements.org/vocab/CNE/1.0/> ;
+        schema:name         "guardian" , "Leigh has Marie" ;
+        schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> .
+
 <#r9pfmvZy>  a            ucdlib:Animal , schema:WebPage ;
         schema:creator      "李晓莉" ;
         schema:description  "Not a cat" ;
@@ -58,6 +67,12 @@
                             ] ;
         schema:temporal     "2018" ;
         schema:thumbnail    <r9pfmvZy/%E5%A5%A5%E6%96%AF%E5%8D%A1%E5%9C%A8%E5%85%AC%E5%9B%AD.jpg> .
+
+<#R9al4rS9>  a            ucdlib:attended , schema:significantLinks ;
+        schema:description  "Chester managed to makeit to Catcon in 2020.  He met many new friends" ;
+        schema:license      <http://rightsstatements.org/vocab/CNE/1.0/> ;
+        schema:name         "attended" , "Chester Made it to 2020 CatCon!" ;
+        schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> .
 
 <#mN12hUWp_rev>  a  ucdlib:dependent , schema:significantLinks ;
         schema:name  "dependent" .
@@ -77,7 +92,8 @@
                                   schema:name       "1201+S+Figueroa+St,+Los+Angeles,+CA+90015"
                                 ] ;
         schema:temporal         "2020" ;
-        schema:thumbnail        <Kwg7igEZ/Adoptee_AH-WEB2019.jpg> .
+        schema:thumbnail        <Kwg7igEZ/Adoptee_AH-WEB2019.jpg> ;
+        <#R9al4rS9_rev>       <#poAqymRE> .
 
 <#U4UASHMg>  a                schema:WebPage , schema:Person ;
         schema:license          <http://rightsstatements.org/vocab/CNE/1.0/> ;
@@ -110,9 +126,9 @@
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> .
 
 <#mN12hUWp>  a            ucdlib:guardian , schema:significantLinks ;
-        schema:description  "These are Leigh's animals" ;
+        schema:description  "This one is a bit different, since it treats two cats as one.  Not sure that would really be a good plan" ;
         schema:license      <http://rightsstatements.org/vocab/CNE/1.0/> ;
-        schema:name         "guardian" , "Leigh Dragoon has Marie and Fiona & Finn" ;
+        schema:name         "guardian" , "Leigh also has Fiona & Finn" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> .
 
 <#vkz6f49f>  a            ucdlib:is_instance_of_ , schema:significantLinks ;
@@ -154,6 +170,12 @@
 <#wJRs9ysG_rev>  a  ucdlib:has_instance , schema:significantLinks ;
         schema:name  "has instance" .
 
+<#K8zyLFjd>  a            ucdlib:guardian , schema:significantLinks ;
+        schema:description  "These are Kimmy's animals." ;
+        schema:license      <http://rightsstatements.org/vocab/CNE/1.0/> ;
+        schema:name         "guardian" , "Micha also belongs to Kimmy" ;
+        schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> .
+
 <#8IiOdITK>  a                ucdlib:Breed , schema:WebPage ;
         schema:creator          "Source name" , "By K B - originally posted to Flickr as Photo by request! - Vince on a walk., CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=6441523" ;
         schema:description      "A domestic long-haired cat is a cat of mixed ancestry – thus not belonging to any particular recognised cat breed – possessing a coat of semi-long to long fur. Domestic long-haired cats should not be confused with the British Longhair, American Longhair, or other breeds with \"Longhair\" names, which are standardized breeds defined by various registries. Domestic long-haireds are the second most popular cat in the United States after the domestic short-haired; one in ten of the 90 million cats in the US is a domestic long-hair. Other generic terms are long-haired house cat and, in British English, long-haired moggie." ;
@@ -170,7 +192,7 @@
                                 ] ;
         schema:temporal         "1521" ;
         schema:thumbnail        <8IiOdITK/Cat_harness_and_leash.jpg> ;
-        <#Zjug5G7h>           <#bRkZTUGL> .
+        <#Zjug5G7h_rev>       <#bRkZTUGL> .
 
 <#jmwsGQzJ>  a          schema:WebPage , ucdlib:Story ;
         schema:headline   "Cat whiskers" ;
@@ -210,6 +232,16 @@
         schema:relatedLinkText  "Bengal Cat" ;
         schema:spatial          "[United States](https://goo.gl/maps/A1QCfaoHpwKvkkPL6)" ;
         schema:thumbnail        <8Q0KPdUx/800px-Paintedcats_Red_Star_standing.jpg> .
+
+<#K8zyLFjd_rev>  a  ucdlib:dependent , schema:significantLinks ;
+        schema:name  "dependent" .
+
+<#IezM9YJ7>  a          schema:WebPage , schema:Person ;
+        schema:license    <http://rightsstatements.org/vocab/CNE/1.0/> ;
+        schema:name       "Leigh" ;
+        schema:publisher  <http://id.loc.gov/authorities/names/no2008108707> ;
+        <#mN12hUWp>     <#bRkZTUGL> ;
+        <#zhtoa6lr>     <#WJPtqS3y> .
 
 <#wJRs9ysG>  a            ucdlib:is_instance_of_ , schema:significantLinks ;
         schema:description  "" ;
@@ -255,10 +287,14 @@
                                 ] ;
         schema:temporal         "2016" ;
         schema:thumbnail        <poAqymRE/Chester.jpg> ;
-        <#DAZJB1ba>           <#zg9k9Z8u> .
+        <#DAZJB1ba>           <#zg9k9Z8u> ;
+        <#R9al4rS9>           <#Kwg7igEZ> .
 
 <#vkz6f49f_rev>  a  ucdlib:has_instance , schema:significantLinks ;
         schema:name  "has instance" .
+
+<#zhtoa6lr_rev>  a  ucdlib:dependent , schema:significantLinks ;
+        schema:name  "dependent" .
 
 <#zg9k9Z8u>  a                schema:WebPage , ucdlib:Breed ;
         schema:creator          "NancyAyumi / iStock / Getty Images Plus" ;
@@ -330,7 +366,7 @@
                                 ] ;
         schema:temporal         "2018" ;
         schema:thumbnail        <QV3mqDZC/Mochi.jpg> ;
-        <#EY1KO8qp>           <#IQATijmC> .
+        <#EY1KO8qp_rev>       <#69kb7Jb0> .
 
 <#WJPtqS3y>  a                ucdlib:Animal , schema:WebPage ;
         schema:creator          "Leigh Dragoon" ;
@@ -348,8 +384,8 @@
                                 ] ;
         schema:temporal         "2019" ;
         schema:thumbnail        <WJPtqS3y/Marie.jpg> ;
-        <#mN12hUWp>           <#bRkZTUGL> ;
-        <#vkz6f49f_rev>       <#yvH439FE> .
+        <#vkz6f49f>           <#yvH439FE> ;
+        <#zhtoa6lr_rev>       <#IezM9YJ7> .
 
 <#yvH439FE>  a                ucdlib:Breed , schema:WebPage ;
         schema:creator          "Wikicommons" ;
@@ -363,7 +399,14 @@
         schema:spatial          "Google Maps link" , "Location name to display (Ex: Livermore, California)" ;
         schema:temporal         "XXXX" ;
         schema:thumbnail        <yvH439FE/Socks-clinton.jpg> ;
-        <#vkz6f49f>           <#WJPtqS3y> .
+        <#vkz6f49f_rev>       <#WJPtqS3y> .
+
+<#69kb7Jb0>  a          schema:WebPage , schema:Person ;
+        schema:license    <http://rightsstatements.org/vocab/CNE/1.0/> ;
+        schema:name       "Kimmy" ;
+        schema:publisher  <http://id.loc.gov/authorities/names/no2008108707> ;
+        <#EY1KO8qp>     <#QV3mqDZC> ;
+        <#K8zyLFjd>     <#IQATijmC> .
 
 <#k70zQ76t>  a                ucdlib:Breed , schema:WebPage ;
         schema:description      "The American Shorthair (ASH) is a breed of domestic cat believed to be descended from European cats brought to North America by early settlers to protect valuable cargo from mice and rats.   From [Wikipedia](https://en.wikipedia.org/wiki/American_Shorthair)" ;
@@ -392,7 +435,7 @@
                                 ] ;
         schema:temporal         "2018" ;
         schema:thumbnail        <IQATijmC/Mika.jpg> ;
-        <#EY1KO8qp_rev>       <#QV3mqDZC> .
+        <#K8zyLFjd_rev>       <#69kb7Jb0> .
 
 <#tRYEwPsg>  a            schema:WebPage , ucdlib:Story ;
         schema:label        "Story: Sources" ;
@@ -402,9 +445,9 @@
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> .
 
 <#EY1KO8qp>  a            ucdlib:guardian , schema:significantLinks ;
-        schema:description  "These are Kimmy's animals." ;
+        schema:description  "Description of Kimmy and Mochi partnership." ;
         schema:license      <http://rightsstatements.org/vocab/CNE/1.0/> ;
-        schema:name         "guardian" , "Kimmy Hescock has Mochi and Mika" ;
+        schema:name         "guardian" , "One of Kimmy's Cat's is Mochi" ;
         schema:publisher    <http://id.loc.gov/authorities/names/no2008108707> .
 
 <#bRkZTUGL>  a                ucdlib:Animal , schema:WebPage ;
@@ -422,9 +465,9 @@
                                   schema:name       "Sacramento,+CA"
                                 ] ;
         schema:temporal         "2019" ;
-        schema:thumbnail        <bRkZTUGL/Fiona_%26_Finn.jpg> ;
-        <#Zjug5G7h_rev>       <#8IiOdITK> ;
-        <#mN12hUWp_rev>       <#WJPtqS3y> .
+        schema:thumbnail        <bRkZTUGL/Fiona_&_Finn.jpg> ;
+        <#Zjug5G7h>           <#8IiOdITK> ;
+        <#mN12hUWp_rev>       <#IezM9YJ7> .
 
 <#6yFjc2in>  a            schema:WebPage , ucdlib:Story ;
         schema:description  "In the Beginning there were *cats*.\n\n The domestic cat is a member of the Felidae, a family that had a common ancestor about 10–15 million years ago. The genus Felis diverged from the Felidae around 6–7 million years ago. Results of phylogenetic research confirm that the wild Felis species evolved through sympatric or parapatric speciation, whereas the domestic cat evolved through artificial selection. The domesticated cat and its closest wild ancestor are both diploid organisms that possess 38 chromosomes and roughly 20,000 genes. The leopard cat (Prionailurus bengalensis) was tamed independently in China around 5500 BC. This line of partially domesticated cats leaves no trace in the domestic cat populations of today." ;

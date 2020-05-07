@@ -2,93 +2,93 @@
   "@graph" : [ {
     "@id" : "_:b0",
     "@type" : "schema:Place",
-    "schema:latitude" : 48.8661299,
-    "schema:longitude" : 2.3357972,
-    "name" : "Le+Grand+Véfour"
+    "schema:latitude" : 46.2050242,
+    "schema:longitude" : 6.1090692,
+    "name" : "Geneva,+Switzerland"
   }, {
     "@id" : "_:b1",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.6025142,
-    "schema:longitude" : -122.599904,
-    "name" : "Chateau+Montelena+Winery"
-  }, {
-    "@id" : "_:b10",
     "@type" : "schema:Place",
     "schema:latitude" : 38.361717,
     "schema:longitude" : -122.4194027,
     "name" : "Veedercrest+Ranch"
   }, {
+    "@id" : "_:b10",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.5015586,
+    "schema:longitude" : -122.4187834,
+    "name" : "Heitz+Wine+Cellar"
+  }, {
     "@id" : "_:b11",
-    "@type" : "schema:Place",
-    "schema:latitude" : 44.8166517,
-    "schema:longitude" : -0.6108006,
-    "name" : "Château+Haut-Brion"
-  }, {
-    "@id" : "_:b12",
-    "@type" : "schema:Place",
-    "schema:latitude" : 48.8503493,
-    "schema:longitude" : 2.4199647,
-    "name" : "Institut+national+de+l'origine+et+de+la+qualité+(INAO)"
-  }, {
-    "@id" : "_:b13",
     "@type" : "schema:Place",
     "schema:latitude" : 38.891154,
     "schema:longitude" : -77.0318748,
     "name" : "Smithsonian+National+Museum+of+American+History"
   }, {
+    "@id" : "_:b12",
+    "@type" : "schema:Place",
+    "schema:latitude" : 55.5807482,
+    "schema:longitude" : 36.825156,
+    "name" : "Moscow,+Russia"
+  }, {
+    "@id" : "_:b13",
+    "@type" : "schema:Place",
+    "schema:latitude" : 48.885646,
+    "schema:longitude" : 2.4099673,
+    "name" : "Magazines.fr+-+Tous+les+magazines+du+groupe+Marie+Claire"
+  }, {
     "@id" : "_:b14",
     "@type" : "schema:Place",
-    "schema:latitude" : 33.9459362,
-    "schema:longitude" : -117.5396128,
-    "name" : "Riverside,+CA"
+    "schema:latitude" : 38.6025142,
+    "schema:longitude" : -122.599904,
+    "name" : "Chateau+Montelena+Winery"
   }, {
     "@id" : "_:b15",
     "@type" : "schema:Place",
-    "schema:latitude" : 46.9342374,
-    "schema:longitude" : 4.7223589,
-    "name" : "Domaine+Ramonet"
+    "schema:latitude" : 45.1638323,
+    "schema:longitude" : -0.7424355,
+    "name" : "Château+Léoville-Las+Cases"
   }, {
     "@id" : "_:b16",
     "@type" : "schema:Place",
-    "schema:latitude" : 51.5285582,
-    "schema:longitude" : -0.2416795,
-    "name" : "London,+UK"
+    "schema:latitude" : 38.5255567,
+    "schema:longitude" : -122.4985412,
+    "name" : "Freemark+Abbey+Winery"
   }, {
     "@id" : "_:b17",
     "@type" : "schema:Place",
-    "schema:latitude" : 46.2050242,
-    "schema:longitude" : 6.1090692,
-    "name" : "Geneva,+Switzerland"
+    "schema:latitude" : 48.870834,
+    "schema:longitude" : 2.3282383,
+    "name" : "InterContinental+Paris+-+Le+Grand"
   }, {
     "@id" : "_:b18",
-    "@type" : "schema:Place",
-    "schema:latitude" : 47.0235971,
-    "schema:longitude" : 4.8359425,
-    "name" : "Oenothèque+Joseph+Drouhin"
-  }, {
-    "@id" : "_:b19",
     "@type" : "schema:Place",
     "schema:latitude" : 34.1938654,
     "schema:longitude" : -118.1712585,
     "name" : "Altadena,+CA"
   }, {
+    "@id" : "_:b19",
+    "@type" : "schema:Place",
+    "schema:latitude" : 45.2130751,
+    "schema:longitude" : -0.7720411,
+    "name" : "Château+Mouton+Rothschild"
+  }, {
     "@id" : "_:b2",
     "@type" : "schema:Place",
-    "schema:latitude" : 48.8690432,
-    "schema:longitude" : 2.3211506,
-    "name" : "25+Rue+Royale,+75008+Paris,+France"
+    "schema:latitude" : 38.3992276,
+    "schema:longitude" : -122.3257286,
+    "name" : "Stag's+Leap+Wine+Cellars"
   }, {
     "@id" : "_:b20",
     "@type" : "schema:Place",
-    "schema:latitude" : 36.4701378,
-    "schema:longitude" : -121.2320202,
-    "name" : "Chalone+Vineyard"
+    "schema:latitude" : 47.0235971,
+    "schema:longitude" : 4.8359425,
+    "name" : "Oenothèque+Joseph+Drouhin"
   }, {
     "@id" : "_:b21",
     "@type" : "schema:Place",
-    "schema:latitude" : 38.365188,
-    "schema:longitude" : -122.4256317,
-    "name" : "Mayacamas+Vineyards+&+Winery"
+    "schema:latitude" : 37.167834,
+    "schema:longitude" : -122.0479977,
+    "name" : "David+Bruce+Winery"
   }, {
     "@id" : "_:b22",
     "@type" : "schema:Place",
@@ -110,63 +110,63 @@
   }, {
     "@id" : "_:b25",
     "@type" : "schema:Place",
-    "schema:latitude" : 48.870834,
-    "schema:longitude" : 2.3282383,
-    "name" : "InterContinental+Paris+-+Le+Grand"
+    "schema:latitude" : 48.8690432,
+    "schema:longitude" : 2.3211506,
+    "name" : "25+Rue+Royale,+75008+Paris,+France"
   }, {
     "@id" : "_:b26",
     "@type" : "schema:Place",
-    "schema:latitude" : 48.8497866,
-    "schema:longitude" : 2.3527581,
-    "name" : "La+Tour+d'Argent"
+    "schema:latitude" : 45.0143201,
+    "schema:longitude" : -0.6549911,
+    "name" : "33460+Labarde,+France"
   }, {
     "@id" : "_:b27",
-    "@type" : "schema:Place",
-    "schema:latitude" : 48.8374891,
-    "schema:longitude" : 2.2253054,
-    "name" : "Boulogne-Billancourt,+France"
-  }, {
-    "@id" : "_:b28",
-    "@type" : "schema:Place",
-    "schema:latitude" : 45.1638323,
-    "schema:longitude" : -0.7424355,
-    "name" : "Château+Léoville-Las+Cases"
-  }, {
-    "@id" : "_:b29",
     "@type" : "schema:Place",
     "schema:latitude" : 47.1617666,
     "schema:longitude" : 4.9529227,
     "name" : "Domaine+Romanée+Conti"
   }, {
+    "@id" : "_:b28",
+    "@type" : "schema:Place",
+    "schema:latitude" : 33.9459362,
+    "schema:longitude" : -117.5396128,
+    "name" : "Riverside,+CA"
+  }, {
+    "@id" : "_:b29",
+    "@type" : "schema:Place",
+    "schema:latitude" : 43.0657306,
+    "schema:longitude" : 17.5267338,
+    "name" : "Desne,+Croatia"
+  }, {
     "@id" : "_:b3",
     "@type" : "schema:Place",
-    "schema:latitude" : 37.167834,
-    "schema:longitude" : -122.0479977,
-    "name" : "David+Bruce+Winery"
+    "schema:latitude" : 48.8503493,
+    "schema:longitude" : 2.4199647,
+    "name" : "Institut+national+de+l'origine+et+de+la+qualité+(INAO)"
   }, {
     "@id" : "_:b30",
     "@type" : "schema:Place",
-    "schema:latitude" : 55.5807482,
-    "schema:longitude" : 36.825156,
-    "name" : "Moscow,+Russia"
+    "schema:latitude" : 48.8661299,
+    "schema:longitude" : 2.3357972,
+    "name" : "Le+Grand+Véfour"
   }, {
     "@id" : "_:b31",
+    "@type" : "schema:Place",
+    "schema:latitude" : 46.9770936,
+    "schema:longitude" : 4.7728859,
+    "name" : "1+Rue+Charles+Giraud,+21190+Meursault,+France"
+  }, {
+    "@id" : "_:b32",
     "@type" : "schema:Place",
     "schema:latitude" : 45.2465895,
     "schema:longitude" : -0.7639582,
     "name" : "Château+Montrose"
   }, {
-    "@id" : "_:b32",
+    "@id" : "_:b33",
     "@type" : "schema:Place",
     "schema:latitude" : 38.50707,
     "schema:longitude" : -122.4940895,
     "name" : "Spring+Mountain+Vineyard"
-  }, {
-    "@id" : "_:b33",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.5255567,
-    "schema:longitude" : -122.4985412,
-    "name" : "Freemark+Abbey+Winery"
   }, {
     "@id" : "_:b34",
     "@type" : "schema:Place",
@@ -176,75 +176,75 @@
   }, {
     "@id" : "_:b35",
     "@type" : "schema:Place",
-    "schema:latitude" : 43.0657306,
-    "schema:longitude" : 17.5267338,
-    "name" : "Desne,+Croatia"
+    "schema:latitude" : 48.8374891,
+    "schema:longitude" : 2.2253054,
+    "name" : "Boulogne-Billancourt,+France"
   }, {
     "@id" : "_:b36",
-    "@type" : "schema:Place",
-    "schema:latitude" : 45.0143201,
-    "schema:longitude" : -0.6549911,
-    "name" : "33460+Labarde,+France"
-  }, {
-    "@id" : "_:b37",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.3871827,
-    "schema:longitude" : -122.3148005,
-    "name" : "Clos+Du+Val"
-  }, {
-    "@id" : "_:b38",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.3992276,
-    "schema:longitude" : -122.3257286,
-    "name" : "Stag's+Leap+Wine+Cellars"
-  }, {
-    "@id" : "_:b39",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.602514,
-    "schema:longitude" : -122.5999107,
-    "name" : "Chateau+Montelena+Winery"
-  }, {
-    "@id" : "_:b4",
-    "@type" : "schema:Place",
-    "schema:latitude" : 46.9770936,
-    "schema:longitude" : 4.7728859,
-    "name" : "1+Rue+Charles+Giraud,+21190+Meursault,+France"
-  }, {
-    "@id" : "_:b40",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.5015586,
-    "schema:longitude" : -122.4187834,
-    "name" : "Heitz+Wine+Cellar"
-  }, {
-    "@id" : "_:b5",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.3992276,
-    "schema:longitude" : -122.3257286,
-    "name" : "Stag's+Leap+Wine+Cellars"
-  }, {
-    "@id" : "_:b6",
     "@type" : "schema:Place",
     "schema:latitude" : 48.8701734,
     "schema:longitude" : 2.3031831,
     "name" : "Taillevent"
   }, {
+    "@id" : "_:b37",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.602514,
+    "schema:longitude" : -122.5999107,
+    "name" : "Chateau+Montelena+Winery"
+  }, {
+    "@id" : "_:b38",
+    "@type" : "schema:Place",
+    "schema:latitude" : 46.9342374,
+    "schema:longitude" : 4.7223589,
+    "name" : "Domaine+Ramonet"
+  }, {
+    "@id" : "_:b39",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.3992276,
+    "schema:longitude" : -122.3257286,
+    "name" : "Stag's+Leap+Wine+Cellars"
+  }, {
+    "@id" : "_:b4",
+    "@type" : "schema:Place",
+    "schema:latitude" : 51.5285582,
+    "schema:longitude" : -0.2416795,
+    "name" : "London,+UK"
+  }, {
+    "@id" : "_:b40",
+    "@type" : "schema:Place",
+    "schema:latitude" : 44.8166517,
+    "schema:longitude" : -0.6108006,
+    "name" : "Château+Haut-Brion"
+  }, {
+    "@id" : "_:b5",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.365188,
+    "schema:longitude" : -122.4256317,
+    "name" : "Mayacamas+Vineyards+&+Winery"
+  }, {
+    "@id" : "_:b6",
+    "@type" : "schema:Place",
+    "schema:latitude" : 48.8497866,
+    "schema:longitude" : 2.3527581,
+    "name" : "La+Tour+d'Argent"
+  }, {
     "@id" : "_:b7",
     "@type" : "schema:Place",
-    "schema:latitude" : 48.885646,
-    "schema:longitude" : 2.4099673,
-    "name" : "Magazines.fr+-+Tous+les+magazines+du+groupe+Marie+Claire"
+    "schema:latitude" : 36.4701378,
+    "schema:longitude" : -121.2320202,
+    "name" : "Chalone+Vineyard"
   }, {
     "@id" : "_:b8",
-    "@type" : "schema:Place",
-    "schema:latitude" : 45.2130751,
-    "schema:longitude" : -0.7720411,
-    "name" : "Château+Mouton+Rothschild"
-  }, {
-    "@id" : "_:b9",
     "@type" : "schema:Place",
     "schema:latitude" : 37.299637,
     "schema:longitude" : -122.1180374,
     "name" : "Ridge+Vineyards"
+  }, {
+    "@id" : "_:b9",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.3871827,
+    "schema:longitude" : -122.3148005,
+    "name" : "Clos+Du+Val"
   }, {
     "@id" : "11W8hjAo",
     "@type" : [ "schema:significantLinks", "ucdlib:judged" ],
@@ -268,9 +268,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Aubert_de_Villaine", "https://www.winespectator.com/anniversary/leaders/id/Aubert-de-Villaine", "https://www.wilsondaniels.com/news/a-conversation-with-aubert-de-villaine/", "https://www.decanter.com/features/decanter-man-of-the-year-aubert-de-villaine-246429/" ],
     "relatedLinkText" : [ "Decanter Man of the Year: Aubert de Villaine", "Aubert de Villaine", "Leaders: Aubert de Villaine", "A Conversation With Aubert de Villaine" ],
-    "spatial" : [ "Vosne-Romanée, France", {
-      "@id" : "_:b29"
-    } ],
+    "spatial" : "_:b27",
+    "schema:spatial" : "Vosne-Romanée, France",
     "temporal" : "1939/present",
     "thumbnail" : "z:19H6O8s0/aubert-villaine.jpg",
     "u8OU2fpH" : "ydKZ9DhI"
@@ -286,9 +285,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Ch%C3%A2teau_L%C3%A9oville-Las_Cases", "https://www.domaines-delon.com/en/chateau_leoville_las_cases_histoire.html" ],
     "relatedLinkText" : [ "Domaines Delon: History of Château Léoville Las Cases", "Château Léoville-Las Cases" ],
-    "spatial" : [ "Saint-Julien-Beychevelle, France", {
-      "@id" : "_:b28"
-    } ],
+    "schema:spatial" : "Saint-Julien-Beychevelle, France",
+    "spatial" : "_:b15",
     "temporal" : "1840/present",
     "thumbnail" : "z:19pCYhjl/chateau-leoville-la-cases.jpg",
     "wDak0uKZ_rev" : "ydKZ9DhI"
@@ -326,9 +324,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://parislegrand.intercontinental.com/en/history/", "http://www.historichotelsthenandnow.com/grandparis.html", "https://en.wikipedia.org/wiki/InterContinental_Paris_Le_Grand_Hotel" ],
     "relatedLinkText" : [ "Then and Now: InterContinental Paris Le Grand Hotel", "Highlights of an Historical Parisian Hotel", "InterContinental Paris Le Grand Hotel" ],
-    "spatial" : [ {
-      "@id" : "_:b25"
-    }, "Paris, France" ],
+    "schema:spatial" : "Paris, France",
+    "spatial" : "_:b17",
     "temporal" : "1862/present",
     "thumbnail" : "z:42bEJkdS/intercontinental-paris-le-grand-2011.jpg",
     "KNZ0TQuz" : "ydKZ9DhI"
@@ -344,9 +341,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Heitz_Wine_Cellars", "https://www.heitzcellar.com/about/", "https://www.nytimes.com/2019/09/05/dining/drinks/wine-heitz-cellar-cabernet-sauvignon.html" ],
     "relatedLinkText" : [ "For Historic Heitz in Napa, a New Team but Same Old Methods", "Heitz Wine Cellars", "Heitz Cellar: Preserving and Renewing Our Napa Valley Legacy" ],
-    "spatial" : [ "St Helena, California", {
-      "@id" : "_:b40"
-    } ],
+    "schema:spatial" : "St Helena, California",
+    "spatial" : "_:b10",
     "temporal" : "1961/present",
     "thumbnail" : "z:4k3LZWlq/heitz-cellar.jpg",
     "5hFzRNvO_rev" : "ydKZ9DhI"
@@ -362,9 +358,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://americanhistory.si.edu/food/wine-table/judgment-paris", "https://en.wikipedia.org/wiki/National_Museum_of_American_History" ],
     "relatedLinkText" : [ "FOOD: Judgment of Paris", "National Museum of American History" ],
-    "spatial" : [ "Washington, DC", {
-      "@id" : "_:b13"
-    } ],
+    "spatial" : "_:b11",
+    "schema:spatial" : "Washington, DC",
     "temporal" : "1964/present",
     "thumbnail" : "z:4lT1dlHw/national-museum-american-history.jpg",
     "5cEgIuoM" : "Obny8Rpq",
@@ -414,9 +409,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://en.wikipedia.org/wiki/Odette_Kahn",
     "relatedLinkText" : "Odette Kahn",
-    "spatial" : [ "Pantin, France", {
-      "@id" : "_:b7"
-    } ],
+    "spatial" : "_:b13",
+    "schema:spatial" : "Pantin, France",
     "temporal" : "1923/1982",
     "thumbnail" : "z:62tsFHXQ/odette-kahn.jpg",
     "zAlHW9I2" : "ydKZ9DhI"
@@ -465,9 +459,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.ridgewine.com/about/history/", "https://en.wikipedia.org/wiki/Ridge_Vineyards" ],
     "relatedLinkText" : [ "Ridge Vineyards: History", "Ridge Vineyards" ],
-    "spatial" : [ "Cupertino, California", {
-      "@id" : "_:b9"
-    } ],
+    "schema:spatial" : "Cupertino, California",
+    "spatial" : "_:b8",
     "temporal" : "1959/present",
     "thumbnail" : "z:8h0hwVyP/ridge-vineyards.jpg",
     "crGEiojG_rev" : "ydKZ9DhI"
@@ -505,9 +498,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://search.library.ucdavis.edu/permalink/f/12qmtm2/01UCD_ALMA21277873890003126", "https://www.nytimes.com/1979/11/18/archives/a-briton-in-french-vineyards.html" ],
     "relatedLinkText" : [ "A Briton in French Vineyards", "American Wine: A Coming-of-Age Story" ],
-    "spatial" : [ {
-      "@id" : "_:b2"
-    }, "Paris, France" ],
+    "spatial" : "_:b25",
+    "schema:spatial" : "Paris, France",
     "temporal" : "1971/1981",
     "thumbnail" : "z:BEiG1xaf/les-caves.jpg",
     "9Pyha9n3_rev" : "kmPMGPQ5"
@@ -523,9 +515,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.nytimes.com/2008/01/09/world/europe/09vrinat.html", "https://en.wikipedia.org/wiki/Jean-Claude_Vrinat" ],
     "relatedLinkText" : [ "Jean-Claude Vrinat", "Jean-Claude Vrinat, Owner of Famed Paris Restaurant, Is Dead at 71" ],
-    "spatial" : [ "Paris, France", {
-      "@id" : "_:b6"
-    } ],
+    "schema:spatial" : "Paris, France",
+    "spatial" : "_:b36",
     "temporal" : "1936/2008",
     "thumbnail" : "z:C54vxFqv/jcvrinat.jpg",
     "DvGF3KKI" : "ydKZ9DhI"
@@ -563,9 +554,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.closduval.com/Winery/Our-Story", "https://en.wikipedia.org/wiki/Clos_Du_Val_Winery" ],
     "relatedLinkText" : [ "Clos Du Val Winery", "Clos Du Val: Our Story" ],
-    "spatial" : [ "Napa, California", {
-      "@id" : "_:b37"
-    } ],
+    "schema:spatial" : "Napa, California",
+    "spatial" : "_:b9",
     "temporal" : "1972/present",
     "thumbnail" : "z:D37urK0h/clos-du-val.jpg",
     "1ENTeWmj_rev" : "ydKZ9DhI"
@@ -592,9 +582,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.amazon.com/Cuisine-Secrets-Modern-French-Cooking/dp/0814803423", "https://www.nytimes.com/1990/11/06/obituaries/raymond-oliver-famed-french-chef-dies-at-81.html", "https://en.wikipedia.org/wiki/Raymond_Oliver" ],
     "relatedLinkText" : [ "Raymond Oliver, Famed French Chef, Dies at 81", "Raymond Oliver", "La Cuisine" ],
-    "spatial" : [ "Paris, France", {
-      "@id" : "_:b0"
-    } ],
+    "schema:spatial" : "Paris, France",
+    "spatial" : "_:b30",
     "temporal" : "1909/1990",
     "thumbnail" : "z:EA5AfFd2/raymond-oliver.jpeg",
     "11W8hjAo" : "ydKZ9DhI"
@@ -654,30 +643,14 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://napavalleyregister.com/wine/the-woman-behind-the-judgment-of-paris/article_7cb1719a-94fe-5272-a51e-ddbe4327c056.html", "https://www.library.ucdavis.edu/news/stories-behind-historic-judgment-of-paris-wine-tasting-illuminated-in-new-uc-davis-library-collections-exhibit/", "https://www.queensfoundation.org/About-Us/Foundation-Board-Members/Joanne-DePuy.aspx", "https://www.sfchronicle.com/wine/article/How-a-Napa-divorcee-saved-the-Judgment-of-Paris-13333349.php" ],
     "relatedLinkText" : [ "The Woman Behind ﻿the Judgment of Paris", "Stories Behind Historic “Judgment of Paris” Wine Tasting Illuminated in New UC Davis Library Collections, Exhibit", "How a Napa divorcee saved the Judgment of Paris", "Joanne DePuy Biography" ],
-    "spatial" : [ {
-      "@id" : "_:b19"
-    }, "Altadena, CA" ],
+    "spatial" : "_:b18",
+    "schema:spatial" : "Altadena, CA",
     "temporal" : "1927/present",
     "thumbnail" : "z:HDmnuCC5/joanne-depuy.jpg",
     "2BX91onm" : "kmPMGPQ5",
     "I8SCcwFs" : "Hsr1Bktg"
   }, {
     "@id" : "Hsr1Bktg",
-    "@type" : [ "schema:WebPage", "schema:Person" ],
-    "creator" : [ {
-      "@id" : "https://www.library.ucdavis.edu/"
-    }, "UC Davis Library" ],
-    "description" : "André Tchelistcheff was America's most influential post-Prohibition winemaker. \nHe was born in Russia but fled with his family to Eastern Europe during the Russian Revolution. After obtaining an agricultural degree in Czechoslovakia and studying enological science and viticulture in France, Tchelistcheff was hired to improve the chemical stability of wine at Beaulieu Vineyard in Napa Valley, California.\n\n Called the \"dean of American winemakers,\" he mentored many industry pioneers in the art of wine making. He provided significant contributions to the techniques of cold fermentation, vineyard frost protection, malolactic fermentation, and the development of winemaking regions in Carneros, California, Oregon and Washington.\n\n He remained vice president of Beaulieu Vineyards until his retirement in 1973. He also operated a private wine laboratory in St. Helena and provided consultations to many wineries. Tchelistcheff was inducted into the Culinary Institute of America's Vintner's Hall of Fame in 2007.",
-    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
-    "name" : "André Tchelistcheff",
-    "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
-    "relatedLink" : [ "https://www.library.ucdavis.edu/news/stories-behind-historic-judgment-of-paris-wine-tasting-illuminated-in-new-uc-davis-library-collections-exhibit/", "http://themaestrofilm.com/thestory.htm", "https://en.wikipedia.org/wiki/Andr%C3%A9_Tchelistcheff" ],
-    "relatedLinkText" : [ "André Tchelistcheff", "Stories Behind Historic “Judgment of Paris” Wine Tasting Illuminated in New UC Davis Library Collections, Exhibit", "André: The Voice of Wine" ],
-    "spatial" : [ {
-      "@id" : "_:b30"
-    }, "Moscow, Russia" ],
-    "temporal" : "1901/1994",
-    "thumbnail" : "z:Hsr1Bktg/andre-tchelistcheff.jpg",
     "7uAGLBz9" : "wSHcDVl2",
     "CymKw4L1" : "Nn9iS1kw",
     "I8SCcwFs_rev" : "HDmnuCC5"
@@ -686,7 +659,7 @@
     "@type" : [ "schema:significantLinks", "ucdlib:toured_with" ],
     "description" : "André Tchelistcheff led the tour to France on which Joanne DePuy -- at that time known as Joanne Dickenson -- transported the wine for the Judgment of Paris. The tour was not part of the event, but the Judgment of Paris would not have happened if not for the aptly timed trip that allowed Joanne DePuy to deliver the American wines to Steven Spurrier for the tasting. ",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
-    "name" : [ "Joanne DePuy toured with André Tchelistcheff.", "toured with" ],
+    "name" : [ "Joanne DePuy toured with André Tchelistcheff", "toured with" ],
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "I8SCcwFs:_rev",
@@ -726,9 +699,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Chateau_Montelena", "https://vinepair.com/articles/chateau-montelena-judgment-paris/", "https://montelena.com/winery" ],
     "relatedLinkText" : [ "Seven Things You Should Know About Chateau Montelena", "The Chateau", "Chateau Montelena" ],
-    "spatial" : [ "Calistoga, California", {
-      "@id" : "_:b39"
-    } ],
+    "spatial" : "_:b37",
+    "schema:spatial" : "Calistoga, California",
     "temporal" : "1882/present",
     "thumbnail" : "z:Mb41fKZU/chateau-montelena.jpg",
     "tuvt5f23_rev" : "ydKZ9DhI"
@@ -744,9 +716,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.amazon.com/gp/product/B000MGAU1Q/r", "https://en.wikipedia.org/wiki/Claude_Dubois-Millot" ],
     "relatedLinkText" : [ "Claude Dubois-Millot", "Judgment of Paris: California vs. France and the Historic 1976 Paris Tasting That Revolutionized Wine" ],
-    "spatial" : [ {
-      "@id" : "_:b27"
-    }, "Paris, France" ],
+    "spatial" : "_:b35",
+    "schema:spatial" : "Paris, France",
     "temporal" : "1923/present",
     "thumbnail" : "z:Msu5YnRJ/claude-dubois-millot.jpg",
     "OZotjvsH" : "ydKZ9DhI"
@@ -760,11 +731,10 @@
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Domaine Roulot",
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
-    "relatedLink" : [ "z:townandcountrymag.com/leisure/drinks/a20876388/jean-marc-roulot-interview-domaine-roulot/", "http://www.ficofi.com/chateau/domaine-roulot", "https://en.wikipedia.org/wiki/Domaine_Roulot", "https://www.pearlofburgundy.com/our-wines/domaine-roulot" ],
+    "relatedLink" : [ "z:https://townandcountrymag.com/leisure/drinks/a20876388/jean-marc-roulot-interview-domaine-roulot/", "http://www.ficofi.com/chateau/domaine-roulot", "https://en.wikipedia.org/wiki/Domaine_Roulot", "https://www.pearlofburgundy.com/our-wines/domaine-roulot" ],
     "relatedLinkText" : [ "FICOFI: Domaine Roulot, Mersault", "Meet Jean-Marc Roulot, the Actor Turned Top French Winemaker", "Pearl of Burgundy: Domaine Roulot", "Domaine Roulot" ],
-    "spatial" : [ {
-      "@id" : "_:b4"
-    }, "Meursault, France" ],
+    "spatial" : "_:b31",
+    "schema:spatial" : "Meursault, France",
     "temporal" : "1830/present",
     "thumbnail" : "z:NJdtHips/domain-roulot.jpg",
     "sskFnS0Y_rev" : "ydKZ9DhI"
@@ -780,9 +750,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.haut-brion.com/en/", "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Haut-Brion", "https://www.thewinecellarinsider.com/bordeaux-wine-producer-profiles/bordeaux/graves-pessac/haut-brion/" ],
     "relatedLinkText" : [ "Château Haut-Brion", "Chateau Haut Brion Pessac Leognan Bordeaux Wine, Complete Guide" ],
-    "spatial" : [ {
-      "@id" : "_:b11"
-    }, "Pessac, France" ],
+    "spatial" : "_:b40",
+    "schema:spatial" : "Pessac, France",
     "temporal" : "1423/present",
     "thumbnail" : "z:NQ7FScAv/chateau-haut-brion.jpg",
     "Y55LQcx6_rev" : "ydKZ9DhI"
@@ -809,9 +778,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.californiamuseum.org/inductee/warren-winiarski", "https://en.wikipedia.org/wiki/Warren_Winiarski", "https://www.sfgate.com/bayarea/article/NAPA-VALLEY-STUNNER-FAMED-WINERY-SOLD-Vintner-3416127.php", "https://www.sacbee.com/food-drink/wine/dunne-on-wine/article102135322.html" ],
     "relatedLinkText" : [ "California Hall of Fame: Warren Winiarski", "Warren Winiarski", "Warren Winiarski reflects on half a century of making wine in California", "Napa Valley Stunner – Famed Winery Sold" ],
-    "spatial" : [ "Chicago, Illinois", {
-      "@id" : "_:b23"
-    } ],
+    "spatial" : "_:b23",
+    "schema:spatial" : "Chicago, Illinois",
     "temporal" : "1928/present",
     "thumbnail" : "z:Nn9iS1kw/warren-winiarski.jpg",
     "87v1kCdC" : "sk79HEjl",
@@ -840,9 +808,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.decanter.com/learn/wine-legend-chateau-montelena-1973-305096/", "https://americanhistory.si.edu/collections/search/object/nmah_1297105", "https://www.decanter.com/wine-news/judgment-of-paris-montelena-fetches-us11325-53483/" ],
     "relatedLinkText" : [ "1973 Chateau Montelena Chardonnay", "‘Judgment of Paris’ Montelena Fetches US$11,325", "Wine Legend: Chateau Montelena 1973" ],
-    "spatial" : [ {
-      "@id" : "_:b1"
-    }, "Calistoga, California" ],
+    "schema:spatial" : "Calistoga, California",
+    "spatial" : "_:b14",
     "temporal" : "1973",
     "thumbnail" : "z:Obny8Rpq/1973montelena.jpg",
     "5cEgIuoM_rev" : "4lT1dlHw",
@@ -860,9 +827,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.sfgate.com/wine/article/Chalone-Monterey-County-s-unlikely-appellation-4812845.php", "https://en.wikipedia.org/wiki/Chalone_Vineyard", "https://www.chalonevineyard.com/About/About-Chalone" ],
     "relatedLinkText" : [ "About Chalone Vineyard", "Chalone Vineyard", "Chalone: Monterey County's Unlikely Appellation" ],
-    "spatial" : [ "Soledad, California", {
-      "@id" : "_:b20"
-    } ],
+    "spatial" : "_:b7",
+    "schema:spatial" : "Soledad, California",
     "temporal" : "1919/present",
     "thumbnail" : "z:Ow4I2o9s/chalone.jpg",
     "iJeSqbDv_rev" : "ydKZ9DhI"
@@ -889,9 +855,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Christian_Vannequ%C3%A9", "https://www.dailymail.co.uk/news/article-2018895/Worlds-expensive-white-wine-sold-75-000-1811-Ch-teau-dYquem.html", "http://www.sip-bali.com/about/whos-the-boss/" ],
     "relatedLinkText" : [ "Who's the Boss: Christian Vannequé", "Don't spill a drop! Most expensive bottle of white wine ever sold for £75,000", "Christian Vannequé" ],
-    "spatial" : [ {
-      "@id" : "_:b26"
-    }, "Paris, France" ],
+    "schema:spatial" : "Paris, France",
+    "spatial" : "_:b6",
     "temporal" : "1949/2015",
     "thumbnail" : "z:RFQmao8i/christian-vanneque.jpg",
     "5ib3I1kZ" : "ydKZ9DhI"
@@ -907,14 +872,13 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.stagsleapwinecellars.com/our-story/history", "https://en.wikipedia.org/wiki/Stag%27s_Leap_Wine_Cellars" ],
     "relatedLinkText" : [ "Stag's Leap Wine Cellars", "Stag's Leap Wine Cellars: Our History" ],
-    "spatial" : [ "Napa, California", {
-      "@id" : "_:b5"
-    } ],
+    "spatial" : "_:b2",
+    "schema:spatial" : "Napa, California",
     "temporal" : "1970/present",
     "thumbnail" : "z:RtfyXN9i/stagsleapwc.jpg",
     "VaSz5lKQ_rev" : "Nn9iS1kw",
     "n0EvUJic_rev" : "ydKZ9DhI",
-    "nP9EzD6b" : "sk79HEjl"
+    "nP9EzD6b_rev" : "sk79HEjl"
   }, {
     "@id" : "SiBlieN7",
     "@type" : [ "schema:significantLinks", "ucdlib:tasted" ],
@@ -931,14 +895,14 @@
     "@type" : [ "schema:WebPage", "schema:Person" ],
     "creator" : [ "URL", "Source name" ],
     "description" : "Pierre Bréjoux was Inspector General of the Appellation d'Origine Controlee Board, which controls the production of top French wines. he served as an expert wine taster in the Paris Wine Tasting of 1976. In the blind tasting, California wines won both the red and white wine categories. After the tasting, there were many calls for him to resign his position as Inspector General because so many people and groups were highly displeased with the results. He is also the author of several books on French wine.",
+    "label" : [ "Date", "Image / Image Credit" ],
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Pierre Bréjoux",
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Appellation_d%27origine_contr%C3%B4l%C3%A9e", "https://en.wikipedia.org/wiki/Pierre_Brejoux", "https://search.library.ucdavis.edu/permalink/f/12qmtm2/01UCD_ALMA21164444820003126" ],
     "relatedLinkText" : [ "Pierre Bréjoux", "Les Vins de Loire", "Appellation d'Origine Contrôlée" ],
-    "spatial" : [ "Paris, France", {
-      "@id" : "_:b12"
-    } ],
+    "schema:spatial" : "Paris, France",
+    "spatial" : "_:b3",
     "eEYuddRz" : "ydKZ9DhI"
   }, {
     "@id" : "UmAzNHOz",
@@ -950,11 +914,10 @@
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "David Bruce Winery",
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
-    "relatedLink" : [ "http://www.davidbrucewinery.com/history_Home.htm", "z:youtube.com/watch?v=c3b9gd1Omto", "https://en.wikipedia.org/wiki/David_Bruce_Winery" ],
+    "relatedLink" : [ "http://www.davidbrucewinery.com/history_Home.htm", "z:https://youtube.com/watch?v=c3b9gd1Omto", "https://en.wikipedia.org/wiki/David_Bruce_Winery" ],
     "relatedLinkText" : [ "David Bruce Winery - Santa Cruz Mountains", "David Bruce: History", "David Bruce Winery" ],
-    "spatial" : [ "Los Gatos, California", {
-      "@id" : "_:b3"
-    } ],
+    "schema:spatial" : "Los Gatos, California",
+    "spatial" : "_:b21",
     "temporal" : "1964/present",
     "thumbnail" : "z:UmAzNHOz/david-bruce-winery.jpg",
     "FwPSFsPf_rev" : "ydKZ9DhI"
@@ -992,9 +955,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://en.wikipedia.org/wiki/Michel_Dovaz",
     "relatedLinkText" : "Michel Dovaz",
-    "spatial" : [ {
-      "@id" : "_:b17"
-    }, "Geneva, Switzerland" ],
+    "schema:spatial" : "Geneva, Switzerland",
+    "spatial" : "_:b0",
     "temporal" : "1928/present",
     "thumbnail" : "z:VltC8SAR/mdovaz.jpg",
     "CvCz7pNj" : "ydKZ9DhI"
@@ -1005,14 +967,14 @@
       "@id" : "https://www.ugcb.net/en/lunion-des-grands-crus-en"
     } ],
     "description" : "Pierre Tari was owner of Château Giscours and from 1975 to 1989 President of the Union des Grands Crus de Bordeaux, the organization of the wine classified in the Bordeaux Wine Official Classification of 1855. He served as an expert taster in the historic Judgment of Paris wine competition.",
+    "label" : "Date",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Pierre Tari",
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://en.wikipedia.org/wiki/Pierre_Tari",
     "relatedLinkText" : "Pierre Tari",
-    "spatial" : [ "Labarde, France", {
-      "@id" : "_:b36"
-    } ],
+    "schema:spatial" : "Labarde, France",
+    "spatial" : "_:b26",
     "temporal" : "unknown",
     "thumbnail" : "z:Wa1OnKCL/pierre_tari.jpg",
     "Fcd7GppP" : "ydKZ9DhI"
@@ -1061,9 +1023,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.chateau-mouton-rothschild.com/", "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Mouton_Rothschild" ],
     "relatedLinkText" : "Château Mouton Rothschild",
-    "spatial" : [ "Pauillac, France", {
-      "@id" : "_:b8"
-    } ],
+    "schema:spatial" : "Pauillac, France",
+    "spatial" : "_:b19",
     "temporal" : "1853/present",
     "thumbnail" : "z:a4xqyd1U/chateau-mouton-rothschild.jpg",
     "LzAbD4pA_rev" : "ydKZ9DhI"
@@ -1079,9 +1040,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.springmountainvineyard.com/a-wh.html", "https://springmountaindistrict.org/podcast/spring-mountain-vineyard/", "https://en.wikipedia.org/wiki/Spring_Mountain_Vineyard" ],
     "relatedLinkText" : [ "Winery History", "An Oral History of Spring Mountain Vineyard", "Spring Mountain Vineyard" ],
-    "spatial" : [ {
-      "@id" : "_:b32"
-    }, "St. Helena, California" ],
+    "schema:spatial" : "St. Helena, California",
+    "spatial" : "_:b33",
     "temporal" : "1873/present",
     "thumbnail" : "z:ahIXKuhm/spring-mountain.jpg",
     "SiBlieN7_rev" : "ydKZ9DhI"
@@ -1119,9 +1079,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "http://www.chateau-montrose.com/en/a-family-story/", "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Montrose" ],
     "relatedLinkText" : [ "Château Montrose: A Family Story", "Château Montrose" ],
-    "spatial" : [ "Saint-Estèphe, France", {
-      "@id" : "_:b31"
-    } ],
+    "schema:spatial" : "Saint-Estèphe, France",
+    "spatial" : "_:b32",
     "temporal" : "1815/present",
     "thumbnail" : "z:hkbN3AXg/chatmontrose.jpg",
     "wHzHGZig_rev" : "ydKZ9DhI"
@@ -1137,9 +1096,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://leflaive.fr/en/les-familles", "https://en.wikipedia.org/wiki/Domaine_Leflaive", "https://www.wilsondaniels.com/winery/domaine-leflaive-3/" ],
     "relatedLinkText" : [ "Overview and History of Domaine Leflaive", "The Founding of the Domaine", "Domaine Leflaive" ],
-    "spatial" : [ "Puligny-Montrachet, France", {
-      "@id" : "_:b34"
-    } ],
+    "schema:spatial" : "Puligny-Montrachet, France",
+    "spatial" : "_:b34",
     "temporal" : "1717/present",
     "thumbnail" : "z:iJDHzQxd/domaine-leflaive.jpg",
     "ZEZBn4SF_rev" : "ydKZ9DhI"
@@ -1177,9 +1135,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "http://www.ficofi.com/chateau/maison-joseph-drouhin", "https://m.drouhin.com/en/", "https://en.wikipedia.org/wiki/Maison_Joseph_Drouhin" ],
     "relatedLinkText" : [ "Maison Joseph Drouhin", "Joseph Drouhin", "FICOFI: Maison Joseph Drouhin" ],
-    "spatial" : [ "Beaune, France", {
-      "@id" : "_:b18"
-    } ],
+    "spatial" : "_:b20",
+    "schema:spatial" : "Beaune, France",
     "temporal" : "1880/present",
     "thumbnail" : "z:jeS628wG/maison-joseph-drouhin.jpg",
     "s1j1ditp_rev" : "ydKZ9DhI"
@@ -1195,9 +1152,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.sfchronicle.com/wine/article/The-hidden-figures-benind-the-Judgment-of-Paris-13333299.php", "https://en.wikipedia.org/wiki/Patricia_Gallagher" ],
     "relatedLinkText" : [ "The Hidden Figures Behind the Judgment of Paris", "Patricia Gallagher" ],
-    "spatial" : [ {
-      "@id" : "_:b24"
-    }, "Wilmington, Delaware" ],
+    "spatial" : "_:b24",
+    "schema:spatial" : "Wilmington, Delaware",
     "temporal" : "1951/present",
     "thumbnail" : "z:k7QJHPyX/patricia-gallagher.jpg",
     "H7jzCtEa" : "ydKZ9DhI"
@@ -1213,9 +1169,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.sfgate.com/wine/article/The-story-behind-the-story-that-made-wine-history-2662065.php", "http://georgemtaber.com/About.html", "https://en.wikipedia.org/wiki/George_M._Taber" ],
     "relatedLinkText" : [ "About George M. Taber", "George M. Taber", "The Story Behind the Story That Made Wine History" ],
-    "spatial" : [ {
-      "@id" : "_:b14"
-    }, "Riverside, California" ],
+    "schema:spatial" : "Riverside, California",
+    "spatial" : "_:b28",
     "temporal" : "1942/present",
     "thumbnail" : "z:kXbX7fxQ/george-taber.jpg",
     "yHWSpaWQ" : "ydKZ9DhI"
@@ -1231,9 +1186,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Steven_Spurrier_(wine_merchant)", "https://www.jancisrobinson.com/articles/tt-steven-spurrier-champion-of-french-wines", "https://www.decanter.com/author/stevenspurrier/" ],
     "relatedLinkText" : [ "Decanter Author Archives for Steven Spurrier", "Steven Spurrier (wine merchant)", "Steven Spurrier – Champion of French Wines" ],
-    "spatial" : [ {
-      "@id" : "_:b16"
-    }, "London, United Kingdom" ],
+    "spatial" : "_:b4",
+    "schema:spatial" : "London, United Kingdom",
     "temporal" : "1941/present",
     "thumbnail" : "z:kmPMGPQ5/sspurrier.jpg",
     "2BX91onm_rev" : "HDmnuCC5",
@@ -1262,9 +1216,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Domaine_Ramonet-Prudhon", "http://www.ficofi.com/chateau/domaine-ramonet", "https://www.terlatowines.com/brands/france/ramonet" ],
     "relatedLinkText" : [ "Terlato Wines: Ramonet", "Domaine Ramonet", "Domaine Ramonet-Prudhon" ],
-    "spatial" : [ "Batard-Montrachet, France", {
-      "@id" : "_:b15"
-    } ],
+    "spatial" : "_:b38",
+    "schema:spatial" : "Batard-Montrachet, France",
     "temporal" : "1934/present",
     "thumbnail" : "z:nAMfCtk1/domaine-ramonet-prudhon-1973.jpg",
     "6HmRJOWb_rev" : "ydKZ9DhI"
@@ -1302,14 +1255,13 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.stagsleapwinecellars.com/our-story/history/paris-tasting", "https://americanhistory.si.edu/collections/search/object/nmah_1297104" ],
     "relatedLinkText" : [ "Our Story: The 1976 Paris Tasting", "1973 Stag's Leap Wine Cellars Cabernet Sauvignon" ],
-    "spatial" : [ "Napa, California", {
-      "@id" : "_:b38"
-    } ],
+    "schema:spatial" : "Napa, California",
+    "spatial" : "_:b39",
     "temporal" : "1973",
     "thumbnail" : "z:sk79HEjl/1973slv.jpg",
     "87v1kCdC_rev" : "Nn9iS1kw",
     "NjYuebG5_rev" : "4lT1dlHw",
-    "nP9EzD6b_rev" : "RtfyXN9i",
+    "nP9EzD6b" : "RtfyXN9i",
     "wXwIqzzr" : "ydKZ9DhI"
   }, {
     "@id" : "sskFnS0Y",
@@ -1334,9 +1286,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Freemark_Abbey_Winery", "https://www.freemarkabbey.com/", "http://www.napawineproject.com/freemark-abbey-winery/" ],
     "relatedLinkText" : [ "Napa Wine Project: Freemark Abbey Winery", "Freemark Abbey Winery", "Freemark Abbey" ],
-    "spatial" : [ {
-      "@id" : "_:b33"
-    }, "St. Helena, California" ],
+    "spatial" : "_:b16",
+    "schema:spatial" : "St. Helena, California",
     "temporal" : "1939/present",
     "thumbnail" : "z:tHYYOXrE/freemark.jpg",
     "Fht6On46_rev" : "ydKZ9DhI"
@@ -1352,9 +1303,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "http://veedercrestwines.com/our-story/",
     "relatedLinkText" : "Veedercrest: Our Story",
-    "spatial" : [ {
-      "@id" : "_:b10"
-    }, "Napa, California" ],
+    "spatial" : "_:b1",
+    "schema:spatial" : "Napa, California",
     "temporal" : "1972/present",
     "thumbnail" : "z:tN8OPoTy/veedercrest.jpg",
     "YGeIeyws_rev" : "ydKZ9DhI"
@@ -1380,6 +1330,22 @@
     "@id" : "u8OU2fpH:_rev",
     "@type" : [ "schema:significantLinks", "ucdlib:judged_by" ],
     "name" : "judged by"
+  }, {
+    "@id" : "uPuH2QQJ",
+    "@type" : [ "schema:Person", "schema:WebPage" ],
+    "creator" : [ "UC Davis Library", {
+      "@id" : "https://www.library.ucdavis.edu/"
+    } ],
+    "description" : "André Tchelistcheff was America's most influential post-Prohibition winemaker. \nHe was born in Russia but fled with his family to Eastern Europe during the Russian Revolution. After obtaining an agricultural degree in Czechoslovakia and studying enological science and viticulture in France, Tchelistcheff was hired to improve the chemical stability of wine at Beaulieu Vineyard in Napa Valley, California.\n\n Called the \"dean of American winemakers,\" he mentored many industry pioneers in the art of wine making. He provided significant contributions to the techniques of cold fermentation, vineyard frost protection, malolactic fermentation, and the development of winemaking regions in Carneros, California, Oregon and Washington.\n\n He remained vice president of Beaulieu Vineyards until his retirement in 1973. He also operated a private wine laboratory in St. Helena and provided consultations to many wineries. Tchelistcheff was inducted into the Culinary Institute of America's Vintner's Hall of Fame in 2007.",
+    "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
+    "name" : "André Tchelistcheff",
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
+    "relatedLink" : [ "http://themaestrofilm.com/thestory.htm", "https://en.wikipedia.org/wiki/Andr%C3%A9_Tchelistcheff", "https://www.library.ucdavis.edu/news/stories-behind-historic-judgment-of-paris-wine-tasting-illuminated-in-new-uc-davis-library-collections-exhibit/" ],
+    "relatedLinkText" : [ "André: The Voice of Wine", "André Tchelistcheff", "Stories Behind Historic “Judgment of Paris” Wine Tasting Illuminated in New UC Davis Library Collections, Exhibit" ],
+    "schema:spatial" : "Moscow, Russia",
+    "spatial" : "_:b12",
+    "temporal" : "1901/1994",
+    "thumbnail" : "z:uPuH2QQJ/andre-tchelistcheff.jpg"
   }, {
     "@id" : "wDak0uKZ",
     "@type" : [ "schema:significantLinks", "ucdlib:tasted" ],
@@ -1414,9 +1380,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Mike_Grgich", "https://www.grgich.com/miljenko-mike-grgich/", "https://americanhistory.si.edu/food/wine-table/immigrant-winemaker", "https://www.grgich.com/2016/05/25/the-40th-anniversary-of-the-judgment-of-paris-napa-valley-life-magazine/" ],
     "relatedLinkText" : [ "The 40th anniversary of the Judgment of Paris: Napa Valley Life Magazine", "Mike Grgich", "Miljenko \"Mike\" Grgich: His Story", "Immigrant Winemaker" ],
-    "spatial" : [ "Desne, Croatia", {
-      "@id" : "_:b35"
-    } ],
+    "schema:spatial" : "Desne, Croatia",
+    "spatial" : "_:b29",
     "temporal" : "1023/present",
     "thumbnail" : "z:wSHcDVl2/mike-grgich.jpg",
     "7uAGLBz9_rev" : "Hsr1Bktg",
@@ -1455,9 +1420,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.youtube.com/watch?v=daUmHLeBrl0", "https://www.npr.org/sections/thesalt/2016/05/24/479163882/the-judgment-of-paris-the-blind-taste-test-that-decanted-the-wine-world", "https://www.amazon.com/gp/product/B000MGAU1Q/r", "https://en.wikipedia.org/wiki/Judgment_of_Paris_(wine)" ],
     "relatedLinkText" : [ "The Judgment of Paris: The Blind Taste Test That Decanted The Wine World", "American History (After Hours): The Judgment of Paris and American Wine", "Judgment of Paris: California vs. France and the Historic 1976 Paris Tasting That Revolutionized Wine", "Judgment of Paris (wine)" ],
-    "spatial" : [ "Paris, France", {
-      "@id" : "_:b22"
-    } ],
+    "spatial" : "_:b22",
+    "schema:spatial" : "Paris, France",
     "temporal" : "May 24, 1976",
     "thumbnail" : "z:ydKZ9DhI/jop.jpg",
     "11W8hjAo_rev" : "EA5AfFd2",
@@ -1506,9 +1470,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.mayacamas.com/photos-stories/", "https://vinepair.com/articles/mayacamas-vineyards-cabernet-sauvignon-guide/", "https://en.wikipedia.org/wiki/Mayacamas_Vineyards" ],
     "relatedLinkText" : [ "11 Things You Should Know About Mayacamas Vineyards", "Mayacamas Vineyards", "Mayacamas Vineyards: Photos & Stories" ],
-    "spatial" : [ {
-      "@id" : "_:b21"
-    }, "Napa, California" ],
+    "spatial" : "_:b5",
+    "schema:spatial" : "Napa, California",
     "temporal" : "1889/present",
     "thumbnail" : "z:yhlzvGcG/mayacamas.jpg",
     "9Xoec2Fw_rev" : "ydKZ9DhI"
@@ -1525,8 +1488,19 @@
     "name" : "judged by"
   } ],
   "@context" : {
+    "publisher" : {
+      "@id" : "http://schema.org/publisher",
+      "@type" : "@id"
+    },
     "name" : {
       "@id" : "http://schema.org/name"
+    },
+    "license" : {
+      "@id" : "http://schema.org/license",
+      "@type" : "@id"
+    },
+    "description" : {
+      "@id" : "http://schema.org/description"
     },
     "longitude" : {
       "@id" : "http://schema.org/longitude",
@@ -1536,22 +1510,19 @@
       "@id" : "http://schema.org/latitude",
       "@type" : "http://www.w3.org/2001/XMLSchema#double"
     },
-    "publisher" : {
-      "@id" : "http://schema.org/publisher",
+    "nP9EzD6b_rev" : {
+      "@id" : "nP9EzD6b_rev",
       "@type" : "@id"
-    },
-    "license" : {
-      "@id" : "http://schema.org/license",
-      "@type" : "@id"
-    },
-    "description" : {
-      "@id" : "http://schema.org/description"
     },
     "temporal" : {
       "@id" : "http://schema.org/temporal"
     },
     "n0EvUJic_rev" : {
       "@id" : "n0EvUJic_rev",
+      "@type" : "@id"
+    },
+    "spatial" : {
+      "@id" : "http://schema.org/spatial",
       "@type" : "@id"
     },
     "VaSz5lKQ_rev" : {
@@ -1568,13 +1539,6 @@
       "@id" : "http://schema.org/relatedLink",
       "@type" : "@id"
     },
-    "nP9EzD6b" : {
-      "@id" : "nP9EzD6b",
-      "@type" : "@id"
-    },
-    "spatial" : {
-      "@id" : "http://schema.org/spatial"
-    },
     "thumbnail" : {
       "@id" : "http://schema.org/thumbnail",
       "@type" : "@id"
@@ -1586,6 +1550,9 @@
     "YGeIeyws_rev" : {
       "@id" : "YGeIeyws_rev",
       "@type" : "@id"
+    },
+    "label" : {
+      "@id" : "http://schema.org/label"
     },
     "eEYuddRz" : {
       "@id" : "eEYuddRz",
@@ -1811,16 +1778,16 @@
       "@id" : "yHWSpaWQ",
       "@type" : "@id"
     },
-    "7uAGLBz9" : {
-      "@id" : "7uAGLBz9",
+    "I8SCcwFs_rev" : {
+      "@id" : "I8SCcwFs_rev",
       "@type" : "@id"
     },
     "CymKw4L1" : {
       "@id" : "CymKw4L1",
       "@type" : "@id"
     },
-    "I8SCcwFs_rev" : {
-      "@id" : "I8SCcwFs_rev",
+    "7uAGLBz9" : {
+      "@id" : "7uAGLBz9",
       "@type" : "@id"
     },
     "sskFnS0Y_rev" : {
@@ -1887,12 +1854,12 @@
       "@id" : "wXwIqzzr",
       "@type" : "@id"
     },
-    "NjYuebG5_rev" : {
-      "@id" : "NjYuebG5_rev",
+    "nP9EzD6b" : {
+      "@id" : "nP9EzD6b",
       "@type" : "@id"
     },
-    "nP9EzD6b_rev" : {
-      "@id" : "nP9EzD6b_rev",
+    "NjYuebG5_rev" : {
+      "@id" : "NjYuebG5_rev",
       "@type" : "@id"
     },
     "87v1kCdC_rev" : {
