@@ -10,10 +10,10 @@
 <> a :Collection;
     acl:accessControl <poetry-ex/.fin/acl>;
     :publisher lcna:no2008108707, "University of California, Davis. General Library. Dept. of Special Collections" ;
-    :name "Poetry";
+    :name "Poetry Example";
     :image <poetry-ex/thumbnail.png>;
     :sdLicense <http://rightsstatements.org/vocab/CNE/1.0/>;
     :sdDatePublished "2019";
-    :description "Example Poetry Collection";
+    :description "Example Poetry Collection.  For Ex Libris.";
     ucdlib:hasGraph <poetry-ex/graph.hdt>;
     .

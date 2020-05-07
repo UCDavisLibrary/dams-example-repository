@@ -1,6 +1,0 @@
-@prefix ldp:    <http://www.w3.org/ns/ldp#> .
-@prefix schema: <http://schema.org/> .
-@prefix ebucore: <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#> .
-<> a :MediaObject, :CreativeWork ;
-  ebucore:filename "dds_43.iso" ;
-  ebucore:hasMimeType "application/x-iso9660-image" .

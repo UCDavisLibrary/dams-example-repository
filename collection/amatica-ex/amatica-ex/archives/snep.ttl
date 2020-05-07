@@ -4,9 +4,10 @@
 @prefix acl: <http://www.w3.org/ns/auth/acl#> .
 @prefix fedora: <http://fedora.info/definitions/v4/webac#> .
 @prefix lcna: <http://id.loc.gov/authorities/names/>.
+@prefix ucdlib:  <http://digital.ucdavis.edu/schema#> .
 
 <>
-    a ldp:BasicContainer, :CreativeWork, :Dataset ;
+    a ldp:BasicContainer, :CreativeWork, :Dataset, ucdlib:bagOfFiles ;
     :name "Status of the Sierra Nevada, the Sierra Nevada Ecosystem Project" ;
     :creator "Don C. Erman, General Editor, and the SNEP Team" ;
     :publisher "Menlo Park, CA : U.S. Geological Survey" ;
@@ -23,5 +24,6 @@
     :sdDatePublished "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  ;
     :sdPublisher lcna:n79065230 ;
     :description "This is more metadata in description format" ;
+    ucdlib:clientMediaDownload <snep/media/qjh_diskimage-a106288c-dcc4-484b-bedb-fd34c2a66357.7z> ;
     :dataset <snep/media/qjh_diskimage-a106288c-dcc4-484b-bedb-fd34c2a66357.7z> ;
     .
