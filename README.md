@@ -21,17 +21,19 @@ There are also a number of
 [FAQS](https://github.com/UCDavisLibrary/fin-example-repository/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3AFAQ)
 in the Issues. You may find help there as well.
 
-- [Installation](#Installation)
-- [Prerequisites](#Prerequisites)
-- [Configuration](#Configuration)
-- [Adding Your First User](#Adding-Your-First-User)
-  - [Basic-Auth](#Basic-Auth)
-  - [CAS Authentication](#CAS-Authentication)
-- [Accessing the LDP Server](#Accessing-the-LDP-Server)
-- [Adding Data to the Repository](#Adding-Data-to-the-Repository)
-- [Advanced Configuration](#Advanced-Configuration)
-  - [Run Server on Default Ports](#Run-Server-on-Default-Ports)
-- [Example Collections](#Example-Collections)
+- [Fin Example Repositories](#fin-example-repositories)
+- [Installation](#installation)
+  - [Prerequisites](#prerequisites)
+  - [Purging the System](#purging-the-system)
+  - [Configuration](#configuration)
+  - [Adding Your First User](#adding-your-first-user)
+    - [Basic-Auth](#basic-auth)
+    - [CAS Authentication](#cas-authentication)
+  - [Accessing the LDP Server](#accessing-the-ldp-server)
+  - [Adding Data to the Repository](#adding-data-to-the-repository)
+- [Advanced Configuration](#advanced-configuration)
+  - [Run Server on Default Ports](#run-server-on-default-ports)
+- [Example Collections](#example-collections)
 
 #  Installation
 
@@ -74,9 +76,51 @@ Finally, we will be running a nodejs based tool `fin-cli` to work with our
 repository. After installing [nodejs](https://nodejs.org/en/download/), you can
 install this tool with `npm install -g @ucd-lib/fin-cli`.
 
+## Purging the System
+
+In order to purge your DAMS instance, you need to use docker-compose commands directly:
+
+```bash
+# This sets up an alias to docker-compose, dams-dc
+eval $(damsctrl alias)
+# You can erase your current setup, while maintaining your docker configuration with:
+dams-dc down -v
+# Now you can bring this back up
+dams-dc up -d
+```
+
+At this point you have no admins for the site. The biggest change is that the admins are now managed in the repository's ACL.  
+This allows the rest of the configuration, even adding admins, to be done on any remote machine.
+
+In order to add admins without any users you need to login in as the super-user. This uses the JWT_SECRET in the server 
+configuration file.
+
+```bash
+fin login --super-user USERNAME@ucdavis.edu
+```
+
+Once logged in, you can add some admins using the `fin acl` command:
+
+```bash
+for i in quinn jmerz enebeker ladragoo; do
+  fin acl add-admin ${i}@ucdavis.edu
+done
+```
+
+With these admins now in place you may now add new collections:
+
+```bash
+# Log-in using your normal (in our case CAS) ids:
+fin login --headless
+# Create a new collection
+cd ~/fin-example-repo/collection
+fin io import ex1-pets .
+```
+
 ## Configuration
 
 The first step is to clone the repository, using:
+
 ```bash
 git clone https://github.com/UCDavisLibrary/fin-example-repository.git
 cd fin-example-repository          # change directory to your cloned location
