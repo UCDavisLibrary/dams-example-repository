@@ -1,0 +1,20 @@
+@prefix : <http://schema.org/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ldp:  <http://www.w3.org/ns/ldp#> .
+@prefix acl: <http://www.w3.org/ns/auth/acl#> .
+@prefix fedora: <http://fedora.info/definitions/v4/webac#> .
+@prefix ucdlib:  <http://digital.ucdavis.edu/schema#> .
+
+<>
+    a ldp:BasicContainer, :CreativeWork, :Dataset, ucdlib:BagOfFiles;
+    :name "Collaborator Pets" ;
+    :creator "Quinn Hart" ;
+    :publisher "UCDavis" ;
+    :keywords "Cats", "Dogs" ;
+    :image <bagit-pets-archive-only/thumbnail-archive.png> ;
+    :material "Archival Information Package" ;
+    :datePublished "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  ;
+    :description "Thise exmple archive contains only an archived bag of the data." ;
+    ucdlib:clientMediaDownload <bagit-pets-archive-only/media/bagit-pets-d0d45ff0-7883-42eb-9454-e7cfa758d568.7z>;
+    :dataset <bagit-pets-archive-only/media/bagit-pets-d0d45ff0-7883-42eb-9454-e7cfa758d568.7z>;
+    .

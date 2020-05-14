@@ -1,0 +1,8 @@
+source:
+  host: https://sandbox.dams.library.ucdavis.edu
+  base: /fcrepo/rest
+  collection: amatica
+http:
+  session: inf4
+  ssl: tls1.2
+  print: hb

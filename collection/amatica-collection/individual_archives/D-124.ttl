@@ -1,0 +1,18 @@
+@prefix schema:  <http://schema.org/> .
+@prefix ucdlib:  <http://digital.ucdavis.edu/schema#> .
+@prefix fedora:  <http://fedora.info/definitions/v4/repository#> .
+@prefix ldp:  <http://www.w3.org/ns/ldp#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<>
+    rdf:type ldp:BasicContainer, schema:CreativeWork, schema:Dataset, ucdlib:BagOfFiles ;
+    schema:name "D-124, Robertson (David) Papers";
+    schema:creator "David Robertson" ;
+    schema:description "Papers	Essays, coursework, correspondence, lectures, notes, exhibit catalogs, reviews, books, photographs, manuscripts, publications and exhibition information, audiotapes, flyers, and posters.";
+    schema:image <D-124/D-124-abde9aa8-038d-4ee0-8e55-510507b7f8a4/data/objects/submissionDocumentation/transfer-D-124-583906ac-9d10-4938-893c-ccb3911dac4a/the_ridge_assetFront.jpg> ;
+	  schema:identifier "ark:/13030/c8m90bkz/", "D-124" ;
+    schema:material "Archival Information Package" ;
+    schema:dataset  <D-124/D-124-abde9aa8-038d-4ee0-8e55-510507b7f8a4.7z> ;
+    ucdlib:clientMediaDownload  <D-124/D-124-abde9aa8-038d-4ee0-8e55-510507b7f8a4.7z> ;
+    schema:license              <http://rightsstatements.org/vocab/InC-NC/1.0/> ;
+    .
