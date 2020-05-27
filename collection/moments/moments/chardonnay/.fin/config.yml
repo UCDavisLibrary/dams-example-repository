@@ -1,0 +1,9 @@
+source:
+  #host: 'https://sandbox.dams.library.ucdavis.edu'
+  host: 'http://localhost:3001'
+  base: /fcrepo/rest/moments
+  collection: chardonnay
+http:
+  session: inf4
+  ssl: tls1.2
+  print: h
