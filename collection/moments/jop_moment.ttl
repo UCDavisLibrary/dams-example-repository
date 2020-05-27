@@ -1,0 +1,1337 @@
+@prefix schema: <http://schema.org/>.
+@prefix ucdlib: <http://digital.ucdavis.edu/schema#>.
+@prefix w: <http://library.ucdavis.edu/wine-ontology#>.
+@prefix fast: <http://id.worldcat.org/fast/>.
+@prefix wdt: <http://www.wikidata.org/prop/direct/>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix ldp: <http://www.w3.org/ns/ldp#>.
+
+<#VBMYwJXy> schema:name "Steven Spurrier organized the Judgment of Paris";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "Steven Spurrier organized the 1976 Judgment of Paris with the help of his friend and colleague Patricia Gallagher. ";
+    a ucdlib:organized;
+    schema:name "organized".
+<#kmPMGPQ5> <#VBMYwJXy> <#ydKZ9DhI>.
+<#VBMYwJXy_rev> a schema:significantLinks, ucdlib:organized_by;
+    schema:name "organized by".
+<#ydKZ9DhI> <#VBMYwJXy_rev> <#kmPMGPQ5>.
+<#H7jzCtEa> schema:name "Patricia Gallagher organized the Judgment of Paris";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "It was Patricia Gallagher's idea to organize the 1976 Judgment of Paris and was the one who suggested it to Steven Spurrier. ";
+    a ucdlib:organized;
+    schema:name "organized".
+<#k7QJHPyX> <#H7jzCtEa> <#ydKZ9DhI>.
+<#H7jzCtEa_rev> a schema:significantLinks, ucdlib:organized_by;
+    schema:name "organized by".
+<#ydKZ9DhI> <#H7jzCtEa_rev> <#k7QJHPyX>.
+<#iPD48uUA> schema:name "1973 Chateau Montelena Chardonnay won the Judgment of Paris";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "The 1973 Chardonnay from Chateau Montelena in Napa Valley placed first place out of ten among the whites at the 1976 Judgment of Paris tasting.";
+    a ucdlib:won;
+    schema:name "won".
+<#Obny8Rpq> <#iPD48uUA> <#ydKZ9DhI>.
+<#iPD48uUA_rev> a schema:significantLinks, ucdlib:won_by;
+    schema:name "won by".
+<#ydKZ9DhI> <#iPD48uUA_rev> <#Obny8Rpq>.
+<#wXwIqzzr> schema:name "1973 Stag's Leap Wine Cellars Cabernet won the Judgment of Paris";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "The 1973 Cabernet Sauvignon from Stag’s Leap Wine Cellars in Napa Valley placed first place out of ten among the reds in the 1976 Judgment of Paris tasting.";
+    a ucdlib:won;
+    schema:name "won".
+<#sk79HEjl> <#wXwIqzzr> <#ydKZ9DhI>.
+<#wXwIqzzr_rev> a schema:significantLinks, ucdlib:won_by;
+    schema:name "won by".
+<#ydKZ9DhI> <#wXwIqzzr_rev> <#sk79HEjl>.
+<#eEYuddRz> schema:name "Pierre Bréjoux judged the Judgment of Paris";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "Pierre Bréjoux of the Institute of Appellations of Origin was a judge at the 1976 Judgment of Paris.";
+    a ucdlib:judged;
+    schema:name "judged".
+<#TLDNGtcT> <#eEYuddRz> <#ydKZ9DhI>.
+<#eEYuddRz_rev> a schema:significantLinks, ucdlib:judged_by;
+    schema:name "judged by".
+<#ydKZ9DhI> <#eEYuddRz_rev> <#TLDNGtcT>.
+<#OZotjvsH> schema:name "Claude Dubois-Millot judged the Judgment of Paris";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "Claude Dubois-Millot was a judge at the 1976 Judgment of Paris. He was a substitute for his brother, Christian Millau.";
+    a ucdlib:judged;
+    schema:name "judged".
+<#Msu5YnRJ> <#OZotjvsH> <#ydKZ9DhI>.
+<#OZotjvsH_rev> a schema:significantLinks, ucdlib:judged_by;
+    schema:name "judged by".
+<#ydKZ9DhI> <#OZotjvsH_rev> <#Msu5YnRJ>.
+<#CvCz7pNj> schema:name "Michal Dovaz judged the Judgment of Paris";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "Michel Dovaz of the Wine Institute of France was a judge at the 1976 Judgment of Paris.";
+    a ucdlib:judged;
+    schema:name "judged".
+<#VltC8SAR> <#CvCz7pNj> <#ydKZ9DhI>.
+<#CvCz7pNj_rev> a schema:significantLinks, ucdlib:judged_by;
+    schema:name "judged by".
+<#ydKZ9DhI> <#CvCz7pNj_rev> <#VltC8SAR>.
+<#zAlHW9I2> schema:name "Odette Kahn judged the Judgment of Paris";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "Odette Kahn, the Editor of La Revue du vin de France, a monthly magazine about wine, was a judge at the 1976 Judgment of Paris.";
+    a ucdlib:judged;
+    schema:name "judged".
+<#62tsFHXQ> <#zAlHW9I2> <#ydKZ9DhI>.
+<#zAlHW9I2_rev> a schema:significantLinks, ucdlib:judged_by;
+    schema:name "judged by".
+<#ydKZ9DhI> <#zAlHW9I2_rev> <#62tsFHXQ>.
+<#11W8hjAo> schema:name "Raymond Olivier judged the Judgment of Paris";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "Raymond Oliver of the restaurant Le Grand Véfour was a judge at the 1976 Judgment of Paris.";
+    a ucdlib:judged;
+    schema:name "judged".
+<#EA5AfFd2> <#11W8hjAo> <#ydKZ9DhI>.
+<#11W8hjAo_rev> a schema:significantLinks, ucdlib:judged_by;
+    schema:name "judged by".
+<#ydKZ9DhI> <#11W8hjAo_rev> <#EA5AfFd2>.
+<#Fcd7GppP> schema:name "Pierre Tari judged the Judgment of Paris";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "Pierre Tari of the Chateau Giscours winery was a judge at the 1976 Judgment of Paris.";
+    a ucdlib:judged;
+    schema:name "judged".
+<#Wa1OnKCL> <#Fcd7GppP> <#ydKZ9DhI>.
+<#Fcd7GppP_rev> a schema:significantLinks, ucdlib:judged_by;
+    schema:name "judged by".
+<#ydKZ9DhI> <#Fcd7GppP_rev> <#Wa1OnKCL>.
+<#5ib3I1kZ> schema:name "Christian Vannequé judged the Judgment of Paris";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "Christian Vanneque the sommelier of Tour D'Argent was a judge at the 1976 Judgment of Paris.";
+    a ucdlib:judged;
+    schema:name "judged".
+<#RFQmao8i> <#5ib3I1kZ> <#ydKZ9DhI>.
+<#5ib3I1kZ_rev> a schema:significantLinks, ucdlib:judged_by;
+    schema:name "judged by".
+<#ydKZ9DhI> <#5ib3I1kZ_rev> <#RFQmao8i>.
+<#u8OU2fpH> schema:name "Aubert de Villaine judged the Judgment of Paris";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "Aubert de Villaine of the Domaine de la Romanée-Conti, a wine estate in Burgundy, was a judge at the 1976 Judgment of Paris.";
+    a ucdlib:judged;
+    schema:name "judged".
+<#19H6O8s0> <#u8OU2fpH> <#ydKZ9DhI>.
+<#u8OU2fpH_rev> a schema:significantLinks, ucdlib:judged_by;
+    schema:name "judged by".
+<#ydKZ9DhI> <#u8OU2fpH_rev> <#19H6O8s0>.
+<#DvGF3KKI> schema:name "Jean-Claude Vrinat judged the Judgment of Paris";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "Jean-Claude Vrinat of the Restaurant Taillevent was a judge at the 1976 Judgment of Paris.";
+    a ucdlib:judged;
+    schema:name "judged".
+<#C54vxFqv> <#DvGF3KKI> <#ydKZ9DhI>.
+<#DvGF3KKI_rev> a schema:significantLinks, ucdlib:judged_by;
+    schema:name "judged by".
+<#ydKZ9DhI> <#DvGF3KKI_rev> <#C54vxFqv>.
+<#yHWSpaWQ> schema:name "George M. Taber reported the Judgment of Paris";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "George M. Taber from TIME magazine was the only reporter to attend the 1976 Judgment of Paris, who promptly revealed the results to the world.";
+    a ucdlib:reported;
+    schema:name "reported".
+<#kXbX7fxQ> <#yHWSpaWQ> <#ydKZ9DhI>.
+<#yHWSpaWQ_rev> a schema:significantLinks, ucdlib:reported_by;
+    schema:name "reported by".
+<#ydKZ9DhI> <#yHWSpaWQ_rev> <#kXbX7fxQ>.
+<#n0EvUJic> schema:name "Judgment of Paris tasted Stag's Leap Wine Cellars";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1973 Cabernet Sauvignon from Stag's Leap Wine Cellars was included in the 1976 Judgment of Paris tasting. It won 1st place among the red wines.";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#n0EvUJic> <#RtfyXN9i>.
+<#n0EvUJic_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#RtfyXN9i> <#n0EvUJic_rev> <#ydKZ9DhI>.
+<#crGEiojG> schema:name "Judgment of Paris tasted Ridge Vineyards";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1971 Cabernet Sauvignon from Ridge Vineyards Monte Bello was included in the 1976 Judgment of Paris tasting, ranking 5th place among the red wines.";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#crGEiojG> <#8h0hwVyP>.
+<#crGEiojG_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#8h0hwVyP> <#crGEiojG_rev> <#ydKZ9DhI>.
+<#5hFzRNvO> schema:name "Judgment of Paris tasted Heitz Cellar";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1970 Cabernet Sauvignon from Heitz Wine Cellars Martha's Vineyard was included in the 1976 Judgment of Paris tasting, ranking 7th place among the red wines.";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#5hFzRNvO> <#4k3LZWlq>.
+<#5hFzRNvO_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#4k3LZWlq> <#5hFzRNvO_rev> <#ydKZ9DhI>.
+<#1ENTeWmj> schema:name "Judgment of Paris tasted Clos du Val";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1972 Cabernet Sauvignon from Clos du Val was included in the 1976 Judgment of Paris tasting, ranking 8th place among the red wines.";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#1ENTeWmj> <#D37urK0h>.
+<#1ENTeWmj_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#D37urK0h> <#1ENTeWmj_rev> <#ydKZ9DhI>.
+<#9Xoec2Fw> schema:name "Judgment of Paris tasted Mayacamas Vineyard";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1971 Cabernet Sauvignon from Mayacamas Vineyard was included in the 1976 Judgment of Paris tasting, ranking 9th place among the red wines.";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#9Xoec2Fw> <#yhlzvGcG>.
+<#9Xoec2Fw_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#yhlzvGcG> <#9Xoec2Fw_rev> <#ydKZ9DhI>.
+<#LzAbD4pA> schema:name "Judgment of Paris tasted Château Mouton Rothschild";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1970 vintage of Château Mouton Rothschild took second place among the red wines, and was the highest ranked French wine, at the historic 1976 Judgment of Paris wine competition.";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#LzAbD4pA> <#a4xqyd1U>.
+<#LzAbD4pA_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#a4xqyd1U> <#LzAbD4pA_rev> <#ydKZ9DhI>.
+<#wHzHGZig> schema:name "1976 Judgment of Paris tasted Château Montrose";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1970 Château Montrose Bordeaux was included in the 1976 Judgment of Paris tasting, ranking 3rd place among the red wines.";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#wHzHGZig> <#hkbN3AXg>.
+<#wHzHGZig_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#hkbN3AXg> <#wHzHGZig_rev> <#ydKZ9DhI>.
+<#Y55LQcx6> schema:name "Judgment of Paris tasted Château Haut-Brion";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1970 Château Haut-Brion Bordeaux was included in the 1976 Judgment of Paris tasting, ranking 4th place among the red wines.";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#Y55LQcx6> <#NQ7FScAv>.
+<#Y55LQcx6_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#NQ7FScAv> <#Y55LQcx6_rev> <#ydKZ9DhI>.
+<#wDak0uKZ> schema:name "Judgment of Paris tasted Château Léoville-Las Cases";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1971 Château Léoville-Las Cases Bordeaux was included in the 1976 Judgment of Paris tasting, ranking 6th place among the red wines.";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#wDak0uKZ> <#19pCYhjl>.
+<#wDak0uKZ_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#19pCYhjl> <#wDak0uKZ_rev> <#ydKZ9DhI>.
+<#Fht6On46> schema:name "Judgment of Paris tasted Freemark Abbey";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1972 Chardonnay and 1972 Cabernet Sauvignon from Freemark Abbey were included in the 1976 Judgment of Paris tasting. The Chardonnay ranked 4th place among the white wines. The Cabernet ranked 10th (last) among the red wines. ";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#Fht6On46> <#tHYYOXrE>.
+<#Fht6On46_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#tHYYOXrE> <#Fht6On46_rev> <#ydKZ9DhI>.
+<#tuvt5f23> schema:name "Judgment of Paris tasted Chateau Montelena Winery";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1973 Chardonnay from Chateau Montelena Winery was included in the 1976 Judgment of Paris tasting. It won 1st place among the white wines.  ";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#tuvt5f23> <#Mb41fKZU>.
+<#tuvt5f23_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#Mb41fKZU> <#tuvt5f23_rev> <#ydKZ9DhI>.
+<#iJeSqbDv> schema:name "Judgment of Paris tasted Chalone Vineyard";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1974 Chalone Vineyard Chardonnay was included in the 1976 Judgment of Paris, ranking 3rd place among the white wines. ";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#iJeSqbDv> <#Ow4I2o9s>.
+<#iJeSqbDv_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#Ow4I2o9s> <#iJeSqbDv_rev> <#ydKZ9DhI>.
+<#SiBlieN7> schema:name "Judgment of Paris tasted Spring Mountain Vineyard";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1973 Spring Mountain Vineyard Chardonnay was included in the 1976 Judgment of Paris, ranking 4th place among the white wines. ";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#SiBlieN7> <#ahIXKuhm>.
+<#SiBlieN7_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#ahIXKuhm> <#SiBlieN7_rev> <#ydKZ9DhI>.
+<#FwPSFsPf> schema:name "Judgment of Paris tasted David Bruce Winery";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1973 David Bruce Chardonnay was included in the 1976 Judgment of Paris, ranking 10th (last) place among the white wines. ";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#FwPSFsPf> <#UmAzNHOz>.
+<#FwPSFsPf_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#UmAzNHOz> <#FwPSFsPf_rev> <#ydKZ9DhI>.
+<#sskFnS0Y> schema:name "Judgment of Paris tasted Domaine Roulot";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "The 1973 vintage of Roulot's white premier cru wine Meursault Charmes was ranked second among the white wines in the historic Judgment of Paris wine competition.";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#sskFnS0Y> <#NJdtHips>.
+<#sskFnS0Y_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#NJdtHips> <#sskFnS0Y_rev> <#ydKZ9DhI>.
+<#s1j1ditp> schema:name "1976 Judgment of Paris tasted Maison Joseph Drouhin";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1973 Beaune Clos des Mouches Joseph Drouhin was included in the 1976 Judgment of Paris, ranking 5th place among the white wines. ";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#s1j1ditp> <#jeS628wG>.
+<#s1j1ditp_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#jeS628wG> <#s1j1ditp_rev> <#ydKZ9DhI>.
+<#ZEZBn4SF> schema:name "Judgment of Paris tasted Domaine Leflaive";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1972 Puligny-Montrachet Les Pucelles Domaine Leflaive was included in the 1976 Judgment of Paris, ranking 8th place among the white wines. ";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#ZEZBn4SF> <#iJDHzQxd>.
+<#ZEZBn4SF_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#iJDHzQxd> <#ZEZBn4SF_rev> <#ydKZ9DhI>.
+<#6HmRJOWb> schema:name "Judgment of Paris tasted Domain Ramonet-Prudhon";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1973 Batard-Montrachet Ramonet-Prudhon was included in the 1976 Judgment of Paris, ranking 7th place among the white wines. ";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#6HmRJOWb> <#nAMfCtk1>.
+<#6HmRJOWb_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#nAMfCtk1> <#6HmRJOWb_rev> <#ydKZ9DhI>.
+<#YGeIeyws> schema:name "Judgment of Paris tasted Veedercrest Vineyards";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1972 Veedercrest Vineyards Chardonnay was included in the 1976 Judgment of Paris tasting, ranking 9th place among the white wines.";
+    a ucdlib:tasted;
+    schema:name "tasted".
+<#ydKZ9DhI> <#YGeIeyws> <#tN8OPoTy>.
+<#YGeIeyws_rev> a schema:significantLinks, ucdlib:tasted_at;
+    schema:name "tasted at".
+<#tN8OPoTy> <#YGeIeyws_rev> <#ydKZ9DhI>.
+<#NjYuebG5> schema:name "Smithsonian National Museum of American History displays 1973 Stag's Leap Wine Cellars Cabernet";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "The 1973 Stag's Leap Wine Cellars Cabernet is on display in the “FOOD: Transforming the American Table, 1950–2000” exhibition since 1996.";
+    a ucdlib:displays;
+    schema:name "displays".
+<#4lT1dlHw> <#NjYuebG5> <#sk79HEjl>.
+<#NjYuebG5_rev> a schema:significantLinks, ucdlib:displayed_by;
+    schema:name "displayed by".
+<#sk79HEjl> <#NjYuebG5_rev> <#4lT1dlHw>.
+<#5cEgIuoM> schema:name "Smithsonian National Museum of American History displays 1973 Chateau Montelena Chardonnay";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "The 1973 Chateau Montelena Chardonnay is on display in the “FOOD: Transforming the American Table, 1950–2000” exhibition since 1996.";
+    a ucdlib:displays;
+    schema:name "displays".
+<#4lT1dlHw> <#5cEgIuoM> <#Obny8Rpq>.
+<#5cEgIuoM_rev> a schema:significantLinks, ucdlib:displayed_by;
+    schema:name "displayed by".
+<#Obny8Rpq> <#5cEgIuoM_rev> <#4lT1dlHw>.
+<#KNZ0TQuz> schema:name "InterContinental Paris Le Grand hosted the 1976 Judgment of Paris";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "The 1976 Judgment of Paris wine tasting was hosted at the InterContinental, a luxury hotel. ";
+    a ucdlib:hosted;
+    schema:name "hosted".
+<#42bEJkdS> <#KNZ0TQuz> <#ydKZ9DhI>.
+<#KNZ0TQuz_rev> a schema:significantLinks, ucdlib:hosted_by;
+    schema:name "hosted by".
+<#ydKZ9DhI> <#KNZ0TQuz_rev> <#42bEJkdS>.
+<#9Pyha9n3> schema:name "Steven Spurrier owned Les Caves de la Madeleine";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "Steven Spurrier owned the wine shop Les Caves de la Madeleine from 1971 - 1988.";
+    a ucdlib:owned;
+    schema:name "owned".
+<#kmPMGPQ5> <#9Pyha9n3> <#BEiG1xaf>.
+<#9Pyha9n3_rev> a schema:significantLinks, ucdlib:owned_by;
+    schema:name "owned by".
+<#BEiG1xaf> <#9Pyha9n3_rev> <#kmPMGPQ5>.
+<#VaSz5lKQ> schema:name "Warren Winiarski founded Stag's Leap Wine Cellars";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "Warren Winiarski founded the winery Stag's Leap Wine Cellars in 1970.";
+    a ucdlib:founded;
+    schema:name "founded".
+<#Nn9iS1kw> <#VaSz5lKQ> <#RtfyXN9i>.
+<#VaSz5lKQ_rev> a schema:significantLinks, ucdlib:founded_by;
+    schema:name "founded by".
+<#RtfyXN9i> <#VaSz5lKQ_rev> <#Nn9iS1kw>.
+<#nP9EzD6b> schema:name "Stag's Leap Wine Cellars produced the 1973 Stag's Leap Wine Cellars Cabernet";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1973 Stag's Leap Wine Cellars Cabernet was produced at Stag's Leap Wine Cellars in Napa Valley California.";
+    a ucdlib:produced;
+    schema:name "produced".
+<#sk79HEjl> <#nP9EzD6b> <#RtfyXN9i>.
+<#nP9EzD6b_rev> a schema:significantLinks, ucdlib:produced_by;
+    schema:name "produced by".
+<#RtfyXN9i> <#nP9EzD6b_rev> <#sk79HEjl>.
+<#87v1kCdC> schema:name "Warren Winiarski made the 1973 Stag's Leap Wine Cellars Cabernet";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "1973 Stag's Leap Wine Cellars Cabernet that won the 1976 Judgment of Paris was the second crop and first vintage produced by winemaker and winery founder Warren Winiarski.";
+    a ucdlib:winemaker;
+    schema:name "winemaker".
+<#Nn9iS1kw> <#87v1kCdC> <#sk79HEjl>.
+<#87v1kCdC_rev> a schema:significantLinks, ucdlib:winemaker;
+    schema:name "winemaker".
+<#sk79HEjl> <#87v1kCdC_rev> <#Nn9iS1kw>.
+<#Pw59YERo> schema:name "Mike Grgich made the 1973 Chateau Montelena Chardonnay";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "Mike Grgich made the 1973 Chateau Montelena Chardonnay.";
+    a ucdlib:winemaker;
+    schema:name "winemaker".
+<#wSHcDVl2> <#Pw59YERo> <#Obny8Rpq>.
+<#Pw59YERo_rev> a schema:significantLinks, ucdlib:winemaker;
+    schema:name "winemaker".
+<#Obny8Rpq> <#Pw59YERo_rev> <#wSHcDVl2>.
+<#2BX91onm> schema:name "Joanne DePuy delivered wine to Steven Spurrier";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "On a visit from France to California, Joanne DePuy -- Joanne Dickenson at the time --  took Steven Spurrier and his wife on a wine tasting our of the Napa Valley. She ultimately is the one that delivered the American wines to Steven Spurrier for the Judgment of Paris, transporting them with her along with a group of California vintners on an aptly timed tour of French wineries, led by winemaker Andre Tchelistcheff.";
+    a ucdlib:delivered_to;
+    schema:name "delivered to".
+<#HDmnuCC5> <#2BX91onm> <#kmPMGPQ5>.
+<#2BX91onm_rev> a schema:significantLinks, ucdlib:received_from;
+    schema:name "received from".
+<#kmPMGPQ5> <#2BX91onm_rev> <#HDmnuCC5>.
+<#CymKw4L1> schema:name "André Tchelistcheff mentored Warren Winiarski";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "André Tchelistcheff mentored Warren Winiarski in the art of winemaking. ";
+    a ucdlib:mentored;
+    schema:name "mentored".
+<#Hsr1Bktg> <#CymKw4L1> <#Nn9iS1kw>.
+<#CymKw4L1_rev> a schema:significantLinks, ucdlib:mentored_by;
+    schema:name "mentored by".
+<#Nn9iS1kw> <#CymKw4L1_rev> <#Hsr1Bktg>.
+<#7uAGLBz9> schema:name "André Tchelistcheff mentored Mike Grgich.";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "André Tchelistcheff mentored Mike Grgich in the art of winemaking. ";
+    a ucdlib:mentored;
+    schema:name "mentored".
+<#Hsr1Bktg> <#7uAGLBz9> <#wSHcDVl2>.
+<#7uAGLBz9_rev> a schema:significantLinks, ucdlib:mentored_by;
+    schema:name "mentored by".
+<#wSHcDVl2> <#7uAGLBz9_rev> <#Hsr1Bktg>.
+<#I8SCcwFs> schema:name "Joanne DePuy toured with André Tchelistcheff";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:significantLinks;
+    schema:description "André Tchelistcheff led the tour to France on which Joanne DePuy -- at that time known as Joanne Dickenson -- transported the wine for the Judgment of Paris. The tour was not part of the event, but the Judgment of Paris would not have happened if not for the aptly timed trip that allowed Joanne DePuy to deliver the American wines to Steven Spurrier for the tasting. ";
+    a ucdlib:toured_with;
+    schema:name "toured with".
+<#HDmnuCC5> <#I8SCcwFs> <#Hsr1Bktg>.
+<#I8SCcwFs_rev> a schema:significantLinks, ucdlib:toured_with;
+    schema:name "toured with".
+<#Hsr1Bktg> <#I8SCcwFs_rev> <#HDmnuCC5>.
+<#TLDNGtcT> schema:name "Pierre Bréjoux";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Person;
+    schema:label "Date", "Image / Image Credit";
+    a schema:WebPage;
+    schema:spatial "Paris, France", [
+  a schema:Place;
+  schema:name "Institut+national+de+l'origine+et+de+la+qualité+(INAO)";
+  schema:latitude "48.8503493"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "2.4199647"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:description "Pierre Bréjoux was Inspector General of the Appellation d'Origine Controlee Board, which controls the production of top French wines. he served as an expert wine taster in the Paris Wine Tasting of 1976. In the blind tasting, California wines won both the red and white wine categories. After the tasting, there were many calls for him to resign his position as Inspector General because so many people and groups were highly displeased with the results. He is also the author of several books on French wine.";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Pierre_Brejoux>;
+    schema:relatedLinkText "Pierre Bréjoux";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Appellation_d%27origine_contr%C3%B4l%C3%A9e>;
+    schema:relatedLinkText "Appellation d'Origine Contrôlée";
+    schema:relatedLink <https://search.library.ucdavis.edu/permalink/f/12qmtm2/01UCD_ALMA21164444820003126>;
+    schema:relatedLinkText "Les Vins de Loire";
+    schema:creator "URL", "Source name".
+<#Wa1OnKCL> schema:name "Pierre Tari";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Person;
+    schema:thumbnail <Wa1OnKCL/pierre_tari.jpg>;
+    schema:label "Date";
+    a schema:WebPage;
+    schema:spatial "Labarde, France", [
+  a schema:Place;
+  schema:name "33460+Labarde,+France";
+  schema:latitude "45.0143201"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-0.6549911"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "unknown";
+    schema:description "Pierre Tari was owner of Château Giscours and from 1975 to 1989 President of the Union des Grands Crus de Bordeaux, the organization of the wine classified in the Bordeaux Wine Official Classification of 1855. He served as an expert taster in the historic Judgment of Paris wine competition.";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Pierre_Tari>;
+    schema:relatedLinkText "Pierre Tari";
+    schema:creator <https://www.ugcb.net/en/lunion-des-grands-crus-en>, "Union des Grands Crus de Bordeaux".
+<#kmPMGPQ5> schema:name "Steven Spurrier";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Person;
+    schema:thumbnail <kmPMGPQ5/sspurrier.jpg>;
+    a schema:WebPage;
+    schema:spatial "London, United Kingdom", [
+  a schema:Place;
+  schema:name "London,+UK";
+  schema:latitude "51.5285582"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-0.2416795"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1941/present";
+    schema:description "Steven Spurrier (born 1941) is a British wine expert and former merchant who has been described as a champion of French wine.\n\n Spurrier entered the wine trade in 1964 as a trainee with London’s oldest wine merchant Christopher and Co. In 1970 he moved to Paris. The following year he bought a wine shop in a passageway off the rue Royale, Les Caves de la Madeleine. In 1973 he started L’Academie du Vin, France’s first private wine school.\n\n During his time in Paris, Spurrier staged the influential “Judgment of Paris” blind wine tasting of 1976, when a Chardonnay and Cabernet Sauvignon from California were ranked above some of the most prestigious wines of Burgundy and Bordeaux.\n\n Spurrier sold his wine interests in France and returned to the UK in 1988, becoming a wine consultant and journalist. He has won several awards, is president of the Circle of Wine Writers, and founded the Wine Society of India. He is also consultant editor to Decanter.";
+    schema:relatedLink <https://www.decanter.com/author/stevenspurrier/>;
+    schema:relatedLinkText "Decanter Author Archives for Steven Spurrier";
+    schema:relatedLink <https://www.jancisrobinson.com/articles/tt-steven-spurrier-champion-of-french-wines>;
+    schema:relatedLinkText "Steven Spurrier – Champion of French Wines";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Steven_Spurrier_(wine_merchant)>;
+    schema:relatedLinkText "Steven Spurrier (wine merchant)";
+    schema:creator <https://www.decanter.com/wine-news/steven-spurrier-named-decanter-man-year-2017-356111/>, "Thomas Skovsende / Decanter".
+<#k7QJHPyX> schema:name "Patricia Gastaud-Gallagher";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Person;
+    schema:thumbnail <k7QJHPyX/patricia-gallagher.jpg>;
+    a schema:WebPage;
+    schema:spatial "Wilmington, Delaware", [
+  a schema:Place;
+  schema:name "Wilmington,+DE";
+  schema:latitude "39.729881"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-75.5995244"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1951/present";
+    schema:description "Patricia Gastaud-Gallagher was a director at the Académie du Vin in Paris. She came up with the idea for, co-hosted, and participated in the Judgment of Paris wine tasting event. She was also on the Copia panel that oversaw the rematch on The Judgment of Paris 30th Anniversary. \n\n After her time at Académie du Vin, Gastaud-Gallagher went on to write influential wine columns in French publications, earned a degree as an enology technician, and was the editorial director of the International Who’s Who in Wine & Spirits. She then became the academic director and director of the wine department of the famous Le Cordon Bleu school of cuisine and pastry. She is a co-author of the book Le Cordon Bleu Wine Essentials: Professional Secrets to Buying, Storing, Serving, and Drinking Wine.\n\n Originally from Delaware, she is one of the few non-French natives to have won the distinguished Chevalier du Mérite Agricole given for distinguished service to the French Wine industry (1994).";
+    schema:relatedLink <https://www.sfchronicle.com/wine/article/The-hidden-figures-benind-the-Judgment-of-Paris-13333299.php>;
+    schema:relatedLinkText "The Hidden Figures Behind the Judgment of Paris";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Patricia_Gallagher>;
+    schema:relatedLinkText "Patricia Gallagher";
+    schema:creator <https://americanhistory.si.edu/blog/40th-anniversary-paris-tasting>, "National Museum of American History".
+<#Msu5YnRJ> schema:name "Claude Dubois-Millot";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Person;
+    schema:thumbnail <Msu5YnRJ/claude-dubois-millot.jpg>;
+    a schema:WebPage;
+    schema:spatial "Paris, France", [
+  a schema:Place;
+  schema:name "Boulogne-Billancourt,+France";
+  schema:latitude "48.8374891"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "2.2253054"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1923/present";
+    schema:description "Claude Dubois-Millot was sales director of the Gault Millau restaurant guide and served as one of the eleven judges of the historic Judgment of Paris wine tasting. He was the only judge on the all-French panel that did not have previous experience in wine competition after spending the majority of his career in the automobile industry prior to joining GaultMillau in 1973. Originally his brother, the food critic Christian Millau, was slated to be on the panel but Claude served as a substitute.\n\n During the Judgment of Paris tasting, Dubois-Millot was noted for proclaiming the Batard-Montrachet Ramonet-Prudhon as being an \"obviously Californian\" because it had no nose. He later admitted that such confusion did show how far in quality that Californian wines had come.";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Claude_Dubois-Millot>;
+    schema:relatedLinkText "Claude Dubois-Millot";
+    schema:relatedLink <https://www.amazon.com/gp/product/B000MGAU1Q/r>;
+    schema:relatedLinkText "Judgment of Paris: California vs. France and the Historic 1976 Paris Tasting That Revolutionized Wine";
+    schema:creator <http://edm.gen.free.fr/xDocs.html>, "Eric Dubois-Millot".
+<#VltC8SAR> schema:name "Michel Dovaz";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Person;
+    schema:thumbnail <VltC8SAR/mdovaz.jpg>;
+    a schema:WebPage;
+    schema:spatial "Geneva, Switzerland", [
+  a schema:Place;
+  schema:name "Geneva,+Switzerland";
+  schema:latitude "46.2050242"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "6.1090692"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1928/present";
+    schema:description "Michel Dovaz started his career as a journalist in Paris, France and later taught wine courses at the Academie du Vin in Paris when he served as a judge at the Paris Wine Tasting of 1976. He subsequently wrote several books on French wine as well as the chapter on Champagne for the Guide Hachette des Vins.";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Michel_Dovaz>;
+    schema:relatedLinkText "Michel Dovaz";
+    schema:creator <http://www.larvf.com/vin-michel-dovaz-les-vieux-vins-transmettent-des-emotions-incroyables,4573562.asp>, "Leo Paul Ridet".
+<#62tsFHXQ> schema:name "Odette Kahn";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Person;
+    schema:thumbnail <62tsFHXQ/odette-kahn.jpg>;
+    a schema:WebPage;
+    schema:spatial "Pantin, France", [
+  a schema:Place;
+  schema:name "Magazines.fr+-+Tous+les+magazines+du+groupe+Marie+Claire";
+  schema:latitude "48.885646"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "2.4099673"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1923/1982";
+    schema:description "Odette Kahn was a leading authority on wine and editor of the La Revue du vin de France (Review of French wine) and of Cuisine et Vins de France (Food and Wines of France). Kahn was an expert in the field of French gastronomy and wines, for which she was a well-known ambassador throughout the world. She was a judge at the historic Paris Wine Tasting of 1976. Kahn was outraged at the results of the tasting, unsuccessfully demanded her ballot back. She refused to speak to organizer Steven Spurrier after the event, claimed fraud, and wrote disparagingly about the wine competition.";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Odette_Kahn>;
+    schema:relatedLinkText "Odette Kahn";
+    schema:creator <https://commons.wikimedia.org/wiki/File:OdetteKahn.jpg>, "Jean-Michel Kahn".
+<#EA5AfFd2> schema:name "Raymond Oliver";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Person;
+    schema:thumbnail <EA5AfFd2/raymond-oliver.jpeg>;
+    a schema:WebPage;
+    schema:spatial "Paris, France", [
+  a schema:Place;
+  schema:name "Le+Grand+Véfour";
+  schema:latitude "48.8661299"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "2.3357972"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1909/1990";
+    schema:description "Raymond Oliver was chef and owner of Le Grand Véfour, one of France's great historical restaurants dating back to 1760, for over 35 years. He purchased it in 1948. Six years after Oliver bought the restaurant, it was awarded the prized third star by the Michelin Guide (France's atlas to good dining), one of only a handful of kitchens that were so honored at that time. His celebrity clientele ranged from statesmen like Winston Churchill and Andre Malraux, to writers including Albert Camus and Georges Simenon, to the industrialists and financiers Henry Ford and David Rockefeller. \n\n Oliver published La Cuisine, a detailed technical cookbook, in 1967 and hosted a popular cooking show on television. He also served as one of the eleven judges at the 1967 Judgment of Paris.";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Raymond_Oliver>;
+    schema:relatedLinkText "Raymond Oliver";
+    schema:relatedLink <https://www.nytimes.com/1990/11/06/obituaries/raymond-oliver-famed-french-chef-dies-at-81.html>;
+    schema:relatedLinkText "Raymond Oliver, Famed French Chef, Dies at 81";
+    schema:relatedLink <https://www.amazon.com/Cuisine-Secrets-Modern-French-Cooking/dp/0814803423>;
+    schema:relatedLinkText "La Cuisine";
+    schema:creator <https://alchetron.com/Raymond-Oliver>, "Unknown".
+<#RFQmao8i> schema:name "Christian Vannequé";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Person;
+    schema:thumbnail <RFQmao8i/christian-vanneque.jpg>;
+    a schema:WebPage;
+    schema:spatial "Paris, France", [
+  a schema:Place;
+  schema:name "La+Tour+d'Argent";
+  schema:latitude "48.8497866"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "2.3527581"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1949/2015";
+    schema:description "Christian Vannequé was a French sommelier and restauranteur. In 1967, he began at the three star Tour d'Argent restaurant in Paris as an assistant cellar man. He rose to become the restaurant's head sommelier, at 20 years old the youngest head sommelier in France. He was responsible for the largest restaurant wine cellar in the world for ten years.\n\n During this time, Christian was also a professor and consultant at Steven Spurrier’s L’Académie du Vin in Paris. He served as an expert wine taster at the Paris Wine Tasting of 1976. He also participated in The Judgment of Paris 30th Anniversary. In later years, Vannequé opened restaurants of his own in France, the United States, and Bali.\n\n On July 26, 2011, Vannequé set a record for the highest price paid for a bottle of white wine, purchasing a bottle of Chateau d'Yquem, vintage 1811, for £75,000 (US$123,000) from The Antique Wine Company.";
+    schema:relatedLink <http://www.sip-bali.com/about/whos-the-boss/>;
+    schema:relatedLinkText "Who's the Boss: Christian Vannequé";
+    schema:relatedLink <https://www.dailymail.co.uk/news/article-2018895/Worlds-expensive-white-wine-sold-75-000-1811-Ch-teau-dYquem.html>;
+    schema:relatedLinkText "Don't spill a drop! Most expensive bottle of white wine ever sold for £75,000";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Christian_Vannequ%C3%A9>;
+    schema:relatedLinkText "Christian Vannequé";
+    schema:creator <https://www.dailymail.co.uk/news/article-2018895/Worlds-expensive-white-wine-sold-75-000-1811-Ch-teau-dYquem.html>, "PA".
+<#19H6O8s0> schema:name "Aubert de Villaine";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Person;
+    schema:thumbnail <19H6O8s0/aubert-villaine.jpg>;
+    a schema:WebPage;
+    schema:spatial "Vosne-Romanée, France", [
+  a schema:Place;
+  schema:name "Domaine+Romanée+Conti";
+  schema:latitude "47.1617666"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "4.9529227"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1939/present";
+    schema:description "Aubert de Villaine is a social economist and co-owner and co-director of the Domaine de la Romanee-Conti, which produces some of the world's most expensive wines. He was originally co-director with Lalou Bize-Leroy, both having inherited their ownership. However disagreements over the direction of the estate, led to Bize-Leroy's expulsion from the management and her replacement by her nephew.\n\n Together with his wife Pamela, he owns and runs a domaine in Bouzeron named A & P de Villaine. This domaine has extensive plantations of Aligoté and the de Villaines were part of the campaign to create a separate appellation for the Aligoté wines of Bouzeron, which succeeded in 1998, when Bouzeron AOC was created.\n\n Aubert de Villaine is also the Director of HdV (Hyde de Villaine) Wines, a highly regarded winery in Napa Valley, California. Founded in 2000, all of the partnership's fruit is sourced from Hyde Vineyard in the Los Carneros appellation.\n\n He served as a judge at the Judgment of Paris wine tasting of 1976.";
+    schema:relatedLink <https://www.decanter.com/features/decanter-man-of-the-year-aubert-de-villaine-246429/>;
+    schema:relatedLinkText "Decanter Man of the Year: Aubert de Villaine";
+    schema:relatedLink <https://www.winespectator.com/anniversary/leaders/id/Aubert-de-Villaine>;
+    schema:relatedLinkText "Leaders: Aubert de Villaine";
+    schema:relatedLink <https://www.wilsondaniels.com/news/a-conversation-with-aubert-de-villaine/>;
+    schema:relatedLinkText "A Conversation With Aubert de Villaine";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Aubert_de_Villaine>;
+    schema:relatedLinkText "Aubert de Villaine";
+    schema:creator <https://www.winespectator.com/anniversary/leaders/id/Aubert-de-Villaine>, "Jean-Louis Bernuy".
+<#C54vxFqv> schema:name "Jean-Claude Vrinat";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Person;
+    schema:thumbnail <C54vxFqv/jcvrinat.jpg>;
+    a schema:WebPage;
+    schema:spatial "Paris, France", [
+  a schema:Place;
+  schema:name "Taillevent";
+  schema:latitude "48.8701734"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "2.3031831"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1936/2008";
+    schema:description "Jean-Claude Vrinat owned the Taillevent, a restaurant founded by his father André Vrinat in Paris. Named after the court chef to King Charles V in the 14th century, this Michelin two star restaurant has long been considered the epitome of Haute Cuisine and is also known for its excellent service and its comprehensive wine list. It held three stars from 1973 to 2007.\n\n He served as a judge in the Paris Wine Tasting of 1976.\n\n Vrinat died of lung cancer at a Parisian hospital on January 7, 2008, at the age of 71.";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Jean-Claude_Vrinat>;
+    schema:relatedLinkText "Jean-Claude Vrinat";
+    schema:relatedLink <https://www.nytimes.com/2008/01/09/world/europe/09vrinat.html>;
+    schema:relatedLinkText "Jean-Claude Vrinat, Owner of Famed Paris Restaurant, Is Dead at 71";
+    schema:creator <https://www.lemonde.fr/disparitions/article/2008/01/10/jean-claude-vrinat-proprietaire-du-restaurant-taillevent_997907_3382.html>, "Le Monde".
+<#kXbX7fxQ> schema:name "George M. Taber";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Person;
+    schema:thumbnail <kXbX7fxQ/george-taber.jpg>;
+    a schema:WebPage;
+    schema:spatial "Riverside, California", [
+  a schema:Place;
+  schema:name "Riverside,+CA";
+  schema:latitude "33.9459362"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-117.5396128"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1942/present";
+    schema:description "George McCaffrey Taber is a journalist and entrepreneur. Taber was a reporter and editor with Time magazine in the United States and Europe for 21 years, working in Brussels, Bonn, Houston, Washington, DC, and New York. Stationed in Paris between 1973 and 1976, he reported extensively on French wine and cooking, including a Time cover story on chef Michel Guérard and his nouvelle cuisine.\n\n It was during that period that he reported on the Judgment of Paris where California wines were ranked alongside France's best, an event that revolutionized the world of wine. His four-paragraph story about the tasting has been called \"the most significant news story ever written about wine.\" In 2005, Taber wrote a book on the event, with the goal of \"setting the record straight.\"\n\n In 2012, Taber organized a blind tasting on behalf of the American Association of Wine Economists similar to the 1976 Judgment of Paris event between wines produced in France and several produced in New Jersey. This event at the Association's conference in Princeton has been called the Judgment of Princeton.\n\n Taber began his own business newspaper in 1988 and interviewed and wrote about the presidents of both the United States and France.";
+    schema:relatedLink <https://www.sfgate.com/wine/article/The-story-behind-the-story-that-made-wine-history-2662065.php>;
+    schema:relatedLinkText "The Story Behind the Story That Made Wine History";
+    schema:relatedLink <http://georgemtaber.com/About.html>;
+    schema:relatedLinkText "About George M. Taber";
+    schema:relatedLink <https://en.wikipedia.org/wiki/George_M._Taber>;
+    schema:relatedLinkText "George M. Taber";
+    schema:creator <https://twitter.com/georgemtaber>, "George M. Taber".
+<#Nn9iS1kw> schema:name "Warren Winiarski";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Person;
+    schema:thumbnail <Nn9iS1kw/warren-winiarski.jpg>;
+    a schema:WebPage;
+    schema:spatial "Chicago, Illinois", [
+  a schema:Place;
+  schema:name "Napa,+CA";
+  schema:latitude "38.2859417"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-122.3599985"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1928/present";
+    schema:description "California winemaker Warren Winiarski made the 1973 Stag's Leap Wine Cellars S.L.V. Cabernet Sauvignon that won the 1976 Judgment of Paris. The blind tasting is now considered a pivotal step in establishing the credibility of the American wine and propelling the industry forward.\n\n Winiarski was in Italy studying the work of political philosopher Niccolo Machiavelli as part of his coursework for a PhD in political science from the University of Chicago when he became captivated by wine. He realized, during that year in Italy, that he wanted to pursue wine making. Ten years later, in 1964, he moved with his wife Barbara and their small children to Napa Valley to make that dream a reality.\n\n Initially, Winiarski worked at Souverain Winery before, in 1966, becoming the first winemaker at the Robert Mondavi Winery. Then in 1968, Winiarski took a position at Ivancie Cellars, selecting California grapes for a Colorado wine making endeavor. In 1970, together with a group of investors, he bought a 44-acre prune orchard in the Napa Valley. He planted Cabernet Sauvignon and Merlot grapes on the land and built a winery near the vineyard and founded Stag’s Leap Wine Cellars in 1973.\n\n It was Winiarski’s first vintage, Stag’s Leap Wine Cellar 1973 Cabernet, was selected for that historic 1976 blind tasting, the Judgment of Paris and won first place among ten French and California red wines.\n\n In 2007, Stag’s Leap Wine Cellars was sold for $185 million to a partnership of St. Michelle Wine Estates of Washington State and Marchesi Antinori of Tuscany.";
+    schema:relatedLink <https://www.sacbee.com/food-drink/wine/dunne-on-wine/article102135322.html>;
+    schema:relatedLinkText "Warren Winiarski reflects on half a century of making wine in California";
+    schema:relatedLink <https://www.sfgate.com/bayarea/article/NAPA-VALLEY-STUNNER-FAMED-WINERY-SOLD-Vintner-3416127.php>;
+    schema:relatedLinkText "Napa Valley Stunner – Famed Winery Sold";
+    schema:relatedLink <https://www.californiamuseum.org/inductee/warren-winiarski>;
+    schema:relatedLinkText "California Hall of Fame: Warren Winiarski";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Warren_Winiarski>;
+    schema:relatedLinkText "Warren Winiarski";
+    schema:creator <https://commons.wikimedia.org/wiki/File:Warren_Winiarski.jpg>, "Bob McClenahan".
+<#wSHcDVl2> schema:name "Mike Grgich";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Person;
+    schema:thumbnail <wSHcDVl2/mike-grgich.jpg>;
+    a schema:WebPage;
+    schema:spatial "Desne, Croatia", [
+  a schema:Place;
+  schema:name "Desne,+Croatia";
+  schema:latitude "43.0657306"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "17.5267338"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1023/present";
+    schema:description "Mike Grgich (born Miljenko Grgić on April 1, 1923 in Desne) is a Croatian American winemaker in California. He was born into a winemaking family in the town of Desne on Croatia's coastal region of Dalmatia. He is notable for being the winemaker behind the 1973 Chateau Montelena Chardonnay that bested several white Burgundy wines in the wine tasting event that became known as the Judgment of Paris. In recognition of his contributions to the wine industry, Grgich was inducted into the Culinary Institute of America's Vintner's Hall of Fame on March 7, 2008. The tribute came at the same time that Grgich was celebrating his 50th vintage of winemaking in the Napa Valley.";
+    schema:relatedLink <https://www.grgich.com/miljenko-mike-grgich/>;
+    schema:relatedLinkText "Miljenko \"Mike\" Grgich: His Story";
+    schema:relatedLink <https://americanhistory.si.edu/food/wine-table/immigrant-winemaker>;
+    schema:relatedLinkText "Immigrant Winemaker";
+    schema:relatedLink <https://www.grgich.com/2016/05/25/the-40th-anniversary-of-the-judgment-of-paris-napa-valley-life-magazine/>;
+    schema:relatedLinkText "The 40th anniversary of the Judgment of Paris: Napa Valley Life Magazine";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Mike_Grgich>;
+    schema:relatedLinkText "Mike Grgich";
+    schema:creator <https://www.grgich.com/2016/05/25/the-40th-anniversary-of-the-judgment-of-paris-napa-valley-life-magazine/>, "Grgich Hills Estate".
+<#uPuH2QQJ> schema:name "André Tchelistcheff";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Person;
+    schema:thumbnail <uPuH2QQJ/andre-tchelistcheff.jpg>;
+    a schema:WebPage;
+    schema:spatial "Moscow, Russia", [
+  a schema:Place;
+  schema:name "Moscow,+Russia";
+  schema:latitude "55.5807482"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "36.825156"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1901/1994";
+    schema:description "André Tchelistcheff was America's most influential post-Prohibition winemaker. \nHe was born in Russia but fled with his family to Eastern Europe during the Russian Revolution. After obtaining an agricultural degree in Czechoslovakia and studying enological science and viticulture in France, Tchelistcheff was hired to improve the chemical stability of wine at Beaulieu Vineyard in Napa Valley, California.\n\n Called the \"dean of American winemakers,\" he mentored many industry pioneers in the art of wine making. He provided significant contributions to the techniques of cold fermentation, vineyard frost protection, malolactic fermentation, and the development of winemaking regions in Carneros, California, Oregon and Washington.\n\n He remained vice president of Beaulieu Vineyards until his retirement in 1973. He also operated a private wine laboratory in St. Helena and provided consultations to many wineries. Tchelistcheff was inducted into the Culinary Institute of America's Vintner's Hall of Fame in 2007.";
+    schema:relatedLink <https://www.library.ucdavis.edu/news/stories-behind-historic-judgment-of-paris-wine-tasting-illuminated-in-new-uc-davis-library-collections-exhibit/>;
+    schema:relatedLinkText "Stories Behind Historic “Judgment of Paris” Wine Tasting Illuminated in New UC Davis Library Collections, Exhibit";
+    schema:relatedLink <http://themaestrofilm.com/thestory.htm>;
+    schema:relatedLinkText "André: The Voice of Wine";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Andr%C3%A9_Tchelistcheff>;
+    schema:relatedLinkText "André Tchelistcheff";
+    schema:creator <https://www.library.ucdavis.edu/>, "UC Davis Library".
+<#HDmnuCC5> schema:name "Joanne DePuy";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Person;
+    schema:thumbnail <HDmnuCC5/joanne-depuy.jpg>;
+    a schema:WebPage;
+    schema:spatial "Altadena, CA", [
+  a schema:Place;
+  schema:name "Altadena,+CA";
+  schema:latitude "34.1938654"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-118.1712585"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1927/present";
+    schema:description "Joanne DePuy founded and directed Wine Tours International in Napa Valley in 1973. She organized and led many wine and tennis tours internationally until 2005. In 1976, she engaged André Tchelistcheff to conduct wine tour of France for Napa Valley vintners. During this tour, DePuy delivered California wines to Steven Spurrier for his 1976 Judgment of Paris wine tasting event. \n\n DePuy also served on on the Board of Directors for the Stags Leap Wine District from 1979 – 2001. In 1981 she created the Napa Valley Wine Symposium and was director until 1983. Currently she is on the Board of Trustees Napa Valley Medical Center Foundation.";
+    schema:relatedLink <https://www.sfchronicle.com/wine/article/How-a-Napa-divorcee-saved-the-Judgment-of-Paris-13333349.php>;
+    schema:relatedLinkText "How a Napa divorcee saved the Judgment of Paris";
+    schema:relatedLink <https://napavalleyregister.com/wine/the-woman-behind-the-judgment-of-paris/article_7cb1719a-94fe-5272-a51e-ddbe4327c056.html>;
+    schema:relatedLinkText "The Woman Behind ﻿the Judgment of Paris";
+    schema:relatedLink <https://www.library.ucdavis.edu/news/stories-behind-historic-judgment-of-paris-wine-tasting-illuminated-in-new-uc-davis-library-collections-exhibit/>;
+    schema:relatedLinkText "Stories Behind Historic “Judgment of Paris” Wine Tasting Illuminated in New UC Davis Library Collections, Exhibit";
+    schema:relatedLink <https://www.queensfoundation.org/About-Us/Foundation-Board-Members/Joanne-DePuy.aspx>;
+    schema:relatedLinkText "Joanne DePuy Biography";
+    schema:creator <https://www.library.ucdavis.edu/>, "UC Davis Library".
+<#RtfyXN9i> schema:name "Stag's Leap Wine Cellars";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <RtfyXN9i/stagsleapwc.jpg>;
+    a schema:WebPage;
+    schema:spatial "Napa, California", [
+  a schema:Place;
+  schema:name "Stag's+Leap+Wine+Cellars";
+  schema:latitude "38.3992276"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-122.3257286"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1970/present";
+    schema:description "Founded by Warren Winiarski in 1970, Stag’s Leap Wine Cellars is a winery based in the Stags Leap District of Napa Valley, California. The winery is best known for its estate-grown Cabernet sauvignons: CASK 23, S.L.V., and FAY. Their wines are some of the most highly regarded and collected wines worldwide.\n\n Four years after its establishment, the winery achieved significant international recognition in 1976 at the Judgment of Paris blind wine tasting where its 1973 vintage Cabernet Sauvignon won first place among ten French and California red wines.\n\n The winery was sold to Ste. Michelle Wine Estates and Marchesi Antinori in 2007 for $185 million.";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Stag%27s_Leap_Wine_Cellars>;
+    schema:relatedLinkText "Stag's Leap Wine Cellars";
+    schema:relatedLink <https://www.stagsleapwinecellars.com/our-story/history>;
+    schema:relatedLinkText "Stag's Leap Wine Cellars: Our History";
+    schema:creator <https://www.stagsleapwinecellars.com/>, "Stag's Leap Wine Cellars".
+<#8h0hwVyP> schema:name "Ridge Vineyards";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <8h0hwVyP/ridge-vineyards.jpg>;
+    a schema:WebPage;
+    schema:spatial "Cupertino, California", [
+  a schema:Place;
+  schema:name "Ridge+Vineyards";
+  schema:latitude "37.299637"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-122.1180374"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1959/present";
+    schema:description "Ridge Vineyards is a California winery specializing in premium Cabernet sauvignon, Zinfandel, and Chardonnay wines. Although Ridge Vineyards was founded in the early 1960s, wine production at the winery's Monte Bello location has a much longer history dating back to 1885, when an Italian doctor named Osea Perrone bought 180 acres near the top of Monte Bello Ridge. He planted vineyards and produced his first vintage under the name Monte Bello Winery in 1892.\n\n After Prohibition, the vineyard exchanged several hands before eventually becoming Ridge Vineyards after a group of engineers purchased it in 1959. Its first commercial wine, a Monte Bello Cabernet Sauvignon, was produced in 1962. Ridge Vineyard's 1971 Monte Bello Cabernet Sauvignon achieved international fame for its fifth place finish in the 1976 \"Judgement of Paris\" wine tasting.\n\n Ridge now produces wine at two winery locations in northern California. The original winery facilities are located at an elevation of 2,300 feet on Monte Bello Ridge in the Santa Cruz Mountains AVA. The other Ridge winery facilities are at Lytton Springs in the Dry Creek Valley AVA of Sonoma County.";
+    schema:relatedLink <https://www.ridgewine.com/about/history/>;
+    schema:relatedLinkText "Ridge Vineyards: History";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Ridge_Vineyards>;
+    schema:relatedLinkText "Ridge Vineyards";
+    schema:creator <https://commons.wikimedia.org/w/index.php?curid=52642241>, "Robert Holmes [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)]".
+<#4k3LZWlq> schema:name "Heitz Cellar";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <4k3LZWlq/heitz-cellar.jpg>;
+    a schema:WebPage;
+    schema:spatial "St Helena, California", [
+  a schema:Place;
+  schema:name "Heitz+Wine+Cellar";
+  schema:latitude "38.5015586"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-122.4187834"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1961/present";
+    schema:description "Established in 1961 by Joseph (Joe) and Alice Heitz, Heitz Cellar is a California wine producer in Napa Valley located east of St. Helena and dedicated to expressing the varietal purity in their wines. The estate includes 425 acres of vineyard located in six appellations throughout the Napa Valley.\n\n The 1970 Heitz Cellar Martha's Vineyard Cabernet Sauvignon appeared in several wine tasting competitions, including the Judgment of Paris tasting in 1976. There it placed ninth out of the ten red wines tasted. It's placement varied in the subsequent rematches; in the San Francisco Wine Tasting of 1978 it took second place of seven wines, in the French Culinary Institute Wine Tasting of 1986 it placed seventh out of nine, in the Wine Spectator Wine Tasting of 1986 it placed first out of ten, and in the 2006 Judgment of Paris 30th Anniversary tasting it tied for a third place with Mayacamas Vineyards out of the ten wines tasted.\n\n Though known for its Cabernet sauvignon, Heitz Cellar also produces varietal labeled wines from Chardonnay, Sauvignon blanc, Grignolino and Zinfandel.";
+    schema:relatedLink <https://www.heitzcellar.com/about/>;
+    schema:relatedLinkText "Heitz Cellar: Preserving and Renewing Our Napa Valley Legacy";
+    schema:relatedLink <https://www.nytimes.com/2019/09/05/dining/drinks/wine-heitz-cellar-cabernet-sauvignon.html>;
+    schema:relatedLinkText "For Historic Heitz in Napa, a New Team but Same Old Methods";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Heitz_Wine_Cellars>;
+    schema:relatedLinkText "Heitz Wine Cellars";
+    schema:creator <https://www.piqsels.com/en/public-domain-photo-orcgw>, "Public domain".
+<#D37urK0h> schema:name "Clos Du Val";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <D37urK0h/clos-du-val.jpg>;
+    a schema:WebPage;
+    schema:spatial "Napa, California", [
+  a schema:Place;
+  schema:name "Clos+Du+Val";
+  schema:latitude "38.3871827"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-122.3148005"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1972/present";
+    schema:description "Clos Du Val Winery is a winery in the Stags Leap District of California's Napa Valley. The winery was founded by two men who were born into the French wine business, John Goelet and Bernard Portet. After scouting the world for two years to locate areas where they might produce Bordeaux-style wine, Portet identified the then-undiscovered Stag’s Leap district of California’s Napa Valley as especially promising. Goelet bought 150 acres of vineyard land and established the winery in 1972. The next year he bought 180 acres in the Los Carneros region to produce the Burgundian varieties, Pinot noir and Chardonnay.\n\n The winery received international recognition when its first vintage of Cabernet Sauvignon (1972) achieved eighth place in the Judgment of Paris. In the French Culinary Institute Wine Tasting of 1986, Clos Du Val Winery won first place. The Judgment of Paris 30th Anniversary judges awarded Clos Du Val fifth place.";
+    schema:relatedLink <https://www.closduval.com/Winery/Our-Story>;
+    schema:relatedLinkText "Clos Du Val: Our Story";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Clos_Du_Val_Winery>;
+    schema:relatedLinkText "Clos Du Val Winery";
+    schema:creator <https://flic.kr/p/6aNvZ1>;
+    schema:description "-Jim G. (CC BY 2.0)".
+<#yhlzvGcG> schema:name "Mayacamas Vineyards";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <yhlzvGcG/mayacamas.jpg>;
+    a schema:WebPage;
+    schema:spatial "Napa, California", [
+  a schema:Place;
+  schema:name "Mayacamas+Vineyards+&+Winery";
+  schema:latitude "38.365188"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-122.4256317"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1889/present";
+    schema:description "Mayacamas Vineyards is a California wine producer located in the Mt. Veeder AVA in the Mayacamas Mountains within the Napa Valley AVA, bordering the Sonoma Valley AVA. The estate is known for producing wine of a more traditional style than the Napa trends of recent years that emphasizes power, weight, high levels of alcohol and extravagance.\n\n The winery was built in 1889 by John Henry Fisher a German immigrant who went bankrupt in the early 1900s. It then fell into disuse for several years although bootleggers are said to have made wine in the old stone cellar during the early years of the Prohibition. During the late 1920s and 1930s the property was owned by the Brandlin family. British chemist Jack Taylor and his wife Mary bought the property in 1941, and the estate received its current name. In 1968 the winery was bought by its present owner, Robert Travers and his wife Elinor. Under their direction, the aging facilities was enlarged, neighboring land purchased, and vineyard clearing, planting and replanting are an ongoing process. \n\n The winery received international recognition after its Cabernet sauvignon was selected for competition in the 1976 Judgment of Paris wine competition, where it came in ninth place of the ten red wines tasted. Robert Travers had agreed to sell three bottles of the still unreleased 1971 vintage for the event, although he did not consider it ready to drink. In the Wine Spectator Wine Tasting of 1986, blind tasters evaluated how the Cabernet Sauvignon wines had aged ten years after the Paris event. The 1971 Mayacamas Vineyards was ranked second. On the 30th anniversary of the Paris event, two panels of expert wine tasters tasted all the original red entries to assess how the wines had aged. Mayacamas Vineyards tied for third place with Heitz Cellar in the field of ten.";
+    schema:relatedLink <https://www.mayacamas.com/photos-stories/>;
+    schema:relatedLinkText "Mayacamas Vineyards: Photos & Stories";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Mayacamas_Vineyards>;
+    schema:relatedLinkText "Mayacamas Vineyards";
+    schema:relatedLink <https://vinepair.com/articles/mayacamas-vineyards-cabernet-sauvignon-guide/>;
+    schema:relatedLinkText "11 Things You Should Know About Mayacamas Vineyards";
+    schema:creator <https://www.mayacamas.com/>, "Mayacamas Vineyards".
+<#a4xqyd1U> schema:name "Château Mouton Rothschild";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <a4xqyd1U/chateau-mouton-rothschild.jpg>;
+    a schema:WebPage;
+    schema:spatial "Pauillac, France", [
+  a schema:Place;
+  schema:name "Château+Mouton+Rothschild";
+  schema:latitude "45.2130751"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-0.7720411"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1853/present";
+    schema:description "Château Mouton Rothschild is a wine estate located in the village of Pauillac in the Médoc region, 50 km (30 mi) northwest of the city of Bordeaux, France. Originally known as Château Brane-Mouton, its red wine was renamed by Nathaniel de Rothschild in 1853 to Château Mouton Rothschild. In the 1920s it began the practice of bottling the harvest at the estate itself, rather than shipping the wine to merchants for bottling elsewhere.\n\n Château Mouton Rothschild has its vineyards on the slopes leading down to the Gironde Estuary, in the Bordeaux region, mainly producing grapes of the Cabernet Sauvignon variety.\n\n The 1970 vintage took second place, and was the highest ranked French wine, at the historic 1976 Judgment of Paris wine competition.";
+    schema:relatedLink <https://www.chateau-mouton-rothschild.com/>;
+    schema:relatedLinkText "Château Mouton Rothschild";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Ch%C3%A2teau_Mouton_Rothschild>;
+    schema:relatedLinkText "Château Mouton Rothschild";
+    schema:creator <https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Mouton_Rothschild_x.jpg>, "Benjamin Zingg [CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)]".
+<#NQ7FScAv> schema:name "Château Haut-Brion";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <NQ7FScAv/chateau-haut-brion.jpg>;
+    a schema:WebPage;
+    schema:spatial "Pessac, France", [
+  a schema:Place;
+  schema:name "Château+Haut-Brion";
+  schema:latitude "44.8166517"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-0.6108006"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1423/present";
+    schema:description "Although grapes are thought to have been grown on the property since Roman times, the earliest document indicating cultivation of a parcel of land dates from 1423.\n\n Château Haut-Brion is a French wine, rated a Premier Cru Classé (First Growth), produced in Pessac just outside the city of Bordeaux. It differs from the other wines on the list in its geographic location in the north of the wine-growing region of Graves. Of the five first growths, it is the only wine with the Pessac-Léognan appellation and is in some sense the ancestor of a classification that remains the benchmark to this day.\n\n In 1976, the 1970 vintage of Haut-Brion ranked fourth among the ten French and California red wines in the historic \"Judgment of Paris\" wine competition.";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Ch%C3%A2teau_Haut-Brion>;
+    schema:relatedLinkText "Château Haut-Brion";
+    schema:relatedLink <https://www.thewinecellarinsider.com/bordeaux-wine-producer-profiles/bordeaux/graves-pessac/haut-brion/>;
+    schema:relatedLinkText "Chateau Haut Brion Pessac Leognan Bordeaux Wine, Complete Guide";
+    schema:relatedLink <https://www.haut-brion.com/en/>;
+    schema:relatedLinkText "Château Haut-Brion";
+    schema:creator <https://commons.wikimedia.org/w/index.php?curid=4093026>, "BillBl [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)]".
+<#19pCYhjl> schema:name "Château Léoville-Las Cases";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <19pCYhjl/chateau-leoville-la-cases.jpg>;
+    a schema:WebPage;
+    schema:spatial "Saint-Julien-Beychevelle, France", [
+  a schema:Place;
+  schema:name "Château+Léoville-Las+Cases";
+  schema:latitude "45.1638323"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-0.7424355"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1840/present";
+    schema:description "Château Léoville-Las Cases is a winery in the Saint-Julien appellation of the Bordeaux region of France. Château Léoville-Las Cases is also the name of the red wine produced by this property. The wine produced here was classified as one of fifteen Deuxièmes Crus (Second Growths) in the original Bordeaux Wine Official Classification of 1855.\n\n The vineyard area in total extends 97 hectares (240 acres) planted with a grape variety distribution of 65% Cabernet Sauvignon, 19% Merlot, 13% Cabernet Franc and 3% Petit Verdot. The vineyard underwent major replanting during the 1950s, and today the vines average 30 years of age.\n\n Léoville-Las Cases produces two wines, its grand vin, and a second wine called Clos du Marquis that has been in production since 1902.\n\n In 1976, the 1971 vintage ranked number six among the ten French and California red wines in the historic \"Judgment of Paris\" wine competition.";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Ch%C3%A2teau_L%C3%A9oville-Las_Cases>;
+    schema:relatedLinkText "Château Léoville-Las Cases";
+    schema:relatedLink <https://www.domaines-delon.com/en/chateau_leoville_las_cases_histoire.html>;
+    schema:relatedLinkText "Domaines Delon: History of Château Léoville Las Cases";
+    schema:creator <https://commons.wikimedia.org/wiki/File:Chateau_Leoville_Las_Cases_Entrance.jpg>, "BillBl [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)]".
+<#tHYYOXrE> schema:name "Freemark Abbey";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <tHYYOXrE/freemark.jpg>;
+    a schema:WebPage;
+    schema:spatial "St. Helena, California", [
+  a schema:Place;
+  schema:name "Freemark+Abbey+Winery";
+  schema:latitude "38.5255567"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-122.4985412"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1939/present";
+    schema:description "Freemark Abbey, located between St. Helena and Calistoga in California's Napa Valley, traces its roots to 1886. The winery was first built by Josephine Marlin Tychson, one of the first women to build and operate a winery in the state. Today, Freemark Abbey produces Cabernet Sauvignon, Merlot, Chardonnay, and Riesling, as well as very limited production wines, such as Viognier, Petite Sirah, Sangiovese, and Cabernet Franc. Depending on conditions, the winery sometimes makes a late harvest Riesling known as \"Edelwein Gold\".\n\n The winery won the New York Wine Tasting of 1973, a wine competition of 23 California, New York, and French Chardonnays. The blind tasting brought together 14 wine experts, including France's Alexis Lichine. Freemark Abbey Winery achieved international recognition when it achieved sixth place in the historic Judgment of Paris, placing ahead of two French and two other California wines.";
+    schema:relatedLink <http://www.napawineproject.com/freemark-abbey-winery/>;
+    schema:relatedLinkText "Napa Wine Project: Freemark Abbey Winery";
+    schema:relatedLink <https://www.freemarkabbey.com/>;
+    schema:relatedLinkText "Freemark Abbey";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Freemark_Abbey_Winery>;
+    schema:relatedLinkText "Freemark Abbey Winery";
+    schema:creator <http://www.napawineproject.com/freemark-abbey-winery/>, "Dave, Napa Wine Project".
+<#hkbN3AXg> schema:name "Château Montrose";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <hkbN3AXg/chatmontrose.jpg>;
+    a schema:WebPage;
+    schema:spatial "Saint-Estèphe, France", [
+  a schema:Place;
+  schema:name "Château+Montrose";
+  schema:latitude "45.2465895"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-0.7639582"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1815/present";
+    schema:description "Château Montrose is a winery in the Saint-Estèphe appellation of the Bordeaux region of France. The wine produced here was classified as one of fourteen Deuxièmes Crus (Second Growths) in the original Bordeaux Wine Official Classification of 1855. The vineyard is in Saint-Estèphe, the northernmost of the great Médoc communes. The soil in Montrose's 168 acres (0.68 km2) consists of gravel and black sand with a subsoil of clay and marl.[1] They are planted with 65% Cabernet Sauvignon, 25% Merlot, and 10% Cabernet Franc.\nChâteau Montrose produces two red wines: its eponymous grand vin, and a second wine named La Dame de Montrose. Montrose wines tend to be deeply tannic and during excellent vintages can take up to 20 years to mature.\n\n The 1970 vintage placed third among the ten California and French red wines at the historic Judgment of Paris wine competition, which was won by the Americans.";
+    schema:relatedLink <http://www.chateau-montrose.com/en/a-family-story/>;
+    schema:relatedLinkText "Château Montrose: A Family Story";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Ch%C3%A2teau_Montrose>;
+    schema:relatedLinkText "Château Montrose";
+    schema:creator <http://www.chateau-montrose.com/en/>, "Château Montrose".
+<#Mb41fKZU> schema:name "Chateau Montelena Winery";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <Mb41fKZU/chateau-montelena.jpg>;
+    a schema:WebPage;
+    schema:spatial "Calistoga, California", [
+  a schema:Place;
+  schema:name "Chateau+Montelena+Winery";
+  schema:latitude "38.602514"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-122.5999107"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1882/present";
+    schema:description "Chateau Montelena was intended as a barrel-aging facility upon its construction in Napa Valley in 1888, at the time named A.L. Tubbs winery after its founder. Unlike the majority of the wood-constructed wineries in Napa, the Chateau was built of stone with walls three to twelve feet thick. Being built into a hillside and made of stone, the chateau provides natural insulation against fluctuating external temperatures, which is helpful for producing quality wine. \n\n After a break from winemaking caused by Prohibition, Tubbs' grandson Chapin Tubbs took over and renamed the winery Chateau Montelena Winery, a contraction of Mount St. Helena, in 1940. Two years after Chapin Tubbs died in 1947, wine production ceased again for nearly two decades. \n\n In the 1970s, the winery was revived under Jim Barrett's leadership. It then became famous for winning the white wine section of the 1976 Judgment of Paris wine competition, where it was blind tasted against nine other wines from France and California. All eleven judges awarded their top scores to the Chardonnays from either Chateau Montelena or Chalone Winery, another California wine producer.";
+    schema:relatedLink <https://montelena.com/winery>;
+    schema:relatedLinkText "The Chateau";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Chateau_Montelena>;
+    schema:relatedLinkText "Chateau Montelena";
+    schema:relatedLink <https://vinepair.com/articles/chateau-montelena-judgment-paris/>;
+    schema:relatedLinkText "Seven Things You Should Know About Chateau Montelena";
+    schema:creator <https://commons.wikimedia.org/wiki/File:Chateau_Montelena_Winery.gk.jpg>, "Grendelkhan".
+<#Ow4I2o9s> schema:name "Chalone Vineyard";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <Ow4I2o9s/chalone.jpg>;
+    a schema:WebPage;
+    schema:spatial "Soledad, California", [
+  a schema:Place;
+  schema:name "Chalone+Vineyard";
+  schema:latitude "36.4701378"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-121.2320202"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1919/present";
+    schema:description "Located in the remote Gavilan Mountain Range, 1,800 feet above California’s Salinas Valley, Chalone vineyard sits at the base of an extinct volcano bordering the Pinnacles National Park. It is one of the few wineries in the U.S. growing grapes in limestone-based soils, the same as in Burgundy. The spare, well-drained ground, limited rainfall, and low crop levels attracted Dick Graff, who wanted to make top-ﬂight Burgundian-styled Chardonnay. Graff made his ﬁrst vintage under the Chalone Vineyard label in 1966, producing what became a benchmark for California Chardonnay.\n\n Chalone Vineyard achieved third rank out of ten from France and the U.S. in the historic Judgment of Paris wine competition. All 11 judges awarded their top scores to either Chalone Vineyard or Chateau Montelena, also of California.\n\n Today, Chalone Vineyard continues to focus on Chardonnay and Pinot noir. They also produce limited amounts of Pinot blanc, Chenin blanc and Syrah. All of the estate wines are grown and bottled at the estate, controlling everything from vine to bottle.";
+    schema:relatedLink <https://www.chalonevineyard.com/About/About-Chalone>;
+    schema:relatedLinkText "About Chalone Vineyard";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Chalone_Vineyard>;
+    schema:relatedLinkText "Chalone Vineyard";
+    schema:relatedLink <https://www.sfgate.com/wine/article/Chalone-Monterey-County-s-unlikely-appellation-4812845.php>;
+    schema:relatedLinkText "Chalone: Monterey County's Unlikely Appellation";
+    schema:creator <https://www.flickr.com/photos/tomhilton/14041566384>, "Tom Hilton (CC BY 2.0)".
+<#ahIXKuhm> schema:name "Spring Mountain Vineyard";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <ahIXKuhm/spring-mountain.jpg>;
+    a schema:WebPage;
+    schema:spatial "St. Helena, California", [
+  a schema:Place;
+  schema:name "Spring+Mountain+Vineyard";
+  schema:latitude "38.50707"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-122.4940895"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1873/present";
+    schema:description "Spring Mountain Vineyard is a 225 acres vineyard consisting of 135 different vineyard blocks scattered over the 845-acre estate in California's Napa Valley. The original winery and several historic buildings from the 1800s remain today along with much of its original equipment, including horse drawn carriages and wagons.\n\n Spring Mountain Vineyard produces the following estate grown wines: Elivette, a signature Bordeaux-blend of Cabernet; Cabernet sauvignon; Cabernet franc; Petit verdot; Pinot noir; Chardonnay; Merlot; Syrah in a northern Rhone style; Viognier; and Sauvignon blanc that is barrel-fermented with sur-lie-batonnage.\n\n Spring Mountain Vineyard Chardonnay placed fourth amongst the ten French and American wine wines tasted at the Judgment of Paris wine competition in 1976.\n\n From 1981 until 1990, Spring Mountain Vineyards was used as the setting for the CBS drama series Falcon Crest. The mansion, winery, and surrounding vineyards served as the fictional home of Angela Channing, played by Jane Wyman.";
+    schema:relatedLink <https://www.springmountainvineyard.com/a-wh.html>;
+    schema:relatedLinkText "Winery History";
+    schema:relatedLink <https://springmountaindistrict.org/podcast/spring-mountain-vineyard/>;
+    schema:relatedLinkText "An Oral History of Spring Mountain Vineyard";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Spring_Mountain_Vineyard>;
+    schema:relatedLinkText "Spring Mountain Vineyard";
+    schema:creator <https://commons.wikimedia.org/wiki/File:Spring_Mountain_Vineyard_Winery.jpg>, "Alan Daly [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)]".
+<#tN8OPoTy> schema:name "Veedercrest Vineyards";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <tN8OPoTy/veedercrest.jpg>;
+    a schema:WebPage;
+    schema:spatial "Napa, California", [
+  a schema:Place;
+  schema:name "Veedercrest+Ranch";
+  schema:latitude "38.361717"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-122.4194027"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1972/present";
+    schema:description "In the early 1970s, Andre Tchelistcheff had a taste of amateur winemaker Al Baxter's basement made wines and advised him to consider going commercial. In 1972, Veedercrest released its first wines, and has been making award winning wines ever since. It was one of the participants at the Judgment of Paris. It has won significant awards at most of the major wine judgings around the world. Veedercrest wines were also served at President Jimmy Carter's White House dinners and to Pope John Paul II during his visit to Philadelphia.\n\n Veedercrest is primarily a Napa Cabernet Sauvignon winery specializing in single vineyard hillside properties.";
+    schema:relatedLink <http://veedercrestwines.com/our-story/>;
+    schema:relatedLinkText "Veedercrest: Our Story";
+    schema:creator <http://veedercrestwines.com/>, "Veedercrest".
+<#UmAzNHOz> schema:name "David Bruce Winery";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <UmAzNHOz/david-bruce-winery.jpg>;
+    a schema:WebPage;
+    schema:spatial "Los Gatos, California", [
+  a schema:Place;
+  schema:name "David+Bruce+Winery";
+  schema:latitude "37.167834"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-122.0479977"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1964/present";
+    schema:description "David Bruce Winery is a California winery established by dermatologist David Bruce, M.D., in 1964. It is located at about 2,200 feet elevation in the Santa Cruz Mountains AVA. During the first 25 years of production, David divided his time between running a dermatology practice in Los Gatos and the winery, until he retired from his medical practice in 1985.\n\n The vineyard achieved international visibility when one of the winery's Chardonnays was included in the 1976 Judgment of Paris wine tasting. The 1973 David Bruce Chardonnay placed last of the 10 Chardonnays being tasted. Today the winery specializes in Pinot noir.";
+    schema:relatedLink <http://www.davidbrucewinery.com/history_Home.htm>;
+    schema:relatedLinkText "David Bruce: History";
+    schema:relatedLink <https://youtube.com/watch?v=c3b9gd1Omto>;
+    schema:relatedLinkText "David Bruce Winery - Santa Cruz Mountains";
+    schema:relatedLink <https://en.wikipedia.org/wiki/David_Bruce_Winery>;
+    schema:relatedLinkText "David Bruce Winery";
+    schema:creator <https://commons.wikimedia.org/wiki/File:David_Bruce_winery.jpg>, "Agne27 [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)]".
+<#NJdtHips> schema:name "Domaine Roulot";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <NJdtHips/domain-roulot.jpg>;
+    a schema:WebPage;
+    schema:spatial "Meursault, France", [
+  a schema:Place;
+  schema:name "1+Rue+Charles+Giraud,+21190+Meursault,+France";
+  schema:latitude "46.9770936"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "4.7728859"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1830/present";
+    schema:description "The domaine was founded in 1820 by Guillaume Roulot and has 25 acres of vineyards. Since 1988, it has been led by Jean-Marc Roulot, the sixth generation of Roulots to manage the domaine. Although some red wine is made there, Meursault is famous for its whites, made from the chardonnay grape.\n\n The 1973 vintage of Roulot's white premier cru wine Meursault Charmes was ranked second in the historic Judgment of Paris wine competition. Meursault Charmes Roulot also featured in the Great Chardonnay Showdown in 1980.";
+    schema:relatedLink <https://www.pearlofburgundy.com/our-wines/domaine-roulot>;
+    schema:relatedLinkText "Pearl of Burgundy: Domaine Roulot";
+    schema:relatedLink <https://townandcountrymag.com/leisure/drinks/a20876388/jean-marc-roulot-interview-domaine-roulot/>;
+    schema:relatedLinkText "Meet Jean-Marc Roulot, the Actor Turned Top French Winemaker";
+    schema:relatedLink <http://www.ficofi.com/chateau/domaine-roulot>;
+    schema:relatedLinkText "FICOFI: Domaine Roulot, Mersault";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Domaine_Roulot>;
+    schema:relatedLinkText "Domaine Roulot";
+    schema:creator <http://www.ficofi.com/chateau/domaine-roulot>, "FICOFI".
+<#jeS628wG> schema:name "Maison Joseph Drouhin";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <jeS628wG/maison-joseph-drouhin.jpg>;
+    a schema:WebPage;
+    schema:spatial "Beaune, France", [
+  a schema:Place;
+  schema:name "Oenothèque+Joseph+Drouhin";
+  schema:latitude "47.0235971"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "4.8359425"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1880/present";
+    schema:description "Maison Joseph Drouhin is a French wine producer based in Burgundy that was founded in 1880. The estate owns vineyards in Chablis, the Côte de Nuits, Côte de Beaune and Côte Chalonnaise, as well as in the Willamette Valley in Oregon. Drouhin is one of the major winemakers of Burgundy, and produces wines made from purchased grapes grown in different parts of Burgundy. Today both Maison Joseph Drouhin and Domaine Drouhin Oregon are owned and operated by the great grandchildren of Joseph Drouhin. The Drouhin family are members of the Primum Familiae Vini, an association of family-owned wineries with a membership limited to twelve families.\n\n Beaune Clos des Mouches Joseph Drouhin is made from grapes grown in the Clos des Mouches, a Beaune Premier Cru vineyard of the Côte de Beaune. Clos de Mouches is a Premier Cru vineyard within the commune of Beaune, and was purchased by Drouhin in the 19th Century, which produces both red and white wines. White Clos des Mouches from Drouhin generally command a slightly higher price than the red wine.\n\n The 1973 vintage ranked number five in the historic Judgment of Paris wine competition between ten French and California white wines. In the New York Wine Tasting of 1973, the winery's 1969 was ranked in fifth place after four California Chardonnays. Beaune Clos des Mouches Joseph Drouhin also competed in the \"Great Chardonnay Showdown\" wine competition held in 1980.";
+    schema:relatedLink <https://m.drouhin.com/en/>;
+    schema:relatedLinkText "Joseph Drouhin";
+    schema:relatedLink <http://www.ficofi.com/chateau/maison-joseph-drouhin>;
+    schema:relatedLinkText "FICOFI: Maison Joseph Drouhin";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Maison_Joseph_Drouhin>;
+    schema:relatedLinkText "Maison Joseph Drouhin";
+    schema:creator <https://m.drouhin.com/en/pictures/31/vineyards>, "Joseph Drouhin".
+<#iJDHzQxd> schema:name "Domaine Leflaive";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <iJDHzQxd/domaine-leflaive.jpg>;
+    a schema:WebPage;
+    schema:spatial "Puligny-Montrachet, France", [
+  a schema:Place;
+  schema:name "Leflaive+Domaine";
+  schema:latitude "46.944697"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "4.7510253"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1717/present";
+    schema:description "Domaine Leflaive is a winery in Puligny-Montrachet, Côte de Beaune, Burgundy. It began in 1717 as several acres of vineyards. Between the years of 1910 and 1930, Joseph Leflaive (1870–1953) purchased the vineyards and houses that make up the domaine as it is today.\n\n The domaine extends over 59.3 acres in Puligny-Montrachet and is very highly regarded for its white wines. 11.9 of these acres are grand crus and 26.7 acres are premier crus, all Chardonnay.\n\n Domaine Leflaive's Puligny-Montrachet Premier Cru wine Les Pucelles competed in the historic Judgment of Paris, ranking number eight among the ten French and California wines evaluated. It also competed in the Great Chardonnay Showdown and the Grand European Jury Wine Tasting of 1997.";
+    schema:relatedLink <https://www.wilsondaniels.com/winery/domaine-leflaive-3/>;
+    schema:relatedLinkText "Overview and History of Domaine Leflaive";
+    schema:relatedLink <https://leflaive.fr/en/les-familles>;
+    schema:relatedLinkText "The Founding of the Domaine";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Domaine_Leflaive>;
+    schema:relatedLinkText "Domaine Leflaive";
+    schema:creator <https://www.wilsondaniels.com/winery/domaine-leflaive-3/>, "Wilson Daniels".
+<#nAMfCtk1> schema:name "Domaine Ramonet-Prudhon";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <nAMfCtk1/domaine-ramonet-prudhon-1973.jpg>;
+    a schema:WebPage;
+    schema:spatial "Batard-Montrachet, France", [
+  a schema:Place;
+  schema:name "Domaine+Ramonet";
+  schema:latitude "46.9342374"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "4.7223589"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1934/present";
+    schema:description "Domaine Ramonet is a white French Wine producer growing Chardonnay grapes in the Grand Cru vineyard of Batard-Montrachet in Burgundy. Established in the late 1920s by Pierre Ramonet, who started started out with all his worldly possessions in a knapsack, Ramonet is now considered to be one of the top producers of white wines in the Côte de Beaune. Steven Spurrier included the Batard-Montrachet Ramonet-Prudhon 1973 in the historic Judgment of Paris wine competition. It was ranked seventh among ten French and California wines. The wine also competed in the Great Chardonnay Showdown held in 1980.";
+    schema:relatedLink <https://www.terlatowines.com/brands/france/ramonet>;
+    schema:relatedLinkText "Terlato Wines: Ramonet";
+    schema:relatedLink <http://www.ficofi.com/chateau/domaine-ramonet>;
+    schema:relatedLinkText "Domaine Ramonet";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Domaine_Ramonet-Prudhon>;
+    schema:relatedLinkText "Domaine Ramonet-Prudhon";
+    schema:creator <https://www.closdesmillesimes.com/15743-bienvenue-batard-montrachet-bienvenues-batard-montrachet-ramonet-prudhon-1973-en.html>, "Clos Des Millesimes".
+<#4lT1dlHw> schema:name "Smithsonian National Museum of American History";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <4lT1dlHw/national-museum-american-history.jpg>;
+    a schema:WebPage;
+    schema:spatial "Washington, DC", [
+  a schema:Place;
+  schema:name "Smithsonian+National+Museum+of+American+History";
+  schema:latitude "38.891154"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-77.0318748"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1964/present";
+    schema:description "Opened in 1964, the National Museum of American History collects, preserves, and displays the heritage of the United States in the areas of social, political, cultural, scientific, and military history. The National Museum is home to more than 1.8 million objects and more than three shelf-miles of archival collections. It is the greatest single collection of American history in the world.";
+    schema:relatedLink <https://americanhistory.si.edu/food/wine-table/judgment-paris>;
+    schema:relatedLinkText "FOOD: Judgment of Paris";
+    schema:relatedLink <https://en.wikipedia.org/wiki/National_Museum_of_American_History>;
+    schema:relatedLinkText "National Museum of American History";
+    schema:creator <https://commons.wikimedia.org/wiki/File:Aerial_view_of_National_Museum_of_American_History.jpg>, "Carol M. Highsmith".
+<#BEiG1xaf> schema:name "Les Caves de la Madeleine";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <BEiG1xaf/les-caves.jpg>;
+    a schema:WebPage;
+    schema:spatial "Paris, France", [
+  a schema:Place;
+  schema:name "25+Rue+Royale,+75008+Paris,+France";
+  schema:latitude "48.8690432"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "2.3211506"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1971/1981";
+    schema:description "Les Caves de la Madeleine was a wine shop in Paris owned by Steven Spurrier in the 1970s, stocked primarily with French wines. Spurrier has commented that his wine shop “was much more about communicating the pleasure of wine than selling it.” It was famous not only for its high-quality wines, but also for l’Academie du Vin, a wine school that Spurrier started in Paris in 1973 and today has branches all over the world. Spurrier sold his wine interests in France and returned to the UK in 1988.";
+    schema:relatedLink <https://www.nytimes.com/1979/11/18/archives/a-briton-in-french-vineyards.html>;
+    schema:relatedLinkText "A Briton in French Vineyards";
+    schema:relatedLink <https://search.library.ucdavis.edu/permalink/f/12qmtm2/01UCD_ALMA21277873890003126>;
+    schema:relatedLinkText "American Wine: A Coming-of-Age Story";
+    schema:creator <https://wtop.com/food-restaurant/2016/05/40-years-later-smithsonian-celebrates-pivotal-moment-in-wine-history/>, "Bella Spurrier/Smithsonian Institution".
+<#42bEJkdS> schema:name "InterContinental Paris Le Grand";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Place;
+    schema:thumbnail <42bEJkdS/intercontinental-paris-le-grand-2011.jpg>;
+    a schema:WebPage;
+    schema:spatial "Paris, France", [
+  a schema:Place;
+  schema:name "InterContinental+Paris+-+Le+Grand";
+  schema:latitude "48.870834"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "2.3282383"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1862/present";
+    schema:description "The InterContinental Paris Le Grand Hotel is a historic hotel in Paris, France, opened in 1862. It was inaugurated by the Empress Eugenie, who declared, “This reminds me of home! I feel like I am in Compiègne or Fontainebleau.” The hotel continues to be a hub for celebrities from all over the world, including royalty, artists, actors, and creative movements.";
+    schema:relatedLink <https://parislegrand.intercontinental.com/en/history/>;
+    schema:relatedLinkText "Highlights of an Historical Parisian Hotel";
+    schema:relatedLink <http://www.historichotelsthenandnow.com/grandparis.html>;
+    schema:relatedLinkText "Then and Now: InterContinental Paris Le Grand Hotel";
+    schema:relatedLink <https://en.wikipedia.org/wiki/InterContinental_Paris_Le_Grand_Hotel>;
+    schema:relatedLinkText "InterContinental Paris Le Grand Hotel";
+    schema:creator <https://commons.wikimedia.org/wiki/File:Grand_H%C3%B4tel_Paris,_April_2011.jpg>, "Sue [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)]".
+<#Obny8Rpq> schema:name "1973 Chateau Montelena Chardonnay";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Thing;
+    schema:thumbnail <Obny8Rpq/1973montelena.jpg>;
+    a schema:WebPage;
+    schema:spatial "Calistoga, California", [
+  a schema:Place;
+  schema:name "Chateau+Montelena+Winery";
+  schema:latitude "38.6025142"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-122.599904"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1973";
+    schema:description "This bottle of 1973 Chardonnay was made by Miljenko \"Mike\" Grgich, winemaker at Chateau Montelena Winery in Calistoga, California. Chateau Montelena 1973 Chardonnay won first place among the chardonnays and white Burgundies entered in the 1976 Judgment of Paris wine competition.\n\n A bottle of that vintage is in the Smithsonian National Museum of American History.";
+    schema:relatedLink <https://www.decanter.com/learn/wine-legend-chateau-montelena-1973-305096/>;
+    schema:relatedLinkText "Wine Legend: Chateau Montelena 1973";
+    schema:relatedLink <https://www.decanter.com/wine-news/judgment-of-paris-montelena-fetches-us11325-53483/>;
+    schema:relatedLinkText "‘Judgment of Paris’ Montelena Fetches US$11,325";
+    schema:relatedLink <https://americanhistory.si.edu/collections/search/object/nmah_1297105>;
+    schema:relatedLinkText "1973 Chateau Montelena Chardonnay";
+    schema:creator <https://americanhistory.si.edu/collections/search/object/nmah_1297105>, "National Museum of American History".
+<#sk79HEjl> schema:name "1973 Stag's Leap Wine Cellars Cabernet";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Thing;
+    schema:thumbnail <sk79HEjl/1973slv.jpg>;
+    a schema:WebPage;
+    schema:spatial "Napa, California", [
+  a schema:Place;
+  schema:name "Stag's+Leap+Wine+Cellars";
+  schema:latitude "38.3992276"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "-122.3257286"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "1973";
+    schema:description "This bottle of 1973 Cabernet Sauvignon wine was produced by Warren Winiarski, founder, owner, and winemaker at Stag's Leap Wine Cellars, in Napa, California. It is the vintage that outranked some of France's best Bordeaux at a blind tasting held in Paris in 1976. \n\n A bottle of 1973 Stag's Leap Wine Cellars Cabernet Sauvignon was placed into the Smithsonian National Museum of American History collection in 1996 as a result of placing first in this competition and to reflect the impact that the achievement had on the United States wine industry.";
+    schema:relatedLink <https://americanhistory.si.edu/collections/search/object/nmah_1297104>;
+    schema:relatedLinkText "1973 Stag's Leap Wine Cellars Cabernet Sauvignon";
+    schema:relatedLink <https://www.stagsleapwinecellars.com/our-story/history/paris-tasting>;
+    schema:relatedLinkText "Our Story: The 1976 Paris Tasting";
+    schema:creator <https://americanhistory.si.edu/collections/search/object/nmah_1297104>, "National Museum of American History".
+<#ydKZ9DhI> schema:name "Judgment of Paris";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    a schema:Event;
+    schema:thumbnail <ydKZ9DhI/jop.jpg>;
+    a schema:WebPage;
+    schema:spatial "Paris, France", [
+  a schema:Place;
+  schema:name "48°52'08.5\"N+2°19'23.9\"E";
+  schema:latitude "48.8689261"^^<http://www.w3.org/2001/XMLSchema#double>;
+  schema:longitude "2.3233234"^^<http://www.w3.org/2001/XMLSchema#double>
+];
+    schema:temporal "May 24, 1976";
+    schema:description "The Judgment of Paris was a wine competition organized by Steven Spurrier, a British wine merchant, in Paris on May 24, 1976. Meant to be a fun and educational experience amongst friends, the French judges carried out two blind tasting comparisons: one of Chardonnays and another of red wines. Though their American hosts Steven Spurrier and Patricia Gallagher participated, their scores were not taken into account. \n\n Since France was considered the foremost producer of the world’s best wines, no one expected California wines to win. Everyone was shocked a Californian wine rated best in each category. The 1973 Stag’s Leap Wine Cellars Cabernet won the red wine category. The 1973 Chateau Montelena Chardonnay won the white wine category. George M. Taber, a reporter and editor with Time magazine, was present for the event and shared the results with the world.";
+    schema:relatedLink <https://www.npr.org/sections/thesalt/2016/05/24/479163882/the-judgment-of-paris-the-blind-taste-test-that-decanted-the-wine-world>;
+    schema:relatedLinkText "The Judgment of Paris: The Blind Taste Test That Decanted The Wine World";
+    schema:relatedLink <https://www.youtube.com/watch?v=daUmHLeBrl0>;
+    schema:relatedLinkText "American History (After Hours): The Judgment of Paris and American Wine";
+    schema:relatedLink <https://en.wikipedia.org/wiki/Judgment_of_Paris_(wine)>;
+    schema:relatedLinkText "Judgment of Paris (wine)";
+    schema:relatedLink <https://www.amazon.com/gp/product/B000MGAU1Q/r>;
+    schema:relatedLinkText "Judgment of Paris: California vs. France and the Historic 1976 Paris Tasting That Revolutionized Wine";
+    schema:creator <https://americanhistory.si.edu/food/wine-table/judgment-paris>, "Bella Spurrier / Smithsonian".
