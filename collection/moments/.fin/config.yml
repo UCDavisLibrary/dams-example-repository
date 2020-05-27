@@ -1,5 +1,6 @@
 source:
-  host: 'https://sandbox.dams.library.ucdavis.edu'
+  #host: 'https://sandbox.dams.library.ucdavis.edu'
+  host: 'http://localhost:3001'
   base: /fcrepo/rest
   collection: moments
 contentTypes:

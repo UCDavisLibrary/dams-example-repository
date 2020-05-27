@@ -1,9 +1,0 @@
-@prefix schema: <http://schema.org/> .
-@prefix ldp:  <http://www.w3.org/ns/ldp#> .
-
-<>
-  a ldp:DirectContainer ;
-  schema:name "Triptych Container" ;
-  ldp:membershipResource  <.> ;
-  ldp:hasMemberRelation   schema:hasPart ;
-  ldp:isMemberOfRelation  schema:isPartOf .
