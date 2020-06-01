@@ -1,0 +1,18 @@
+@prefix schema: <http://schema.org/>.
+@prefix ucdlib: <http://digital.ucdavis.edu/schema#>.
+@prefix w: <http://library.ucdavis.edu/wine-ontology#>.
+@prefix fast: <http://id.worldcat.org/fast/>.
+@prefix wdt: <http://www.wikidata.org/prop/direct/>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix ldp: <http://www.w3.org/ns/ldp#>.
+
+<> a schema:BasicContainer, "ucdlib:Moment";
+    schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    schema:keywords "http://id.worldcat.org/fast/849374/ cats", "[Cat Owners](http://id.worldcat.org/fast/848507/)", "https://en.wikipedia.org/wiki/Cat", "cats", "felines";
+    schema:name "cats";
+    schema:description "Trello2Moment demo pet board.  The Markdown in the description should include; *bold*, ~italics~, and even Sections.  Links to [Outsite Sites](https://en.wikipedia.org/wiki/Cat) are allowed, but discouraged in the description. \n\n## Sections\n\nSection headers\n\n\n# About\n- http://id.worldcat.org/fast/849374/ cats\n- [Cat Owners](http://id.worldcat.org/fast/848507/)\n- https://en.wikipedia.org/wiki/Cat\n\n# Keywords\n- cats\n- felines";
+    schema:datePublished "2020"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    schema:sdDatePublished "2020"^^<http://www.w3.org/2001/XMLSchema#integer>;
+    schema:sdPublisher "TODO";
+    schema:image <cats/thumbnail.jpg>.
