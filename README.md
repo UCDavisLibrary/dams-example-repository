@@ -21,10 +21,23 @@ There are also a number of
 [FAQS](https://github.com/UCDavisLibrary/fin-example-repository/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3AFAQ)
 in the Issues. You may find help there as well.
 
+- [Fin Example Repositories](#fin-example-repositories)
+- [Installation](#installation)
+  - [Prerequisites](#prerequisites)
+  - [Purging the System](#purging-the-system)
+  - [Configuration](#configuration)
+  - [Adding Your First User](#adding-your-first-user)
+    - [Basic-Auth](#basic-auth)
+    - [CAS Authentication](#cas-authentication)
+  - [Accessing the LDP Server](#accessing-the-ldp-server)
+  - [Adding Data to the Repository](#adding-data-to-the-repository)
+- [Advanced Configuration](#advanced-configuration)
+  - [Run Server on Default Ports](#run-server-on-default-ports)
+- [Example Collections](#example-collections)
 
 # Installation
 
-Following the steps below, you should be able to get your own server, up and
+Follow the steps below you should be able to get your own server up and
 running relatively quickly.  From there, you can investigate some of the example
 repository data.
 
@@ -42,7 +55,12 @@ you will have an test server up and running, and ready to add collections.
 
 ## Prerequisites
 
-First, we'll need to clone this repository. This is a good way to get your
+First, clone the [fin-ucd-lib-deployment](https://github.com/UCDavisLibrary/fin-ucd-lib-deployment).
+This is the engine your own instance of the DAMS will run on. Please follow the steps documented in 
+[Running a Deployment](https://github.com/UCDavisLibrary/fin-ucd-lib-deployment#running-a-deployment)
+to launch your own local DAMs.
+
+Now, you can clone this repository. This is a good way to get your
 example data downloaded, and it is also a good starting point to fork this
 repository, later when you want to save site specific preferences. So, we'll
 need have have `git` on your development machine. If you're new to git, you my
@@ -57,15 +75,65 @@ Follow the [installation notes](https://docs.docker.com/compose/install/) from
 docker, if you are new to docker.  **Note**, if you are new to docker,
 understand that you will need to learn about this system.  Some of the example
 configuration below, will be unclear, and it will be difficult to modify the
-examples below for your setup unless  you understand this environment.
+examples below for your setup unless  you understand this environment. Also, as of right now,
+Docker Desktop will only work on Windows 10 Pro, Enterprise, and Education.
+Support for Windows Home is dependent on having Windows 10 2004 installed
+[Install Docker Desktop on Windows Home](https://docs.docker.com/docker-for-windows/install-windows-home/).
 
 Finally, we will be running a nodejs based tool `fin-cli` to work with our
 repository. After installing [nodejs](https://nodejs.org/en/download/), you can
-install this tool with `npm install -g @ucd-lib/fin-cli`.
+install this tool with `npm install -g @ucd-lib/fin-cli` [installation notes](https://github.com/UCDavisLibrary/fin-cli). 
+After installing, make sure your fin-cli is configured properly.
+
+1.Run the command `fin config`.
+2.Run `fin config set host [hostname]`.
+3.Run `fin config` again and you should be able to see that the host/base path has been updated.
+
+## Purging the System
+
+In order to purge your DAMS instance, you need to use docker-compose commands directly:
+
+```bash
+# This sets up an alias to docker-compose, dams-dc
+eval $(damsctrl alias)
+# You can erase your current setup, while maintaining your docker configuration with:
+dams-dc down -v
+# Now you can bring this back up
+dams-dc up -d
+```
+
+At this point you have no admins for the site. The biggest change is that the admins are now managed in the repository's ACL.  
+This allows the rest of the configuration, even adding admins, to be done on any remote machine.
+
+In order to add admins without any users you need to login in as the super-user. This uses the JWT_SECRET in the server 
+configuration file.
+
+```bash
+fin login --super-user USERNAME@ucdavis.edu
+```
+
+Once logged in, you can add some admins using the `fin acl` command:
+
+```bash
+for i in quinn jmerz enebeker ladragoo; do
+  fin acl add-admin ${i}@ucdavis.edu
+done
+```
+
+With these admins now in place you may now add new collections:
+
+```bash
+# Log-in using your normal (in our case CAS) ids:
+fin login --headless
+# Create a new collection
+cd ~/fin-example-repo/collection
+fin io import ex1-pets .
+```
 
 ## Configuration
 
 The first step is to clone the repository, using:
+
 ```bash
 git clone https://github.com/UCDavisLibrary/fin-example-repository.git
 cd fin-example-repository          # change directory to your cloned location
@@ -129,7 +197,7 @@ docker-compose -f fin-example.yml up -d
 ```
 
 At this point, you should be able to navigate the where you set `FIN_URL`, eg
-http://localhost:3000/ and you should see an empty repository.
+`http://localhost:3000/` and you should see an empty repository.
 
 Going back to your docker configuration, at this point you should be able to
 examine the process that you are running, the logs, and other standard
@@ -140,18 +208,19 @@ host of others.
 
 Throughout these examples, we will also show direct access to the underlying LDP
 as well. The default base for access to the LDP is /fcrepo/rest, so try
-accessing http://localhost:3000/fcrepo/rest . This should fail, since by default
+accessing `http://localhost:3000/fcrepo/rest`. This should fail, since by default
 the public is not granted access to the data.  Since we want to read and write
 data to this repository, let's next create a new user for the system.
 
-## Adding your first User
+## Adding Your First User
+
+### Basic-Auth
 
 Our container setup separates the authentication step from the Fedora and
 other services.  The services rely on valid JWT tokens being sent along with
 requests to the system.  The Authentication services are what creates these
 tokens.  In production, you will most certainly want to use a centralized
-authentication mechanism, see **Using CAS Authentication** in the **Advanced
-Configuration** section to see an example of this type of setup.  However, for
+authentication mechanism, see [CAS Authentication](#CAS-Authentication) in the [Advanced Configuration](#Advanced-Configuration) section to see an example of this type of setup.  However, for
 testing, we have included a Basic Authentication service that can be used
 without any external setup.  You should really only use this service for
 testing.
@@ -192,21 +261,65 @@ in the token.  You can even verify the signature if you include the `JWT_SECRET`
 you've set in your configuration.  This should show you how easy it is to create
 tokens if you know that `JWT_SECRET`, keep it hidden keep it safe!*
 
-## Accessing the LDP server
+### CAS Authentication
+
+The examples above includes a Basic Authentication service, but even in
+development, we often don't use this service. Instead, we have an authentication
+service using the CAS service used on our UC Davis campus. When using this
+service, the authentication of the users is sent to the central CAS
+authentication server, and if the user authenticates, the service will mint a
+token for this users.  There aren't too many differences in the overall setup.
+First, open the fin-example.yml file, remove the Basic-Authentication Service, and add the CAS service.
+
+``` diff
+--- fin-example.yml	2018-03-01 17:05:14.964623572 -0800
++++ fin-example-cas.yml	2018-03-01 17:05:26.192623341 -0800
+@@ -103,10 +103,10 @@
+       - server
+
+   ###
+-  # Basic Username/Password AuthenticationService
++  # CAS AuthenticationService
+   ###
+-  basic-auth:
+-    image: ucdlib/fin-basic-auth:master
++  cas:
++    image: ucdlib/fin-cas-service:master
+     env_file:
+       - fin-example.env
+     depends_on:
+```
+
+Then, when we create admins we make sure to use the `@ucdavis.edu` suffix for
+these users, as in:
+
+``` bash
+docker-compose -f fin-example.yml exec server node app/cli admin add-admin -u quinn@ucdavis.edu
+```
+
+More information is available in the fin-server
+[authentication-service](https://github.com/UCDavisLibrary/fin-server/blob/master/docs/authentication-service/README.md).
+Implementors of alternative authentication schemes can look at the [CAS
+Service](https://github.com/UCDavisLibrary/fin-server/tree/master/services/cas)
+for a good example of how this can be implemented for new authentication
+services.
+
+## Accessing the LDP Server
 
 Now that we have elevated privileges, let's revisit the root to the LDP services,
-http://localhost:3000/fcrepo/rest .  Now we should have access to this location.
+`http://localhost:3000/fcrepo/rest`. Now we should have access to this location.
 There isn't anything here, but at least we can see that now.  Users familiar
 with Fedora will note that this is the standard fedora interface when accessed
 via the browser.
 
 In many of the examples following, we will also be using the command-line tool
-`fin`.  If you haven't already, you can install this tool with `npm install -g @ucd-lib/fin-cli`
+`fin`.  If you haven't already, you can install this tool with `npm install -g @ucd-lib/fin-cli`. If you've 
+already installed fin make sure you upgrade to the newest version `npm install -g @ucd-lib/fin-cli@0.10.0`.
 
 The first time you use `fin`, you need to point to the server that you want to
 interact with.  Run the command `fin shell`.  This will put you into an
 interactive mode.  It will also prompt for a fedora endpoint.  Use the value to
-match your FIN_URL, in our example http://localhost:3000.
+match your FIN_URL, in our example `http://localhost:3000`.
 
 Next, just as for the browser, we need to get a valid token for our command-line
 server.  Within the fin shell try `login`.  This should launch a service to
@@ -229,13 +342,15 @@ repository.
 fin http get -P b /
 ```
 
-## Adding data to the repository
+## Adding Data to the Repository
+
 Now that we have our repository and we have administrative access, let's make
 our first entry into the repository.
 
 ``` bash
 fin http put -H prefer:return=minimal -H "Content-Type:text/turtle" -@ server.ttl -P h /
 ```
+
 This adds the `server.ttl` to the metadata of our root repository.  We can
 verify that in two ways, first using the command-line tool.
 
@@ -243,11 +358,10 @@ verify that in two ways, first using the command-line tool.
 fin http get -P b /
 ```
 
-We can also verify in the browser, http://localhost:3000/fcrepo/rest open the
+We can also verify in the browser, `http://localhost:3000/fcrepo/rest` open the
 properties bar and verify we've updated the metadata.  The root metadata also
-controls the information on the server.  Revisit, http://localhost:3000/ you can
+controls the information on the server.  Revisit, `http://localhost:3000/` you can
 see that the description of the repository has changed.
-
 
 ***Pro tip** The `fin` cli has lots if specialized tools for accessing a fedora
 server, but there is nothing special in the calls that are sent to fedora, they
@@ -263,26 +377,9 @@ the following command `http --print=h --session=admin http://localhost:3000
 token to the `admin` session. Later on, we can access fedora with httpie like
 this `http --session=admin http://localhost:3000/fcrepo/rest`.*
 
-
-# Next Steps
-From here, we can look at some of the example collections in this project and
-see how data can be added and maintained in our repository.
-
-- [Example 1](collection/ex1-pets) This is the most
-  simple example of adding data into the repository.  The data is born digital,
-  and the organization of the data and the metadata is very basic.
-
-- [Example 2](collection/ex2-photos) This example explains how
-  to document physical objects, in this case historical photos, and their
-  associated digital representations.
-
-- [Example 3](collection/ex_sherry_lehmann) Here, we show how you
-might organize objects that have multiple digital encodings, in this case where
-each catalog has a complete PDF file, but we also have each page as an image.
-
 # Advanced Configuration
 
-## Running the server on default ports
+## Run Server on Default Ports
 
 If you want to run this on the default port, the user running this example will
 need permission to connect to that protected port. In our setup, we often have
@@ -317,45 +414,19 @@ to this setup when you move to a production setup.
 </IfModule>
 ```
 
-## CAS Authentication
+# Example Collections
 
-The examples above includes a Basic Authentication service, but even in
-development, we often don't use this service. Instead, we have an authentication
-service using the CAS service used on our UC Davis campus. When using this
-service, the authentication of the users is sent to the central CAS
-authentication server, and if the user authenticates, the service will mint a
-token for this users.  There aren't too many differences in the overall setup.
-First, we remove the Basic-Authentication Service and add the CAS service.
+From here, we can look at some of the example collections in this project and
+see how data can be added and maintained in our repository.
 
-``` diff
---- fin-example.yml	2018-03-01 17:05:14.964623572 -0800
-+++ fin-example-cas.yml	2018-03-01 17:05:26.192623341 -0800
-@@ -103,10 +103,10 @@
-       - server
+- [Example 1](collection/ex1-pets) This is the most
+  simple example of adding data into the repository.  The data is born digital,
+  and the organization of the data and the metadata is very basic.
 
-   ###
--  # Basic Username/Password AuthenticationService
-+  # CAS AuthenticationService
-   ###
--  basic-auth:
--    image: ucdlib/fin-basic-auth:0.0.1
-+  cas:
-+    image: ucdlib/fin-cas-service:0.0.1
-     env_file:
-       - fin-example.env
-     depends_on:
-```
+- [Example 2](collection/ex2-photos) This example explains how
+  to document physical objects, in this case historical photos, and their
+  associated digital representations.
 
-Then, when we create admins we make sure to use the `@ucdavis.edu` suffix for
-these users, as in:
-
-``` bash
-docker-compose -f fin-example.yml exec server node app/cli admin add-admin -u quinn@ucdavis.edu
-```
-
-More information is available in the fin-server
-[authentication-service](https://github.com/UCDavisLibrary/fin-server/blob/master/docs/authentication-service/README.md).
-Implementors of alternative authentication schemes can look at the [CAS
-Service](https://github.com/UCDavisLibrary/fin-server/tree/master/services/cas)
-for a good example of how this can be implemented for new authentication
-services.
+- [Example 3](collection/ex_sherry_lehmann) Here, we show how you
+might organize objects that have multiple digital encodings, in this case where
+each catalog has a complete PDF file, but we also have each page as an image.
