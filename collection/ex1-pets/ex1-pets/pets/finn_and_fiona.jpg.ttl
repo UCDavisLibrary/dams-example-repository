@@ -1,0 +1,15 @@
+@prefix schema: <http://schema.org/> .
+@prefix ebucore: <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#> .
+@prefix my: <http://example.org/> .
+
+<> a schema:ImageObject, schema:CreativeWork;
+ schema:name "Finn & Fiona";
+ ebucore:hasMimeType "image/jpeg";
+ ebucore:filename "finn_and_fiona.jpg";
+ schema:alternativeHeadline "Also known as the Tiny Whinies";
+ schema:keywords "Kittens", "Domestic Long-Haired Cat";
+ schema:license <http://rightsstatements.org/vocab/InC-NC/1.0/>;
+ schema:encodingFormat "image/jpeg";
+ schema:about <https://en.wikipedia.org/wiki/Domestic_long-haired_cat>;
+ schema:datePublished "2019"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+ my:owner "Leigh".

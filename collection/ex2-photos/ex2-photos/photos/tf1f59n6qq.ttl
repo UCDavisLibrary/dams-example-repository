@@ -3,7 +3,7 @@
 @prefix lcna: <http://id.loc.gov/authorities/names/>.
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 
-<> a :Photograph, :CreativeWork;
+<> a :Photograph, :ImageObject, :CreativeWork;
     :publisher lcna:no2008108707, "University of California, Davis. General Library. Dept. of Special Collections";
     :license <http://rightsstatements.org/vocab/InC-NC/1.0/>;
     :identifier "http://ark.cdlib.org/ark:/13030/tf1f59n6qq", "B-10008";
@@ -15,4 +15,4 @@
     :name "At Forks of Salmon, Calif";
     :material "1 photographic negative : b&w : 5 x 7 in.";
     :datePublished "1956"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
-    :associatedMedia <tf1f59n6qq/full.tif>.
+    :associatedMedia <tf1f59n6qq/full.tif>, <tf1f59n6qq/full.jpg>.

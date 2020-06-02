@@ -1,10 +1,11 @@
 @prefix ldp:    <http://www.w3.org/ns/ldp#> .
 @prefix schema: <http://schema.org/> .
 @prefix ebucore: <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#> .
+@prefix ucdlib:  <http://digital.ucdavis.edu/schema#> .
 
-<../full.tif> a schema:ImageObject,schema:MediaObject,schema:CreativeWork;
+<../full.jpg> a schema:ImageObject,schema:MediaObject,schema:CreativeWork;
   schema:encodesCreativeWork <..>;
+  ucdlib:clientMediaDownload <./full.tif>;
   schema:creator <http://id.loc.gov/authorities/names/no2008108707>;
-  ebucore:filename "full.tif" ;
-  ebucore:hasMimeType "image/tiff";
-  .
+  ebucore:filename "full.jpg" ;
+  ebucore:hasMimeType "image/jpg" .

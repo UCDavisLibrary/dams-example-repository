@@ -117,8 +117,18 @@ services:
   ###
   # Basic Username/Password AuthenticationService
   ###
-  basic-auth:
-    image: ucdlib/fin-basic-auth-service:master
+  #basic-auth:
+  #  image: ucdlib/fin-basic-auth-service:master
+  #  env_file:
+  #    - fin-example.env
+  #  depends_on:
+  #    - server
+
+  ###
+  # CAS AuthenticationService
+  ###
+  cas:
+    image: ucdlib/fin-cas-service:master
     env_file:
       - fin-example.env
     depends_on:

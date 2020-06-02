@@ -35,7 +35,7 @@ in the Issues. You may find help there as well.
   - [Run Server on Default Ports](#run-server-on-default-ports)
 - [Example Collections](#example-collections)
 
-#  Installation
+# Installation
 
 Follow the steps below you should be able to get your own server up and
 running relatively quickly.  From there, you can investigate some of the example
@@ -55,7 +55,12 @@ you will have an test server up and running, and ready to add collections.
 
 ## Prerequisites
 
-First, we'll need to clone this repository. This is a good way to get your
+First, clone the [fin-ucd-lib-deployment](https://github.com/UCDavisLibrary/fin-ucd-lib-deployment).
+This is the engine your own instance of the DAMS will run on. Please follow the steps documented in
+[Running a Deployment](https://github.com/UCDavisLibrary/fin-ucd-lib-deployment#running-a-deployment)
+to launch your own local DAMs.
+
+Now, you can clone this repository. This is a good way to get your
 example data downloaded, and it is also a good starting point to fork this
 repository, later when you want to save site specific preferences. So, we'll
 need have have `git` on your development machine. If you're new to git, you my
@@ -70,11 +75,19 @@ Follow the [installation notes](https://docs.docker.com/compose/install/) from
 docker, if you are new to docker.  **Note**, if you are new to docker,
 understand that you will need to learn about this system.  Some of the example
 configuration below, will be unclear, and it will be difficult to modify the
-examples below for your setup unless  you understand this environment.
+examples below for your setup unless  you understand this environment. Also, as of right now,
+Docker Desktop will only work on Windows 10 Pro, Enterprise, and Education.
+Support for Windows Home is dependent on having Windows 10 2004 installed
+[Install Docker Desktop on Windows Home](https://docs.docker.com/docker-for-windows/install-windows-home/).
 
 Finally, we will be running a nodejs based tool `fin-cli` to work with our
 repository. After installing [nodejs](https://nodejs.org/en/download/), you can
-install this tool with `npm install -g @ucd-lib/fin-cli`.
+install this tool with `npm install -g @ucd-lib/fin-cli` [installation notes](https://github.com/UCDavisLibrary/fin-cli).
+After installing, make sure your fin-cli is configured properly.
+
+1.Run the command `fin config`.
+2.Run `fin config set host [hostname]`.
+3.Run `fin config` again and you should be able to see that the host/base path has been updated.
 
 ## Purging the System
 
@@ -89,10 +102,51 @@ dams-dc down -v
 dams-dc up -d
 ```
 
-At this point you have no admins for the site. The biggest change is that the admins are now managed in the repository's ACL.  
+At this point you have no admins for the site. The biggest change is that the admins are now managed in the repository's ACL.
 This allows the rest of the configuration, even adding admins, to be done on any remote machine.
 
-In order to add admins without any users you need to login in as the super-user. This uses the JWT_SECRET in the server 
+In order to add admins without any users you need to login in as the super-user. This uses the JWT_SECRET in the server
+configuration file.
+
+```bash
+fin login --super-user USERNAME@ucdavis.edu
+```
+
+Once logged in, you can add some admins using the `fin acl` command:
+
+```bash
+for i in quinn jmerz enebeker ladragoo; do
+  fin acl add-admin ${i}@ucdavis.edu
+done
+```
+
+With these admins now in place you may now add new collections:
+
+```bash
+# Log-in using your normal (in our case CAS) ids:
+fin login --headless
+# Create a new collection
+cd ~/fin-example-repo/collection
+fin io import ex1-pets .
+```
+
+## Purging the System
+
+In order to purge your DAMS instance, you need to use docker-compose commands directly:
+
+```bash
+# This sets up an alias to docker-compose, dams-dc
+eval $(damsctrl alias)
+# You can erase your current setup, while maintaining your docker configuration with:
+dams-dc down -v
+# Now you can bring this back up
+dams-dc up -d
+```
+
+At this point you have no admins for the site. The biggest change is that the admins are now managed in the repository's ACL.
+This allows the rest of the configuration, even adding admins, to be done on any remote machine.
+
+In order to add admins without any users you need to login in as the super-user. This uses the JWT_SECRET in the server
 configuration file.
 
 ```bash
@@ -184,7 +238,7 @@ docker-compose -f fin-example.yml up -d
 ```
 
 At this point, you should be able to navigate the where you set `FIN_URL`, eg
-http://localhost:3000/ and you should see an empty repository.
+`http://localhost:3000/` and you should see an empty repository.
 
 Going back to your docker configuration, at this point you should be able to
 examine the process that you are running, the logs, and other standard
@@ -195,7 +249,7 @@ host of others.
 
 Throughout these examples, we will also show direct access to the underlying LDP
 as well. The default base for access to the LDP is /fcrepo/rest, so try
-accessing http://localhost:3000/fcrepo/rest . This should fail, since by default
+accessing `http://localhost:3000/fcrepo/rest`. This should fail, since by default
 the public is not granted access to the data.  Since we want to read and write
 data to this repository, let's next create a new user for the system.
 
@@ -294,18 +348,19 @@ services.
 ## Accessing the LDP Server
 
 Now that we have elevated privileges, let's revisit the root to the LDP services,
-http://localhost:3000/fcrepo/rest .  Now we should have access to this location.
+`http://localhost:3000/fcrepo/rest`. Now we should have access to this location.
 There isn't anything here, but at least we can see that now.  Users familiar
 with Fedora will note that this is the standard fedora interface when accessed
 via the browser.
 
 In many of the examples following, we will also be using the command-line tool
-`fin`.  If you haven't already, you can install this tool with `npm install -g @ucd-lib/fin-cli`
+`fin`.  If you haven't already, you can install this tool with `npm install -g @ucd-lib/fin-cli`. If you've
+already installed fin make sure you upgrade to the newest version `npm install -g @ucd-lib/fin-cli@0.10.0`.
 
 The first time you use `fin`, you need to point to the server that you want to
 interact with.  Run the command `fin shell`.  This will put you into an
 interactive mode.  It will also prompt for a fedora endpoint.  Use the value to
-match your FIN_URL, in our example http://localhost:3000.
+match your FIN_URL, in our example `http://localhost:3000`.
 
 Next, just as for the browser, we need to get a valid token for our command-line
 server.  Within the fin shell try `login`.  This should launch a service to
@@ -329,12 +384,14 @@ fin http get -P b /
 ```
 
 ## Adding Data to the Repository
+
 Now that we have our repository and we have administrative access, let's make
 our first entry into the repository.
 
 ``` bash
 fin http put -H prefer:return=minimal -H "Content-Type:text/turtle" -@ server.ttl -P h /
 ```
+
 This adds the `server.ttl` to the metadata of our root repository.  We can
 verify that in two ways, first using the command-line tool.
 
@@ -342,11 +399,10 @@ verify that in two ways, first using the command-line tool.
 fin http get -P b /
 ```
 
-We can also verify in the browser, http://localhost:3000/fcrepo/rest open the
+We can also verify in the browser, `http://localhost:3000/fcrepo/rest` open the
 properties bar and verify we've updated the metadata.  The root metadata also
-controls the information on the server.  Revisit, http://localhost:3000/ you can
+controls the information on the server.  Revisit, `http://localhost:3000/` you can
 see that the description of the repository has changed.
-
 
 ***Pro tip** The `fin` cli has lots if specialized tools for accessing a fedora
 server, but there is nothing special in the calls that are sent to fedora, they
@@ -400,6 +456,7 @@ to this setup when you move to a production setup.
 ```
 
 # Example Collections
+
 From here, we can look at some of the example collections in this project and
 see how data can be added and maintained in our repository.
 
