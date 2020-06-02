@@ -1,9 +1,0 @@
-@prefix schema: <http://schema.org/> .
-@prefix ldp:  <http://www.w3.org/ns/ldp#> .
-
-<>
-    a ldp:DirectContainer ;
-    schema:description "California Pipevine Swallowtail Butterfly Videos" ;
-    ldp:membershipResource  <.> ;
-    ldp:hasMemberRelation   schema:associatedMedia ;
-    ldp:isMemberOfRelation  schema:encodesCreativeWork .

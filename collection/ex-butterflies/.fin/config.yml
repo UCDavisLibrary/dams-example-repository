@@ -1,4 +1,0 @@
-source:
-  host: https://sandbox.dams.library.ucdavis.edu
-  base: /fcrepo/rest
-  collection: butterflies

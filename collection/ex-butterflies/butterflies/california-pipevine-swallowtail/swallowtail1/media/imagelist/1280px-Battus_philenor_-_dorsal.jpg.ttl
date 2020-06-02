@@ -1,9 +1,0 @@
-@prefix ldp:    <http://www.w3.org/ns/ldp#> .
-@prefix schema: <http://schema.org/> .
-@prefix ebucore: <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#> .
-
-<../1280px-Battus_philenor_-_dorsal.jpg> a schema:ImageObject,schema:MediaObject,schema:CreativeWork;
-  schema:encodesCreativeWork <..>;
-  schema:creator <https://en.wikipedia.org/wiki/Battus_philenor>;
-  ebucore:filename "1280px-Battus_philenor_-_dorsal.jpg" ;
-  ebucore:hasMimeType "image/jpg" .
