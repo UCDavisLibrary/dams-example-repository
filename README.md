@@ -56,7 +56,7 @@ you will have an test server up and running, and ready to add collections.
 ## Prerequisites
 
 First, clone the [fin-ucd-lib-deployment](https://github.com/UCDavisLibrary/fin-ucd-lib-deployment).
-This is the engine your own instance of the DAMS will run on. Please follow the steps documented in 
+This is the engine your own instance of the DAMS will run on. Please follow the steps documented in
 [Running a Deployment](https://github.com/UCDavisLibrary/fin-ucd-lib-deployment#running-a-deployment)
 to launch your own local DAMs.
 
@@ -82,7 +82,7 @@ Support for Windows Home is dependent on having Windows 10 2004 installed
 
 Finally, we will be running a nodejs based tool `fin-cli` to work with our
 repository. After installing [nodejs](https://nodejs.org/en/download/), you can
-install this tool with `npm install -g @ucd-lib/fin-cli` [installation notes](https://github.com/UCDavisLibrary/fin-cli). 
+install this tool with `npm install -g @ucd-lib/fin-cli` [installation notes](https://github.com/UCDavisLibrary/fin-cli).
 After installing, make sure your fin-cli is configured properly.
 
 1.Run the command `fin config`.
@@ -102,10 +102,51 @@ dams-dc down -v
 dams-dc up -d
 ```
 
-At this point you have no admins for the site. The biggest change is that the admins are now managed in the repository's ACL.  
+At this point you have no admins for the site. The biggest change is that the admins are now managed in the repository's ACL.
 This allows the rest of the configuration, even adding admins, to be done on any remote machine.
 
-In order to add admins without any users you need to login in as the super-user. This uses the JWT_SECRET in the server 
+In order to add admins without any users you need to login in as the super-user. This uses the JWT_SECRET in the server
+configuration file.
+
+```bash
+fin login --super-user USERNAME@ucdavis.edu
+```
+
+Once logged in, you can add some admins using the `fin acl` command:
+
+```bash
+for i in quinn jmerz enebeker ladragoo; do
+  fin acl add-admin ${i}@ucdavis.edu
+done
+```
+
+With these admins now in place you may now add new collections:
+
+```bash
+# Log-in using your normal (in our case CAS) ids:
+fin login --headless
+# Create a new collection
+cd ~/fin-example-repo/collection
+fin io import ex1-pets .
+```
+
+## Purging the System
+
+In order to purge your DAMS instance, you need to use docker-compose commands directly:
+
+```bash
+# This sets up an alias to docker-compose, dams-dc
+eval $(damsctrl alias)
+# You can erase your current setup, while maintaining your docker configuration with:
+dams-dc down -v
+# Now you can bring this back up
+dams-dc up -d
+```
+
+At this point you have no admins for the site. The biggest change is that the admins are now managed in the repository's ACL.
+This allows the rest of the configuration, even adding admins, to be done on any remote machine.
+
+In order to add admins without any users you need to login in as the super-user. This uses the JWT_SECRET in the server
 configuration file.
 
 ```bash
@@ -313,7 +354,7 @@ with Fedora will note that this is the standard fedora interface when accessed
 via the browser.
 
 In many of the examples following, we will also be using the command-line tool
-`fin`.  If you haven't already, you can install this tool with `npm install -g @ucd-lib/fin-cli`. If you've 
+`fin`.  If you haven't already, you can install this tool with `npm install -g @ucd-lib/fin-cli`. If you've
 already installed fin make sure you upgrade to the newest version `npm install -g @ucd-lib/fin-cli@0.10.0`.
 
 The first time you use `fin`, you need to point to the server that you want to

@@ -1,0 +1,25 @@
+
+header {
+  .site-title {
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
+footer {
+  color: white;
+  background-color: #002655;
+
+  a {
+    color: white;
+
+    &:hover {
+      color: white;
+    }
+  }
+
+  div {
+    color: white;
+  }
+}

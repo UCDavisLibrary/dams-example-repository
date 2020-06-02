@@ -1,7 +1,8 @@
 #!/usr/bin/make -f
 SHELL:=/bin/bash
 
-c:=fin collection
+# c:=fin collection
+c:=node ../../../fin-cli/lib collection
 
 col:=ex-sherry-lehmann
 
@@ -46,9 +47,10 @@ new-collection.ttl: schema:=http://www.schema.org
 new-collection.ttl: index.ttl
 	$c delete -f ${col};\
 	$c create ${col} index.ttl;\
-  $c acl group add ${col} admins rw $(patsubst %,--agent %@ucdavis.edu,${agents});\
   $c relation add-container ${col} catalogs -T part;
 	fin http get -P b /collection/${col} > $@
+
+# $c acl group add ${col} admins rw $(patsubst %,--agent %@ucdavis.edu,${agents});\
 
 add-graph: d:=http://digital.ucdavis.edu/schema
 add-graph: graph.hdt
