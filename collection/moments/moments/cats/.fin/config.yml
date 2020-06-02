@@ -1,6 +1,7 @@
 source:
   #host: 'https://sandbox.dams.library.ucdavis.edu'
   host: 'http://localhost:3001'
+  #host: 'https://moments.dams.library.ucdavis.edu'
   base: /fcrepo/rest/moments
   collection: cats
 http:
