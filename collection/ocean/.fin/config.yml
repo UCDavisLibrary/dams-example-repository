@@ -1,4 +1,0 @@
-source:
-  host: https://localhost:3000
-  base: /fcrepo/rest
-  collection: ocean

@@ -1,4 +1,0 @@
-items --auto --position
-items/* --auto --foo
-# All iamges are autofied
-*.png --auto

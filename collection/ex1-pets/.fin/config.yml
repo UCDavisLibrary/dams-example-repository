@@ -1,4 +1,0 @@
-source:
-  host: http://192.168.99.103:3000/
-  base: /fcrepo/rest
-  collection: ex1-pets

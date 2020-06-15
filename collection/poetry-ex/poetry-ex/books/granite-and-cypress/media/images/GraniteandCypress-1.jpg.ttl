@@ -1,8 +1,0 @@
-@prefix ldp: <http://www.w3.org/ns/ldp#> .
-@prefix schema: <http://schema.org/> .
-@prefix ebucore: <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#> .
-<>
-    a schema:ImageObject,schema:MediaObject,schema:CreativeWork;
-    schema:position 1;
-    ebucore:filename "GraniteandCypress-1.jpg" ;
-    ebucore:hasMimeType "image/jpeg" .

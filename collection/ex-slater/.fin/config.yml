@@ -1,4 +1,0 @@
-source:
-  host: https://next.dams.library.ucdavis.edu
-  base: /fcrepo/rest
-  collection: ex-slater

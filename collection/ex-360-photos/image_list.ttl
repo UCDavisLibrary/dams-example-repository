@@ -1,6 +1,0 @@
-@prefix : <http://schema.org/>.
-@prefix ldp:  <http://www.w3.org/ns/ldp#> .
-@prefix ucdlib: <http://digital.ucdavis.edu/schema#> .
-
-<> a ldp:DirectContainer, :MediaObject, ucdlib:ImageList360;
-:name "Image List 360" .

@@ -1,7 +1,0 @@
-@prefix ldp:    <http://www.w3.org/ns/ldp#> .
-@prefix schema: <http://schema.org/> .
-@prefix ebucore: <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#> .
-<../D394.3.1.29-000.jpg> a schema:ImageObject,schema:MediaObject,schema:CreativeWork;
-  schema:position ex-slater/D-394/D394.3.1.29/media/images/D394.3.1.29-000  | cut -d- -f2;
-  ebucore:filename "D394.3.1.29-000.jpg" ;
-  ebucore:hasMimeType "image/jpeg" .
