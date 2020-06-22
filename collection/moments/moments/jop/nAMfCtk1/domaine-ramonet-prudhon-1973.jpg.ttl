@@ -1,0 +1,12 @@
+@prefix schema: <http://schema.org/>.
+@prefix ucdlib: <http://digital.ucdavis.edu/schema#>.
+@prefix w: <http://library.ucdavis.edu/wine-ontology#>.
+@prefix fast: <http://id.worldcat.org/fast/>.
+@prefix wdt: <http://www.wikidata.org/prop/direct/>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix ldp: <http://www.w3.org/ns/ldp#>.
+
+<> schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
+    schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
+    schema:encodingFormat "image/jpg";
+    schema:name "domaine-ramonet-prudhon-1973.jpg".
