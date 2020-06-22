@@ -2,9 +2,9 @@
   "@graph" : [ {
     "@id" : "_:b0",
     "@type" : "schema:Place",
-    "schema:latitude" : 27.9087072,
-    "schema:longitude" : 78.0731292,
-    "name" : "Department+Of+West+Asian+And+North+African+Studies"
+    "schema:latitude" : 38.5568789,
+    "schema:longitude" : -121.770049,
+    "name" : "Davis,+CA"
   }, {
     "@id" : "_:b1",
     "@type" : "schema:Place",
@@ -14,14 +14,15 @@
   }, {
     "@id" : "_:b10",
     "@type" : "schema:Place",
-    "schema:latitude" : 38.8119585,
-    "schema:longitude" : -121.2802617,
-    "name" : "Rocklin,+CA"
+    "schema:latitude" : 38.5619185,
+    "schema:longitude" : -121.5833396,
+    "name" : "Sacramento,+CA"
   }, {
     "@id" : "_:b11",
-    "@type" : "schema:ImageObject",
-    "caption" : "Cat lying on rice straw",
-    "contentUrl" : "1280px-Felis_silvestris_catus_lying_on_rice_straw.jpg"
+    "@type" : "schema:Place",
+    "schema:latitude" : 13.0108743,
+    "schema:longitude" : 96.9834453,
+    "name" : "Thailand"
   }, {
     "@id" : "_:b12",
     "@type" : "schema:Place",
@@ -31,32 +32,32 @@
   }, {
     "@id" : "_:b13",
     "@type" : "schema:Place",
+    "schema:latitude" : 38.5619185,
+    "schema:longitude" : -121.5833396,
+    "name" : "Sacramento,+CA"
+  }, {
+    "@id" : "_:b14",
+    "@type" : "schema:ImageObject",
+    "caption" : "Cat lying on rice straw",
+    "contentUrl" : "1280px-Felis_silvestris_catus_lying_on_rice_straw.jpg"
+  }, {
+    "@id" : "_:b15",
+    "@type" : "schema:Place",
     "schema:latitude" : 38.8119585,
     "schema:longitude" : -121.2802617,
     "name" : "Rocklin,+CA"
   }, {
-    "@id" : "_:b14",
-    "@type" : "schema:ImageObject",
-    "caption" : "Dilated pupils",
-    "contentUrl" : "800px-Domestic_Cat_Demonstrating_Dilated_Slit_Pupils.jpg"
-  }, {
-    "@id" : "_:b15",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.5619185,
-    "schema:longitude" : -121.5833396,
-    "name" : "Sacramento,+CA"
-  }, {
     "@id" : "_:b2",
     "@type" : "schema:Place",
-    "schema:latitude" : 38.5568789,
-    "schema:longitude" : -121.770049,
-    "name" : "Davis,+CA"
+    "schema:latitude" : 27.9087072,
+    "schema:longitude" : 78.0731292,
+    "name" : "Department+Of+West+Asian+And+North+African+Studies"
   }, {
     "@id" : "_:b3",
     "@type" : "schema:Place",
-    "schema:latitude" : 38.5619185,
-    "schema:longitude" : -121.5833396,
-    "name" : "Sacramento,+CA"
+    "schema:latitude" : 34.0414337,
+    "schema:longitude" : -118.2711432,
+    "name" : "1201+S+Figueroa+St,+Los+Angeles,+CA+90015"
   }, {
     "@id" : "_:b4",
     "@type" : "schema:Place",
@@ -65,10 +66,9 @@
     "name" : "Sacramento,+CA"
   }, {
     "@id" : "_:b5",
-    "@type" : "schema:Place",
-    "schema:latitude" : 34.0414337,
-    "schema:longitude" : -118.2711432,
-    "name" : "1201+S+Figueroa+St,+Los+Angeles,+CA+90015"
+    "@type" : "schema:ImageObject",
+    "caption" : "Cat close-up",
+    "contentUrl" : "1280px-Kittyply_edit1.jpg"
   }, {
     "@id" : "_:b6",
     "@type" : "schema:Place",
@@ -77,21 +77,21 @@
     "name" : "Davis,+CA"
   }, {
     "@id" : "_:b7",
-    "@type" : "schema:ImageObject",
-    "caption" : "Cat close-up",
-    "contentUrl" : "1280px-Kittyply_edit1.jpg"
-  }, {
-    "@id" : "_:b8",
-    "@type" : "schema:Place",
-    "schema:latitude" : 13.0108743,
-    "schema:longitude" : 96.9834453,
-    "name" : "Thailand"
-  }, {
-    "@id" : "_:b9",
     "@type" : "schema:Place",
     "schema:latitude" : 38.5619185,
     "schema:longitude" : -121.5833396,
     "name" : "Sacramento,+CA"
+  }, {
+    "@id" : "_:b8",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.8119585,
+    "schema:longitude" : -121.2802617,
+    "name" : "Rocklin,+CA"
+  }, {
+    "@id" : "_:b9",
+    "@type" : "schema:ImageObject",
+    "caption" : "Dilated pupils",
+    "contentUrl" : "800px-Domestic_Cat_Demonstrating_Dilated_Slit_Pupils.jpg"
   }, {
     "@id" : "5PL2z7dx",
     "@type" : [ "ucdlib:guardian", "schema:significantLinks" ],
@@ -123,7 +123,7 @@
     "relatedLink" : "https://en.wikipedia.org/wiki/Domestic_short-haired_cat",
     "relatedLinkText" : "Domestic Shorthair",
     "schema:spatial" : "Sacramento, California",
-    "spatial" : "_:b3",
+    "spatial" : "_:b1",
     "temporal" : "2017",
     "thumbnail" : "z:6RLjRfHs/Gimli.jpg"
   }, {
@@ -147,7 +147,7 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://en.wikipedia.org/wiki/Domestic_long-haired_cat",
     "relatedLinkText" : "Domestic long-haired cat",
-    "spatial" : "_:b0",
+    "spatial" : "_:b2",
     "schema:spatial" : "Western Asia",
     "temporal" : "1521",
     "thumbnail" : "z:8IiOdITK/Cat_harness_and_leash.jpg",
@@ -217,7 +217,7 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://en.wikipedia.org/wiki/Bengal_cat",
     "relatedLinkText" : "Bengal Cat",
-    "spatial" : "_:b13",
+    "spatial" : "_:b15",
     "schema:spatial" : "Rocklin, California",
     "temporal" : "2018",
     "thumbnail" : "z:IQATijmC/Mika.jpg",
@@ -262,7 +262,7 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://www.catconworldwide.com/",
     "relatedLinkText" : "Cat Con Worldwide",
-    "spatial" : "_:b5",
+    "spatial" : "_:b3",
     "schema:spatial" : "Los Angeles, California",
     "temporal" : "2020",
     "thumbnail" : "z:Kwg7igEZ/Adoptee_AH-WEB2019.jpg",
@@ -278,8 +278,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://en.wikipedia.org/wiki/Bengal_cat",
     "relatedLinkText" : "Bengal Cat",
-    "spatial" : "_:b10",
     "schema:spatial" : "Rocklin, California",
+    "spatial" : "_:b8",
     "temporal" : "2018",
     "thumbnail" : "z:QV3mqDZC/Mochi.jpg",
     "EY1KO8qp_rev" : "69kb7Jb0"
@@ -305,7 +305,7 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://en.wikipedia.org/wiki/Tabby_cat",
     "relatedLinkText" : "Tabby Cat",
-    "spatial" : "_:b2",
+    "spatial" : "_:b0",
     "schema:spatial" : "Davis, California",
     "temporal" : "2015",
     "thumbnail" : "z:Tsm36okM/Ashley.jpg",
@@ -327,7 +327,7 @@
   }, {
     "@id" : "W31AT2ji",
     "@type" : [ "schema:WebPage", "ucdlib:Story" ],
-    "image" : [ "_:b14", "_:b7", "_:b11" ],
+    "image" : [ "_:b9", "_:b5", "_:b14" ],
     "label" : "Story: Triptych",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Triptych",
@@ -342,8 +342,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://en.wikipedia.org/wiki/Bicolor_cat",
     "relatedLinkText" : "Title to display",
+    "spatial" : "_:b10",
     "schema:spatial" : "Sacramento, California)",
-    "spatial" : "_:b15",
     "temporal" : "2019",
     "thumbnail" : "z:WJPtqS3y/Marie.jpg",
     "vkz6f49f" : "yvH439FE",
@@ -379,7 +379,7 @@
     "relatedLink" : "https://en.wikipedia.org/wiki/Cat_coat_genetics",
     "relatedLinkText" : "Medium-Coat Cat",
     "schema:spatial" : "Sacramento, California)",
-    "spatial" : "_:b9",
+    "spatial" : "_:b13",
     "temporal" : "2019",
     "thumbnail" : "z:bRkZTUGL/Fiona_%26_Finn.jpg",
     "Zjug5G7h" : "8IiOdITK",
@@ -395,8 +395,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://en.wikipedia.org/wiki/Chihuahua_(dog)",
     "relatedLinkText" : "Deer-Head Chihuahua Dogs",
-    "spatial" : "_:b1",
     "schema:spatial" : "Sacramento, California",
+    "spatial" : "_:b7",
     "temporal" : "2018",
     "thumbnail" : "z:ed8DG7NW/Juniper.jpg"
   }, {
@@ -464,8 +464,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://en.wikipedia.org/wiki/Polydactyl_cat",
     "relatedLinkText" : "Polydactyl cats",
-    "schema:spatial" : "Davis, California",
     "spatial" : "_:b12",
+    "schema:spatial" : "Davis, California",
     "temporal" : "2016",
     "thumbnail" : "z:poAqymRE/Chester.jpg",
     "DAZJB1ba" : "zg9k9Z8u",
@@ -538,7 +538,7 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Snowshoe_cat", "https://www.wayofcats.com/blog/unbreeds-the-stealth-siamese-cat/31673" ],
     "relatedLinkText" : [ "Unbreeds: The Stealth Siamese Cat", "Snowshoe Cat" ],
-    "spatial" : "_:b8",
+    "spatial" : "_:b11",
     "schema:spatial" : "Thailand",
     "temporal" : "2015",
     "thumbnail" : "z:zg9k9Z8u/242934-1600x1030-snowshoe-siamese-cats.jpg",
@@ -559,20 +559,8 @@
     "name" : {
       "@id" : "http://schema.org/name"
     },
-    "longitude" : {
-      "@id" : "http://schema.org/longitude",
-      "@type" : "http://www.w3.org/2001/XMLSchema#double"
-    },
-    "latitude" : {
-      "@id" : "http://schema.org/latitude",
-      "@type" : "http://www.w3.org/2001/XMLSchema#double"
-    },
     "5PL2z7dx_rev" : {
       "@id" : "5PL2z7dx_rev",
-      "@type" : "@id"
-    },
-    "spatial" : {
-      "@id" : "http://schema.org/spatial",
       "@type" : "@id"
     },
     "relatedLink" : {
@@ -584,6 +572,10 @@
     },
     "mrpB0Hyi" : {
       "@id" : "mrpB0Hyi",
+      "@type" : "@id"
+    },
+    "spatial" : {
+      "@id" : "http://schema.org/spatial",
       "@type" : "@id"
     },
     "wJRs9ysG" : {
@@ -612,6 +604,20 @@
     "relatedLinkText" : {
       "@id" : "http://schema.org/relatedLinkText"
     },
+    "longitude" : {
+      "@id" : "http://schema.org/longitude",
+      "@type" : "http://www.w3.org/2001/XMLSchema#double"
+    },
+    "latitude" : {
+      "@id" : "http://schema.org/latitude",
+      "@type" : "http://www.w3.org/2001/XMLSchema#double"
+    },
+    "contentUrl" : {
+      "@id" : "http://schema.org/contentUrl"
+    },
+    "caption" : {
+      "@id" : "http://schema.org/caption"
+    },
     "R9al4rS9_rev" : {
       "@id" : "R9al4rS9_rev",
       "@type" : "@id"
@@ -619,12 +625,6 @@
     "5PL2z7dx" : {
       "@id" : "5PL2z7dx",
       "@type" : "@id"
-    },
-    "contentUrl" : {
-      "@id" : "http://schema.org/contentUrl"
-    },
-    "caption" : {
-      "@id" : "http://schema.org/caption"
     },
     "mrpB0Hyi_rev" : {
       "@id" : "mrpB0Hyi_rev",

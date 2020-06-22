@@ -11,6 +11,8 @@ production/*.yml
 index_terms.txt
 ldp.ttl
 
+collection/ex1-pets/**
+
 collection/example_4-wine-labels/**/label_this.txt
 collection/example_4-wine-labels/**/google-vision.txt
 

@@ -1,14 +1,6 @@
 source:
   #host: 'https://sandbox.dams.library.ucdavis.edu'
-  #host: 'http://localhost:3001'
-  host: 'https://moments.dams.library.ucdavis.edu'
+  #host: 'https://moments.dams.library.ucdavis.edu'
+  host: 'http://localhost:3001'  
   base: /fcrepo/rest
   collection: moments
-contentTypes:
-  jpg: image/jpeg
-  yml: text/yaml
-  jpeg: image/jpeg
-  json: application/json
-  png: image/png
-  hdt: application/octet-stream
-  err: application/octet-stream
