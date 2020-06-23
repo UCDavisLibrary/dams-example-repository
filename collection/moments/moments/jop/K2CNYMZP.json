@@ -747,8 +747,8 @@
       "id": "5ee9226da21fa383d6adcd4c",
       "checkItemStates": null,
       "closed": false,
-      "dateLastActivity": "2020-06-16T20:19:53.830Z",
-      "desc": "#Text\n- And the Winner is...\n * Although France was widely regarded as the top producer of fine Cabernet Sauvignon and Chardonnay, and California wines were little known, a California wine rated best in the red and white categories.\n * George Taber, the sole journalist present at the tasting, memorialized the event for Time magazine. His article’s headline, “Judgment of Paris,” recalled the Greek myth in which Paris, son of a king, is asked to name the fairest among the goddesses Hera, Athena, and Aphrodite. Paris chooses Aphrodite, in exchange for her gift of Helen of Sparta, and his decision ignited the series of events that lead to the Trojan war.\n\n#Image Caption\n- The Winning Wines",
+      "dateLastActivity": "2020-06-23T19:33:36.182Z",
+      "desc": "# Text\n- And the Winner is...\n * Although France was widely regarded as the top producer of fine Cabernet Sauvignon and Chardonnay, and California wines were little known, a California wine rated best in the red and white categories.\n * George Taber, the sole journalist present at the tasting, memorialized the event for Time magazine. His article’s headline, “Judgment of Paris,” recalled the Greek myth in which Paris, son of a king, is asked to name the fairest among the goddesses Hera, Athena, and Aphrodite. Paris chooses Aphrodite, in exchange for her gift of Helen of Sparta, and his decision ignited the series of events that lead to the Trojan war.\n\n#Image Caption\n- The Winning Wines",
       "descData": {
         "emoji": {}
       },
@@ -959,8 +959,8 @@
       "id": "5ee92273bdb3f1438d4489c9",
       "checkItemStates": null,
       "closed": false,
-      "dateLastActivity": "2020-06-16T20:08:17.335Z",
-      "desc": "#Text\n- Ramifications on the Wine Industry\n * The repercussions of the wine tasting were as dramatic. The horizon expanded for winemakers throughout the world, who were encouraged to imagine previously unconsidered regions for the production of fine wines made with the noble varieties. The wide-reaching spirit of competition and possibility that the tasting engendered also caused experimentation with winemaking methods and grape varieties to increase.\n * Reflecting on the event forty years later for Time, Spurrier said, “The most important thing in my view is the Judgment of Paris created a template whereby unknown wines of high quality could go up against known benchmark wines of high quality, blind, provided they were in front of an incredibly reputable panel of judges. Davids from all over felt power to take on Goliaths. It was a great democratizing moment for vintners.”",
+      "dateLastActivity": "2020-06-23T19:33:21.036Z",
+      "desc": "# Text\n- Ramifications on the Wine Industry\n * The repercussions of the wine tasting were as dramatic. The horizon expanded for winemakers throughout the world, who were encouraged to imagine previously unconsidered regions for the production of fine wines made with the noble varieties. The wide-reaching spirit of competition and possibility that the tasting engendered also caused experimentation with winemaking methods and grape varieties to increase.\n * Reflecting on the event forty years later for Time, Spurrier said, “The most important thing in my view is the Judgment of Paris created a template whereby unknown wines of high quality could go up against known benchmark wines of high quality, blind, provided they were in front of an incredibly reputable panel of judges. Davids from all over felt power to take on Goliaths. It was a great democratizing moment for vintners.”",
       "descData": {
         "emoji": {}
       },
@@ -1027,8 +1027,8 @@
       "id": "5ee9249cc0ed2c8dc249017e",
       "checkItemStates": null,
       "closed": false,
-      "dateLastActivity": "2020-06-16T20:16:20.131Z",
-      "desc": "- Patricia Gallagher, Steven Spurrier, Odette Kahn / jop-tasting1.jpg\n- George Taber's Article / jop-article.jpg\n- Judgment of Paris Tasting / jop-tasting2.jpg",
+      "dateLastActivity": "2020-06-23T19:26:36.598Z",
+      "desc": "# Images\n- Patricia Gallagher, Steven Spurrier, Odette Kahn / jop-tasting1.jpg\n- George Taber's Article / jop-article.jpg\n- Judgment of Paris Tasting / jop-tasting2.jpg",
       "descData": {
         "emoji": {}
       },
@@ -1037,7 +1037,7 @@
       "idList": "5e752775ba4deb7eb9f15dec",
       "idMembersVoted": [],
       "idShort": 104,
-      "idAttachmentCover": "5ee925ffb0fb6921c1fd34dd",
+      "idAttachmentCover": null,
       "idLabels": [
         "5ee9265e5fb11c22db174a73"
       ],
@@ -1083,77 +1083,11 @@
       "subscribed": false,
       "url": "https://trello.com/c/B5deTaip/104-triptych",
       "cover": {
-        "idAttachment": "5ee925ffb0fb6921c1fd34dd",
+        "idAttachment": null,
         "color": null,
         "idUploadedBackground": null,
         "size": "normal",
-        "brightness": "light",
-        "scaled": [
-          {
-            "_id": "5ee92600b0fb6921c1fd34ec",
-            "id": "5ee92600b0fb6921c1fd34ec",
-            "scaled": false,
-            "url": "https://trello-attachments.s3.amazonaws.com/5ee9249cc0ed2c8dc249017e/70x50/bb608b0e028c73e73320632a805abbd2/jop-tasting1.jpg",
-            "bytes": 1556,
-            "height": 50,
-            "width": 70
-          },
-          {
-            "_id": "5ee92600b0fb6921c1fd34ed",
-            "id": "5ee92600b0fb6921c1fd34ed",
-            "scaled": false,
-            "url": "https://trello-attachments.s3.amazonaws.com/5ee9249cc0ed2c8dc249017e/250x150/bb608b0e028c73e73320632a805abbd2/jop-tasting1.jpg",
-            "bytes": 7471,
-            "height": 150,
-            "width": 250
-          },
-          {
-            "_id": "5ee92600b0fb6921c1fd34ee",
-            "id": "5ee92600b0fb6921c1fd34ee",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5ee9249cc0ed2c8dc249017e/150x100/bb608b0e028c73e73320632a805abbd2/jop-tasting1.jpg",
-            "bytes": 3650,
-            "height": 100,
-            "width": 150
-          },
-          {
-            "_id": "5ee92600b0fb6921c1fd34ef",
-            "id": "5ee92600b0fb6921c1fd34ef",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5ee9249cc0ed2c8dc249017e/300x200/bb608b0e028c73e73320632a805abbd2/jop-tasting1.jpg",
-            "bytes": 10821,
-            "height": 200,
-            "width": 300
-          },
-          {
-            "_id": "5ee92600b0fb6921c1fd34f0",
-            "id": "5ee92600b0fb6921c1fd34f0",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5ee9249cc0ed2c8dc249017e/600x399/bb608b0e028c73e73320632a805abbd2/jop-tasting1.jpg",
-            "bytes": 32476,
-            "height": 399,
-            "width": 600
-          },
-          {
-            "_id": "5ee92600b0fb6921c1fd34f1",
-            "id": "5ee92600b0fb6921c1fd34f1",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5ee9249cc0ed2c8dc249017e/800x532/bb608b0e028c73e73320632a805abbd2/jop-tasting1.jpg",
-            "bytes": 52062,
-            "height": 532,
-            "width": 800
-          },
-          {
-            "_id": "5ee92600b0fb6921c1fd34f2",
-            "id": "5ee92600b0fb6921c1fd34f2",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5df016d5e8c5ac1f23e48538/5ee9249cc0ed2c8dc249017e/f795f5d1f2c386a4f900ed3894de3ba6/jop-tasting1.jpg",
-            "bytes": 52071,
-            "height": 532,
-            "width": 800
-          }
-        ],
-        "edgeColor": "#8c8c8c"
+        "brightness": "light"
       },
       "attachments": [
         {

@@ -388,7 +388,7 @@
       "id": "5ee915721deafe7566976c50",
       "checkItemStates": null,
       "closed": false,
-      "dateLastActivity": "2020-06-16T21:38:10.689Z",
+      "dateLastActivity": "2020-06-23T19:03:11.855Z",
       "desc": "# Identifier\n- cabernet\n\n# Date\n- 1865/1976\n\n# Description\nCabernet Sauvignon, the main variety of some of the world’s most famous wines and the second most widely grown grape in California, originated in the Bordeaux region of France in the 17th century as a result of an accidental crossing of Cabernet Franc and Sauvignon Blanc grapes. This is the tale of how California brought its love affair with Bordeaux grown Cabernet Sauvignon stateside and cultivated it into the reigning king of Napa Valley reds.",
       "descData": {
         "emoji": {}
@@ -404,7 +404,7 @@
         "5e7401a6e5eb06649b89bc38"
       ],
       "manualCoverAttachment": false,
-      "name": "Entrypoint",
+      "name": "Cabernet Sauvignon",
       "pos": 32767.5,
       "shortLink": "gM1hIO6x",
       "isTemplate": false,
@@ -449,7 +449,7 @@
       ],
       "shortUrl": "https://trello.com/c/gM1hIO6x",
       "subscribed": false,
-      "url": "https://trello.com/c/gM1hIO6x/172-entrypoint",
+      "url": "https://trello.com/c/gM1hIO6x/172-cabernet-sauvignon",
       "cover": {
         "idAttachment": null,
         "color": null,
@@ -811,8 +811,8 @@
       "id": "5ee9396d5fb11c22db1b0b08",
       "checkItemStates": null,
       "closed": false,
-      "dateLastActivity": "2020-06-16T21:36:19.690Z",
-      "desc": "- Prohibition / prohibitionwine.jpg\n- Inglenook Celebrates Prohibition’s End, 1933 / 1933-inglenook-endprohibition.jpg\n- Young Robert Mondavi and Family / mondavi-family.jpg",
+      "dateLastActivity": "2020-06-23T18:54:16.973Z",
+      "desc": "# Images\n- Prohibition / prohibitionwine.jpg\n- Inglenook Celebrates Prohibition’s End, 1933 / 1933-inglenook-endprohibition.jpg\n- Young Robert Mondavi and Family / mondavi-family.jpg",
       "descData": {
         "emoji": {}
       },
@@ -821,11 +821,11 @@
       "idList": "5ee7e6b4d4afe04114ce9b2f",
       "idMembersVoted": [],
       "idShort": 174,
-      "idAttachmentCover": "5ee939aae5069b1a822e0a8d",
+      "idAttachmentCover": null,
       "idLabels": [
         "5ee93b5308efe70abc4905d4"
       ],
-      "manualCoverAttachment": false,
+      "manualCoverAttachment": true,
       "name": "Triptych",
       "pos": 163839,
       "shortLink": "RlhV8fYi",
@@ -867,77 +867,11 @@
       "subscribed": false,
       "url": "https://trello.com/c/RlhV8fYi/174-triptych",
       "cover": {
-        "idAttachment": "5ee939aae5069b1a822e0a8d",
+        "idAttachment": null,
         "color": null,
         "idUploadedBackground": null,
         "size": "normal",
-        "brightness": "light",
-        "scaled": [
-          {
-            "_id": "5ee939abe5069b1a822e0a95",
-            "id": "5ee939abe5069b1a822e0a95",
-            "scaled": false,
-            "url": "https://trello-attachments.s3.amazonaws.com/5ee9396d5fb11c22db1b0b08/70x50/a6a99a7c11a7ae00620e78c6dbee471e/prohibitionwine.jpg",
-            "bytes": 2285,
-            "height": 50,
-            "width": 70
-          },
-          {
-            "_id": "5ee939abe5069b1a822e0a96",
-            "id": "5ee939abe5069b1a822e0a96",
-            "scaled": false,
-            "url": "https://trello-attachments.s3.amazonaws.com/5ee9396d5fb11c22db1b0b08/250x150/a6a99a7c11a7ae00620e78c6dbee471e/prohibitionwine.jpg",
-            "bytes": 18459,
-            "height": 150,
-            "width": 250
-          },
-          {
-            "_id": "5ee939abe5069b1a822e0a97",
-            "id": "5ee939abe5069b1a822e0a97",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5ee9396d5fb11c22db1b0b08/150x81/a6a99a7c11a7ae00620e78c6dbee471e/prohibitionwine.jpg",
-            "bytes": 7355,
-            "height": 81,
-            "width": 150
-          },
-          {
-            "_id": "5ee939abe5069b1a822e0a98",
-            "id": "5ee939abe5069b1a822e0a98",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5ee9396d5fb11c22db1b0b08/300x162/a6a99a7c11a7ae00620e78c6dbee471e/prohibitionwine.jpg",
-            "bytes": 25731,
-            "height": 162,
-            "width": 300
-          },
-          {
-            "_id": "5ee939abe5069b1a822e0a99",
-            "id": "5ee939abe5069b1a822e0a99",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5ee9396d5fb11c22db1b0b08/600x324/a6a99a7c11a7ae00620e78c6dbee471e/prohibitionwine.jpg",
-            "bytes": 92603,
-            "height": 324,
-            "width": 600
-          },
-          {
-            "_id": "5ee939abe5069b1a822e0a9a",
-            "id": "5ee939abe5069b1a822e0a9a",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5ee9396d5fb11c22db1b0b08/1001x540/a6a99a7c11a7ae00620e78c6dbee471e/prohibitionwine.jpg",
-            "bytes": 219938,
-            "height": 540,
-            "width": 1001
-          },
-          {
-            "_id": "5ee939abe5069b1a822e0a9b",
-            "id": "5ee939abe5069b1a822e0a9b",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5e7401a6e5eb06649b89bbe6/5ee9396d5fb11c22db1b0b08/4965a007dd27ad8dc7a5baec24aab8d0/prohibitionwine.jpg",
-            "bytes": 211071,
-            "height": 540,
-            "width": 1001
-          }
-        ],
-        "edgeColor": "#e0e0e0"
+        "brightness": "light"
       },
       "attachments": [
         {

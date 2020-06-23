@@ -38,21 +38,36 @@
     schema:thumbnail <aQbPoT6L/jop-wines.jpg>;
     schema:label "Story: Image / Text";
     a schema:WebPage;
-    schema:description "#Text\n\n#Image Caption".
+    schema:text "Although France was widely regarded as the top producer of fine Cabernet Sauvignon and Chardonnay, and California wines were little known, a California wine rated best in the red and white categories.", "George Taber, the sole journalist present at the tasting, memorialized the event for Time magazine. His article’s headline, “Judgment of Paris,” recalled the Greek myth in which Paris, son of a king, is asked to name the fairest among the goddesses Hera, Athena, and Aphrodite. Paris chooses Aphrodite, in exchange for her gift of Helen of Sparta, and his decision ignited the series of events that lead to the Trojan war.";
+    schema:headline "And the Winner is...", "The Winning Wines";
+    schema:description "#Image Caption".
 <#2LLXNXPr> schema:name "Ramifications on the Wine Industry";
     schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
     schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
     a ucdlib:Story;
     schema:label "Story: Text";
     a schema:WebPage;
-    schema:description "#Text".
+    schema:text "The repercussions of the wine tasting were as dramatic. The horizon expanded for winemakers throughout the world, who were encouraged to imagine previously unconsidered regions for the production of fine wines made with the noble varieties. The wide-reaching spirit of competition and possibility that the tasting engendered also caused experimentation with winemaking methods and grape varieties to increase.", "Reflecting on the event forty years later for Time, Spurrier said, “The most important thing in my view is the Judgment of Paris created a template whereby unknown wines of high quality could go up against known benchmark wines of high quality, blind, provided they were in front of an incredibly reputable panel of judges. Davids from all over felt power to take on Goliaths. It was a great democratizing moment for vintners.”";
+    schema:headline "Ramifications on the Wine Industry".
 <#B5deTaip> schema:name "Triptych";
     schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
     schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
     a ucdlib:Story;
-    schema:thumbnail <B5deTaip/jop-tasting1.jpg>;
     schema:label "Story: Triptych";
-    a schema:WebPage.
+    a schema:WebPage;
+    schema:image [
+  a schema:ImageObject;
+  schema:caption "Patricia Gallagher, Steven Spurrier, Odette Kahn";
+  schema:contentUrl "jop-tasting1.jpg"
+], [
+  a schema:ImageObject;
+  schema:caption "George Taber's Article";
+  schema:contentUrl "jop-article.jpg"
+], [
+  a schema:ImageObject;
+  schema:caption "Judgment of Paris Tasting";
+  schema:contentUrl "jop-tasting2.jpg"
+].
 <#VBMYwJXy> schema:name "Steven Spurrier organized the Judgment of Paris";
     schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
     schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;

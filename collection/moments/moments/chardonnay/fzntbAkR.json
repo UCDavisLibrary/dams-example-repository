@@ -743,8 +743,8 @@
       "id": "5ee9293a5ed6571bb0d11ee2",
       "checkItemStates": null,
       "closed": false,
-      "dateLastActivity": "2020-06-16T20:26:32.593Z",
-      "desc": "#Text\n- From 300 Acres to 100,000\n * At the start of the 1960s there were only 300 acres of Chardonnay planted in all of California. Today the grape is planted to more than 100,000 acres.\n * The California Chardonnay that wine writer Hugh Johnson describes in Vintage: The Story of Wine as having the “buttery, half-smoked aromas and flavours that had … spelt only Meursault, Montrachet, and Corton-Charlemagne” didn’t have a well-defined presence in California until after Joseph Heitz bought, blended, and sold James D. Zellerbach’s last vintages, and showed that California could produce wine that would stand up to top white Burgundies.\n * Timing, skill, doggedness, a knack for promotion, and the Judgment of Paris propelled Heitz’s Chardonnays into an international arena, but the stage for Chardonnay’s rise in California had been set decades before Prohibition, in Livermore, by a group of immigrant winemakers and a San Franciscan whose dry white wine won California’s first international wine award at the 1889 Paris Exposition.  \n\n#Image Caption\n- Stanley Ranch Vineyards",
+      "dateLastActivity": "2020-06-23T19:40:45.893Z",
+      "desc": "# Text\n- From 300 Acres to 100,000\n * At the start of the 1960s there were only 300 acres of Chardonnay planted in all of California. Today the grape is planted to more than 100,000 acres.\n * The California Chardonnay that wine writer Hugh Johnson describes in Vintage: The Story of Wine as having the “buttery, half-smoked aromas and flavours that had … spelt only Meursault, Montrachet, and Corton-Charlemagne” didn’t have a well-defined presence in California until after Joseph Heitz bought, blended, and sold James D. Zellerbach’s last vintages, and showed that California could produce wine that would stand up to top white Burgundies.\n * Timing, skill, doggedness, a knack for promotion, and the Judgment of Paris propelled Heitz’s Chardonnays into an international arena, but the stage for Chardonnay’s rise in California had been set decades before Prohibition, in Livermore, by a group of immigrant winemakers and a San Franciscan whose dry white wine won California’s first international wine award at the 1889 Paris Exposition.  \n\n#Image Caption\n- Stanley Ranch Vineyards",
       "descData": {
         "emoji": {}
       },
@@ -955,8 +955,8 @@
       "id": "5ee929818b537a6b2e81981a",
       "checkItemStates": null,
       "closed": false,
-      "dateLastActivity": "2020-06-16T20:20:27.596Z",
-      "desc": "#Text\n- Chardonnay Comes to California\n * Chardonnay’s presence among early California wines is hard to trace due to the absence of varietal labeling before the 1930s, variations on the grape’s spelling, and mistakes in identification. It wasn’t uncommon for Chardonnay to be mistaken for Pinot Blanc and Melon de Bourgogne.\n * The grape’s stateside story begins to come into focus in 1882, when Charles Wetmore imported budwood from Meursault and established his Cresta Blanca vineyard in Livermore. Chardonnay roots developed in Livermore nurseries and vineyards as well as in the Santa Cruz Mountains, where Livermore winegrower Paul Masson planted a second vineyard to Pinot Noir and Chardonnay, using cuttings from Burgundy purportedly from the vineyards of winegrower Louis Latour.",
+      "dateLastActivity": "2020-06-23T19:45:45.178Z",
+      "desc": "# Text\n- Chardonnay Comes to California\n * Chardonnay’s presence among early California wines is hard to trace due to the absence of varietal labeling before the 1930s, variations on the grape’s spelling, and mistakes in identification. It wasn’t uncommon for Chardonnay to be mistaken for Pinot Blanc and Melon de Bourgogne.\n * The grape’s stateside story begins to come into focus in 1882, when Charles Wetmore imported budwood from Meursault and established his Cresta Blanca vineyard in Livermore. Chardonnay roots developed in Livermore nurseries and vineyards as well as in the Santa Cruz Mountains, where Livermore winegrower Paul Masson planted a second vineyard to Pinot Noir and Chardonnay, using cuttings from Burgundy purportedly from the vineyards of winegrower Louis Latour.",
       "descData": {
         "emoji": {}
       },
@@ -1023,8 +1023,8 @@
       "id": "5ee9299c50a17d2ee2a069fc",
       "checkItemStates": null,
       "closed": false,
-      "dateLastActivity": "2020-06-16T20:24:28.412Z",
-      "desc": "- 1806 Cresta Blanca Farm / livermorevalley_1896.jpg\n- Prohibition / prohibitionagents.jpg\n- The Wente Family / wentefamily_1895.jpg",
+      "dateLastActivity": "2020-06-23T19:15:37.888Z",
+      "desc": "# Images\n- 1806 Cresta Blanca Farm / livermorevalley_1896.jpg\n- Prohibition / prohibitionagents.jpg\n- The Wente Family / wentefamily_1895.jpg",
       "descData": {
         "emoji": {}
       },
@@ -1033,11 +1033,11 @@
       "idList": "5ee928c9d92bb62c856f4393",
       "idMembersVoted": [],
       "idShort": 111,
-      "idAttachmentCover": "5ee92a7b48f83b3c4d127a1c",
+      "idAttachmentCover": null,
       "idLabels": [
         "5ee92a5350fecc59119ecf21"
       ],
-      "manualCoverAttachment": false,
+      "manualCoverAttachment": true,
       "name": "Triptych",
       "pos": 393215,
       "shortLink": "kHn74uit",
@@ -1079,68 +1079,11 @@
       "subscribed": false,
       "url": "https://trello.com/c/kHn74uit/111-triptych",
       "cover": {
-        "idAttachment": "5ee92a7b48f83b3c4d127a1c",
+        "idAttachment": null,
         "color": null,
         "idUploadedBackground": null,
         "size": "normal",
-        "brightness": "light",
-        "scaled": [
-          {
-            "_id": "5ee92a7c48f83b3c4d127a29",
-            "id": "5ee92a7c48f83b3c4d127a29",
-            "scaled": false,
-            "url": "https://trello-attachments.s3.amazonaws.com/5ee9299c50a17d2ee2a069fc/70x50/85d113fce2a1e0f72fda0fa74146cd3b/livermorevalley_1896.jpg",
-            "bytes": 1606,
-            "height": 50,
-            "width": 70
-          },
-          {
-            "_id": "5ee92a7c48f83b3c4d127a2a",
-            "id": "5ee92a7c48f83b3c4d127a2a",
-            "scaled": false,
-            "url": "https://trello-attachments.s3.amazonaws.com/5ee9299c50a17d2ee2a069fc/250x150/85d113fce2a1e0f72fda0fa74146cd3b/livermorevalley_1896.jpg",
-            "bytes": 13037,
-            "height": 150,
-            "width": 250
-          },
-          {
-            "_id": "5ee92a7c48f83b3c4d127a2b",
-            "id": "5ee92a7c48f83b3c4d127a2b",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5ee9299c50a17d2ee2a069fc/150x88/85d113fce2a1e0f72fda0fa74146cd3b/livermorevalley_1896.jpg",
-            "bytes": 4597,
-            "height": 88,
-            "width": 150
-          },
-          {
-            "_id": "5ee92a7c48f83b3c4d127a2c",
-            "id": "5ee92a7c48f83b3c4d127a2c",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5ee9299c50a17d2ee2a069fc/299x176/85d113fce2a1e0f72fda0fa74146cd3b/livermorevalley_1896.jpg",
-            "bytes": 16743,
-            "height": 176,
-            "width": 299
-          },
-          {
-            "_id": "5ee92a7c48f83b3c4d127a2d",
-            "id": "5ee92a7c48f83b3c4d127a2d",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5ee9299c50a17d2ee2a069fc/500x294/85d113fce2a1e0f72fda0fa74146cd3b/livermorevalley_1896.jpg",
-            "bytes": 35117,
-            "height": 294,
-            "width": 500
-          },
-          {
-            "_id": "5ee92a7c48f83b3c4d127a2e",
-            "id": "5ee92a7c48f83b3c4d127a2e",
-            "scaled": true,
-            "url": "https://trello-attachments.s3.amazonaws.com/5e59af05f9364e7b0d8e5e3c/5ee9299c50a17d2ee2a069fc/9568c4b0850251bdfcb8db8366377c4e/livermorevalley_1896.jpg",
-            "bytes": 47511,
-            "height": 294,
-            "width": 500
-          }
-        ],
-        "edgeColor": "#414141"
+        "brightness": "light"
       },
       "attachments": [
         {
@@ -1362,8 +1305,8 @@
       "id": "5ee929a3d27efd3b4793df21",
       "checkItemStates": null,
       "closed": false,
-      "dateLastActivity": "2020-06-16T20:23:24.973Z",
-      "desc": "#Text\n- Prohibition\n * During Prohibition, vineyards planted to white varieties were pulled up and the land was planted to durable cultivars that could better survive cross-continental transportation, such as Alicante Bouschet. In \"The Story of California Chardonnay,\" wine writer Elaine Chukan Brown notes that \"In the grape harvest report of 1930, total vineyard acreage in California was around 600,000 acres, with the statewide total of white grapes planted, across all varieties, being just 7,000 acres, consisting primarily of Riesling and Sémillon. Plantings of Chardonnay were so small that the variety was not recorded specifically\". By the end of Prohibition the Wente and Masson vineyards were the only substantial sources for Chardonnay budwood in California.",
+      "dateLastActivity": "2020-06-23T19:40:56.732Z",
+      "desc": "# Text\n- Prohibition\n * During Prohibition, vineyards planted to white varieties were pulled up and the land was planted to durable cultivars that could better survive cross-continental transportation, such as Alicante Bouschet. In \"The Story of California Chardonnay,\" wine writer Elaine Chukan Brown notes that \"In the grape harvest report of 1930, total vineyard acreage in California was around 600,000 acres, with the statewide total of white grapes planted, across all varieties, being just 7,000 acres, consisting primarily of Riesling and Sémillon. Plantings of Chardonnay were so small that the variety was not recorded specifically\". By the end of Prohibition the Wente and Masson vineyards were the only substantial sources for Chardonnay budwood in California.",
       "descData": {
         "emoji": {}
       },
@@ -1430,8 +1373,8 @@
       "id": "5ee929a97b58618057c70669",
       "checkItemStates": null,
       "closed": false,
-      "dateLastActivity": "2020-06-16T20:23:03.232Z",
-      "desc": "#Text\n- Chardonnay's Rise\n * After Prohibition, an insistence on varietal labeling by men like Frank Schoonmaker, the Wentes, and Martin Ray led to Chardonnay’s acknowledgment nationally as a distinct wine of value. \n  * The story of a private dinner in Rome, in 1960, during which Hanzell’s 1957 Chardonnay stood up to a 1955 Corton Charlemagne, circulated among California vintners, and after Zellerbach died, in 1963, winegrower Joseph Heitz purchased the last of his vintages at auction.  \n * Heitz’s acumen as a businessman and winemaker; the publication of the first volume of Julia Child’s book Mastering the Art of French Cooking, in 1961, with volume 2 following in 1970; and the Judgment of Paris were further fuel for Chardonnay’s rise. The rest, as they say, is history.\n\n# Image Caption\n- 1936 Wente Bros Chardonnay",
+      "dateLastActivity": "2020-06-23T19:41:02.895Z",
+      "desc": "# Text\n- Chardonnay's Rise\n * After Prohibition, an insistence on varietal labeling by men like Frank Schoonmaker, the Wentes, and Martin Ray led to Chardonnay’s acknowledgment nationally as a distinct wine of value. \n  * The story of a private dinner in Rome, in 1960, during which Hanzell’s 1957 Chardonnay stood up to a 1955 Corton Charlemagne, circulated among California vintners, and after Zellerbach died, in 1963, winegrower Joseph Heitz purchased the last of his vintages at auction.  \n * Heitz’s acumen as a businessman and winemaker; the publication of the first volume of Julia Child’s book Mastering the Art of French Cooking, in 1961, with volume 2 following in 1970; and the Judgment of Paris were further fuel for Chardonnay’s rise. The rest, as they say, is history.\n\n# Image Caption\n- 1936 Wente Bros Chardonnay",
       "descData": {
         "emoji": {}
       },

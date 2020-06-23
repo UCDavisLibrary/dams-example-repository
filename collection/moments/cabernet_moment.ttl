@@ -6,7 +6,7 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 @prefix ldp: <http://www.w3.org/ns/ldp#>.
 
-<#gM1hIO6x> schema:name "Entrypoint";
+<#gM1hIO6x> schema:name "Cabernet Sauvignon";
     schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
     schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
     a ucdlib:Story;
@@ -44,9 +44,21 @@
     schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
     schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
     a ucdlib:Story;
-    schema:thumbnail <RlhV8fYi/prohibitionwine.jpg>;
     schema:label "Story: Triptych";
-    a schema:WebPage.
+    a schema:WebPage;
+    schema:image [
+  a schema:ImageObject;
+  schema:caption "Prohibition";
+  schema:contentUrl "prohibitionwine.jpg"
+], [
+  a schema:ImageObject;
+  schema:caption "Inglenook Celebrates Prohibition’s End, 1933";
+  schema:contentUrl "1933-inglenook-endprohibition.jpg"
+], [
+  a schema:ImageObject;
+  schema:caption "Young Robert Mondavi and Family";
+  schema:contentUrl "mondavi-family.jpg"
+].
 <#Z4ZcOVTo> schema:name "Napa Valley Takes the Stage";
     schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
     schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;

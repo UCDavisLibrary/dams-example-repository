@@ -38,28 +38,44 @@
     schema:thumbnail <IJjHvYoq/stanlyranch.jpg>;
     schema:label "Story: Image / Text";
     a schema:WebPage;
-    schema:description "#Text\n\n#Image Caption".
+    schema:text "At the start of the 1960s there were only 300 acres of Chardonnay planted in all of California. Today the grape is planted to more than 100,000 acres.", "The California Chardonnay that wine writer Hugh Johnson describes in Vintage: The Story of Wine as having the “buttery, half-smoked aromas and flavours that had … spelt only Meursault, Montrachet, and Corton-Charlemagne” didn’t have a well-defined presence in California until after Joseph Heitz bought, blended, and sold James D. Zellerbach’s last vintages, and showed that California could produce wine that would stand up to top white Burgundies.", "Timing, skill, doggedness, a knack for promotion, and the Judgment of Paris propelled Heitz’s Chardonnays into an international arena, but the stage for Chardonnay’s rise in California had been set decades before Prohibition, in Livermore, by a group of immigrant winemakers and a San Franciscan whose dry white wine won California’s first international wine award at the 1889 Paris Exposition.";
+    schema:headline "From 300 Acres to 100,000", "Stanley Ranch Vineyards";
+    schema:description "#Image Caption".
 <#hfVKhXmn> schema:name "Chardonnay Comes to California";
     schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
     schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
     a ucdlib:Story;
     schema:label "Story: Text";
     a schema:WebPage;
-    schema:description "#Text".
+    schema:text "Chardonnay’s presence among early California wines is hard to trace due to the absence of varietal labeling before the 1930s, variations on the grape’s spelling, and mistakes in identification. It wasn’t uncommon for Chardonnay to be mistaken for Pinot Blanc and Melon de Bourgogne.", "The grape’s stateside story begins to come into focus in 1882, when Charles Wetmore imported budwood from Meursault and established his Cresta Blanca vineyard in Livermore. Chardonnay roots developed in Livermore nurseries and vineyards as well as in the Santa Cruz Mountains, where Livermore winegrower Paul Masson planted a second vineyard to Pinot Noir and Chardonnay, using cuttings from Burgundy purportedly from the vineyards of winegrower Louis Latour.";
+    schema:headline "Chardonnay Comes to California".
 <#kHn74uit> schema:name "Triptych";
     schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
     schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
     a ucdlib:Story;
-    schema:thumbnail <kHn74uit/livermorevalley_1896.jpg>;
     schema:label "Story: Triptych";
-    a schema:WebPage.
+    a schema:WebPage;
+    schema:image [
+  a schema:ImageObject;
+  schema:caption "1806 Cresta Blanca Farm";
+  schema:contentUrl "livermorevalley_1896.jpg"
+], [
+  a schema:ImageObject;
+  schema:caption "Prohibition";
+  schema:contentUrl "prohibitionagents.jpg"
+], [
+  a schema:ImageObject;
+  schema:caption "The Wente Family";
+  schema:contentUrl "wentefamily_1895.jpg"
+].
 <#ee1CkaUk> schema:name "Prohibition";
     schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
     schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
     a ucdlib:Story;
     schema:label "Story: Text";
     a schema:WebPage;
-    schema:description "#Text".
+    schema:text "During Prohibition, vineyards planted to white varieties were pulled up and the land was planted to durable cultivars that could better survive cross-continental transportation, such as Alicante Bouschet. In \"The Story of California Chardonnay,\" wine writer Elaine Chukan Brown notes that \"In the grape harvest report of 1930, total vineyard acreage in California was around 600,000 acres, with the statewide total of white grapes planted, across all varieties, being just 7,000 acres, consisting primarily of Riesling and Sémillon. Plantings of Chardonnay were so small that the variety was not recorded specifically\". By the end of Prohibition the Wente and Masson vineyards were the only substantial sources for Chardonnay budwood in California.";
+    schema:headline "Prohibition".
 <#VQXiakyP> schema:name "Chardonnay's Rise";
     schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
     schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
@@ -67,7 +83,8 @@
     schema:thumbnail <VQXiakyP/wentechardonnay_1936_cropped.jpg>;
     schema:label "Story: Text / Image";
     a schema:WebPage;
-    schema:description "#Text";
+    schema:text "After Prohibition, an insistence on varietal labeling by men like Frank Schoonmaker, the Wentes, and Martin Ray led to Chardonnay’s acknowledgment nationally as a distinct wine of value.", "The story of a private dinner in Rome, in 1960, during which Hanzell’s 1957 Chardonnay stood up to a 1955 Corton Charlemagne, circulated among California vintners, and after Zellerbach died, in 1963, winegrower Joseph Heitz purchased the last of his vintages at auction.", "Heitz’s acumen as a businessman and winemaker; the publication of the first volume of Julia Child’s book Mastering the Art of French Cooking, in 1961, with volume 2 following in 1970; and the Judgment of Paris were further fuel for Chardonnay’s rise. The rest, as they say, is history.";
+    schema:headline "Chardonnay's Rise";
     schema:caption "1936 Wente Bros Chardonnay".
 <#qQwEGLtX> schema:name "Sources";
     schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;

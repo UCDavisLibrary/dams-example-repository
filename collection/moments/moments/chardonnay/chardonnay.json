@@ -8,225 +8,240 @@
   }, {
     "@id" : "_:b1",
     "@type" : "schema:Place",
-    "schema:latitude" : 38.602589,
-    "schema:longitude" : -122.597829,
-    "name" : "Chateau+Montelena+Winery"
-  }, {
-    "@id" : "_:b10",
-    "@type" : "schema:Place",
     "schema:latitude" : 34.0206842,
     "schema:longitude" : -118.551814,
     "name" : "Los+Angeles,+CA"
   }, {
-    "@id" : "_:b11",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.538174,
-    "schema:longitude" : -122.50799,
-    "name" : "38°32'17.4\"N+122°30'28.8\"W"
-  }, {
-    "@id" : "_:b12",
-    "@type" : "schema:Place",
-    "schema:latitude" : 48.8689261,
-    "schema:longitude" : 2.3233234,
-    "name" : "48°52'08.5\"N+2°19'23.9\"E"
-  }, {
-    "@id" : "_:b13",
-    "@type" : "schema:Place",
-    "schema:latitude" : 44.9625003,
-    "schema:longitude" : -93.2830283,
-    "name" : "44°57'59.2\"N+93°14'42.0\"W"
-  }, {
-    "@id" : "_:b14",
-    "@type" : "schema:Place",
-    "schema:latitude" : 46.7319225,
-    "schema:longitude" : -117.1542121,
-    "name" : "Washington+State+University"
-  }, {
-    "@id" : "_:b15",
-    "@type" : "schema:Place",
-    "schema:latitude" : 43.6669249,
-    "schema:longitude" : -70.3515984,
-    "name" : "Portland,+ME"
-  }, {
-    "@id" : "_:b16",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.3992276,
-    "schema:longitude" : -122.3257286,
-    "name" : "Stag's+Leap+Wine+Cellars"
-  }, {
-    "@id" : "_:b17",
-    "@type" : "schema:Place",
-    "schema:latitude" : 37.6803633,
-    "schema:longitude" : -121.8423991,
-    "name" : "Livermore,+CA"
-  }, {
-    "@id" : "_:b18",
-    "@type" : "schema:Place",
-    "schema:latitude" : 37.6803788,
-    "schema:longitude" : -121.8073785,
-    "name" : "Livermore,+CA"
-  }, {
-    "@id" : "_:b19",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.5131796,
-    "schema:longitude" : -122.43461,
-    "name" : "Heitz+Cellar"
-  }, {
-    "@id" : "_:b2",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.2910881,
-    "schema:longitude" : -122.484119,
-    "name" : "Sonoma,+CA+95476"
-  }, {
-    "@id" : "_:b20",
-    "@type" : "schema:Place",
-    "schema:latitude" : 52.3161376,
-    "schema:longitude" : 10.0930296,
-    "name" : "Peine,+Germany"
-  }, {
-    "@id" : "_:b21",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.5353034,
-    "schema:longitude" : -121.7926782,
-    "name" : "38°32'07.1\"N+121°47'33.6\"W"
-  }, {
-    "@id" : "_:b22",
-    "@type" : "schema:Place",
-    "schema:latitude" : 37.664235,
-    "schema:longitude" : -121.725368,
-    "name" : "Wente+Estate+Tasting+Room+&+Winemakers+Studio"
-  }, {
-    "@id" : "_:b23",
-    "@type" : "schema:Place",
-    "schema:latitude" : 52.3795836,
-    "schema:longitude" : 9.6213892,
-    "name" : "Hanover,+Germany"
-  }, {
-    "@id" : "_:b24",
-    "@type" : "schema:Place",
-    "schema:latitude" : 37.7576171,
-    "schema:longitude" : -122.5776844,
-    "name" : "San+Francisco,+CA"
-  }, {
-    "@id" : "_:b25",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.534879,
-    "schema:longitude" : -121.790775,
-    "name" : "Foundation+Plant+Services"
-  }, {
-    "@id" : "_:b26",
-    "@type" : "schema:Place",
-    "schema:latitude" : 46.9788437,
-    "schema:longitude" : 4.7710953,
-    "name" : "46°58'44.0\"N+4°46'16.0\"E"
-  }, {
-    "@id" : "_:b27",
-    "@type" : "schema:Place",
-    "schema:latitude" : 37.6803633,
-    "schema:longitude" : -121.8423991,
-    "name" : "Livermore,+CA"
-  }, {
-    "@id" : "_:b28",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.2859417,
-    "schema:longitude" : -122.3599982,
-    "name" : "Napa,+CA"
-  }, {
-    "@id" : "_:b29",
-    "@type" : "schema:Place",
-    "schema:latitude" : 37.783333,
-    "schema:longitude" : -122.416667,
-    "name" : "37°47'00.0\"N+122°25'00.0\"W"
-  }, {
-    "@id" : "_:b3",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.5314179,
-    "schema:longitude" : -122.4324827,
-    "name" : "Heitz+Cellar"
-  }, {
-    "@id" : "_:b30",
-    "@type" : "schema:Place",
-    "schema:latitude" : 37.664293,
-    "schema:longitude" : -121.725443,
-    "name" : "Wente+Estate+Tasting+Room+&+Winemakers+Studio"
-  }, {
-    "@id" : "_:b31",
-    "@type" : "schema:Place",
-    "schema:latitude" : 39.729881,
-    "schema:longitude" : -75.5995244,
-    "name" : "Wilmington,+DE"
-  }, {
-    "@id" : "_:b32",
-    "@type" : "schema:Place",
-    "schema:latitude" : 41.8504442,
-    "schema:longitude" : 11.9545331,
-    "name" : "Metropolitan+City+of+Rome,+Italy"
-  }, {
-    "@id" : "_:b33",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.8935128,
-    "schema:longitude" : -77.1546602,
-    "name" : "Washington,+DC"
-  }, {
-    "@id" : "_:b34",
-    "@type" : "schema:Place",
-    "schema:latitude" : 43.6249034,
-    "schema:longitude" : 3.8819719,
-    "name" : "43°36'12.0\"N+3°53'56.7\"E"
-  }, {
-    "@id" : "_:b35",
-    "@type" : "schema:Place",
-    "schema:latitude" : 37.664235,
-    "schema:longitude" : -121.725368,
-    "name" : "Wente+Estate+Tasting+Room+&+Winemakers+Studio"
-  }, {
-    "@id" : "_:b36",
-    "@type" : "schema:Place",
-    "schema:latitude" : 37.6236829,
-    "schema:longitude" : -121.7567356,
-    "name" : "37°37'25.2\"N+121°45'24.1\"W"
-  }, {
-    "@id" : "_:b37",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.3123887,
-    "schema:longitude" : -122.464073,
-    "name" : "Hanzell+Vineyards+(tours+and+tastings+by+appointment+only)"
-  }, {
-    "@id" : "_:b4",
-    "@type" : "schema:Place",
-    "schema:latitude" : 42.8962336,
-    "schema:longitude" : -78.8994615,
-    "name" : "Buffalo,+NY"
-  }, {
-    "@id" : "_:b5",
-    "@type" : "schema:Place",
-    "schema:latitude" : 41.8333925,
-    "schema:longitude" : -88.0121478,
-    "name" : "Chicago,+IL"
-  }, {
-    "@id" : "_:b6",
+    "@id" : "_:b10",
     "@type" : "schema:Place",
     "schema:latitude" : 38.5331246,
     "schema:longitude" : -121.7528637,
     "name" : "Department+of+Viticulture+and+Enology"
   }, {
-    "@id" : "_:b7",
+    "@id" : "_:b11",
+    "@type" : "schema:Place",
+    "schema:latitude" : 43.6669249,
+    "schema:longitude" : -70.3515984,
+    "name" : "Portland,+ME"
+  }, {
+    "@id" : "_:b12",
     "@type" : "schema:Place",
     "schema:latitude" : 51.5285582,
     "schema:longitude" : -0.2416795,
     "name" : "London,+UK"
   }, {
-    "@id" : "_:b8",
+    "@id" : "_:b13",
     "@type" : "schema:Place",
     "schema:latitude" : 37.7942183,
     "schema:longitude" : -122.4050384,
     "name" : "526+Montgomery+St,+San+Francisco,+CA+94111"
   }, {
-    "@id" : "_:b9",
+    "@id" : "_:b14",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.2859417,
+    "schema:longitude" : -122.3599982,
+    "name" : "Napa,+CA"
+  }, {
+    "@id" : "_:b15",
+    "@type" : "schema:Place",
+    "schema:latitude" : 43.6249034,
+    "schema:longitude" : 3.8819719,
+    "name" : "43°36'12.0\"N+3°53'56.7\"E"
+  }, {
+    "@id" : "_:b16",
     "@type" : "schema:Place",
     "schema:latitude" : 38.2216616,
     "schema:longitude" : -122.1155372,
     "name" : "37°53'47.7\"N+122°01'48.2\"W"
+  }, {
+    "@id" : "_:b17",
+    "@type" : "schema:Place",
+    "schema:latitude" : 37.664235,
+    "schema:longitude" : -121.725368,
+    "name" : "Wente+Estate+Tasting+Room+&+Winemakers+Studio"
+  }, {
+    "@id" : "_:b18",
+    "@type" : "schema:Place",
+    "schema:latitude" : 48.8689261,
+    "schema:longitude" : 2.3233234,
+    "name" : "48°52'08.5\"N+2°19'23.9\"E"
+  }, {
+    "@id" : "_:b19",
+    "@type" : "schema:Place",
+    "schema:latitude" : 44.9625003,
+    "schema:longitude" : -93.2830283,
+    "name" : "44°57'59.2\"N+93°14'42.0\"W"
+  }, {
+    "@id" : "_:b2",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.602589,
+    "schema:longitude" : -122.597829,
+    "name" : "Chateau+Montelena+Winery"
+  }, {
+    "@id" : "_:b20",
+    "@type" : "schema:Place",
+    "schema:latitude" : 46.7319225,
+    "schema:longitude" : -117.1542121,
+    "name" : "Washington+State+University"
+  }, {
+    "@id" : "_:b21",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.3992276,
+    "schema:longitude" : -122.3257286,
+    "name" : "Stag's+Leap+Wine+Cellars"
+  }, {
+    "@id" : "_:b22",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.538174,
+    "schema:longitude" : -122.50799,
+    "name" : "38°32'17.4\"N+122°30'28.8\"W"
+  }, {
+    "@id" : "_:b23",
+    "@type" : "schema:Place",
+    "schema:latitude" : 37.6803633,
+    "schema:longitude" : -121.8423991,
+    "name" : "Livermore,+CA"
+  }, {
+    "@id" : "_:b24",
+    "@type" : "schema:Place",
+    "schema:latitude" : 37.6803788,
+    "schema:longitude" : -121.8073785,
+    "name" : "Livermore,+CA"
+  }, {
+    "@id" : "_:b25",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.5131796,
+    "schema:longitude" : -122.43461,
+    "name" : "Heitz+Cellar"
+  }, {
+    "@id" : "_:b26",
+    "@type" : "schema:ImageObject",
+    "caption" : "Prohibition",
+    "contentUrl" : "prohibitionagents.jpg"
+  }, {
+    "@id" : "_:b27",
+    "@type" : "schema:Place",
+    "schema:latitude" : 37.783333,
+    "schema:longitude" : -122.416667,
+    "name" : "37°47'00.0\"N+122°25'00.0\"W"
+  }, {
+    "@id" : "_:b28",
+    "@type" : "schema:Place",
+    "schema:latitude" : 37.664293,
+    "schema:longitude" : -121.725443,
+    "name" : "Wente+Estate+Tasting+Room+&+Winemakers+Studio"
+  }, {
+    "@id" : "_:b29",
+    "@type" : "schema:Place",
+    "schema:latitude" : 37.6236829,
+    "schema:longitude" : -121.7567356,
+    "name" : "37°37'25.2\"N+121°45'24.1\"W"
+  }, {
+    "@id" : "_:b3",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.5353034,
+    "schema:longitude" : -121.7926782,
+    "name" : "38°32'07.1\"N+121°47'33.6\"W"
+  }, {
+    "@id" : "_:b30",
+    "@type" : "schema:ImageObject",
+    "caption" : "The Wente Family",
+    "contentUrl" : "wentefamily_1895.jpg"
+  }, {
+    "@id" : "_:b31",
+    "@type" : "schema:ImageObject",
+    "caption" : "1806 Cresta Blanca Farm",
+    "contentUrl" : "livermorevalley_1896.jpg"
+  }, {
+    "@id" : "_:b32",
+    "@type" : "schema:Place",
+    "schema:latitude" : 37.7576171,
+    "schema:longitude" : -122.5776844,
+    "name" : "San+Francisco,+CA"
+  }, {
+    "@id" : "_:b33",
+    "@type" : "schema:Place",
+    "schema:latitude" : 41.8504442,
+    "schema:longitude" : 11.9545331,
+    "name" : "Metropolitan+City+of+Rome,+Italy"
+  }, {
+    "@id" : "_:b34",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.8935128,
+    "schema:longitude" : -77.1546602,
+    "name" : "Washington,+DC"
+  }, {
+    "@id" : "_:b35",
+    "@type" : "schema:Place",
+    "schema:latitude" : 52.3795836,
+    "schema:longitude" : 9.6213892,
+    "name" : "Hanover,+Germany"
+  }, {
+    "@id" : "_:b36",
+    "@type" : "schema:Place",
+    "schema:latitude" : 39.729881,
+    "schema:longitude" : -75.5995244,
+    "name" : "Wilmington,+DE"
+  }, {
+    "@id" : "_:b37",
+    "@type" : "schema:Place",
+    "schema:latitude" : 46.9788437,
+    "schema:longitude" : 4.7710953,
+    "name" : "46°58'44.0\"N+4°46'16.0\"E"
+  }, {
+    "@id" : "_:b38",
+    "@type" : "schema:Place",
+    "schema:latitude" : 52.3161376,
+    "schema:longitude" : 10.0930296,
+    "name" : "Peine,+Germany"
+  }, {
+    "@id" : "_:b39",
+    "@type" : "schema:Place",
+    "schema:latitude" : 37.664235,
+    "schema:longitude" : -121.725368,
+    "name" : "Wente+Estate+Tasting+Room+&+Winemakers+Studio"
+  }, {
+    "@id" : "_:b4",
+    "@type" : "schema:Place",
+    "schema:latitude" : 41.8333925,
+    "schema:longitude" : -88.0121478,
+    "name" : "Chicago,+IL"
+  }, {
+    "@id" : "_:b40",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.2910881,
+    "schema:longitude" : -122.484119,
+    "name" : "Sonoma,+CA+95476"
+  }, {
+    "@id" : "_:b5",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.3123887,
+    "schema:longitude" : -122.464073,
+    "name" : "Hanzell+Vineyards+(tours+and+tastings+by+appointment+only)"
+  }, {
+    "@id" : "_:b6",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.5314179,
+    "schema:longitude" : -122.4324827,
+    "name" : "Heitz+Cellar"
+  }, {
+    "@id" : "_:b7",
+    "@type" : "schema:Place",
+    "schema:latitude" : 42.8962336,
+    "schema:longitude" : -78.8994615,
+    "name" : "Buffalo,+NY"
+  }, {
+    "@id" : "_:b8",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.534879,
+    "schema:longitude" : -121.790775,
+    "name" : "Foundation+Plant+Services"
+  }, {
+    "@id" : "_:b9",
+    "@type" : "schema:Place",
+    "schema:latitude" : 37.6803633,
+    "schema:longitude" : -121.8423991,
+    "name" : "Livermore,+CA"
   }, {
     "@id" : "0Q51kLkB",
     "@type" : [ "ucdlib:founded", "schema:significantLinks" ],
@@ -303,8 +318,8 @@
     "relatedLink" : [ "http://pdf.oac.cdlib.org/pdf/ucdavis/spcoll/o041_cuvh.pdf", "http://iv.ucdavis.edu/files/24489.pdf" ],
     "schema:relatedLink" : "hhttps://babel.hathitrust.org/cgi/pt?id=uc1.31175004070648&view=1up&seq=9",
     "relatedLinkText" : [ "FPS Newsletter: Chardonnay History and Selections at FPS", "Vine Nurseries; Illustrated Catalog", "Inventory of the International Nursery and Seed Catalog Collection O-041 (including catalog from Richter, F. Vine Nursery)" ],
+    "spatial" : "_:b15",
     "schema:spatial" : "Montpellier, France",
-    "spatial" : "_:b34",
     "temporal" : "circa 1912",
     "thumbnail" : "z:1zykVMmW/montpellier.png",
     "ACMhcFkv_rev" : "o6X0ntCy",
@@ -355,7 +370,7 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://pullthatcork.com/2017/wente-vineyards-chardonnay/", "https://grapecollective.com/articles/how-the-wente-chardonnay-clone-became-americas-choice" ],
     "relatedLinkText" : [ "Wente Vineyards: A Celebration of Chardonnay and #ChardonnayDay", "How the Wente Chardonnay Clone Became America's Choice" ],
-    "spatial" : "_:b35",
+    "spatial" : "_:b39",
     "schema:spatial" : "Livermore, California",
     "temporal" : "1946",
     "thumbnail" : "z:3VZas2z9/chardonnay-grapes-hanzell.jpg",
@@ -406,7 +421,7 @@
     "relatedLink" : [ "https://www.stonyhillvineyard.com/About/Our-Story", "https://napavalleyregister.com/wine/the-accidental-pioneers/article_bd90269c-879c-11e2-aab6-001a4bcf887a.html", "https://robbreport.com/food-drink/spirits/stony-hill-and-triumph-terroir-over-time-243773/", "https://ohc-search.lib.berkeley.edu/catalog/MASTER_686", "https://www.forbes.com/sites/katiebell/2013/07/06/swim-against-the-mainstream-drink-stony-hill-wines/#3aae66127349" ],
     "relatedLinkText" : [ "Swim Against the Mainstream and Drink Stony Hill Wines", "Stony Hill and the Triumph of Terroir Over Time", "The Accidental Pioneers", "Stony Hill Vineyards: The Creation of a Napa Valley Estate Winery", "Stony Hill Vineyard: Our Story" ],
     "schema:spatial" : "St. Helena, California",
-    "spatial" : "_:b11",
+    "spatial" : "_:b22",
     "temporal" : "1948/present",
     "thumbnail" : "z:4TOdI5mk/stony-hill.jpg",
     "43uVA3uZ_rev" : "ME09Pv74",
@@ -544,7 +559,7 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.ucdavis.edu/news/harold-olmo-pioneering-wine-grape-scientist-and-other-obituaries/", "https://search.library.ucdavis.edu/permalink/f/f5oast/01UCD_ALMA21238926140003126", "https://ohc-search.lib.berkeley.edu/catalog/MASTER_292", "https://www.nytimes.com/2006/07/12/us/12olmo.html", "http://iv.ucdavis.edu/files/24489.pdf" ],
     "relatedLinkText" : [ "Plant genetics and new grape varieties : transcript, 1973", "Harold P. Olmo Papers", "Harold Olmo, 96, Who Created Many Grape Varieties, Is Dead", "Harold Olmo: Pioneering wine, grape scientist, and other obituaries", "Foundation Plant Services FPS Grape Program Newsletter November 2007: Chardonnay History and Selections at FPS" ],
-    "spatial" : "_:b24",
+    "spatial" : "_:b32",
     "schema:spatial" : "San Francisco, California",
     "temporal" : "1906/2006",
     "thumbnail" : "z:AmICYFc4/harold-olmo.jpg",
@@ -565,7 +580,7 @@
     "relatedLink" : "https://www.nytimes.com/1981/10/25/obituaries/ernest-a-wente-91-california-winemaker.html",
     "relatedLinkText" : "Ernest A. Wente, 91, California Winemaker",
     "schema:spatial" : "Livermore, California",
-    "spatial" : "_:b18",
+    "spatial" : "_:b24",
     "temporal" : "1890/1981",
     "thumbnail" : "z:BZrIPisp/ernest-wente.jpg",
     "3MroRLtc" : "HSu79Z8N",
@@ -607,8 +622,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.heitzcellar.com/#1961", "https://en.wikipedia.org/wiki/Heitz_Wine_Cellars" ],
     "relatedLinkText" : [ "Heitz Cellar", "Heitz Wine Cellars" ],
-    "spatial" : "_:b19",
     "schema:spatial" : "St. Helena, California",
+    "spatial" : "_:b25",
     "temporal" : "1961/present",
     "thumbnail" : "z:Ci29VDRY/heitz-cellar.jpg",
     "0Q51kLkB_rev" : "1iDZI50s",
@@ -648,7 +663,7 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://en.wikipedia.org/wiki/Morrill_Cody",
     "relatedLinkText" : "Morrill Cody",
-    "spatial" : "_:b32",
+    "spatial" : "_:b33",
     "schema:spatial" : "Rome, Italy",
     "temporal" : "September 26, 1960",
     "thumbnail" : "z:EjURVomf/diplodin.jpg",
@@ -698,8 +713,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://fps.ucdavis.edu/grapebook/winebook.cfm?chap=FPSEstablished", "https://winefolly.com/update/the-roots-of-californias-heritage-vines/", "http://iv.ucdavis.edu/files/24489.pdf" ],
     "relatedLinkText" : [ "Tracing the Roots of California’s Heritage Wines", "FPS Newsletter: Chardonnay History and Selections at FPS", "The Origin of Foundation Plant Services" ],
+    "spatial" : "_:b20",
     "schema:spatial" : "Washington State University (PhD conferred)",
-    "spatial" : "_:b14",
     "temporal" : "~1950 (PhD conferred)",
     "thumbnail" : "z:Fc2EIKDK/goheen.jpg",
     "1OkSrpl8" : "hmnI79DX",
@@ -718,7 +733,7 @@
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Chateau_Montelena", "https://montelena.com/winery" ],
     "relatedLinkText" : [ "The Chateau", "Chateau Montelena" ],
     "schema:spatial" : "Calistoga, California",
-    "spatial" : "_:b1",
+    "spatial" : "_:b2",
     "temporal" : "1882/Present",
     "thumbnail" : "z:G2ZGqFOW/chateau-montelena.jpg",
     "CfHGKWM5_rev" : "M0Md2DCd",
@@ -746,7 +761,7 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://napavalleyregister.com/wine/the-accidental-pioneers/article_bd90269c-879c-11e2-aab6-001a4bcf887a.html", "https://grapecollective.com/articles/stony-hills-cult-chardonnay-and-napas-longest-tenured-winemaker", "https://ohc-search.lib.berkeley.edu/catalog/MASTER_686" ],
     "relatedLinkText" : [ "Stony Hill's Cult Chardonnay and Napa's Longest Tenured Winemaker", "The Accidental Pioneers", "Stony Hill Vineyards: The Creation of a Napa Valley Estate Winery" ],
-    "spatial" : "_:b13",
+    "spatial" : "_:b19",
     "schema:spatial" : "Minneapolis, Minnesota",
     "temporal" : "unknown/1977",
     "thumbnail" : "z:HSu79Z8N/mccrea-eleanor-fred.jpg",
@@ -768,12 +783,14 @@
     "name" : "derived from"
   }, {
     "@id" : "IJjHvYoq",
-    "@type" : [ "schema:WebPage", "ucdlib:Story" ],
-    "description" : "#Text\n\n#Image Caption",
+    "@type" : [ "ucdlib:Story", "schema:WebPage" ],
+    "description" : "#Image Caption",
+    "headline" : [ "From 300 Acres to 100,000", "Stanley Ranch Vineyards" ],
     "label" : "Story: Image / Text",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "From 300 Acres to 100,000",
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
+    "text" : [ "At the start of the 1960s there were only 300 acres of Chardonnay planted in all of California. Today the grape is planted to more than 100,000 acres.", "The California Chardonnay that wine writer Hugh Johnson describes in Vintage: The Story of Wine as having the “buttery, half-smoked aromas and flavours that had … spelt only Meursault, Montrachet, and Corton-Charlemagne” didn’t have a well-defined presence in California until after Joseph Heitz bought, blended, and sold James D. Zellerbach’s last vintages, and showed that California could produce wine that would stand up to top white Burgundies.", "Timing, skill, doggedness, a knack for promotion, and the Judgment of Paris propelled Heitz’s Chardonnays into an international arena, but the stage for Chardonnay’s rise in California had been set decades before Prohibition, in Livermore, by a group of immigrant winemakers and a San Franciscan whose dry white wine won California’s first international wine award at the 1889 Paris Exposition." ],
     "thumbnail" : "z:IJjHvYoq/stanlyranch.jpg"
   }, {
     "@id" : "IShCL2dT",
@@ -787,7 +804,7 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.starmontwinery.com/vineyard/stanly-ranch/", "http://iv.ucdavis.edu/files/24489.pdf" ],
     "relatedLinkText" : [ "Our Story: Stanly Ranch", "Foundation Plant Services FPS Grape Program Newsletter November 2007: Chardonnay History and Selections at FPS" ],
-    "spatial" : "_:b21",
+    "spatial" : "_:b3",
     "schema:spatial" : "Davis, California",
     "temporal" : "1969",
     "thumbnail" : "z:IShCL2dT/index_plants_harden_off.jpg",
@@ -809,16 +826,16 @@
   }, {
     "@id" : "J3wlnzDW",
     "@type" : [ "schema:WebPage", "schema:Place" ],
-    "creator" : [ {
+    "creator" : [ "University of California", {
       "@id" : "https://www.universityofcalifornia.edu/news/california-food-wine"
-    }, "University of California" ],
+    } ],
     "description" : "On April 15, 1880, the California Legislature mandated viticultural research by the University of California. In September 1906 the University took possession of land near Davisville (later renamed Davis). The first instruction began with 40 students in 1908. Viticultural work began soon after.\n\n The current Viticulture and Enology Department dates from 1935. The first department chair was Albert Winker. His first hire was Harold Olmo. \nUC Davis became a separate UC campus in 1959, prior to that it was the farm for UC Berkeley. At this time grape growing and wine making research, which till this time had been conducted on both the Berkeley and Davis campuses, was transferred to UC Davis alone.\n\n The Department of Viticulture & Enology is unique in that it combines the grape aspects of pomology and the wine fermentation aspects of food science into one department. The Department is also unique in that it has prime grape growing land for faculty and student use, located in the To Kalon region of the Oakville AVA in Napa County, California.\n\n The Viticulture & Enology Department at UC Davis is ranked among the very best in the world. UC Davis was ranked 28th among all universities in the United States and 13th among public U.S. universities. It is also ranked 2nd in the world in agricultural research.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "UC Davis Viticulture & Enology Department",
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://wineserver.ucdavis.edu/", "https://www.library.ucdavis.edu/alumni-friends/areas-to-support/collections-academic-disciplines/wine/", "https://en.wikipedia.org/wiki/University_of_California,_Davis" ],
     "relatedLinkText" : [ "Inside the ‘Greatest Wine Library in the World’", "University of California, Davis", "UC Davis Viticulture & Enology" ],
-    "spatial" : "_:b6",
+    "spatial" : "_:b10",
     "schema:spatial" : "Davis, California",
     "temporal" : "1906/present",
     "thumbnail" : "z:J3wlnzDW/ucd-vineyards.jpg",
@@ -870,7 +887,7 @@
     "relatedLink" : [ "https://montelena.com/winery/history", "https://www.winespectator.com/articles/chateau-montelena-owner-jim-barrett-dies-at-86-48165", "https://www.thedrinksbusiness.com/2013/03/chateau-montelena-owner-jim-barrett-dies/" ],
     "relatedLinkText" : [ "Chateau Montelena Owner Jim Barrett Dies at 86", "Chateau Montelena Owner Jim Barrett Dies", "Chateau Montelena Winery: History" ],
     "schema:spatial" : "Los Angeles, California",
-    "spatial" : "_:b10",
+    "spatial" : "_:b1",
     "temporal" : "1926/2013",
     "thumbnail" : "z:M0Md2DCd/jim-barrett.jpg",
     "CfHGKWM5" : "G2ZGqFOW"
@@ -887,7 +904,7 @@
     "relatedLink" : [ "https://napavalleyregister.com/wine/the-accidental-pioneers/article_bd90269c-879c-11e2-aab6-001a4bcf887a.html", "https://grapecollective.com/articles/stony-hills-cult-chardonnay-and-napas-longest-tenured-winemaker", "https://ohc-search.lib.berkeley.edu/catalog/MASTER_686" ],
     "relatedLinkText" : [ "Stony Hill's Cult Chardonnay and Napa's Longest Tenured Winemaker", "The Accidental Pioneers", "Stony Hill Vineyards: The Creation of a Napa Valley Estate Winery" ],
     "schema:spatial" : "Buffalo, New York",
-    "spatial" : "_:b4",
+    "spatial" : "_:b7",
     "temporal" : "1907/1991",
     "thumbnail" : "z:ME09Pv74/mccrea-eleanor-fred.jpg",
     "43uVA3uZ" : "4TOdI5mk",
@@ -904,8 +921,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://wentevineyards.com/wines/135th-anniversary-celebratory-chardonnay", "https://www.amazon.com/Makers-American-Wine-Record-Hundred/dp/0520269535" ],
     "relatedLinkText" : [ "135th Anniversary Celebratory Chardonnay", "The Makers of American Wine: A Record of Two Hundred Years" ],
-    "spatial" : "_:b30",
     "schema:spatial" : "Livermore, California",
+    "spatial" : "_:b28",
     "temporal" : "1936",
     "thumbnail" : "z:NAt6jyUG/1936-wente-chardonnay.jpg",
     "7ykGrofT_rev" : "z8de3Nov"
@@ -921,8 +938,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Stag%27s_Leap_Wine_Cellars", "https://www.stagsleapwinecellars.com/our-story/history" ],
     "relatedLinkText" : [ "Stag's Leap Wine Cellars: Our History", "Stag's Leap Wine Cellars" ],
-    "spatial" : "_:b16",
     "schema:spatial" : "Napa, California",
+    "spatial" : "_:b21",
     "temporal" : "1970/present",
     "thumbnail" : "z:OCiOWKY0/stagsleapwc.jpg",
     "JQ4H0pBJ" : "iPp7dt7A",
@@ -962,7 +979,7 @@
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Warren_Winiarski", "https://www.sfgate.com/bayarea/article/NAPA-VALLEY-STUNNER-FAMED-WINERY-SOLD-Vintner-3416127.php", "https://www.californiamuseum.org/inductee/warren-winiarski", "https://www.sacbee.com/food-drink/wine/dunne-on-wine/article102135322.html" ],
     "relatedLinkText" : [ "California Hall of Fame: Warren Winiarski", "Warren Winiarski", "Warren Winiarski reflects on half a century of making wine in California", "Napa Valley Stunner – Famed Winery Sold" ],
     "schema:spatial" : "Chicago, Illinois",
-    "spatial" : "_:b5",
+    "spatial" : "_:b4",
     "temporal" : "1928/present",
     "thumbnail" : "z:PiJy9bsb/warren-winiarski.jpg",
     "PbitxomB" : "OCiOWKY0"
@@ -977,7 +994,7 @@
     "relatedLink" : [ "https://www.decanter.com/author/stevenspurrier/", "https://www.oregonwinepress.com/q-and-a-steven-spurrier", "https://en.wikipedia.org/wiki/Steven_Spurrier_(wine_merchant)" ],
     "relatedLinkText" : [ "Q&A: Steven Spurrier", "Steven Spurrier (wine merchant)", "Decanter Author Archives for Steven Spurrier" ],
     "schema:spatial" : "London, United Kingdom",
-    "spatial" : "_:b7",
+    "spatial" : "_:b12",
     "temporal" : "1941/present",
     "thumbnail" : "z:Q9r4xbT0/spurrier.jpg",
     "EMtTbOwZ_rev" : "p0LaSTD3",
@@ -994,7 +1011,7 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.sfgate.com/news/article/Louis-P-Martini-Napa-Valley-Winemaker-2989663.php", "https://digitalassets.lib.berkeley.edu/roho/ucb/text/martini_louis_m_and_louis_p__w.pdf", "https://napavalleyregister.com/community/star/news/years-of-history-at-louis-m-martini-winery/article_f2ada8ab-d828-555f-aa50-e41a726d89ca.html" ],
     "relatedLinkText" : [ "Years of History at Louis M. Martini Winery", "Louis P. Martini: Wine Making in the Napa Valley (Oral History)", "Louis P. Martini: Napa Valley Winemaker" ],
-    "spatial" : "_:b27",
+    "spatial" : "_:b9",
     "schema:spatial" : "Livermore, California",
     "temporal" : "1918/1998",
     "thumbnail" : "z:RGxYAicG/martini-louis-p2.jpg",
@@ -1058,13 +1075,14 @@
     "name" : "married"
   }, {
     "@id" : "VQXiakyP",
-    "@type" : [ "schema:WebPage", "ucdlib:Story" ],
+    "@type" : [ "ucdlib:Story", "schema:WebPage" ],
     "caption" : "1936 Wente Bros Chardonnay",
-    "description" : "#Text",
+    "headline" : "Chardonnay's Rise",
     "label" : "Story: Text / Image",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Chardonnay's Rise",
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
+    "text" : [ "After Prohibition, an insistence on varietal labeling by men like Frank Schoonmaker, the Wentes, and Martin Ray led to Chardonnay’s acknowledgment nationally as a distinct wine of value.", "Heitz’s acumen as a businessman and winemaker; the publication of the first volume of Julia Child’s book Mastering the Art of French Cooking, in 1961, with volume 2 following in 1970; and the Judgment of Paris were further fuel for Chardonnay’s rise. The rest, as they say, is history.", "The story of a private dinner in Rome, in 1960, during which Hanzell’s 1957 Chardonnay stood up to a 1955 Corton Charlemagne, circulated among California vintners, and after Zellerbach died, in 1963, winegrower Joseph Heitz purchased the last of his vintages at auction." ],
     "thumbnail" : "z:VQXiakyP/wentechardonnay_1936_cropped.jpg"
   }, {
     "@id" : "W8wxR9U3",
@@ -1078,8 +1096,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Prohibition_in_the_United_States", "https://www.amazon.com/When-Rivers-Ran-Red-Americas/dp/0230605745" ],
     "relatedLinkText" : [ "When the Rivers Ran Red", "Prohibition in the United States" ],
+    "spatial" : "_:b34",
     "schema:spatial" : "United States of America",
-    "spatial" : "_:b33",
     "temporal" : "1919/1933",
     "thumbnail" : "z:W8wxR9U3/prohibition-raid.jpg",
     "6CLRuf6q_rev" : "z8de3Nov",
@@ -1096,8 +1114,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://napavalleyregister.com/news/local/stanly-ranch-returns-to-its-wine-grape-roots/article_e5fd79b5-ec95-5908-a9d3-da014639d874.html", "https://www.starmontwinery.com/vineyard/stanly-ranch/" ],
     "relatedLinkText" : [ "Our Story: Stanly Ranch", "Stanly Ranch Returns to Its Wine Grape Roots" ],
-    "spatial" : "_:b28",
     "schema:spatial" : "Napa, California",
+    "spatial" : "_:b14",
     "temporal" : "1942/present",
     "thumbnail" : "z:WeN5rOwv/stanlyranch.jpg",
     "41Qvzaf6" : "3VZas2z9",
@@ -1125,8 +1143,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://localwiki.org/oakland/Theodore_Gier", "https://www.gliding-eagle.com/star/wine/hess-collection/en-us", "https://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=LH18960125.2.37&srpos=16&e=-------en--20--1-byDA-txt-txIN-%252522theodore+gier%252522-------1" ],
     "relatedLinkText" : [ "Livermore Herald, Volume 19, Number 13, 25 January 1896", "Theodore Gier", "The Hess Collection" ],
-    "spatial" : "_:b20",
     "schema:spatial" : "Peine, Germany",
+    "spatial" : "_:b38",
     "temporal" : "1860/1931",
     "thumbnail" : "z:YjPlGNUB/theodore-gier.jpg",
     "UB9PvlZX" : "jAu8Il7c",
@@ -1178,8 +1196,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://www.eater.com/2011/5/10/6681963/life-before-chardonnay-californias-lost-white-varieties",
     "relatedLinkText" : "Life Before Chardonnay: California's Lost White Varieties",
-    "spatial" : "_:b9",
     "schema:spatial" : "Livermore, Napa, and Sonoma, California",
+    "spatial" : "_:b16",
     "temporal" : "1850/1920",
     "thumbnail" : "z:ams0J47F/pre-pro-wines.jpg",
     "JvV1t48D_rev" : "W8wxR9U3",
@@ -1218,8 +1236,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://hanzell.com/about/history/", "https://en.wikipedia.org/wiki/Hanzell_Vineyards" ],
     "relatedLinkText" : [ "Hanzell Vineyards", "Hanzell Vineyards: Our Story" ],
+    "spatial" : "_:b27",
     "schema:spatial" : "San Francisco, California",
-    "spatial" : "_:b29",
     "temporal" : "1892/1963",
     "thumbnail" : "z:dvuclolS/zellerbach.jpg",
     "cpxXmAwp" : "jI6UTDUl",
@@ -1237,7 +1255,7 @@
     "relatedLink" : [ "http://blog.tavbooks.com/?p=1634", "http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=California.%20Board%20of%20State%20Viticultural%20Commissioners", "https://en.wikipedia.org/wiki/Board_of_State_Viticultural_Commissioners" ],
     "relatedLinkText" : [ "California Board of State Viticultural Commissioners", "Board of State Viticultural Commissioners", "The Father of California Viticulture’s Middle Child: Arpad Haraszthy & Wine Writing in California" ],
     "schema:spatial" : "San Francisco, California",
-    "spatial" : "_:b8",
+    "spatial" : "_:b13",
     "temporal" : "1880/1894",
     "thumbnail" : "z:eOd3HkwS/board-viticultural.png",
     "8KtpbAfa_rev" : "kuSgztdM",
@@ -1245,11 +1263,12 @@
   }, {
     "@id" : "ee1CkaUk",
     "@type" : [ "schema:WebPage", "ucdlib:Story" ],
-    "description" : "#Text",
+    "headline" : "Prohibition",
     "label" : "Story: Text",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Prohibition",
-    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
+    "text" : "During Prohibition, vineyards planted to white varieties were pulled up and the land was planted to durable cultivars that could better survive cross-continental transportation, such as Alicante Bouschet. In \"The Story of California Chardonnay,\" wine writer Elaine Chukan Brown notes that \"In the grape harvest report of 1930, total vineyard acreage in California was around 600,000 acres, with the statewide total of white grapes planted, across all varieties, being just 7,000 acres, consisting primarily of Riesling and Sémillon. Plantings of Chardonnay were so small that the variety was not recorded specifically\". By the end of Prohibition the Wente and Masson vineyards were the only substantial sources for Chardonnay budwood in California."
   }, {
     "@id" : "gSoxkxSP",
     "@type" : [ "ucdlib:owned", "schema:significantLinks" ],
@@ -1308,11 +1327,12 @@
   }, {
     "@id" : "hfVKhXmn",
     "@type" : [ "schema:WebPage", "ucdlib:Story" ],
-    "description" : "#Text",
+    "headline" : "Chardonnay Comes to California",
     "label" : "Story: Text",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Chardonnay Comes to California",
-    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
+    "text" : [ "The grape’s stateside story begins to come into focus in 1882, when Charles Wetmore imported budwood from Meursault and established his Cresta Blanca vineyard in Livermore. Chardonnay roots developed in Livermore nurseries and vineyards as well as in the Santa Cruz Mountains, where Livermore winegrower Paul Masson planted a second vineyard to Pinot Noir and Chardonnay, using cuttings from Burgundy purportedly from the vineyards of winegrower Louis Latour.", "Chardonnay’s presence among early California wines is hard to trace due to the absence of varietal labeling before the 1930s, variations on the grape’s spelling, and mistakes in identification. It wasn’t uncommon for Chardonnay to be mistaken for Pinot Blanc and Melon de Bourgogne." ]
   }, {
     "@id" : "hjxKwQMX",
     "@type" : [ "ucdlib:collaborated_with", "schema:significantLinks" ],
@@ -1337,7 +1357,7 @@
     "relatedLink" : [ "http://fps.ucdavis.edu/", "https://fps.ucdavis.edu/grapebook/winebook.cfm?chap=FPSEstablished" ],
     "relatedLinkText" : [ "The Origin of Foundation Plant Services", "Foundation Plant Services" ],
     "schema:spatial" : "Davis, California",
-    "spatial" : "_:b25",
+    "spatial" : "_:b8",
     "temporal" : "1958/present",
     "thumbnail" : "z:hmnI79DX/fps.jpg",
     "1OkSrpl8_rev" : "Fc2EIKDK",
@@ -1366,7 +1386,7 @@
     "relatedLink" : [ "https://www.npr.org/sections/thesalt/2016/05/24/479163882/the-judgment-of-paris-the-blind-taste-test-that-decanted-the-wine-world", "https://www.smithsonianmag.com/smithsonian-institution/that-revolutionary-May-day-1976-when-california-wines-bested-france-finest-180958971/", "https://www.thespruceeats.com/the-judgment-of-paris-3510929", "https://en.wikipedia.org/wiki/Judgment_of_Paris_(wine)" ],
     "relatedLinkText" : [ "The Judgment Of Paris: The Blind Taste Test That Decanted The Wine World", "Judgment of Paris (wine)", "That Revolutionary May Day in 1976 When California Wines Bested France’s Finest", "The 1976 Paris Wine Tasting" ],
     "schema:spatial" : "Paris, France",
-    "spatial" : "_:b12",
+    "spatial" : "_:b18",
     "temporal" : "May 24, 1976",
     "thumbnail" : "z:iPp7dt7A/jop.jpg",
     "4Z8uyf60_rev" : "Ci29VDRY",
@@ -1397,7 +1417,7 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://yourwineiq.com/kindsofwine/winebyregion/europe/france/burgundy/cotedebeaune/meursault.html", "https://en.wikipedia.org/wiki/Meursault_wine" ],
     "relatedLinkText" : [ "Your Wine I.Q.: Meursault", "Meursault Wine" ],
-    "spatial" : "_:b26",
+    "spatial" : "_:b37",
     "schema:spatial" : "Mersault, France",
     "temporal" : "1882",
     "thumbnail" : "z:jAu8Il7c/mersault.jpg",
@@ -1429,7 +1449,7 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.nytimes.com/2006/09/13/dining/13pour.html", "https://www.nytimes.com/1984/02/29/garden/wine-talk-019542.html", "https://en.wikipedia.org/wiki/Hanzell_Vineyards" ],
     "relatedLinkText" : [ "Gratification, but Not the Instant Kind", "Hanzell Vineyards", "Wine Talk" ],
-    "spatial" : "_:b37",
+    "spatial" : "_:b5",
     "schema:spatial" : "Sonoma, California",
     "temporal" : "1953/present",
     "thumbnail" : "z:jI6UTDUl/hanzell.jpeg",
@@ -1453,11 +1473,11 @@
   }, {
     "@id" : "kHn74uit",
     "@type" : [ "schema:WebPage", "ucdlib:Story" ],
+    "image" : [ "_:b30", "_:b26", "_:b31" ],
     "label" : "Story: Triptych",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Triptych",
-    "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
-    "thumbnail" : "z:kHn74uit/livermorevalley_1896.jpg"
+    "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "kuSgztdM",
     "@type" : [ "schema:Person", "schema:WebPage" ],
@@ -1470,7 +1490,7 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://en.wikipedia.org/wiki/Charles_Wetmore_(winemaker)",
     "relatedLinkText" : "Charles Wetmore",
-    "spatial" : "_:b15",
+    "spatial" : "_:b11",
     "schema:spatial" : "Portland, Maine",
     "temporal" : "1847/1894",
     "thumbnail" : "z:kuSgztdM/wetmore-1888.jpg",
@@ -1491,7 +1511,7 @@
     "relatedLink" : "https://en.wikipedia.org/wiki/Cresta_Blanca_Winery",
     "relatedLinkText" : "Cresta Blanca Winery",
     "schema:spatial" : "Livermore, California",
-    "spatial" : "_:b36",
+    "spatial" : "_:b29",
     "temporal" : "1882/1965",
     "thumbnail" : "z:lOOnkClR/crestablanca.jpg",
     "CQar4tVr" : "z8de3Nov",
@@ -1509,8 +1529,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://americanhistory.si.edu/collections/search/object/nmah_1464815", "https://en.wikipedia.org/wiki/Wente_Vineyards" ],
     "relatedLinkText" : [ "Wente Vineyards", "The Story of Wente Wines (1954 Booklet)" ],
+    "spatial" : "_:b35",
     "schema:spatial" : "Hanover, Germany",
-    "spatial" : "_:b23",
     "temporal" : "1851/1934",
     "thumbnail" : "z:o6X0ntCy/carl-wente.jpg",
     "ACMhcFkv" : "1zykVMmW",
@@ -1529,7 +1549,7 @@
     "relatedLink" : [ "https://www.sfchronicle.com/wine/article/The-hidden-figures-benind-the-Judgment-of-Paris-13333299.php", "https://en.wikipedia.org/wiki/Patricia_Gallagher", "https://americanhistory.si.edu/blog/40th-anniversary-paris-tasting" ],
     "relatedLinkText" : [ "Potable Quotables on the 40th Anniversary of the Paris Tasting", "The Hidden Figures Behind the Judgment of Paris", "Patricia Gallagher" ],
     "schema:spatial" : "Wilmington, Delaware",
-    "spatial" : "_:b31",
+    "spatial" : "_:b36",
     "temporal" : "1951/present",
     "thumbnail" : "z:p0LaSTD3/patricia-gallagher.jpg",
     "EMtTbOwZ" : "Q9r4xbT0",
@@ -1547,7 +1567,7 @@
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Hanzell_Vineyards", "https://winesvinesanalytics.com/sections/printout_article.cfm?article=feature&content=70101" ],
     "relatedLinkText" : [ "Hanzell Vineyards", "Hanzell and ML34" ],
     "schema:spatial" : "Sonoma, California",
-    "spatial" : "_:b2",
+    "spatial" : "_:b40",
     "temporal" : "1922/1999",
     "thumbnail" : "z:p4PzNZ75/brad-webb-and-zellerbach2.jpg",
     "1K1RedNF" : "jI6UTDUl",
@@ -1616,7 +1636,7 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://napavalleyregister.com/wine/theodore-gier-and-the-sequoia-vineyard/article_b10e9b0d-723d-5a43-a3f1-c3be4949e5b0.html", "http://www.waywardtendrils.com/pdfs/san_francisco.pdf", "https://calisphere.org/item/655b6d0a25ec1ea8b14e2202feae2991/", "https://napahistory.pastperfectonline.com/photo/FD11C6FB-84B0-49B6-A0F0-025682383680" ],
     "relatedLinkText" : [ "Giers' Farm (photograph)", "Theodore Gier and the Sequoia Vineyard", "A History of the San Francisco Viticultural District", "Entry Gate to Theodore Gier's Vineyard (photograph)" ],
-    "spatial" : "_:b17",
+    "spatial" : "_:b23",
     "schema:spatial" : "Livermore, California",
     "temporal" : "1893",
     "thumbnail" : "z:u2C8OQ1W/gier-vineyard.jpg",
@@ -1637,7 +1657,7 @@
     "relatedLink" : [ "https://digitalassets.lib.berkeley.edu/roho/ucb/text/heitz_joseph__w.pdf", "https://robbreport.com/food-drink/wine/page-turns-heitz-cellar-eg18-2815094/" ],
     "relatedLinkText" : [ "Joseph E. Heitz: Creating a Winery in the Napa Valley (Oral History)", "A Page Turns on Heitz Cellar" ],
     "schema:spatial" : "St. Helena, California",
-    "spatial" : "_:b3",
+    "spatial" : "_:b6",
     "temporal" : "1963",
     "thumbnail" : "z:uBuLClSf/heitz-chardonnay.jpg",
     "bRtwlEXl_rev" : "1iDZI50s",
@@ -1674,7 +1694,7 @@
     "relatedLink" : [ "https://www.youtube.com/watch?v=i5iXGOFQ0Y8", "https://www.nytimes.com/1981/10/25/obituaries/ernest-a-wente-91-california-winemaker.html", "https://wentevineyards.com/" ],
     "relatedLinkText" : [ "Ernest A. Wente, 91, California Winemaker", "Karl Wente, Wente Vineyards", "Wente Vineyards" ],
     "schema:spatial" : "Livermore, California",
-    "spatial" : "_:b22",
+    "spatial" : "_:b17",
     "temporal" : "1883/present",
     "thumbnail" : "z:z8de3Nov/wente-family.jpg",
     "4chPcJaZ" : "HSu79Z8N",
@@ -1725,6 +1745,10 @@
     "relatedLinkText" : {
       "@id" : "http://schema.org/relatedLinkText"
     },
+    "spatial" : {
+      "@id" : "http://schema.org/spatial",
+      "@type" : "@id"
+    },
     "thumbnail" : {
       "@id" : "http://schema.org/thumbnail",
       "@type" : "@id"
@@ -1735,10 +1759,6 @@
     },
     "temporal" : {
       "@id" : "http://schema.org/temporal"
-    },
-    "spatial" : {
-      "@id" : "http://schema.org/spatial",
-      "@type" : "@id"
     },
     "hEZLykqn_rev" : {
       "@id" : "hEZLykqn_rev",
@@ -1761,14 +1781,6 @@
     "label" : {
       "@id" : "http://schema.org/label"
     },
-    "EpSePh4G" : {
-      "@id" : "EpSePh4G",
-      "@type" : "@id"
-    },
-    "CfHGKWM5_rev" : {
-      "@id" : "CfHGKWM5_rev",
-      "@type" : "@id"
-    },
     "longitude" : {
       "@id" : "http://schema.org/longitude",
       "@type" : "http://www.w3.org/2001/XMLSchema#double"
@@ -1776,6 +1788,14 @@
     "latitude" : {
       "@id" : "http://schema.org/latitude",
       "@type" : "http://www.w3.org/2001/XMLSchema#double"
+    },
+    "EpSePh4G" : {
+      "@id" : "EpSePh4G",
+      "@type" : "@id"
+    },
+    "CfHGKWM5_rev" : {
+      "@id" : "CfHGKWM5_rev",
+      "@type" : "@id"
     },
     "zmcIlL1Q_rev" : {
       "@id" : "zmcIlL1Q_rev",
@@ -1957,6 +1977,18 @@
       "@id" : "4Z8uyf60",
       "@type" : "@id"
     },
+    "contentUrl" : {
+      "@id" : "http://schema.org/contentUrl"
+    },
+    "caption" : {
+      "@id" : "http://schema.org/caption"
+    },
+    "headline" : {
+      "@id" : "http://schema.org/headline"
+    },
+    "text" : {
+      "@id" : "http://schema.org/text"
+    },
     "ZsAq027L" : {
       "@id" : "ZsAq027L",
       "@type" : "@id"
@@ -1964,9 +1996,6 @@
     "1OkSrpl8_rev" : {
       "@id" : "1OkSrpl8_rev",
       "@type" : "@id"
-    },
-    "caption" : {
-      "@id" : "http://schema.org/caption"
     },
     "5295tRn2" : {
       "@id" : "5295tRn2",
@@ -1978,6 +2007,10 @@
     },
     "PI5oidOI" : {
       "@id" : "PI5oidOI",
+      "@type" : "@id"
+    },
+    "image" : {
+      "@id" : "http://schema.org/image",
       "@type" : "@id"
     },
     "DrrhZ4ge" : {
@@ -2194,12 +2227,6 @@
     "YD7pQ9Zn_rev" : {
       "@id" : "YD7pQ9Zn_rev",
       "@type" : "@id"
-    },
-    "text" : {
-      "@id" : "http://schema.org/text"
-    },
-    "headline" : {
-      "@id" : "http://schema.org/headline"
     },
     "7ykGrofT_rev" : {
       "@id" : "7ykGrofT_rev",
