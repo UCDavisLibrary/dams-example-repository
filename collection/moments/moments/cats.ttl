@@ -15,5 +15,4 @@
     schema:description "Trello2Moment demo pet board.  The Markdown in the description should include; *bold*, ~italics~, and even Sections.  Links to [Outsite Sites](https://en.wikipedia.org/wiki/Cat) are allowed, but discouraged in the description. \n\n## Sections\n\nSection headers\n\n\n# About\n- http://id.worldcat.org/fast/849374/ cats\n- [Cat Owners](http://id.worldcat.org/fast/848507/)\n- https://en.wikipedia.org/wiki/Cat\n\n# Keywords\n- cats\n- felines";
     schema:datePublished "2020"^^<http://www.w3.org/2001/XMLSchema#integer>;
     schema:sdDatePublished "2020"^^<http://www.w3.org/2001/XMLSchema#integer>;
-    schema:sdPublisher "TODO";
     schema:image <cats/thumbnail.jpg>.
