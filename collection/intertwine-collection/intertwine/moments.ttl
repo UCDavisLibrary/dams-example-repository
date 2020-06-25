@@ -1,0 +1,10 @@
+@prefix : <http://schema.org/> .
+@prefix ldp:  <http://www.w3.org/ns/ldp#> .
+
+<>
+    a ldp:DirectContainer ;
+     :name "Moments Directory" ;
+    ldp:membershipResource  <.> ;
+    ldp:hasMemberRelation   :hasPart ;
+    ldp:isMemberOfRelation  :isPartOf ;
+    .

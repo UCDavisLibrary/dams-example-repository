@@ -1,0 +1,17 @@
+@prefix : <http://schema.org/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ldp:  <http://www.w3.org/ns/ldp#> .
+@prefix acl: <http://www.w3.org/ns/auth/acl#> .
+@prefix fedora: <http://fedora.info/definitions/v4/webac#> .
+
+<intertwine>
+    a ldp:BasicContainer, :Collection;
+    acl:accessControl <intertwine/.fin/acl>;
+    :name "Intertwine Moments";
+    :keywords "Linked Data", "Wine and Wine History";
+    :license <http://rightsstatements.org/vocab/InC-NC/1.0/>;
+    :image <intertwine/thumbnail.jpg>;
+    :datePublished "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+    :description "In the years following Prohibition, UC Davis was instrumental in helping the wine industry in California revive. The Library’s archives tell the story of how scholar-practitioners such as Professors Maynard Amerine, Harold Olmo, and Albert Winkler instructed many early winemakers. The subsequent second generation of post-war winemakers and vineyard owners, including individuals such as Robert Mondavi, Andy Beckstoffer, and Warren Winiarski, shaped following generations of men and women who helped define a new palette, a new science, and a new way of marketing wine. This “turn toward quality” is a story of connection — one of freely shared knowledge and resources of vicious competition.  At the Davis Library, we’re building applications that help people understand the story of wine in California. Intertwine is a new network visualization tool that allows users to see the important social connections that helped propel the California wine industry forward in the 20th century.  Many economists and wine historians believe that the unique network that emerged from the early California winemakers influencing or intermixing with a generation of post-war risk-takers was the key to the success of California wine. By revealing the California wine industry network in a visual manner, we will be able to articulate the connectivity of the industry in a way that is more than merely anecdotal. Using connections among people, we’ll be able to trace in turn the connections between land and wineries: the legacy of To-Kalon, the Judgment of Paris, land use and preservation, and much more.  We call these epochal events and transformations “Moments,” and they tell the story of one of the riskiest endeavors in the world: turning dry California fields into sunlight in a glass, bound by water." ;
+
+    .
