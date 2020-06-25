@@ -1,6 +1,6 @@
 source:
-  host: 'https://qjh.dams.library.ucdavis.edu'
-  #host: 'https://moments.dams.library.ucdavis.edu'
+  #host: 'https://qjh.dams.library.ucdavis.edu'
+  host: 'https://moments.dams.library.ucdavis.edu'
   #host: 'http://localhost:3001'
   base: /fcrepo/rest
   collection: intertwine
