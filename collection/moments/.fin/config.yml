@@ -1,6 +1,0 @@
-source:
-  #host: 'https://sandbox.dams.library.ucdavis.edu'
-  #host: 'https://moments.dams.library.ucdavis.edu'
-  host: 'http://localhost:3001'  
-  base: /fcrepo/rest/intertwine-collection
-  collection: moments

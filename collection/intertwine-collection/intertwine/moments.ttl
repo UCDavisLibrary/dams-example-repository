@@ -4,6 +4,7 @@
 <>
     a ldp:DirectContainer ;
      :name "Moments Directory" ;
+     ::keywords "Cabernet", "Cats", "Chardonnay", "JOP";
     ldp:membershipResource  <.> ;
     ldp:hasMemberRelation   :hasPart ;
     ldp:isMemberOfRelation  :isPartOf ;
