@@ -6,12 +6,11 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 @prefix ldp: <http://www.w3.org/ns/ldp#>.
 
-<> a schema:BasicContainer, ucdlib:Moment, ucdlib:BagOfFiles;
+<> a schema:BasicContainer, ucdlib:Moment, schema:CreativeWork, ucdlib:BagOfFiles;
     schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
     schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
     schema:name "chardonnay";
     schema:description "# Description\n\n- chardonnay\n- wine";
     schema:datePublished "2020"^^<http://www.w3.org/2001/XMLSchema#integer>;
     schema:sdDatePublished "2020"^^<http://www.w3.org/2001/XMLSchema#integer>;
-    schema:sdPublisher "TODO";
     schema:image <chardonnay/thumbnail.jpg>.

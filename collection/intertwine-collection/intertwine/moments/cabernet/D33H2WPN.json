@@ -388,7 +388,7 @@
       "id": "5ee915721deafe7566976c50",
       "checkItemStates": null,
       "closed": false,
-      "dateLastActivity": "2020-06-23T19:03:11.855Z",
+      "dateLastActivity": "2020-06-23T20:42:03.258Z",
       "desc": "# Identifier\n- cabernet\n\n# Date\n- 1865/1976\n\n# Description\nCabernet Sauvignon, the main variety of some of the world’s most famous wines and the second most widely grown grape in California, originated in the Bordeaux region of France in the 17th century as a result of an accidental crossing of Cabernet Franc and Sauvignon Blanc grapes. This is the tale of how California brought its love affair with Bordeaux grown Cabernet Sauvignon stateside and cultivated it into the reigning king of Napa Valley reds.",
       "descData": {
         "emoji": {}
@@ -400,11 +400,10 @@
       "idShort": 172,
       "idAttachmentCover": null,
       "idLabels": [
-        "5ee92ead05f2b8138e62eccf",
-        "5e7401a6e5eb06649b89bc38"
+        "5ee92ead05f2b8138e62eccf"
       ],
       "manualCoverAttachment": false,
-      "name": "Cabernet Sauvignon",
+      "name": "A Brief History of California Cabernet Sauvignon",
       "pos": 32767.5,
       "shortLink": "gM1hIO6x",
       "isTemplate": false,
@@ -439,17 +438,11 @@
           "idBoard": "5e7401a6e5eb06649b89bbe6",
           "name": "Story: EntryPoint",
           "color": "purple"
-        },
-        {
-          "id": "5e7401a6e5eb06649b89bc38",
-          "idBoard": "5e7401a6e5eb06649b89bbe6",
-          "name": "Description",
-          "color": "blue"
         }
       ],
       "shortUrl": "https://trello.com/c/gM1hIO6x",
       "subscribed": false,
-      "url": "https://trello.com/c/gM1hIO6x/172-cabernet-sauvignon",
+      "url": "https://trello.com/c/gM1hIO6x/172-a-brief-history-of-california-cabernet-sauvignon",
       "cover": {
         "idAttachment": null,
         "color": null,
