@@ -11,18 +11,6 @@
   "pinned": false,
   "url": "https://trello.com/b/pY20Yz5x/trello2moment",
   "shortUrl": "https://trello.com/b/pY20Yz5x",
-  "labelNames": {
-    "green": "Location Data",
-    "yellow": "Learn More",
-    "orange": "",
-    "red": "Connections",
-    "purple": "Story: Text",
-    "blue": "Description",
-    "sky": "Image / Image Credit",
-    "lime": "",
-    "pink": "Date",
-    "black": "guardian / dependent"
-  },
   "prefs": {
     "permissionLevel": "private",
     "hideVotes": false,
@@ -92,6 +80,18 @@
     "canBeOrg": true,
     "canBePrivate": true,
     "canInvite": true
+  },
+  "labelNames": {
+    "green": "Location Data",
+    "yellow": "Learn More",
+    "orange": "",
+    "red": "Connections",
+    "purple": "Story: Text",
+    "blue": "Description",
+    "sky": "Image / Image Credit",
+    "lime": "",
+    "pink": "Date",
+    "black": "guardian / dependent"
   },
   "cards": [
     {

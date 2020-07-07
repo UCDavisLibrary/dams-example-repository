@@ -6,4 +6,4 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 @prefix ldp: <http://www.w3.org/ns/ldp#>.
 
-<> a schema:BasicContainer.
+<> a ldp:BasicContainer.
