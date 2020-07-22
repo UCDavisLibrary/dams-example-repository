@@ -2,111 +2,111 @@
   "@graph" : [ {
     "@id" : "_:b0",
     "@type" : "schema:Place",
-    "schema:latitude" : 38.5331246,
-    "schema:longitude" : -121.7528637,
-    "name" : "Department+of+Viticulture+and+Enology"
-  }, {
-    "@id" : "_:b1",
-    "@type" : "schema:Place",
     "schema:latitude" : 34.4492552,
     "schema:longitude" : -119.2468617,
     "name" : "Ojai,+CA+93023"
   }, {
-    "@id" : "_:b10",
-    "@type" : "schema:Place",
-    "schema:latitude" : 37.2965315,
-    "schema:longitude" : -122.0975993,
-    "name" : "San+Jose,+CA"
-  }, {
-    "@id" : "_:b11",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.3554817,
-    "schema:longitude" : -122.5596771,
-    "name" : "Glen+Ellen,+CA+95442"
-  }, {
-    "@id" : "_:b12",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.9028753,
-    "schema:longitude" : -82.4304732,
-    "name" : "West+Virginia"
-  }, {
-    "@id" : "_:b13",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.3992276,
-    "schema:longitude" : -122.3257286,
-    "name" : "Stag's+Leap+Wine+Cellars"
-  }, {
-    "@id" : "_:b14",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.4593573,
-    "schema:longitude" : -122.4687123,
-    "name" : "Robert+Mondavi+Winery"
-  }, {
-    "@id" : "_:b15",
-    "@type" : "schema:Place",
-    "schema:latitude" : 41.0297685,
-    "schema:longitude" : -82.0942994,
-    "name" : "Pennsylvania"
-  }, {
-    "@id" : "_:b16",
-    "@type" : "schema:Place",
-    "schema:latitude" : 47.509615,
-    "schema:longitude" : -92.5709486,
-    "name" : "Virginia,+MN"
-  }, {
-    "@id" : "_:b17",
-    "@type" : "schema:Place",
-    "schema:latitude" : 37.5245782,
-    "schema:longitude" : -77.6333459,
-    "name" : "Richmond,+VA"
-  }, {
-    "@id" : "_:b18",
-    "@type" : "schema:Place",
-    "schema:latitude" : 41.8333925,
-    "schema:longitude" : -88.0121478,
-    "name" : "Chicago,+IL"
-  }, {
-    "@id" : "_:b19",
-    "@type" : "schema:Place",
-    "schema:latitude" : 48.8689261,
-    "schema:longitude" : 2.3233234,
-    "name" : "48°52'08.5\"N+2°19'23.9\"E"
-  }, {
-    "@id" : "_:b2",
+    "@id" : "_:b1",
     "@type" : "schema:Place",
     "schema:latitude" : 39.2102265,
     "schema:longitude" : -122.6371425,
     "name" : "Oakville+AVA"
   }, {
-    "@id" : "_:b20",
+    "@id" : "_:b10",
     "@type" : "schema:Place",
-    "schema:latitude" : 38.5734461,
-    "schema:longitude" : -122.8461418,
-    "name" : "11455+Old+Redwood+Hwy,+Healdsburg,+CA+95448"
+    "schema:latitude" : 38.5082339,
+    "schema:longitude" : -122.9143623,
+    "name" : "Napa+County,+CA"
   }, {
-    "@id" : "_:b21",
+    "@id" : "_:b11",
+    "@type" : "schema:Place",
+    "schema:latitude" : 37.2965315,
+    "schema:longitude" : -122.0975993,
+    "name" : "San+Jose,+CA"
+  }, {
+    "@id" : "_:b12",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.3554817,
+    "schema:longitude" : -122.5596771,
+    "name" : "Glen+Ellen,+CA+95442"
+  }, {
+    "@id" : "_:b13",
+    "@type" : "schema:Place",
+    "schema:latitude" : 41.0297685,
+    "schema:longitude" : -82.0942994,
+    "name" : "Pennsylvania"
+  }, {
+    "@id" : "_:b14",
+    "@type" : "schema:Place",
+    "schema:latitude" : 37.6803633,
+    "schema:longitude" : -121.8423991,
+    "name" : "Livermore,+CA"
+  }, {
+    "@id" : "_:b15",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.4593573,
+    "schema:longitude" : -122.4687123,
+    "name" : "Robert+Mondavi+Winery"
+  }, {
+    "@id" : "_:b16",
+    "@type" : "schema:Place",
+    "schema:latitude" : 37.5245782,
+    "schema:longitude" : -77.6333459,
+    "name" : "Richmond,+VA"
+  }, {
+    "@id" : "_:b17",
+    "@type" : "schema:Place",
+    "schema:latitude" : 41.8333925,
+    "schema:longitude" : -88.0121478,
+    "name" : "Chicago,+IL"
+  }, {
+    "@id" : "_:b18",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.3952526,
+    "schema:longitude" : -122.3248697,
+    "name" : "Silverado+Trail,+California"
+  }, {
+    "@id" : "_:b19",
     "@type" : "schema:Place",
     "schema:latitude" : 44.4456074,
     "schema:longitude" : 8.3303867,
     "name" : "Genoa,+Metropolitan+City+of+Genoa,+Italy"
   }, {
-    "@id" : "_:b22",
+    "@id" : "_:b2",
     "@type" : "schema:Place",
-    "schema:latitude" : 38.5587193,
-    "schema:longitude" : -122.5267781,
-    "name" : "Larkmead+Vineyards"
+    "schema:latitude" : 38.3992276,
+    "schema:longitude" : -122.3257286,
+    "name" : "Stag's+Leap+Wine+Cellars"
   }, {
-    "@id" : "_:b23",
+    "@id" : "_:b20",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.4412684,
+    "schema:longitude" : -122.411991,
+    "name" : "Robert+Mondavi+Winery"
+  }, {
+    "@id" : "_:b21",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.3992276,
+    "schema:longitude" : -122.3257286,
+    "name" : "Stag's+Leap+Wine+Cellars"
+  }, {
+    "@id" : "_:b22",
     "@type" : "schema:Place",
     "schema:latitude" : 52.5119029,
     "schema:longitude" : -11.2946352,
     "name" : "England,+UK"
   }, {
+    "@id" : "_:b23",
+    "@type" : "schema:Place",
+    "schema:latitude" : 48.8689261,
+    "schema:longitude" : 2.3233234,
+    "name" : "48°52'08.5\"N+2°19'23.9\"E"
+  }, {
     "@id" : "_:b24",
     "@type" : "schema:Place",
-    "schema:latitude" : 44.7453086,
-    "schema:longitude" : 1.1545981,
-    "name" : "24250+Daglan,+France"
+    "schema:latitude" : 38.5587193,
+    "schema:longitude" : -122.5267781,
+    "name" : "Larkmead+Vineyards"
   }, {
     "@id" : "_:b25",
     "@type" : "schema:Place",
@@ -116,132 +116,132 @@
   }, {
     "@id" : "_:b26",
     "@type" : "schema:Place",
-    "schema:latitude" : 45.6100012,
-    "schema:longitude" : -122.4907775,
-    "name" : "Camas,+WA"
+    "schema:latitude" : 38.5734461,
+    "schema:longitude" : -122.8461418,
+    "name" : "11455+Old+Redwood+Hwy,+Healdsburg,+CA+95448"
   }, {
     "@id" : "_:b27",
-    "@type" : "schema:Place",
-    "schema:latitude" : 37.6803633,
-    "schema:longitude" : -121.8423991,
-    "name" : "Livermore,+CA"
-  }, {
-    "@id" : "_:b28",
-    "@type" : "schema:ImageObject",
-    "caption" : "Prohibition",
-    "contentUrl" : "prohibitionwine.jpg"
-  }, {
-    "@id" : "_:b29",
-    "@type" : "schema:Place",
-    "schema:latitude" : 40.3769194,
-    "schema:longitude" : -81.0484721,
-    "name" : "Jefferson+County,+OH"
-  }, {
-    "@id" : "_:b3",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.4412684,
-    "schema:longitude" : -122.411991,
-    "name" : "Robert+Mondavi+Winery"
-  }, {
-    "@id" : "_:b30",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.4583189,
-    "schema:longitude" : -122.4253887,
-    "name" : "Inglenook"
-  }, {
-    "@id" : "_:b31",
-    "@type" : "schema:Place",
-    "schema:latitude" : 55.5807482,
-    "schema:longitude" : 36.825156,
-    "name" : "Moscow,+Russia"
-  }, {
-    "@id" : "_:b32",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.5092357,
-    "schema:longitude" : -122.6340857,
-    "name" : "Napa+County,+CA"
-  }, {
-    "@id" : "_:b33",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.4910737,
-    "schema:longitude" : -122.4609338,
-    "name" : "Louis+M.+Martini+Winery"
-  }, {
-    "@id" : "_:b34",
-    "@type" : "schema:ImageObject",
-    "caption" : "Inglenook Celebrates Prohibition’s End, 1933",
-    "contentUrl" : "1933-inglenook-endprohibition.jpg"
-  }, {
-    "@id" : "_:b35",
-    "@type" : "schema:ImageObject",
-    "caption" : "Young Robert Mondavi and Family",
-    "contentUrl" : "mondavi-family.jpg"
-  }, {
-    "@id" : "_:b36",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.3992276,
-    "schema:longitude" : -122.3257286,
-    "name" : "Stag's+Leap+Wine+Cellars"
-  }, {
-    "@id" : "_:b37",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.891154,
-    "schema:longitude" : -77.0318748,
-    "name" : "Smithsonian+National+Museum+of+American+History"
-  }, {
-    "@id" : "_:b38",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.4601114,
-    "schema:longitude" : -122.4254725,
-    "name" : "Beaulieu+Vineyard"
-  }, {
-    "@id" : "_:b39",
     "@type" : "schema:Place",
     "schema:latitude" : 38.5131796,
     "schema:longitude" : -122.43461,
     "name" : "Heitz+Cellar"
   }, {
-    "@id" : "_:b4",
+    "@id" : "_:b28",
     "@type" : "schema:Place",
-    "schema:latitude" : 38.5082339,
-    "schema:longitude" : -122.9143623,
-    "name" : "Napa+County,+CA"
+    "schema:latitude" : 38.4910737,
+    "schema:longitude" : -122.4609338,
+    "name" : "Louis+M.+Martini+Winery"
   }, {
-    "@id" : "_:b40",
+    "@id" : "_:b29",
     "@type" : "schema:Place",
-    "schema:latitude" : 38.3952526,
-    "schema:longitude" : -122.3248697,
-    "name" : "Silverado+Trail,+California"
+    "schema:latitude" : 47.509615,
+    "schema:longitude" : -92.5709486,
+    "name" : "Virginia,+MN"
   }, {
-    "@id" : "_:b5",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.4601114,
-    "schema:longitude" : -122.4254779,
-    "name" : "Beaulieu+Vineyard"
+    "@id" : "_:b3",
+    "@type" : "schema:ImageObject",
+    "caption" : "Young Robert Mondavi and Family",
+    "contentUrl" : "mondavi-family.jpg"
   }, {
-    "@id" : "_:b6",
-    "@type" : "schema:Place",
-    "schema:latitude" : 37.7576171,
-    "schema:longitude" : -122.5776844,
-    "name" : "San+Francisco,+CA"
-  }, {
-    "@id" : "_:b7",
+    "@id" : "_:b30",
     "@type" : "schema:Place",
     "schema:latitude" : 38.9028753,
     "schema:longitude" : -82.4304732,
     "name" : "West+Virginia"
   }, {
-    "@id" : "_:b8",
+    "@id" : "_:b31",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.4583189,
+    "schema:longitude" : -122.4253887,
+    "name" : "Inglenook"
+  }, {
+    "@id" : "_:b32",
+    "@type" : "schema:ImageObject",
+    "caption" : "Inglenook Celebrates Prohibition’s End, 1933",
+    "contentUrl" : "1933-inglenook-endprohibition.jpg"
+  }, {
+    "@id" : "_:b33",
+    "@type" : "schema:ImageObject",
+    "caption" : "Prohibition",
+    "contentUrl" : "prohibitionwine.jpg"
+  }, {
+    "@id" : "_:b34",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.891154,
+    "schema:longitude" : -77.0318748,
+    "name" : "Smithsonian+National+Museum+of+American+History"
+  }, {
+    "@id" : "_:b35",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.5092357,
+    "schema:longitude" : -122.6340857,
+    "name" : "Napa+County,+CA"
+  }, {
+    "@id" : "_:b36",
+    "@type" : "schema:Place",
+    "schema:latitude" : 55.5807482,
+    "schema:longitude" : 36.825156,
+    "name" : "Moscow,+Russia"
+  }, {
+    "@id" : "_:b37",
+    "@type" : "schema:Place",
+    "schema:latitude" : 40.3769194,
+    "schema:longitude" : -81.0484721,
+    "name" : "Jefferson+County,+OH"
+  }, {
+    "@id" : "_:b38",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.4601114,
+    "schema:longitude" : -122.4254779,
+    "name" : "Beaulieu+Vineyard"
+  }, {
+    "@id" : "_:b39",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.4601114,
+    "schema:longitude" : -122.4254725,
+    "name" : "Beaulieu+Vineyard"
+  }, {
+    "@id" : "_:b4",
+    "@type" : "schema:Place",
+    "schema:latitude" : 45.6100012,
+    "schema:longitude" : -122.4907775,
+    "name" : "Camas,+WA"
+  }, {
+    "@id" : "_:b40",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.9028753,
+    "schema:longitude" : -82.4304732,
+    "name" : "West+Virginia"
+  }, {
+    "@id" : "_:b5",
+    "@type" : "schema:Place",
+    "schema:latitude" : 44.7453086,
+    "schema:longitude" : 1.1545981,
+    "name" : "24250+Daglan,+France"
+  }, {
+    "@id" : "_:b6",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.5082339,
+    "schema:longitude" : -122.9143623,
+    "name" : "Napa+County,+CA"
+  }, {
+    "@id" : "_:b7",
     "@type" : "schema:Place",
     "schema:latitude" : 37.7576171,
     "schema:longitude" : -122.5776844,
     "name" : "San+Francisco,+CA"
   }, {
+    "@id" : "_:b8",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.5331246,
+    "schema:longitude" : -121.7528637,
+    "name" : "Department+of+Viticulture+and+Enology"
+  }, {
     "@id" : "_:b9",
     "@type" : "schema:Place",
-    "schema:latitude" : 38.5082339,
-    "schema:longitude" : -122.9143623,
-    "name" : "Napa+County,+CA"
+    "schema:latitude" : 37.7576171,
+    "schema:longitude" : -122.5776844,
+    "name" : "San+Francisco,+CA"
   }, {
     "@id" : "https://trello.com/c/f2kb4l3W",
     "lxZyDulC" : "9zztPKSK"
@@ -278,9 +278,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.heitzcellar.com/purchase-2/marthas-vineyard-cabernet-sauvignon-oakville-napa-valley/", "https://www.rarewineco.com/producer/heitz-marthas-vineyard-cabernet/", "https://grapecollective.com/articles/fifty-years-later-its-still-a-classic-the-heitz-marthas-story" ],
     "relatedLinkText" : [ "Martha's Vineyard Cabarnet Sauvignon", "Fifty Years Later, It's Still a Classic: The Heitz Martha's Story", "Heitz Cellars" ],
-    "spatial" : [ {
-      "@id" : "_:b2"
-    }, "Oakville AVA, California" ],
+    "schema:spatial" : "Oakville AVA, California",
+    "spatial" : "_:b1",
     "temporal" : "early 1960s",
     "thumbnail" : "z:1dSpPRow/marthas-vineyard-cab.jpg",
     "2TxdoM3L_rev" : "EudsQJG8",
@@ -299,9 +298,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "http://www.gusclemensonwine.com/louis-m-martini-cabernet-sauvignon-alexander-valley-sonoma-county-2013/", "https://www.napavalley.com/blog/the-new-louis-martini-winery/", "http://www.leadersmag.com/issues/2009.1_jan/pdfs/martini.pdf", "https://www.library.ucdavis.edu/news/stories-behind-historic-judgment-of-paris-wine-tasting-illuminated-in-new-uc-davis-library-collections-exhibit/", "https://www.louismartini.com/visit-the-winery/virtual-tour", "https://digital.ucdavis.edu/collection/amerine-menus/D-060/41/78/d7ng97" ],
     "relatedLinkText" : [ "Napa's Newest Destination: Louis M. Martini Winery", "The World of Wine: A Cabernet Sauvignon Focus", "Louis M. Martini - Wine List", "Louis M. Martini Cabernet Sauvignon Alexander Valley Sonoma County 2013", "Louis M. Martini Winery Virtual Tour", "Stories Behind Historic 'Judgment of Paris' Wine Tasting Illuminated in New UC Davis Library Collections, Exhibit" ],
-    "spatial" : [ "St. Helena, California", {
-      "@id" : "_:b33"
-    } ],
+    "schema:spatial" : "St. Helena, California",
+    "spatial" : "_:b28",
     "temporal" : "1933/present",
     "thumbnail" : "z:2BvkysPk/visitthewinery_hero_m_(1).jpg",
     "k7pPNtTY_rev" : "rORWEXM8"
@@ -327,9 +325,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.winetrain.com/tasting-notes/the-history-of-cabernet-sauvignon-in-napa/", "https://www.thewinecellarinsider.com/california-wine/california-wine-history-from-early-plantings-in-1800s-to-today/", "https://www.napawineproject.com/del-dotto-vineyards/" ],
     "relatedLinkText" : [ "Napa Valley Wine Train: The History of Cabernet Sauvignon in Napa", "Del Dotto Vineyards", "Complete Napa Valley California Wine History from Early 1800's to Today" ],
-    "spatial" : [ {
-      "@id" : "_:b15"
-    }, "Pennsylvania" ],
+    "schema:spatial" : "Pennsylvania",
+    "spatial" : "_:b13",
     "temporal" : "1833/1903",
     "thumbnail" : "z:2fUJx2Mg/morris-estee.jpg",
     "buqHYhc6" : "q11Q8URd"
@@ -422,9 +419,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "http://iv.ucdavis.edu/files/24325.pdf", "https://www.louismartini.com/wines/overview#signature-cabernets" ],
     "relatedLinkText" : [ "Our Wines: Signature Cabernets", "UC Davis: Cabernet Sauvignon (PDF)" ],
-    "spatial" : [ {
-      "@id" : "_:b4"
-    }, "Napa County, California" ],
+    "schema:spatial" : "Napa County, California",
+    "spatial" : "_:b6",
     "temporal" : "1952",
     "thumbnail" : "z:9zztPKSK/Louis_Martini_Cabernet_Sauvignon.jpg",
     "8FTr7RCO_rev" : "rORWEXM8",
@@ -451,9 +447,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.guildsomm.com/public_content/features/articles/b/stamp/posts/the-true-story-of-to-kalon-vineyard", "https://www.winespectator.com/articles/robert-mondavi-winery-sits-in-the-to-kalon-vineyard-its-owner-says-theres-no-such-place" ],
     "relatedLinkText" : [ "Robert Mondavi Winery Sits in the To Kalon Vineyard. Its Owner Says There's No Such Place", "The True Story of the To-Kalon Vineyard" ],
-    "spatial" : [ "Oakville, California", {
-      "@id" : "_:b14"
-    } ],
+    "schema:spatial" : "Oakville, California",
+    "spatial" : "_:b15",
     "temporal" : "1868/present",
     "thumbnail" : "z:CO6cdKPi/to-kalon.jpg",
     "9R3eH5fc_rev" : "YHlh2fTx",
@@ -470,9 +465,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://www.rodneystrong.com/our-story/vineyards/",
     "relatedLinkText" : "Rodney Strong Vineyard: Alexander's Crown",
-    "spatial" : [ "Healdsburg, California", {
-      "@id" : "_:b20"
-    } ],
+    "schema:spatial" : "Healdsburg, California",
+    "spatial" : "_:b26",
     "temporal" : "1974/Present",
     "thumbnail" : "z:CeuhezRP/e4f7432e-3d7c-447f-9006-fbba276c4765.jpg",
     "WkGe7yhA_rev" : "vY8bvxxy"
@@ -487,9 +481,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://search.library.ucdavis.edu/permalink/f/f5oast/01UCD_ALMA21238926140003126", "https://www.ucdavis.edu/news/harold-olmo-pioneering-wine-grape-scientist-and-other-obituaries/", "http://iv.ucdavis.edu/files/24489.pdf", "https://www.nytimes.com/2006/07/12/us/12olmo.html", "https://ohc-search.lib.berkeley.edu/catalog/MASTER_292" ],
     "relatedLinkText" : [ "Harold Olmo, 96, Who Created Many Grape Varieties, is Dead", "Plant Genetics and New Grape Varieties: Transcript, 1973", "Harold P. Olmo Papers", "Harold Olmo: Pioneering Wine, Grape Scientist, and Other Obituaries", "Foundation Plant Services FPS Grape Program Newsletter November 2007: Chardonnay History and Selections at FPS" ],
-    "spatial" : [ "San Francisco, California", {
-      "@id" : "_:b8"
-    } ],
+    "spatial" : "_:b9",
+    "schema:spatial" : "San Francisco, California",
     "temporal" : "1906/2006",
     "thumbnail" : "z:CkPBD3at/harold-olmo.jpg",
     "16QzRMPk" : "nRyFlMtg",
@@ -518,9 +511,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.winespectator.com/articles/farewell-to-a-friend-barney-rhodes-dies-at-88-15479", "https://www.winespectator.com/articles/remembering-a-napa-belle-14763", "https://www.sfgate.com/bayarea/article/APPRECIATION-Belle-Rhodes-Napa-Valley-s-2611851.php" ],
     "relatedLinkText" : [ "APPRECIATION / Belle Rhodes -- Napa Valley's Patron of the Culinary Arts", "Farewell to a Friend: Barney Rhodes Dies at 88", "Remembering a Napa Belle" ],
-    "spatial" : [ "West Virginia", {
-      "@id" : "_:b7"
-    } ],
+    "schema:spatial" : "West Virginia",
+    "spatial" : "_:b40",
     "temporal" : "1920/2007",
     "thumbnail" : "z:EudsQJG8/Belle_and_Barney_Rhodes.jpg",
     "2TxdoM3L" : "1dSpPRow"
@@ -535,9 +527,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://wineserver.ucdavis.edu/about/facilities/oakville-station", "https://wineserver.ucdavis.edu/about/facilities/vineyards/oakville-vineyard", "https://wineserver.ucdavis.edu/about/facilities/oakville-station/harry-e-jacob-research-facility" ],
     "relatedLinkText" : [ "UC Davis Viticulture and Enology: Oakville Vineyard", "UC Davis Viticulture and Enology: Oakville Station", "UC Davis: Harry E. Jacob Research Facility" ],
-    "spatial" : [ {
-      "@id" : "_:b9"
-    }, "Napa County, California" ],
+    "schema:spatial" : "Napa County, California",
+    "spatial" : "_:b10",
     "temporal" : "1903/Present",
     "thumbnail" : "z:GIKEjGBM/Oakville-2.jpg",
     "2kj7WJkJ_rev" : "nzmxlWBp",
@@ -564,9 +555,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.winespectator.com/articles/the-glory-that-was-inglenook-1057", "https://www.library.ucdavis.edu/archives-and-special-collections/manuscripts/viticulture-and-enology/", "http://www.napawineproject.com/inglenook-estate/", "https://www.library.ucdavis.edu/news/toast-amerines-105th-birthday-great-california-wines/" ],
     "relatedLinkText" : [ "The Glory That Was Inglenook", "Viticulture and Enology Manuscripts", "A Toast on Amerine’s 105th Birthday: Great California Wines", "Inglenook Estate" ],
-    "spatial" : [ {
-      "@id" : "_:b30"
-    }, "Rutherford, California" ],
+    "schema:spatial" : "Rutherford, California",
+    "spatial" : "_:b31",
     "temporal" : "1879",
     "thumbnail" : "z:H99S57Wj/image.jpg",
     "QEffs32v_rev" : "naJ3QVEJ"
@@ -600,9 +590,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://www.robertmondaviwinery.com/",
     "relatedLinkText" : "Robert Mondavi Winery",
-    "spatial" : [ "Oakville, California", {
-      "@id" : "_:b3"
-    } ],
+    "schema:spatial" : "Oakville, California",
+    "spatial" : "_:b20",
     "temporal" : "1966/Present",
     "thumbnail" : "z:KLFUtPhh/361_893d26bd-5056-a36a-0886260166116f74.jpg",
     "168F9lUQ_rev" : "btYMeSO7",
@@ -618,9 +607,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://digitalassets.lib.berkeley.edu/roho/ucb/text/tchelistcheff_andre_w.pdf",
     "relatedLinkText" : "Bancroft Library California Wine Industry Oral History Project: André Tchelistcheff",
-    "spatial" : [ {
-      "@id" : "_:b24"
-    }, "Daglan, France" ],
+    "spatial" : "_:b5",
+    "schema:spatial" : "Daglan, France",
     "temporal" : "1856/1940",
     "thumbnail" : "z:LfGyUhGE/BV-Georges-de-Latour-240x300.jpg",
     "RGKzdwH3" : "SNQntFO5",
@@ -673,7 +661,7 @@
   }, {
     "@id" : "RlhV8fYi",
     "@type" : [ "schema:WebPage", "ucdlib:Story" ],
-    "image" : [ "_:b35", "_:b34", "_:b28" ],
+    "image" : [ "_:b3", "_:b32", "_:b33" ],
     "label" : "Story: Triptych",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Triptych",
@@ -689,9 +677,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "http://themaestrofilm.com/thestory.htm", "https://digitalassets.lib.berkeley.edu/roho/ucb/text/tchelistcheff_andre_w.pdf", "https://en.wikipedia.org/wiki/Andr%C3%A9_Tchelistcheff", "https://www.britannica.com/biography/Andre-Tchelistcheff", "https://www.library.ucdavis.edu/news/stories-behind-historic-judgment-of-paris-wine-tasting-illuminated-in-new-uc-davis-library-collections-exhibit/", "https://www.nytimes.com/1994/04/07/obituaries/andre-tchelistcheff-92-authority-on-wine.html" ],
     "relatedLinkText" : [ "Encyclopedia Britannica: André Tchelistcheff", "Wikipedia: André Tchelistcheff", "Bancroft Library California Wine Industry Oral History Project: André Tchelistcheff", "André: The Voice of Wine", "Stories Behind Historic “Judgment of Paris” Wine Tasting Illuminated in New UC Davis Library Collections, Exhibit", "Andre Tchelistcheff, 92, Authority on Wine" ],
-    "spatial" : [ {
-      "@id" : "_:b31"
-    }, "Moscow, Russia" ],
+    "spatial" : "_:b36",
+    "schema:spatial" : "Moscow, Russia",
     "temporal" : "December 7, 1901/April 5, 1994",
     "thumbnail" : "z:SNQntFO5/andre-tchelistcheff.jpg",
     "4zI2WEr2" : "cqoj06Ga",
@@ -753,9 +740,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Stag%27s_Leap_Wine_Cellars", "https://www.stagsleapwinecellars.com/our-story/history" ],
     "relatedLinkText" : [ "Stag's Leap Wine Cellars: Our History", "Stag's Leap Wine Cellars" ],
-    "spatial" : [ {
-      "@id" : "_:b13"
-    }, "Napa, California" ],
+    "schema:spatial" : "Napa, California",
+    "spatial" : "_:b2",
     "temporal" : "1970/present",
     "thumbnail" : "z:WUqXfCtS/stagsleapwc.jpg",
     "Nbrzdt4I" : "YBRz41aa",
@@ -805,9 +791,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://www.winespectator.com/articles/heitz-marthas-vineyard-tom-may",
     "relatedLinkText" : "Remembering Tom May",
-    "spatial" : [ "Ojai, California", {
-      "@id" : "_:b1"
-    } ],
+    "spatial" : "_:b0",
+    "schema:spatial" : "Ojai, California",
     "temporal" : "1934/2017",
     "thumbnail" : "z:Xgldhg8n/JL_May110317_540.jpg",
     "fXUzhiij" : "1dSpPRow"
@@ -822,9 +807,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Judgment_of_Paris_(wine)", "https://www.smithsonianmag.com/smithsonian-institution/that-revolutionary-May-day-1976-when-california-wines-bested-france-finest-180958971/", "https://www.thespruceeats.com/the-judgment-of-paris-3510929", "https://www.npr.org/sections/thesalt/2016/05/24/479163882/the-judgment-of-paris-the-blind-taste-test-that-decanted-the-wine-world" ],
     "relatedLinkText" : [ "The 1976 Paris Wine Tasting", "Judgment of Paris (wine)", "The Judgment Of Paris: The Blind Taste Test That Decanted The Wine World", "That Revolutionary May Day in 1976 When California Wines Bested France’s Finest" ],
-    "spatial" : [ {
-      "@id" : "_:b19"
-    }, "Paris, France" ],
+    "spatial" : "_:b23",
+    "schema:spatial" : "Paris, France",
     "temporal" : "May 24, 1976",
     "thumbnail" : "z:YBRz41aa/jop.jpg",
     "Nbrzdt4I_rev" : "WUqXfCtS",
@@ -841,9 +825,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.thewinecellarinsider.com/california-wine/california-wine-history-from-early-plantings-in-1800s-to-today/", "http://wineindustryinsight.com/@/VineyardHouse-v-Constellation/ToKalon-HistoricLandscapesSurvey-NatlParkSvc-HALS-CA-139.pdf", "http://fps.ucdavis.edu/grapebook/winebook.cfm?chap=Chardonnay", "http://historyofto-kalon.com/?page_id=206", "http://iv.ucdavis.edu/files/121462.pdf" ],
     "relatedLinkText" : [ "Cabernet Sauvignon at FPS", "Complete Napa Valley California Wine History from Early 1800’s to Today", "Wine Grapes of UC Davis: Chardonnay", "Historic American Ladscapes Survey: To-Kalon Vineyard", "California Historical Society / History of To-Kalon" ],
-    "spatial" : [ "Jefferson County, Ohio", {
-      "@id" : "_:b29"
-    } ],
+    "schema:spatial" : "Jefferson County, Ohio",
+    "spatial" : "_:b37",
     "temporal" : "1828/1899",
     "thumbnail" : "z:YHlh2fTx/hwcrabb.jpg",
     "9R3eH5fc" : "CO6cdKPi"
@@ -877,9 +860,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.rarewineco.com/producer/heitz-marthas-vineyard-cabernet/", "https://www.heitzcellar.com/" ],
     "relatedLinkText" : [ "Heitz Cellars Merchant Bio", "Heitz Cellar" ],
-    "spatial" : [ "St. Helena, California", {
-      "@id" : "_:b39"
-    } ],
+    "schema:spatial" : "St. Helena, California",
+    "spatial" : "_:b27",
     "temporal" : "1961",
     "thumbnail" : "z:aKEPijg2/heitz-cab-1977.jpg",
     "QFX0YYRk_rev" : "4OB05MBQ",
@@ -917,9 +899,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.youtube.com/watch?v=vxEGgWVdxQ8&list=PLOV2wxlHt_ZntavGkb6o72FZ2xJ-YgFO1", "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/", "https://www.library.ucdavis.edu/news/who-is-maynard-amerine/" ],
     "relatedLinkText" : [ "Maynard Amerine manuscript collection at UC Davis Library", "Video of Introduction to Winemaking (VEN3) sessions taught by Vernon Singleton and Maynard Amerine", "Who is Maynard Amerine?" ],
-    "spatial" : [ {
-      "@id" : "_:b10"
-    }, "San Jose, California" ],
+    "schema:spatial" : "San Jose, California",
+    "spatial" : "_:b11",
     "temporal" : "1911/1998",
     "thumbnail" : "z:bspq6IkX/amerine_maynard_a.jpg",
     "iaWPyRKm_rev" : "SNQntFO5",
@@ -927,7 +908,7 @@
   }, {
     "@id" : "btYMeSO7",
     "@type" : [ "schema:Person", "schema:WebPage" ],
-    "creator" : "https://www.forbes.com/sites/katiebell/2013/06/10/a-century-of-robert-mondavi-celebrating-the-father-of-american-wines-100th-2/#1754da277249",
+    "creator" : "https://www.forbes.com/sites/katiebell/2013/06/10/a-century-of-robert-mondavi-celebrating-the-father-of-american-wines-100th-2/",
     "schema:creator" : "Forbes",
     "description" : "Robert Mondavi was born in Minnesota. His family moved to Lodi, California. After high school, he attended Stanford University. He graduated in 1936 with a degree in economics and business administration. In 1966, he founded the Robert Mondavi Winery in Napa, California. The winery focused on creating wines that reflected the winemaking traditions of Europe. He founded the Opus One Project with Baron Philippe de Rothschild in 1980 which was the was the first high-profile cooperative venture between European and American vintners. He also launched the Mission Program which intended to redefine the place of wine in daily life. He married his long-time friend and colleague, Margaret Biever. Together, they have many contributions to UC Davis in arts and wine research.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
@@ -935,9 +916,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.library.ucdavis.edu/archives-and-special-collections/mondavi/mondavipapers/", "https://www.ucdavis.edu/news/robert-mondavi-his-name-lives/", "https://rmi.ucdavis.edu/robert-mondavi", "https://www.library.ucdavis.edu/archives-and-special-collections/mondavi/robert-g-mondavi/", "https://www.nytimes.com/2008/05/17/business/17mondavi.html" ],
     "relatedLinkText" : [ "Robert G. Mondavi Papers", "Robert Mondavi, Napa Wine Champion, Dies at 94", "Robert Mondavi: His Name Lives On", "Robert G. Mondavi", "Robert Mondavi Institute for Wine and Food Science: Robert Mondavi" ],
-    "spatial" : [ {
-      "@id" : "_:b16"
-    }, "Virginia, Minnesota" ],
+    "schema:spatial" : "Virginia, Minnesota",
+    "spatial" : "_:b29",
     "temporal" : "1913/2008",
     "thumbnail" : "z:btYMeSO7/https_3A_2F_2Fspecials-images.forbes.com_2Fimageserve_2F02UK1xfbZK9iJ_2F960x960.jpg_3Ffit_3Dscale_26background_3D000000.jpeg",
     "168F9lUQ" : "KLFUtPhh"
@@ -963,9 +943,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://fps.ucdavis.edu/grapebook/winebook.cfm?chap=Bordeaux", "http://iv.ucdavis.edu/files/121462.pdf", "http://iv.ucdavis.edu/files/24325.pdf", "https://fps.ucdavis.edu/varietyfocuscabernet.cfm", "https://www.kenwoodpress.com/pub/a/8967?full=1" ],
     "relatedLinkText" : [ "Cabernet Sauvignon at FPS", "FPS Grape Variety Focus - Cabernet Sauvignon", "The Black Grapes of Bordeaux", "Cabernet Sauvignon", "Kenwood Press: James Drummon, 'Wine Hero'" ],
-    "spatial" : [ {
-      "@id" : "_:b23"
-    }, "England, United Kingdom" ],
+    "spatial" : "_:b22",
+    "schema:spatial" : "England, United Kingdom",
     "temporal" : "1812/1895",
     "thumbnail" : "z:cgrJ3Yzm/mw1261644444.jpg",
     "s599W2Ta" : "gSUZfXGi"
@@ -980,9 +959,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.foodandwine.com/wine/inside-making-napas-most-iconic-cabernet", "https://digitalassets.lib.berkeley.edu/roho/ucb/text/tchelistcheff_andre__w.pdf", "https://vinous.com/articles/vertical-tasting-of-beaulieu-vineyard-s-georges-de-latour-private-reserve-cabernet-sauvignon-apr-2019" ],
     "relatedLinkText" : [ "Inside the Making of Napa's Most Iconic Cabernet", "Vertical Tasting of Beaulieu Vineyard’s Georges de Latour Private Reserve Cabernet Sauvignon: 1965–2016", "California Wine Industry Oral History Project: André Tchelistcheff" ],
-    "spatial" : [ {
-      "@id" : "_:b5"
-    }, "Rutherford, California" ],
+    "spatial" : "_:b38",
+    "schema:spatial" : "Rutherford, California",
     "temporal" : "1936/Present",
     "thumbnail" : "z:cqoj06Ga/bv-georges-de-latour-private-reserve-cabernet-sauvignon.jpg",
     "4zI2WEr2_rev" : "SNQntFO5",
@@ -1021,9 +999,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://americanhistory.si.edu/collections/search/object/nmah_1297104", "https://www.stagsleapwinecellars.com/our-story/history/paris-tasting" ],
     "relatedLinkText" : [ "1973 Stag's Leap Wine Cellars Cabernet Sauvignon", "Our Story: The 1976 Paris Tasting" ],
-    "spatial" : [ {
-      "@id" : "_:b36"
-    }, "Napa, California" ],
+    "spatial" : "_:b21",
+    "schema:spatial" : "Napa, California",
     "temporal" : "1973",
     "thumbnail" : "z:e9Bh4geY/1973slv.jpg",
     "GvFmxsDj_rev" : "gxm5XETt",
@@ -1041,9 +1018,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://wineserver.ucdavis.edu/giving/scholarhips-endowments/louis-p-martini-endowed-chair-fund", "https://napavalleyregister.com/community/star/news/years-of-history-at-louis-m-martini-winery/article_f2ada8ab-d828-555f-aa50-e41a726d89ca.html", "https://www.sfgate.com/news/article/Louis-P-Martini-Napa-Valley-Winemaker-2989663.php", "https://americanhistory.si.edu/food/wine-table/stainless-steel-and-cold-fermentation", "https://digitalassets.lib.berkeley.edu/roho/ucb/text/martini_louis_m_and_louis_p__w.pdf" ],
     "relatedLinkText" : [ "Louis P. Martini Endowed Chair Fund", "Louis P. Martini: Wine Making in the Napa Valley (Oral History)", "Louis P. Martini: Napa Valley Winemaker", "Years of History at Louis M. Martini Winery", "Stainless Steel and Cold Fermentation" ],
-    "spatial" : [ {
-      "@id" : "_:b27"
-    }, "Livermore, California" ],
+    "spatial" : "_:b14",
+    "schema:spatial" : "Livermore, California",
     "temporal" : "1918/1998",
     "thumbnail" : "z:f2kb4l3W/martini-louis-p2.jpg"
   }, {
@@ -1089,9 +1065,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.latimes.com/archives/la-xpm-1991-09-05-fo-2422-story.html", "http://berkeleyheritage.com/essays/beltane.html" ],
     "relatedLinkText" : [ "Two Hot (and Brave) New Wineries", "Beltane Ranch: From ‘Dusty Place’ to‘Mammy’s Place’" ],
-    "spatial" : [ {
-      "@id" : "_:b11"
-    }, "Glen Ellen, California" ],
+    "spatial" : "_:b12",
+    "schema:spatial" : "Glen Ellen, California",
     "temporal" : "1878",
     "thumbnail" : "z:gSUZfXGi/dunfillan.jpg",
     "s599W2Ta_rev" : "cgrJ3Yzm"
@@ -1106,9 +1081,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://americanhistory.si.edu/food/wine-table/judgment-paris", "https://en.wikipedia.org/wiki/National_Museum_of_American_History" ],
     "relatedLinkText" : [ "National Museum of American History", "FOOD: Judgment of Paris" ],
-    "spatial" : [ "Washington, DC", {
-      "@id" : "_:b37"
-    } ],
+    "spatial" : "_:b34",
+    "schema:spatial" : "Washington, DC",
     "temporal" : "1964/present",
     "thumbnail" : "z:gxm5XETt/national-museum-american-history.jpg",
     "GvFmxsDj" : "e9Bh4geY"
@@ -1123,9 +1097,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.sfgate.com/bayarea/article/APPRECIATION-Belle-Rhodes-Napa-Valley-s-2611851.php", "https://www.winespectator.com/articles/farewell-to-a-friend-barney-rhodes-dies-at-88-15479", "https://www.winespectator.com/articles/remembering-a-napa-belle-14763" ],
     "relatedLinkText" : [ "APPRECIATION / Belle Rhodes -- Napa Valley's Patron of the Culinary Arts", "Farewell to a Friend: Barney Rhodes Dies at 88", "Remembering a Napa Belle" ],
-    "spatial" : [ {
-      "@id" : "_:b12"
-    }, "West Virginia" ],
+    "spatial" : "_:b30",
+    "schema:spatial" : "West Virginia",
     "temporal" : "1920/2008",
     "thumbnail" : "z:iDRcL0ZZ/Belle_and_Barney_Rhodes.jpg",
     "XUbPPC9j" : "1dSpPRow"
@@ -1140,9 +1113,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.sacbee.com/food-drink/wine/dunne-on-wine/article102135322.html", "https://www.sfgate.com/bayarea/article/NAPA-VALLEY-STUNNER-FAMED-WINERY-SOLD-Vintner-3416127.php", "https://www.californiamuseum.org/inductee/warren-winiarski", "https://en.wikipedia.org/wiki/Warren_Winiarski" ],
     "relatedLinkText" : [ "Warren Winiarski", "Warren Winiarski Reflects on Half a Century of Making Wine in California", "California Hall of Fame: Warren Winiarski", "Napa Valley Stunner – Famed Winery Sold" ],
-    "spatial" : [ {
-      "@id" : "_:b18"
-    }, "Chicago, Illinois" ],
+    "schema:spatial" : "Chicago, Illinois",
+    "spatial" : "_:b17",
     "temporal" : "1928/present",
     "thumbnail" : "z:iO3Mv5Ho/warren-winiarski.jpg",
     "J3cwCVnv_rev" : "SNQntFO5",
@@ -1181,9 +1153,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "http://www.napawineproject.com/beaulieu-vineyard/", "https://rutherforddust.org/history/", "https://en.wikipedia.org/wiki/Beaulieu_Vineyard", "https://www.bvwines.com/en-us/heritage" ],
     "relatedLinkText" : [ "Our Heritage", "Beaulieu Vineyard", "Grapegrowing and Winemaking in Rutherford" ],
-    "spatial" : [ "Rutherford, California", {
-      "@id" : "_:b38"
-    } ],
+    "schema:spatial" : "Rutherford, California",
+    "spatial" : "_:b39",
     "temporal" : "1900/Present",
     "thumbnail" : "z:lNnHt1NO/Beaulieu.jpg",
     "awbXocd6_rev" : "LfGyUhGE",
@@ -1210,9 +1181,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://patch.com/california/davis/digitizing-renowned-viticulturist-s-papers", "https://fps.ucdavis.edu/grapebook/winebook.cfm?chap=FPSHistory2", "https://fps.ucdavis.edu/WebSitePDFs/Newsletters&Publications/GrapeNewsletterOct2008.pdf", "https://fps.ucdavis.edu/fgrdetails.cfm?varietyid=356" ],
     "relatedLinkText" : [ "Patch: Digitizing The Papers Of Renowned UC Davis Viticulturist", "FPS Grape Program Newsletter", "Grape Variety: Cabernet Sauvignon", "US Grapes: FPS Into the 21st Century" ],
-    "spatial" : [ {
-      "@id" : "_:b22"
-    }, "Larkmead Vineyards, California" ],
+    "schema:spatial" : "Larkmead Vineyards, California",
+    "spatial" : "_:b24",
     "temporal" : "Circa 1940",
     "thumbnail" : "z:nRyFlMtg/Cabsauv02.jpg",
     "16QzRMPk_rev" : "CkPBD3at",
@@ -1230,9 +1200,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.inglenook.com/story/history", "https://wineserver.ucdavis.edu/about/facilities/vineyards/oakville-vineyard", "https://www.lailvineyards.com/Since-1879/John-Daniel-Jr-", "https://news.bftv.ucdavis.edu/viticulture-and-enology/ven-celebrates-140th-anniversary-2020" ],
     "relatedLinkText" : [ "Oakville Vineyard", "BFTV Cluster News: VEN celebrates 140th anniversary in 2020 with special Alumni Day", "John Daniel, Jr.: The Visionary", "Inglenook: History" ],
-    "spatial" : [ "San Francisco, California", {
-      "@id" : "_:b6"
-    } ],
+    "spatial" : "_:b7",
+    "schema:spatial" : "San Francisco, California",
     "temporal" : "1907/1970",
     "thumbnail" : "z:naJ3QVEJ/John-Daniel4.jpg",
     "QEffs32v" : "H99S57Wj"
@@ -1247,9 +1216,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://wineserver.ucdavis.edu/", "https://www.library.ucdavis.edu/alumni-friends/areas-to-support/collections-academic-disciplines/wine/", "https://en.wikipedia.org/wiki/University_of_California,_Davis" ],
     "relatedLinkText" : [ "UC Davis Viticulture & Enology", "Inside the ‘Greatest Wine Library in the World’", "University of California, Davis" ],
-    "spatial" : [ "Davis, California", {
-      "@id" : "_:b0"
-    } ],
+    "schema:spatial" : "Davis, California",
+    "spatial" : "_:b8",
     "temporal" : "1906/present",
     "thumbnail" : "z:nzmxlWBp/ucd-vineyards.jpg",
     "2kj7WJkJ" : "GIKEjGBM",
@@ -1276,9 +1244,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.thewinecellarinsider.com/california-wine/california-wine-history-from-early-plantings-in-1800s-to-today/", "https://napavalleyregister.com/lifestyles/ghost-tour-visits-the-haunts-of-vintners-past/article_51552484-0e24-5e08-8ed3-0c46a77fb13b.html" ],
     "relatedLinkText" : [ "Complete Napa Valley California Wine History from Early 1800s to Today", "Ghost Tour Visits the Haunts of Vintners Past" ],
-    "spatial" : [ "Napa Valley, California", {
-      "@id" : "_:b40"
-    } ],
+    "spatial" : "_:b18",
+    "schema:spatial" : "Napa Valley, California",
     "temporal" : "1876",
     "thumbnail" : "z:q11Q8URd/Hedgeside_Winery.jpg",
     "buqHYhc6_rev" : "2fUJx2Mg"
@@ -1293,9 +1260,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.nytimes.com/2019/09/05/dining/drinks/wine-heitz-cellar-cabernet-sauvignon.html", "https://www.heitzcellar.com/", "https://en.wikipedia.org/wiki/Heitz_Wine_Cellars" ],
     "relatedLinkText" : [ "Heitz Wine Cellar", "Heitz Cellar", "For Historic Heitz in Napa, a New Team but Some Old Methods" ],
-    "spatial" : [ {
-      "@id" : "_:b25"
-    }, "St. Helena, California" ],
+    "spatial" : "_:b25",
+    "schema:spatial" : "St. Helena, California",
     "temporal" : "1961/present",
     "thumbnail" : "z:q2lHlTcV/heitz-cellar.jpg",
     "dV2lYvaP_rev" : "4OB05MBQ"
@@ -1332,9 +1298,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://digital.ucdavis.edu/collection/amerine-menus/D-060/39/140/d7fm0b/media/images/d7fm0b-0.png", "https://napavalleyregister.com/wine/the-martini-legacy/article_36bb41e1-fa64-5ffa-907a-ebb200dc4c26.html", "https://digital.ucdavis.edu/collection/amerine-menus/D-060/41/78/d7ng97", "https://daily.sevenfifty.com/understanding-the-legacy-of-napa-pioneer-louis-m-martini/", "http://www.napawineproject.com/louis-martini-winery/" ],
     "relatedLinkText" : [ "Amerine (Maynard) Menu Collection: Wine List", "Louis M. Martini Winery", "Understanding the Legacy of Napa Pioneer Louis M. Martini", "Amerine (Maynard) Menu Collection: A Day of Monte Rosso with Louis M. Martini", "The Martini Legacy" ],
-    "spatial" : [ "Genoa, Italy", {
-      "@id" : "_:b21"
-    } ],
+    "schema:spatial" : "Genoa, Italy",
+    "spatial" : "_:b19",
     "temporal" : "1887/1974",
     "thumbnail" : "z:rORWEXM8/ourhistory_1954_(2).jpg",
     "8FTr7RCO" : "9zztPKSK",
@@ -1350,9 +1315,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.library.ucdavis.edu/news/uc-davis-library-receives-gift-to-preserve-work-of-one-of-historys-top-viticulturists/", "https://napawinetaste.com/wine/article_4fe0d192-550c-11ea-b6c3-73de2f23f51b.html", "https://www.frankfamilyvineyards.com/about", "http://www.napawineproject.com/larkmead-vineyards/", "https://www.larkmead.com/pages/vineyards/" ],
     "relatedLinkText" : [ "Larkmead: Vineyards", "About Frank Family Vineyards", "UC Davis Library Receives Gift to Preserve Work of One of History’s Top Viticulturists", "First Person: A legacy of land and family at Larkmead Vineyards", "The Napa Wine Project: Larkmead Vineyards" ],
-    "spatial" : [ {
-      "@id" : "_:b32"
-    }, "Napa County, California" ],
+    "spatial" : "_:b35",
+    "schema:spatial" : "Napa County, California",
     "temporal" : "1895",
     "thumbnail" : "z:rxoqPmh9/https_3A_2F_2Fblogs-images.forbes.com_2Fjohnmariani_2Ffiles_2F2019_2F04_2FLARK-VINEYARD-1200x800.jpg",
     "e7y26aQG_rev" : "CkPBD3at",
@@ -1390,9 +1354,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://digitalassets.lib.berkeley.edu/roho/ucb/text/strong_rodney.pdf", "https://www.pressdemocrat.com/news/2107559-181/former-dancer-helped-transform-sonoma" ],
     "relatedLinkText" : [ "Rodney Strong Vineyards: Creative Winemaking and Winery Management in Sonoma County", "Former Dancer Helped Transform Sonoma County into Wine Superpower" ],
-    "spatial" : [ {
-      "@id" : "_:b26"
-    }, "Camas, Washington" ],
+    "spatial" : "_:b4",
+    "schema:spatial" : "Camas, Washington",
     "temporal" : "1927/2006",
     "thumbnail" : "z:vY8bvxxy/920x920.jpg",
     "WkGe7yhA" : "CeuhezRP"
@@ -1429,9 +1392,8 @@
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "http://www.beckstoffervineyards.com/roots/history/andy-beckstoffer/", "https://youtu.be/gmZeAi9TPas" ],
     "relatedLinkText" : [ "Latife Hayson: Andy Beckstoffer, Beckstoffer Vineyards", "Andy Beckstoffer" ],
-    "spatial" : [ "Richmond, Virginia", {
-      "@id" : "_:b17"
-    } ],
+    "schema:spatial" : "Richmond, Virginia",
+    "spatial" : "_:b16",
     "temporal" : "1973/Present",
     "thumbnail" : "z:yPuj4Iv8/OB-NE127_winene_G_20110322155318.jpg",
     "U8GL3707" : "CO6cdKPi"
@@ -1448,14 +1410,6 @@
     "name" : "sourced from"
   } ],
   "@context" : {
-    "longitude" : {
-      "@id" : "http://schema.org/longitude",
-      "@type" : "http://www.w3.org/2001/XMLSchema#double"
-    },
-    "latitude" : {
-      "@id" : "http://schema.org/latitude",
-      "@type" : "http://www.w3.org/2001/XMLSchema#double"
-    },
     "name" : {
       "@id" : "http://schema.org/name"
     },
@@ -1465,6 +1419,10 @@
     },
     "relatedLink" : {
       "@id" : "http://schema.org/relatedLink",
+      "@type" : "@id"
+    },
+    "spatial" : {
+      "@id" : "http://schema.org/spatial",
       "@type" : "@id"
     },
     "description" : {
@@ -1483,9 +1441,6 @@
     "fXUzhiij" : {
       "@id" : "fXUzhiij",
       "@type" : "@id"
-    },
-    "spatial" : {
-      "@id" : "http://schema.org/spatial"
     },
     "license" : {
       "@id" : "http://schema.org/license",
@@ -1514,6 +1469,20 @@
     "b6X0jiL8" : {
       "@id" : "b6X0jiL8",
       "@type" : "@id"
+    },
+    "longitude" : {
+      "@id" : "http://schema.org/longitude",
+      "@type" : "http://www.w3.org/2001/XMLSchema#double"
+    },
+    "latitude" : {
+      "@id" : "http://schema.org/latitude",
+      "@type" : "http://www.w3.org/2001/XMLSchema#double"
+    },
+    "contentUrl" : {
+      "@id" : "http://schema.org/contentUrl"
+    },
+    "caption" : {
+      "@id" : "http://schema.org/caption"
     },
     "8FTr7RCO_rev" : {
       "@id" : "8FTr7RCO_rev",
@@ -1653,12 +1622,6 @@
     "awbXocd6" : {
       "@id" : "awbXocd6",
       "@type" : "@id"
-    },
-    "contentUrl" : {
-      "@id" : "http://schema.org/contentUrl"
-    },
-    "caption" : {
-      "@id" : "http://schema.org/caption"
     },
     "WkGe7yhA" : {
       "@id" : "WkGe7yhA",

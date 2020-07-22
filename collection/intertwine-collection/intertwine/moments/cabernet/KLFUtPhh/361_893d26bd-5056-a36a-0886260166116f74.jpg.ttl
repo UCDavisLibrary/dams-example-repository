@@ -8,5 +8,5 @@
 
 <> schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
     schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
-    schema:encodingFormat "image/";
-    schema:name "Robert_Mondavi_Winery".
+    schema:encodingFormat "image/jpg";
+    schema:name "361_893d26bd-5056-a36a-0886260166116f74.jpg".

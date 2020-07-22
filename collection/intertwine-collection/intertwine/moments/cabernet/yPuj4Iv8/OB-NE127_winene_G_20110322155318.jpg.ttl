@@ -8,5 +8,5 @@
 
 <> schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
     schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
-    schema:encodingFormat "image/";
-    schema:name "Larkmead_Winery".
+    schema:encodingFormat "image/jpg";
+    schema:name "OB-NE127_winene_G_20110322155318.jpg".

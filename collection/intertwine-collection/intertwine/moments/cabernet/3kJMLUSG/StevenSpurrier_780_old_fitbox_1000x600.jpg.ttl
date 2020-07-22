@@ -8,5 +8,5 @@
 
 <> schema:publisher <http://id.loc.gov/authorities/names/no2008108707>;
     schema:license <http://rightsstatements.org/vocab/CNE/1.0/>;
-    schema:encodingFormat "image/";
-    schema:name "Oakville_Station".
+    schema:encodingFormat "image/jpg";
+    schema:name "StevenSpurrier_780_old_fitbox_1000x600.jpg".
