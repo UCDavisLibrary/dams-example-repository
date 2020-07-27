@@ -11,6 +11,18 @@
   "pinned": false,
   "url": "https://trello.com/b/fzntbAkR/intertwine-chardonnay-20",
   "shortUrl": "https://trello.com/b/fzntbAkR",
+  "labelNames": {
+    "green": "Location Data",
+    "yellow": "Learn More",
+    "orange": "",
+    "red": "Connections",
+    "purple": "Story: Text",
+    "blue": "Description",
+    "sky": "Image / Image Credit",
+    "lime": "",
+    "pink": "Date",
+    "black": "tasted / tasted at"
+  },
   "prefs": {
     "permissionLevel": "org",
     "hideVotes": false,
@@ -85,18 +97,6 @@
     "canBeOrg": true,
     "canBePrivate": true,
     "canInvite": true
-  },
-  "labelNames": {
-    "green": "Location Data",
-    "yellow": "Learn More",
-    "orange": "",
-    "red": "Connections",
-    "purple": "Story: Text",
-    "blue": "Description",
-    "sky": "Image / Image Credit",
-    "lime": "",
-    "pink": "Date",
-    "black": "tasted / tasted at"
   },
   "cards": [
     {
@@ -744,8 +744,8 @@
       "id": "5ee9293a5ed6571bb0d11ee2",
       "checkItemStates": null,
       "closed": false,
-      "dateLastActivity": "2020-06-23T19:40:45.893Z",
-      "desc": "# Text\n- From 300 Acres to 100,000\n * At the start of the 1960s there were only 300 acres of Chardonnay planted in all of California. Today the grape is planted to more than 100,000 acres.\n * The California Chardonnay that wine writer Hugh Johnson describes in Vintage: The Story of Wine as having the “buttery, half-smoked aromas and flavours that had … spelt only Meursault, Montrachet, and Corton-Charlemagne” didn’t have a well-defined presence in California until after Joseph Heitz bought, blended, and sold James D. Zellerbach’s last vintages, and showed that California could produce wine that would stand up to top white Burgundies.\n * Timing, skill, doggedness, a knack for promotion, and the Judgment of Paris propelled Heitz’s Chardonnays into an international arena, but the stage for Chardonnay’s rise in California had been set decades before Prohibition, in Livermore, by a group of immigrant winemakers and a San Franciscan whose dry white wine won California’s first international wine award at the 1889 Paris Exposition.  \n\n#Image Caption\n- Stanley Ranch Vineyards",
+      "dateLastActivity": "2020-07-27T20:26:37.380Z",
+      "desc": "# Text\n- From 300 Acres to 100,000\n * At the start of the 1960s there were only 300 acres of Chardonnay planted in all of California. Today the grape is planted to more than 100,000 acres.\n * The California Chardonnay that wine writer Hugh Johnson describes in Vintage: The Story of Wine as having the “buttery, half-smoked aromas and flavours that had … spelt only Meursault, Montrachet, and Corton-Charlemagne” didn’t have a well-defined presence in California until after Joseph Heitz bought, blended, and sold James D. Zellerbach’s last vintages, and showed that California could produce wine that would stand up to top white Burgundies.\n * Timing, skill, doggedness, a knack for promotion, and the Judgment of Paris propelled Heitz’s Chardonnays into an international arena, but the stage for Chardonnay’s rise in California had been set decades before Prohibition, in Livermore, by a group of immigrant winemakers and a San Franciscan whose dry white wine won California’s first international wine award at the 1889 Paris Exposition.  \n\n# Image Caption\n- Stanley Ranch Vineyards",
       "descData": {
         "emoji": {}
       },
