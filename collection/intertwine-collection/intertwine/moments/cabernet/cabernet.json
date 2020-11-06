@@ -8,75 +8,75 @@
   }, {
     "@id" : "_:b1",
     "@type" : "schema:Place",
-    "schema:latitude" : 38.3992276,
-    "schema:longitude" : -122.3257286,
-    "name" : "Stag's+Leap+Wine+Cellars"
+    "schema:latitude" : 39.2102265,
+    "schema:longitude" : -122.6371425,
+    "name" : "Oakville+AVA"
   }, {
     "@id" : "_:b10",
-    "@type" : "schema:Place",
-    "schema:latitude" : 37.2965315,
-    "schema:longitude" : -122.0975993,
-    "name" : "San+Jose,+CA"
-  }, {
-    "@id" : "_:b11",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.3554817,
-    "schema:longitude" : -122.5596771,
-    "name" : "Glen+Ellen,+CA+95442"
-  }, {
-    "@id" : "_:b12",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.5131796,
-    "schema:longitude" : -122.43461,
-    "name" : "Heitz+Cellar"
-  }, {
-    "@id" : "_:b13",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.9028753,
-    "schema:longitude" : -82.4304732,
-    "name" : "West+Virginia"
-  }, {
-    "@id" : "_:b14",
     "@type" : "schema:Place",
     "schema:latitude" : 38.4593573,
     "schema:longitude" : -122.4687123,
     "name" : "Robert+Mondavi+Winery"
   }, {
-    "@id" : "_:b15",
+    "@id" : "_:b11",
     "@type" : "schema:Place",
     "schema:latitude" : 37.5245782,
     "schema:longitude" : -77.6333459,
     "name" : "Richmond,+VA"
   }, {
-    "@id" : "_:b16",
+    "@id" : "_:b12",
     "@type" : "schema:Place",
     "schema:latitude" : 41.8333925,
     "schema:longitude" : -88.0121478,
     "name" : "Chicago,+IL"
   }, {
+    "@id" : "_:b13",
+    "@type" : "schema:Place",
+    "schema:latitude" : 44.4456074,
+    "schema:longitude" : 8.3303867,
+    "name" : "Genoa,+Metropolitan+City+of+Genoa,+Italy"
+  }, {
+    "@id" : "_:b14",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.5082339,
+    "schema:longitude" : -122.9143623,
+    "name" : "Napa+County,+CA"
+  }, {
+    "@id" : "_:b15",
+    "@type" : "schema:ImageObject",
+    "caption" : "Inglenook Celebrates Prohibition’s End, 1933",
+    "contentUrl" : "RlhV8fYi/1933-inglenook-endprohibition.jpg",
+    "schema:position" : 2
+  }, {
+    "@id" : "_:b16",
+    "@type" : "schema:Place",
+    "schema:latitude" : 37.7576171,
+    "schema:longitude" : -122.5776844,
+    "name" : "San+Francisco,+CA"
+  }, {
     "@id" : "_:b17",
     "@type" : "schema:Place",
-    "schema:latitude" : 38.9028753,
-    "schema:longitude" : -82.4304732,
-    "name" : "West+Virginia"
+    "schema:latitude" : 44.7453086,
+    "schema:longitude" : 1.1545981,
+    "name" : "24250+Daglan,+France"
   }, {
     "@id" : "_:b18",
     "@type" : "schema:Place",
-    "schema:latitude" : 48.8689261,
-    "schema:longitude" : 2.3233234,
-    "name" : "48°52'08.5\"N+2°19'23.9\"E"
+    "schema:latitude" : 38.5734461,
+    "schema:longitude" : -122.8461418,
+    "name" : "11455+Old+Redwood+Hwy,+Healdsburg,+CA+95448"
   }, {
     "@id" : "_:b19",
     "@type" : "schema:Place",
-    "schema:latitude" : 38.5587193,
-    "schema:longitude" : -122.5267781,
-    "name" : "Larkmead+Vineyards"
+    "schema:latitude" : 38.4412684,
+    "schema:longitude" : -122.411991,
+    "name" : "Robert+Mondavi+Winery"
   }, {
     "@id" : "_:b2",
-    "@type" : "schema:Place",
-    "schema:latitude" : 39.2102265,
-    "schema:longitude" : -122.6371425,
-    "name" : "Oakville+AVA"
+    "@type" : "schema:ImageObject",
+    "caption" : "Young Robert Mondavi and Family",
+    "contentUrl" : "RlhV8fYi/mondavi-family.jpg",
+    "schema:position" : 3
   }, {
     "@id" : "_:b20",
     "@type" : "schema:Place",
@@ -86,33 +86,33 @@
   }, {
     "@id" : "_:b21",
     "@type" : "schema:Place",
-    "schema:latitude" : 44.4456074,
-    "schema:longitude" : 8.3303867,
-    "name" : "Genoa,+Metropolitan+City+of+Genoa,+Italy"
+    "schema:latitude" : 47.509615,
+    "schema:longitude" : -92.5709486,
+    "name" : "Virginia,+MN"
   }, {
     "@id" : "_:b22",
-    "@type" : "schema:Place",
-    "schema:latitude" : 37.7576171,
-    "schema:longitude" : -122.5776844,
-    "name" : "San+Francisco,+CA"
-  }, {
-    "@id" : "_:b23",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.4412684,
-    "schema:longitude" : -122.411991,
-    "name" : "Robert+Mondavi+Winery"
-  }, {
-    "@id" : "_:b24",
     "@type" : "schema:Place",
     "schema:latitude" : 52.5119029,
     "schema:longitude" : -11.2946352,
     "name" : "England,+UK"
   }, {
+    "@id" : "_:b23",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.5587193,
+    "schema:longitude" : -122.5267781,
+    "name" : "Larkmead+Vineyards"
+  }, {
+    "@id" : "_:b24",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.5131796,
+    "schema:longitude" : -122.43461,
+    "name" : "Heitz+Cellar"
+  }, {
     "@id" : "_:b25",
     "@type" : "schema:Place",
-    "schema:latitude" : 38.4601114,
-    "schema:longitude" : -122.4254725,
-    "name" : "Beaulieu+Vineyard"
+    "schema:latitude" : 38.891154,
+    "schema:longitude" : -77.0318748,
+    "name" : "Smithsonian+National+Museum+of+American+History"
   }, {
     "@id" : "_:b26",
     "@type" : "schema:Place",
@@ -121,1239 +121,1326 @@
     "name" : "Moscow,+Russia"
   }, {
     "@id" : "_:b27",
-    "@type" : "schema:ImageObject",
-    "caption" : "Inglenook Celebrates Prohibition’s End, 1933",
-    "contentUrl" : "1933-inglenook-endprohibition.jpg"
-  }, {
-    "@id" : "_:b28",
-    "@type" : "schema:Place",
-    "schema:latitude" : 44.7453086,
-    "schema:longitude" : 1.1545981,
-    "name" : "24250+Daglan,+France"
-  }, {
-    "@id" : "_:b29",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.5131796,
-    "schema:longitude" : -122.43461,
-    "name" : "Heitz+Cellar"
-  }, {
-    "@id" : "_:b3",
-    "@type" : "schema:Place",
-    "schema:latitude" : 47.509615,
-    "schema:longitude" : -92.5709486,
-    "name" : "Virginia,+MN"
-  }, {
-    "@id" : "_:b30",
-    "@type" : "schema:Place",
-    "schema:latitude" : 41.0297685,
-    "schema:longitude" : -82.0942994,
-    "name" : "Pennsylvania"
-  }, {
-    "@id" : "_:b31",
-    "@type" : "schema:Place",
-    "schema:latitude" : 40.3769194,
-    "schema:longitude" : -81.0484721,
-    "name" : "Jefferson+County,+OH"
-  }, {
-    "@id" : "_:b32",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.4910737,
-    "schema:longitude" : -122.4609338,
-    "name" : "Louis+M.+Martini+Winery"
-  }, {
-    "@id" : "_:b33",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.4583189,
-    "schema:longitude" : -122.4253887,
-    "name" : "Inglenook"
-  }, {
-    "@id" : "_:b34",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.4601114,
-    "schema:longitude" : -122.4254779,
-    "name" : "Beaulieu+Vineyard"
-  }, {
-    "@id" : "_:b35",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.5331246,
-    "schema:longitude" : -121.7528637,
-    "name" : "Department+of+Viticulture+and+Enology"
-  }, {
-    "@id" : "_:b36",
-    "@type" : "schema:ImageObject",
-    "caption" : "Young Robert Mondavi and Family",
-    "contentUrl" : "mondavi-family.jpg"
-  }, {
-    "@id" : "_:b37",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.5092357,
-    "schema:longitude" : -122.6340857,
-    "name" : "Napa+County,+CA"
-  }, {
-    "@id" : "_:b38",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.3952526,
-    "schema:longitude" : -122.3248697,
-    "name" : "Silverado+Trail,+California"
-  }, {
-    "@id" : "_:b39",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.5082339,
-    "schema:longitude" : -122.9143623,
-    "name" : "Napa+County,+CA"
-  }, {
-    "@id" : "_:b4",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.3992276,
-    "schema:longitude" : -122.3257286,
-    "name" : "Stag's+Leap+Wine+Cellars"
-  }, {
-    "@id" : "_:b40",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.891154,
-    "schema:longitude" : -77.0318748,
-    "name" : "Smithsonian+National+Museum+of+American+History"
-  }, {
-    "@id" : "_:b5",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.5734461,
-    "schema:longitude" : -122.8461418,
-    "name" : "11455+Old+Redwood+Hwy,+Healdsburg,+CA+95448"
-  }, {
-    "@id" : "_:b6",
-    "@type" : "schema:Place",
-    "schema:latitude" : 38.5082339,
-    "schema:longitude" : -122.9143623,
-    "name" : "Napa+County,+CA"
-  }, {
-    "@id" : "_:b7",
-    "@type" : "schema:Place",
-    "schema:latitude" : 37.7576171,
-    "schema:longitude" : -122.5776844,
-    "name" : "San+Francisco,+CA"
-  }, {
-    "@id" : "_:b8",
-    "@type" : "schema:ImageObject",
-    "caption" : "Prohibition",
-    "contentUrl" : "prohibitionwine.jpg"
-  }, {
-    "@id" : "_:b9",
     "@type" : "schema:Place",
     "schema:latitude" : 45.6100012,
     "schema:longitude" : -122.4907775,
     "name" : "Camas,+WA"
   }, {
-    "@id" : "https://trello.com/c/f2kb4l3W",
-    "lxZyDulC" : "9zztPKSK"
+    "@id" : "_:b28",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.3992276,
+    "schema:longitude" : -122.3257286,
+    "name" : "Stag's+Leap+Wine+Cellars"
   }, {
-    "@id" : "168F9lUQ",
+    "@id" : "_:b29",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.4910737,
+    "schema:longitude" : -122.4609338,
+    "name" : "Louis+M.+Martini+Winery"
+  }, {
+    "@id" : "_:b3",
+    "@type" : "schema:Place",
+    "schema:latitude" : 41.0297685,
+    "schema:longitude" : -82.0942994,
+    "name" : "Pennsylvania"
+  }, {
+    "@id" : "_:b30",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.9028753,
+    "schema:longitude" : -82.4304732,
+    "name" : "West+Virginia"
+  }, {
+    "@id" : "_:b31",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.4583189,
+    "schema:longitude" : -122.4253887,
+    "name" : "Inglenook"
+  }, {
+    "@id" : "_:b32",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.9028753,
+    "schema:longitude" : -82.4304732,
+    "name" : "West+Virginia"
+  }, {
+    "@id" : "_:b33",
+    "@type" : "schema:ImageObject",
+    "caption" : "Prohibition",
+    "contentUrl" : "RlhV8fYi/prohibitionwine.jpg",
+    "schema:position" : 1
+  }, {
+    "@id" : "_:b34",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.5092357,
+    "schema:longitude" : -122.6340857,
+    "name" : "Napa+County,+CA"
+  }, {
+    "@id" : "_:b35",
+    "@type" : "schema:Place",
+    "schema:latitude" : 40.3769194,
+    "schema:longitude" : -81.0484721,
+    "name" : "Jefferson+County,+OH"
+  }, {
+    "@id" : "_:b36",
+    "@type" : "schema:Place",
+    "schema:latitude" : 48.8689261,
+    "schema:longitude" : 2.3233234,
+    "name" : "48°52'08.5\"N+2°19'23.9\"E"
+  }, {
+    "@id" : "_:b37",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.3952526,
+    "schema:longitude" : -122.3248697,
+    "name" : "Silverado+Trail,+California"
+  }, {
+    "@id" : "_:b38",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.4601114,
+    "schema:longitude" : -122.4254779,
+    "name" : "Beaulieu+Vineyard"
+  }, {
+    "@id" : "_:b39",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.5131796,
+    "schema:longitude" : -122.43461,
+    "name" : "Heitz+Cellar"
+  }, {
+    "@id" : "_:b4",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.5082339,
+    "schema:longitude" : -122.9143623,
+    "name" : "Napa+County,+CA"
+  }, {
+    "@id" : "_:b40",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.5331246,
+    "schema:longitude" : -121.7528637,
+    "name" : "Department+of+Viticulture+and+Enology"
+  }, {
+    "@id" : "_:b5",
+    "@type" : "schema:Place",
+    "schema:latitude" : 37.7576171,
+    "schema:longitude" : -122.5776844,
+    "name" : "San+Francisco,+CA"
+  }, {
+    "@id" : "_:b6",
+    "@type" : "schema:Place",
+    "schema:latitude" : 37.2965315,
+    "schema:longitude" : -122.0975993,
+    "name" : "San+Jose,+CA"
+  }, {
+    "@id" : "_:b7",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.3554817,
+    "schema:longitude" : -122.5596771,
+    "name" : "Glen+Ellen,+CA+95442"
+  }, {
+    "@id" : "_:b8",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.4601114,
+    "schema:longitude" : -122.4254725,
+    "name" : "Beaulieu+Vineyard"
+  }, {
+    "@id" : "_:b9",
+    "@type" : "schema:Place",
+    "schema:latitude" : 38.3992276,
+    "schema:longitude" : -122.3257286,
+    "name" : "Stag's+Leap+Wine+Cellars"
+  }, {
+    "@id" : "#168F9lUQ",
     "@type" : [ "ucdlib:founded", "schema:significantLinks" ],
     "description" : "Robert Mondavi established his namesake winery in 1966 with a vision to create Napa Valley wines that would stand in the company of the world's finest.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "founded", "Robert Mondavi owned Robert Mondavi Winery" ],
+    "schema:position" : 45,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "168F9lUQ:_rev",
     "@type" : [ "ucdlib:founded_by", "schema:significantLinks" ],
     "name" : "founded by"
   }, {
-    "@id" : "16QzRMPk",
+    "@id" : "#16QzRMPk",
     "@type" : [ "ucdlib:made", "schema:significantLinks" ],
     "description" : "FPS 02 was originally selected by Dr. Harold Olmo from the Kunde Estate vineyards in Sonoma County before 1940. The property on which the Kunde Estate vineyards were located had been planted in the 19th century with imported cuttings from Chateaux Margaux and Lafite Rothschild in Bordeaux. Dr. Olmo began to develop the selection at Larkmead Vineyards in Napa County and continued with trials at UC Davis Experiment Station in Oakville in the 1950's.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "made", "Harold Olmo developed the Cabernet Sauvignon FPS 02 (\"Oakville station\") clone" ],
+    "schema:position" : 30,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "16QzRMPk:_rev",
     "@type" : [ "ucdlib:made_by", "schema:significantLinks" ],
     "name" : "made by"
   }, {
-    "@id" : "1dSpPRow",
+    "@id" : "#1dSpPRow",
     "@type" : [ "schema:WebPage", "schema:Place" ],
     "creator" : "https://www.heitzcellar.com/purchase-2/marthas-vineyard-cabernet-sauvignon-oakville-napa-valley/",
     "schema:creator" : "Heitz Cellar",
     "description" : "Martha's Vineyard lies just a little south of Oakville in the foothills of the Mayacamas Mountains. The soil is an amalgamation of valley floor alluvial silts, gravels, and eroded rock from the mountains. The vineyard is surrounded by eucalyptus trees. The plant material from the vineyard produces small, dark, thick-skinned berries.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Martha's Vineyard",
+    "schema:position" : 72,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.heitzcellar.com/purchase-2/marthas-vineyard-cabernet-sauvignon-oakville-napa-valley/", "https://www.rarewineco.com/producer/heitz-marthas-vineyard-cabernet/", "https://grapecollective.com/articles/fifty-years-later-its-still-a-classic-the-heitz-marthas-story" ],
     "relatedLinkText" : [ "Martha's Vineyard Cabarnet Sauvignon", "Fifty Years Later, It's Still a Classic: The Heitz Martha's Story", "Heitz Cellars" ],
-    "spatial" : "_:b2",
+    "spatial" : "_:b1",
     "schema:spatial" : "Oakville AVA, California",
     "temporal" : "early 1960s",
-    "thumbnail" : "z:1dSpPRow/marthas-vineyard-cab.jpg",
-    "2TxdoM3L_rev" : "EudsQJG8",
-    "WgQbldJY" : "aKEPijg2",
-    "XUbPPC9j_rev" : "iDRcL0ZZ",
-    "b6X0jiL8" : "4OB05MBQ",
-    "fXUzhiij_rev" : "Xgldhg8n"
+    "thumbnail" : "1dSpPRow/marthas-vineyard-cab.jpg",
+    "2TxdoM3L_rev" : "#EudsQJG8",
+    "WgQbldJY" : "#aKEPijg2",
+    "XUbPPC9j_rev" : "#iDRcL0ZZ",
+    "b6X0jiL8" : "#4OB05MBQ",
+    "fXUzhiij_rev" : "#Xgldhg8n"
   }, {
-    "@id" : "2BvkysPk",
+    "@id" : "#2BvkysPk",
     "@type" : [ "schema:Place", "schema:WebPage" ],
     "creator" : "https://www.louismartini.com/",
     "schema:creator" : "Louis M. Martini Winery",
     "description" : "Located in St. Helena, Louis M. Martini Winery was one of the first wineries in Napa Valley after Prohibition ended, founded in 1933 by Italian immigrant, Louis M. Martini. Known for his innovation and collaboration both in and out of the winery, Louis M. Martini went on to establish the winery as one of the foremost producers of cabernet sauvignon in Napa Valley, and today, Louis M. Martini Winery remains true to its roots.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Louis M. Martini Winery",
+    "schema:position" : 79,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "http://www.gusclemensonwine.com/louis-m-martini-cabernet-sauvignon-alexander-valley-sonoma-county-2013/", "https://www.napavalley.com/blog/the-new-louis-martini-winery/", "http://www.leadersmag.com/issues/2009.1_jan/pdfs/martini.pdf", "https://www.library.ucdavis.edu/news/stories-behind-historic-judgment-of-paris-wine-tasting-illuminated-in-new-uc-davis-library-collections-exhibit/", "https://www.louismartini.com/visit-the-winery/virtual-tour", "https://digital.ucdavis.edu/collection/amerine-menus/D-060/41/78/d7ng97" ],
     "relatedLinkText" : [ "Napa's Newest Destination: Louis M. Martini Winery", "The World of Wine: A Cabernet Sauvignon Focus", "Louis M. Martini - Wine List", "Louis M. Martini Cabernet Sauvignon Alexander Valley Sonoma County 2013", "Louis M. Martini Winery Virtual Tour", "Stories Behind Historic 'Judgment of Paris' Wine Tasting Illuminated in New UC Davis Library Collections, Exhibit" ],
     "schema:spatial" : "St. Helena, California",
-    "spatial" : "_:b32",
+    "spatial" : "_:b29",
     "temporal" : "1933/present",
-    "thumbnail" : "z:2BvkysPk/visitthewinery_hero_m_(1).jpg",
-    "k7pPNtTY_rev" : "rORWEXM8"
+    "thumbnail" : "2BvkysPk/visitthewinery_hero_m_(1).jpg",
+    "k7pPNtTY_rev" : "#rORWEXM8"
   }, {
-    "@id" : "2TxdoM3L",
+    "@id" : "#2TxdoM3L",
     "@type" : [ "ucdlib:purchased", "schema:significantLinks" ],
     "description" : "Belle Rhodes purchased the property that would become Martha's Vineyard with her husband Barney Rhodes in 1959.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "purchased", "Belle Rhodes purchased and planted Martha's Vineyard" ],
+    "schema:position" : 34,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "2TxdoM3L:_rev",
     "@type" : [ "ucdlib:purchased_by", "schema:significantLinks" ],
     "name" : "purchased by"
   }, {
-    "@id" : "2fUJx2Mg",
+    "@id" : "#2fUJx2Mg",
     "@type" : [ "schema:WebPage", "schema:Person" ],
     "schema:creator" : "John Wesley Hanson, Jr. / Public Domain",
     "creator" : "https://commons.wikimedia.org/wiki/File:Morris_M._Estee.jpg",
     "description" : "Several sources credit Morris Estee with planting the first Cabernet Sauvignon vines in Napa Valley at his Hedgeside Vineyards in 1876.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Morris Estee",
+    "schema:position" : 62,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.winetrain.com/tasting-notes/the-history-of-cabernet-sauvignon-in-napa/", "https://www.thewinecellarinsider.com/california-wine/california-wine-history-from-early-plantings-in-1800s-to-today/", "https://www.napawineproject.com/del-dotto-vineyards/" ],
     "relatedLinkText" : [ "Napa Valley Wine Train: The History of Cabernet Sauvignon in Napa", "Del Dotto Vineyards", "Complete Napa Valley California Wine History from Early 1800's to Today" ],
-    "spatial" : "_:b30",
+    "spatial" : "_:b3",
     "schema:spatial" : "Pennsylvania",
     "temporal" : "1833/1903",
-    "thumbnail" : "z:2fUJx2Mg/morris-estee.jpg",
-    "buqHYhc6" : "q11Q8URd"
+    "thumbnail" : "2fUJx2Mg/morris-estee.jpg",
+    "buqHYhc6" : "#q11Q8URd"
   }, {
-    "@id" : "2kj7WJkJ",
+    "@id" : "#2kj7WJkJ",
     "@type" : [ "ucdlib:farmed", "schema:significantLinks" ],
     "description" : "For more than 50 years, the UC Davis Viticulture and Enology Department has conducted critical viticulture research at this site, including trials of clones, rootstocks, vine spacing, pruning levels, and irrigation, among others.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "farmed", "UC Davis farmed UC Davis Oakville Station" ],
+    "schema:position" : 44,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "2kj7WJkJ:_rev",
     "@type" : [ "ucdlib:farmed_by", "schema:significantLinks" ],
     "name" : "farmed by"
   }, {
-    "@id" : "3RyupM5m",
+    "@id" : "#3RyupM5m",
     "@type" : [ "ucdlib:developed", "schema:significantLinks" ],
     "description" : "FPS 02 was originally selected by Dr. Harold Olmo (former Professor of Viticulture & Enology, UC Davis) from the Kunde Estate vineyards in Sonoma County before 1940. The property on which the Kunde Estate vineyards were located had been planted in the 19th century with imported cuttings from Chateaux Margaux and Lafite Rothschild in Bordeaux. Dr. Olmo began to develop the selection at Larkmead Vineyards in Napa County and continued with trials at UC Davis Experiment Station in Oakville in the 1950s. ",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "developed", "Harold Olmo developed Cabernet Sauvignon FPS 02" ],
+    "schema:position" : 47,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "3RyupM5m:_rev",
     "@type" : [ "ucdlib:developed_by", "schema:significantLinks" ],
     "name" : "developed by"
   }, {
-    "@id" : "3kJMLUSG",
+    "@id" : "#3kJMLUSG",
     "@type" : [ "schema:WebPage", "schema:Person" ],
     "schema:creator" : "Bella Spurrier/Smithsonian Institution",
     "creator" : "https://wtop.com/food-restaurant/2016/05/40-years-later-smithsonian-celebrates-pivotal-moment-in-wine-history/",
     "description" : "Steven Spurrier (born 1941) is a British wine expert and train merchant who has been described as a champion of French wine.\n\n Spurrier entered the wine trade in 1964 as a trainee with London's oldest wine merchant Christopher and Co. In 1970 he moved to Paris where he persuaded an elderly lady to walk down the Royal Street. From 1971 he ran the wine shop The Caves of the Madeleine where customers were encouraged to taste wines before they bought them, which achieved recognition as a highly regarded specialist wine shop. In 1973 he started The Academy of Wine, France's first private wine school, which featured Michel Bettane and Charles F. Shaw, namesake of \"Two Buck Chuck\".\nSpurrier went on to stage the influential \"Judgment of Paris\" Tasting of 1976, when a Chardonnay and Cabernet Sauvignon from California were listed above some of the most prestigious wines of Burgundy and Bordeaux.\n\n Spurrier sold his wine interests in France and returned to the UK in 1988, becoming a wine consultant and journalist. He is now director of the Christie's Wine Course, which he founded with Christie's Education in 1982. He is also a consultant to Singapore Airlines, and consultant editor at Decanter.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Steven Spurrier",
+    "schema:position" : 64,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
-    "thumbnail" : "z:3kJMLUSG/StevenSpurrier_780_old_fitbox_1000x600.jpg",
-    "VSfrU3C5" : "YBRz41aa"
+    "thumbnail" : "3kJMLUSG/StevenSpurrier_780_old_fitbox_1000x600.jpg",
+    "VSfrU3C5" : "#YBRz41aa"
   }, {
-    "@id" : "4OB05MBQ",
+    "@id" : "#4OB05MBQ",
     "@type" : [ "schema:WebPage", "schema:Person" ],
     "description" : [ "#Image Credit", "Joe Heitz was born in Princeton, Illinois, in 1919. He joined the Army Air Corps after two years at a junior college, and for most of World War II served as a mechanic at an Air Corps base near Fresno. He got his start in winemaking with evening work at Italian Swiss Colony. \n\n In 1948 Heitz enrolled at the University of California at Davis, where he received a B.S. in Enology. In 1959 he returned to the university for graduate studies and eventually achieved an M.S. in Food Science (with a focus on distillation). Following his studies, he worked for E. & J. Gallo in Modesto for a time, and then in 1950 went to work for Beaulieu Vineyard as an assistant winemaker (his resumé says \"Plant Manager\"). He stayed at Beaulieu almost 10 years, working under André Tchelistcheff.\n\n From January 1958 to June 1961, Heitz was an instructor of enology at California State University, Fresno. After leaving that post, Heitz, with his wife, Alice, bought a small 8.5-acre vineyard from Leon Brendel named \"The One & Only\" (later, Heitz Wine Cellar) for $5,000. The property was planted with grignolino.\n\n In 1963 Heitz bought at an auction several barrels of Chardonnay and Pinot Noir wine from Hanzell Vineyards in Sonoma. They were the last vintages of the deceased owner James D. Zellerbach, sold off by his widow. Heitz blended, bottled, and sold the wines for prices that were considered astronomical at the time, around $7 a bottle. His intent was to pay growers \"what their grapes were worth,\" thereby increasing the standard of the product he was receiving.\n\n Heitz bought his first Cabernet Sauvignon grapes from Tom and Martha May, the owners of Martha's Vineyard, in 1965. He blended them into his regular Cabernet that year, but the result was so good that in 1966 he vinified the Mays' grapes separately. That was the beginning of a California legend.\n\n In the mid-1960's, Mr. Heitz moved his home and winery across the valley to an almost hidden spot off the Silverado Trail known as Spring Valley. He expanded over the years, eventually owning 350 acres of grapes. He continued to make Cabernet with grapes from Martha's Vineyard and from Bella Oaks Vineyard, the source of his second cabernet." ],
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Joe Heitz",
+    "schema:position" : 53,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
-    "thumbnail" : "z:4OB05MBQ/image.png",
-    "QFX0YYRk" : "aKEPijg2",
-    "b6X0jiL8_rev" : "1dSpPRow",
-    "dV2lYvaP" : "q2lHlTcV",
-    "sm69hGqJ_rev" : "bspq6IkX"
+    "thumbnail" : "4OB05MBQ/image.png",
+    "QFX0YYRk" : "#aKEPijg2",
+    "b6X0jiL8_rev" : "#1dSpPRow",
+    "dV2lYvaP" : "#q2lHlTcV",
+    "sm69hGqJ_rev" : "#bspq6IkX"
   }, {
-    "@id" : "4zI2WEr2",
+    "@id" : "#4zI2WEr2",
     "@type" : [ "ucdlib:made", "schema:significantLinks" ],
     "description" : "Tchelistcheff stewarded the production of the Georges de Latour Private Reserve from 1938 to 1973, the year he retired from Beaulieu.\n",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "made", "André Tchelistcheff made Beaulieu Vineyard Georges de Latour Private Reserve Cabernet Sauvignon" ],
+    "schema:position" : 12,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "4zI2WEr2:_rev",
     "@type" : [ "ucdlib:made_by", "schema:significantLinks" ],
     "name" : "made by"
   }, {
-    "@id" : "8FTr7RCO",
+    "@id" : "#8FTr7RCO",
     "@type" : [ "ucdlib:made", "schema:significantLinks" ],
     "description" : "Louis P. Martini began selecting exceptional lots to showcase the finest Cabernet Sauvignon character and flavors and produced the first Cab from these grapes in 1952.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "made", "Louis M. Martini made Louis Martini Cabernet Sauvignon" ],
+    "schema:position" : 40,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "8FTr7RCO:_rev",
     "@type" : [ "ucdlib:made_by", "schema:significantLinks" ],
     "name" : "made by"
   }, {
-    "@id" : "9R3eH5fc",
+    "@id" : "#9R3eH5fc",
     "@type" : [ "ucdlib:farmed", "schema:significantLinks" ],
     "description" : "Crabb planted his first vineyards (originally Hermosa, later part of To Kalon) in 1868 and quickly became one of the most prominent grapegrowers in California.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "farmed", "H.W. Crabb planted grapes at To Kalon" ],
+    "schema:position" : 42,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "9R3eH5fc:_rev",
     "@type" : [ "ucdlib:farmed_by", "schema:significantLinks" ],
     "name" : "farmed by"
   }, {
-    "@id" : "9zztPKSK",
+    "@id" : "#9zztPKSK",
     "@type" : [ "schema:Thing", "schema:WebPage" ],
     "schema:creator" : "Louis M. Martini Winery",
     "creator" : "https://www.louismartini.com/",
     "description" : " Its history dates to 1952, when Louis P. Martini began selecting exceptional lots to showcase the finest Cabernet Sauvignon character and flavors.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Louis Martini Cabernet Sauvignon",
+    "schema:position" : 88,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "http://iv.ucdavis.edu/files/24325.pdf", "https://www.louismartini.com/wines/overview#signature-cabernets" ],
     "relatedLinkText" : [ "Our Wines: Signature Cabernets", "UC Davis: Cabernet Sauvignon (PDF)" ],
-    "spatial" : "_:b6",
     "schema:spatial" : "Napa County, California",
+    "spatial" : "_:b4",
     "temporal" : "1952",
-    "thumbnail" : "z:9zztPKSK/Louis_Martini_Cabernet_Sauvignon.jpg",
-    "8FTr7RCO_rev" : "rORWEXM8",
-    "lxZyDulC_rev" : "https://trello.com/c/f2kb4l3W"
+    "thumbnail" : "9zztPKSK/Louis_Martini_Cabernet_Sauvignon.jpg",
+    "8FTr7RCO_rev" : "#rORWEXM8",
+    "lxZyDulC_rev" : "#f2kb4l3W"
   }, {
-    "@id" : "A0Y58XtA",
+    "@id" : "#A0Y58XtA",
     "@type" : [ "ucdlib:developed", "schema:significantLinks" ],
     "description" : "FPS 02 was originally selected by Dr. Harold Olmo (former Professor of Viticulture & Enology, UC Davis) from the Kunde Estate vineyards in Sonoma County before 1940. The property on which the Kunde Estate vineyards were located had been planted in the 19th century with imported cuttings from Chateaux Margaux and Lafite Rothschild in Bordeaux. Dr. Olmo began to develop the selection at Larkmead Vineyards in Napa County and continued with trials at UC Davis Experiment Station in Oakville in the 1950s. ",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "developed", "Cabernet Sauvignon FPS 02 was developed at Oakville Station" ],
+    "schema:position" : 48,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "A0Y58XtA:_rev",
     "@type" : [ "ucdlib:developed_by", "schema:significantLinks" ],
     "name" : "developed by"
   }, {
-    "@id" : "CO6cdKPi",
+    "@id" : "#CO6cdKPi",
     "@type" : [ "schema:Place", "schema:WebPage" ],
     "schema:creator" : "Beckstoffer Vineyards",
     "creator" : "http://www.beckstoffervineyards.com/heritage/to-kalon/history",
     "description" : "American wine cultivator, Henry Walker Crabb (also known H. W. Crabb), planted the first vineyard in what is now known as the Oakville AVA, in 1868. He named the vineyard “To Kalon,” meaning “most beautiful” in Greek.\n\n To Kalon is arguably the United States’ most renowned vineyard due to its history. The vineyard suffered for a time under numerous changes of ownership following the death of Crabb. Acres of To Kalon were sold off, but fortunately, Martin Stelling, a business man from San Francisco, purchased 337 acres and renewed the vineyard. He expanded To Kalon by purchasing 1,700 more acres, naming it the “Stelling Extension.” After his death, Stelling's wife sold pieces of that property.\n\n Cesare Mondavi and his sons, Robert and Peter, bought 429 acres, as well as part of the Stelling Extension in 1962. There were many familial disputes over the land, but Robert Mondavi eventually declared ownership over the 429 acres and the 246 additional acres he purchased on his own. Today, his winery owns 328 acres. Although this land was not originally part of Crabb’s vineyard, Mondavi claims it as part of To Kalon.\n\n To Kalon became the center of a legal battle between Mondavi and another vineyard owner, Andy Beckstoffer. Beckstoffer purchased acres from the vineyard in 1993 and soon advertised his fruit as To Kalon. This caused Mondavi to sue Schrader Cellars, who had purchased fruit from Beckstoffer, for advertising To Kalon on their labels. Beckstoffer sued Mondavi for advertising false information, arguing Mondavi’s vineyard was from the Stelling Extension, not the original To Kalon. Both parties eventually settled the battle, giving Beckstoffer the right to advertise his products with To Kalon. Despite its tense history, To Kalon is regarded as one of the best vineyards to produce Cabernet Sauvignon.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "To Kalon",
+    "schema:position" : 71,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.guildsomm.com/public_content/features/articles/b/stamp/posts/the-true-story-of-to-kalon-vineyard", "https://www.winespectator.com/articles/robert-mondavi-winery-sits-in-the-to-kalon-vineyard-its-owner-says-theres-no-such-place" ],
     "relatedLinkText" : [ "Robert Mondavi Winery Sits in the To Kalon Vineyard. Its Owner Says There's No Such Place", "The True Story of the To-Kalon Vineyard" ],
-    "spatial" : "_:b14",
     "schema:spatial" : "Oakville, California",
+    "spatial" : "_:b10",
     "temporal" : "1868/present",
-    "thumbnail" : "z:CO6cdKPi/to-kalon.jpg",
-    "9R3eH5fc_rev" : "YHlh2fTx",
-    "U8GL3707_rev" : "yPuj4Iv8",
-    "z8ZZMo1p" : "KLFUtPhh"
+    "thumbnail" : "CO6cdKPi/to-kalon.jpg",
+    "9R3eH5fc_rev" : "#YHlh2fTx",
+    "U8GL3707_rev" : "#yPuj4Iv8",
+    "z8ZZMo1p" : "#KLFUtPhh"
   }, {
-    "@id" : "CeuhezRP",
+    "@id" : "#CeuhezRP",
     "@type" : [ "schema:WebPage", "schema:Thing" ],
     "schema:creator" : "Cellar Tracker",
     "creator" : "https://www.cellartracker.com/wine.asp?iWine=1576102",
     "description" : "First released in 1974, Alexander’s Crown Cabernet Sauvignon became Sonoma County’s first single-vineyard Cabernet Sauvignon.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Alexander’s Crown Cabernet Sauvignon",
+    "schema:position" : 85,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://www.rodneystrong.com/our-story/vineyards/",
     "relatedLinkText" : "Rodney Strong Vineyard: Alexander's Crown",
     "schema:spatial" : "Healdsburg, California",
-    "spatial" : "_:b5",
+    "spatial" : "_:b18",
     "temporal" : "1974/Present",
-    "thumbnail" : "z:CeuhezRP/e4f7432e-3d7c-447f-9006-fbba276c4765.jpg",
-    "WkGe7yhA_rev" : "vY8bvxxy"
+    "thumbnail" : "CeuhezRP/e4f7432e-3d7c-447f-9006-fbba276c4765.jpg",
+    "WkGe7yhA_rev" : "#vY8bvxxy"
   }, {
-    "@id" : "CkPBD3at",
+    "@id" : "#CkPBD3at",
     "@type" : [ "schema:WebPage", "schema:Person" ],
     "creator" : "https://www.library.ucdavis.edu/news/uc-davis-library-receives-gift-to-preserve-work-of-one-of-historys-top-viticulturists/",
     "schema:creator" : "UC Davis Library",
     "description" : "Dr. Harold Olmo was a plant breeder and faculty member at the University of California Davis, who introduced around 30 grape varieties and improved many more. Due to his work to improve the yield and resiliency of the Chardonnay grape, Olmo is often credited with the variety's rise to prominence in California. Olmo worked closely with California winemakers, such as Louis P. Martini, to address salient issues in viticulture through his research and breeding efforts. His work first gained wide recognition with the development of grape varieties that married the attributes of the so-called \"noble grapes,\" including Cabernet Sauvignon (attributes that made them great raw material for wine) with the hardiness that would allow them to be grown in the heat of California's Central Valley, where most of California's wine grapes were produced at the time. \n\n Olmo traveled extensively to collect grape samples and in the 1950s helped establish California's first quarantine facility on the UC Davis campus to permit California growers to import foreign vines. \n\n In the 1940s and 50s, Olmo took a selection of Cabernet Sauvignon from Larkmead trials and planted the budwood at the Oakville Station. The \"Oakville Clones,\" as they've been since been called, contributed to building the Napa Cab industry in the 1960s. \n\n Olmo was born in San Francisco's Mission District, and took an early interest in plants. He earned an undergraduate degree in horticulture from the University of California (UC) Davis and UC Berkeley, and a doctorate in genetics, from UC Berkeley.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Harold Olmo",
+    "schema:position" : 55,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://search.library.ucdavis.edu/permalink/f/f5oast/01UCD_ALMA21238926140003126", "https://www.ucdavis.edu/news/harold-olmo-pioneering-wine-grape-scientist-and-other-obituaries/", "http://iv.ucdavis.edu/files/24489.pdf", "https://www.nytimes.com/2006/07/12/us/12olmo.html", "https://ohc-search.lib.berkeley.edu/catalog/MASTER_292" ],
     "relatedLinkText" : [ "Harold Olmo, 96, Who Created Many Grape Varieties, is Dead", "Plant Genetics and New Grape Varieties: Transcript, 1973", "Harold P. Olmo Papers", "Harold Olmo: Pioneering Wine, Grape Scientist, and Other Obituaries", "Foundation Plant Services FPS Grape Program Newsletter November 2007: Chardonnay History and Selections at FPS" ],
-    "spatial" : "_:b22",
     "schema:spatial" : "San Francisco, California",
+    "spatial" : "_:b16",
     "temporal" : "1906/2006",
-    "thumbnail" : "z:CkPBD3at/harold-olmo.jpg",
-    "16QzRMPk" : "nRyFlMtg",
-    "3RyupM5m" : "nRyFlMtg",
-    "e7y26aQG" : "rxoqPmh9",
-    "pdMDBkoi_rev" : "nzmxlWBp"
+    "thumbnail" : "CkPBD3at/harold-olmo.jpg",
+    "16QzRMPk" : "#nRyFlMtg",
+    "3RyupM5m" : "#nRyFlMtg",
+    "e7y26aQG" : "#rxoqPmh9",
+    "pdMDBkoi_rev" : "#nzmxlWBp"
   }, {
-    "@id" : "DvutblIw",
+    "@id" : "#DvutblIw",
     "@type" : [ "ucdlib:Story", "schema:WebPage" ],
     "caption" : "1889 Paris World’s Fair",
     "headline" : "Cabernet Comes to California",
     "label" : "Story: Image / Text",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Cabernet Comes to California",
+    "schema:position" : 6,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "text" : [ "At the time, Americans considered Bordeaux wines, which are often made from Cabernet Sauvignon grapes, to be the gold standard, and Napa winemakers sought to satisfy demand by importing wine grapes grapes from Bordeaux and learning French winemaking techniques. Inglenook’s French-style Cabernet Sauvignon won a Gold Medal at the Paris World’s Fair in 1889.", "California’s first Cabernet Sauvignon grapes were introduced to the Napa Valley area in the mid-19th century, purportedly by Morris Estee, in his Hedgeside Vineyards.  The Cabernet Sauvignon grape is easy to cultivate and grows on hardy vines, which bud late, typically after spring’s last frost. The grape is usually associated with dry, full-flavored wines with aromas and flavors that include notes of berries, currants, cassis, bell pepper, and toasty oak." ],
-    "thumbnail" : "z:DvutblIw/expo-paris-1889.jpg"
+    "thumbnail" : "DvutblIw/expo-paris-1889.jpg"
   }, {
-    "@id" : "EudsQJG8",
+    "@id" : "#EudsQJG8",
     "@type" : [ "schema:Person", "schema:WebPage" ],
     "schema:creator" : "Napa Valley Register",
     "creator" : "https://napavalleyregister.com/celebrating-the-legacy-of-belle-and-barney-rhodes/article_66c0b2ae-571c-11df-a292-001cc4c002e0.html",
     "description" : "Barney and Belle Rhodes moved to Napa in the early 1960s and planted a 12-acre Cabernet vineyard in Oakville on land that had previously been occupied by a prune orchard. That vineyard became Martha's Vineyard after the Rhodes sold the land to Martha and Tom May. In the 1970s the Rhodes planted their second Cabernet vineyard, Bella Oaks, in Rutherford. \n\n The Rhodes were known for their love of food and wine and entertaining.\n\n Belle was a wine and food historian and a cookbook collector, and donated her library of 3,500 cookbooks to Napa Valley College.  \n\n “Today, food and wine pairing seems like such a natural part of life in the Napa Valley but in the late ’70s and early ’80s, wine was wine and food was food — except at Belle and Barney’s house,” remembers wine writer Karen MacNeil. “Theirs was the first house where I went to dinner and there were 25 courses all prepared by Belle herself with 25 separate wines that Barney had very painstakingly matched to every course.”",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Belle Rhodes",
+    "schema:position" : 52,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.winespectator.com/articles/farewell-to-a-friend-barney-rhodes-dies-at-88-15479", "https://www.winespectator.com/articles/remembering-a-napa-belle-14763", "https://www.sfgate.com/bayarea/article/APPRECIATION-Belle-Rhodes-Napa-Valley-s-2611851.php" ],
     "relatedLinkText" : [ "APPRECIATION / Belle Rhodes -- Napa Valley's Patron of the Culinary Arts", "Farewell to a Friend: Barney Rhodes Dies at 88", "Remembering a Napa Belle" ],
     "schema:spatial" : "West Virginia",
-    "spatial" : "_:b17",
+    "spatial" : "_:b32",
     "temporal" : "1920/2007",
-    "thumbnail" : "z:EudsQJG8/Belle_and_Barney_Rhodes.jpg",
-    "2TxdoM3L" : "1dSpPRow"
+    "thumbnail" : "EudsQJG8/Belle_and_Barney_Rhodes.jpg",
+    "2TxdoM3L" : "#1dSpPRow"
   }, {
-    "@id" : "GIKEjGBM",
+    "@id" : "#GIKEjGBM",
     "@type" : [ "schema:WebPage", "schema:Place" ],
     "schema:creator" : "UC Davis Viticulture and Enology",
     "creator" : "https://wineserver.ucdavis.edu/about/facilities/oakville-station",
     "description" : "The UC Davis Viticulture and Enology Department's Oakville Station is a unique university facility—a 40-acre research vineyard located in the heart of the Napa Valley. In addition to vineyards, the station has the Harry E. Jacob Research Facility, which houses the Robert J. Barone Laboratory. For more than 50 years, the department has conducted critical viticulture research at this site, including trials of clones, rootstocks, vine spacing, pruning levels, and irrigation, among others.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "UC Davis Oakville Station",
+    "schema:position" : 82,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://wineserver.ucdavis.edu/about/facilities/oakville-station", "https://wineserver.ucdavis.edu/about/facilities/vineyards/oakville-vineyard", "https://wineserver.ucdavis.edu/about/facilities/oakville-station/harry-e-jacob-research-facility" ],
     "relatedLinkText" : [ "UC Davis Viticulture and Enology: Oakville Vineyard", "UC Davis Viticulture and Enology: Oakville Station", "UC Davis: Harry E. Jacob Research Facility" ],
     "schema:spatial" : "Napa County, California",
-    "spatial" : "_:b39",
+    "spatial" : "_:b14",
     "temporal" : "1903/Present",
-    "thumbnail" : "z:GIKEjGBM/Oakville-2.jpg",
-    "2kj7WJkJ_rev" : "nzmxlWBp",
-    "A0Y58XtA" : "nRyFlMtg"
+    "thumbnail" : "GIKEjGBM/Oakville-2.jpg",
+    "2kj7WJkJ_rev" : "#nzmxlWBp",
+    "A0Y58XtA" : "#nRyFlMtg"
   }, {
-    "@id" : "GvFmxsDj",
+    "@id" : "#GvFmxsDj",
     "@type" : "schema:significantLinks",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Smithsonian National Museum of American History displays 1973 Stag's Leap Wine Cellars Cabernet",
+    "schema:position" : 18,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
-    "@id" : "H99S57Wj",
+    "@id" : "#H99S57Wj",
     "@type" : [ "schema:Place", "schema:WebPage" ],
     "creator" : "https://www.napavalley.com/businesses/6613/inglenook",
     "schema:creator" : "WineCountry Media",
     "description" : "Inglenook was founded in 1879 by Gustave Niebaum, great-uncle of John Daniel.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Inglenook",
+    "schema:position" : 77,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.winespectator.com/articles/the-glory-that-was-inglenook-1057", "https://www.library.ucdavis.edu/archives-and-special-collections/manuscripts/viticulture-and-enology/", "http://www.napawineproject.com/inglenook-estate/", "https://www.library.ucdavis.edu/news/toast-amerines-105th-birthday-great-california-wines/" ],
     "relatedLinkText" : [ "The Glory That Was Inglenook", "Viticulture and Enology Manuscripts", "A Toast on Amerine’s 105th Birthday: Great California Wines", "Inglenook Estate" ],
-    "spatial" : "_:b33",
+    "spatial" : "_:b31",
     "schema:spatial" : "Rutherford, California",
     "temporal" : "1879",
-    "thumbnail" : "z:H99S57Wj/image.jpg",
-    "QEffs32v_rev" : "naJ3QVEJ"
+    "thumbnail" : "H99S57Wj/image.jpg",
+    "QEffs32v_rev" : "#naJ3QVEJ"
   }, {
-    "@id" : "HvWcLyN8",
+    "@id" : "#HvWcLyN8",
     "@type" : [ "schema:WebPage", "ucdlib:Story" ],
     "description" : [ "André Tchelistcheff", "I compared this Cabernet with generic wines such as Burgundies and Clarets—the public didn’t know Cabernet then—and selected definitely Cabernet as the best Beaulieu red wine in the cellar, which actually was the master key to all my future career in California, because I said to myself, ‘This is my first impression, and very probably I have to check my first impression.’ I said, ‘I will go to California.’ That’s the master key that became, really, my success." ],
     "label" : "Story: Quote",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Quote",
+    "schema:position" : 5,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
-    "@id" : "J3cwCVnv",
+    "@id" : "#J3cwCVnv",
     "@type" : "schema:significantLinks",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "André Tchelistcheff mentored Warren Winiarski",
+    "schema:position" : 14,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
-    "@id" : "KLFUtPhh",
+    "@id" : "#KLFUtPhh",
     "@type" : [ "schema:Place", "schema:WebPage" ],
     "creator" : "https://www.visitnapavalley.com/listing/robert-mondavi-winery/193/",
     "schema:creator" : "Visit Napa Valley",
     "description" : "When Robert Mondavi opened the doors of Robert Mondavi Winery in 1966, he was driven by a belief that he could make world-class wines from the vineyards of Napa Valley. Robert Mondavi’s parents immigrated to Minnesota from central Italy. After visiting Lodi, California, Robert’s father chose to move the family there because the climate, the landscape, and the way of life all reminded him of the Italian countryside. In 1943, Robert took charge of the family wine business, and in 1966, he established his namesake winery in nearby Oakville, California, at the heart of Napa Valley. For the home of his winery, he chose 12 acres of To Kalon Vineyard, one of the finest for growing Cabernet Sauvignon in the world. He chose To Kalon because “It has ideal soils, sunlight, and rain. It has a magical nature.” And it’s from this first-growth vineyard that Robert Mondavi began his quest to bring world-class Napa Valley wines to the world. The vineyard has since grown to encompass 450 uniquely complex and resilient acres that provide a perfect foundation for fine-quality grapes to thrive, from season to season, under a broad range of growing conditions that allow the winemaking team to produce wines with elegant, concentrated flavors and fine tannins.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Robert Mondavi Winery",
+    "schema:position" : 81,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://www.robertmondaviwinery.com/",
     "relatedLinkText" : "Robert Mondavi Winery",
-    "spatial" : "_:b23",
     "schema:spatial" : "Oakville, California",
+    "spatial" : "_:b19",
     "temporal" : "1966/Present",
-    "thumbnail" : "z:KLFUtPhh/361_893d26bd-5056-a36a-0886260166116f74.jpg",
-    "168F9lUQ_rev" : "btYMeSO7",
-    "z8ZZMo1p_rev" : "CO6cdKPi"
+    "thumbnail" : "KLFUtPhh/361_893d26bd-5056-a36a-0886260166116f74.jpg",
+    "168F9lUQ_rev" : "#btYMeSO7",
+    "z8ZZMo1p_rev" : "#CO6cdKPi"
   }, {
-    "@id" : "LfGyUhGE",
+    "@id" : "#LfGyUhGE",
     "@type" : [ "schema:Person", "schema:WebPage" ],
     "schema:creator" : "Rutherford Dust Society",
     "creator" : "https://rutherforddust.org/history/",
     "description" : "Georges de Latour, a practicing chemist, traveled from his native France to California in 1883. He worked for a tartare company before purchasing the property that would become Beaulieu in 1899. \n\n In 1938, Georges de Latour and his son-in-law, Marquis (Henri Galcerand) de Pins, visited the experimental station of The Institute of National Agronomy, where Tchelistcheff was employed, with the hope of locating a viticulture and enology specialist to replace Beaulieu's retiring winemaker Leon Bonnet (a former UC Davis professor who had gone to work at Beaulieu after retiring from Davis).",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Georges de Latour",
+    "schema:position" : 56,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://digitalassets.lib.berkeley.edu/roho/ucb/text/tchelistcheff_andre_w.pdf",
     "relatedLinkText" : "Bancroft Library California Wine Industry Oral History Project: André Tchelistcheff",
-    "spatial" : "_:b28",
+    "spatial" : "_:b17",
     "schema:spatial" : "Daglan, France",
     "temporal" : "1856/1940",
-    "thumbnail" : "z:LfGyUhGE/BV-Georges-de-Latour-240x300.jpg",
-    "RGKzdwH3" : "SNQntFO5",
-    "awbXocd6" : "lNnHt1NO",
-    "r80rZ8Tb" : "cqoj06Ga"
+    "thumbnail" : "LfGyUhGE/BV-Georges-de-Latour-240x300.jpg",
+    "RGKzdwH3" : "#SNQntFO5",
+    "awbXocd6" : "#lNnHt1NO",
+    "r80rZ8Tb" : "#cqoj06Ga"
   }, {
-    "@id" : "Nbrzdt4I",
+    "@id" : "#Nbrzdt4I",
     "@type" : "schema:significantLinks",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Stag's Leap Wine Cellars won the 1976 Judgment of Paris",
+    "schema:position" : 24,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
-    "@id" : "QEffs32v",
+    "@id" : "#QEffs32v",
     "@type" : [ "ucdlib:owned", "schema:significantLinks" ],
     "description" : "John Daniel Jr. took over operations of Inglenook in 1939.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "owned", "John Daniel owned Inglenook" ],
+    "schema:position" : 43,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "QEffs32v:_rev",
     "@type" : [ "ucdlib:owned_by", "schema:significantLinks" ],
     "name" : "owned by"
   }, {
-    "@id" : "QFX0YYRk",
+    "@id" : "#QFX0YYRk",
     "@type" : [ "ucdlib:made", "schema:significantLinks" ],
     "description" : "In the mid 1960s, an agreement was made between Joe Heitz and Tom May to source the cabernet sauvignon fruit from May’s small Oakville vineyard for Heitz wines. Ever since 1966, Heitz Cellar has been crafting the Martha’s Vineyard Cabernet Sauvignon, one of our three vineyard-designated Cabernet Sauvignons.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "made", "Joe Heitz made Martha's Vineyard Cabernet Sauvignon" ],
+    "schema:position" : 22,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "QFX0YYRk:_rev",
     "@type" : [ "ucdlib:made_by", "schema:significantLinks" ],
     "name" : "made by"
   }, {
-    "@id" : "RGKzdwH3",
+    "@id" : "#RGKzdwH3",
     "@type" : [ "ucdlib:hired", "schema:significantLinks" ],
     "description" : "Georges de Latour hired André Tchelistcheff to be the winemaker for Beaulieu in 1938.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "hired", "André Tchelistcheff worked for Georges de Latour" ],
+    "schema:position" : 10,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "RGKzdwH3:_rev",
     "@type" : [ "ucdlib:hired_by", "schema:significantLinks" ],
     "name" : "hired by"
   }, {
-    "@id" : "RlhV8fYi",
+    "@id" : "#RlhV8fYi",
     "@type" : [ "schema:WebPage", "ucdlib:Story" ],
-    "image" : [ "_:b36", "_:b27", "_:b8" ],
+    "image" : [ "_:b2", "_:b33", "_:b15" ],
     "label" : "Story: Triptych",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Triptych",
+    "schema:position" : 8,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
-    "@id" : "SNQntFO5",
+    "@id" : "#SNQntFO5",
     "@type" : [ "schema:Person", "schema:WebPage" ],
     "schema:creator" : "UC Davis Library",
     "creator" : "https://www.library.ucdavis.edu/",
     "description" : "André Tchelistcheff was America's most influential winemaker following Prohibition. Born and raised in Russia, Tchelistcheff served in the White Russian army during the Allied armies' retreat through the Crimea to Gallipoli. He left the service in 1921 and enrolled as a student at the Agriculture Institute of National Agronomy in Brno, in Czechoslovakia, to study agronomy. \n\n Tchelistcheff began his career as an agronomist in 1929, working in the experimental station in Dubrovnik. After his first marriage, he moved to France with his wife, hoping to transition into the wine industry. He undertook post-graduate courses at the National Agronomic Institute in Paris and also worked in the champagne cellars of Moët & Chandon Champagne. In 1938 he moved to California to begin work and winemaker for Beaulieu Vineyard.\n\n Today Tchelistcheff is widely called the \"dean of American winemakers,\" because he mentored many industry pioneers, including Robert Mondavi, Louis Martini, and Warren Winiarski. He provided significant contributions to the techniques of cold fermentation, vineyard frost protection, malolactic fermentation, and the development of winemaking regions in Carneros, California, Oregon, and Washington.\n\n Tchelistcheff was vice president of Beaulieu Vineyards for 35 years, until he retired from the winery in 1973, four years after the sale of Beaulieu to Heublein Inc. While at Beaulieu, Tchelistcheff created some of the finest post-Prohibition California cabernets and developed the winery's \"private reserve\" appellation. \n\n He spent the second half of his life consulting for wineries throughout the valley, including Beaulieu in the '90s, and he operated a private wine laboratory in St. Helena for fifteen years.  He was inducted into the Culinary Institute of America's Vintner's Hall of Fame in 2007.\n\n In his introduction to Ruth Teiser's oral history interview with Tchelistcheff for the Bancroft Library, Maynard Amerine wrote, \"André is a philosopher. He has been, I think, most comfortable with people who have a well-defined basic philosophy of life and of wine quality. He is at the same time a missionary and again most compatible with those who accept his missionary goals. But he is also a pragmatist, accepting most of what is in the wine industry even though it sometimes violates his principles. He is thus a most complex person.\"",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "André Tchelistcheff",
+    "schema:position" : 58,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "http://themaestrofilm.com/thestory.htm", "https://digitalassets.lib.berkeley.edu/roho/ucb/text/tchelistcheff_andre_w.pdf", "https://en.wikipedia.org/wiki/Andr%C3%A9_Tchelistcheff", "https://www.britannica.com/biography/Andre-Tchelistcheff", "https://www.library.ucdavis.edu/news/stories-behind-historic-judgment-of-paris-wine-tasting-illuminated-in-new-uc-davis-library-collections-exhibit/", "https://www.nytimes.com/1994/04/07/obituaries/andre-tchelistcheff-92-authority-on-wine.html" ],
     "relatedLinkText" : [ "Encyclopedia Britannica: André Tchelistcheff", "Wikipedia: André Tchelistcheff", "Bancroft Library California Wine Industry Oral History Project: André Tchelistcheff", "André: The Voice of Wine", "Stories Behind Historic “Judgment of Paris” Wine Tasting Illuminated in New UC Davis Library Collections, Exhibit", "Andre Tchelistcheff, 92, Authority on Wine" ],
-    "spatial" : "_:b26",
     "schema:spatial" : "Moscow, Russia",
+    "spatial" : "_:b26",
     "temporal" : "December 7, 1901/April 5, 1994",
-    "thumbnail" : "z:SNQntFO5/andre-tchelistcheff.jpg",
-    "4zI2WEr2" : "cqoj06Ga",
-    "RGKzdwH3_rev" : "LfGyUhGE",
-    "iaWPyRKm" : "bspq6IkX"
+    "thumbnail" : "SNQntFO5/andre-tchelistcheff.jpg",
+    "4zI2WEr2" : "#cqoj06Ga",
+    "RGKzdwH3_rev" : "#LfGyUhGE",
+    "iaWPyRKm" : "#bspq6IkX"
   }, {
-    "@id" : "U8GL3707",
+    "@id" : "#U8GL3707",
     "@type" : [ "ucdlib:owns", "schema:significantLinks" ],
     "description" : "Grape grower Andy Beckstoffer owns 89 acres of To Kalon.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "owns", "Andy Beckstoffer owns To Kalon" ],
+    "schema:position" : 46,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "U8GL3707:_rev",
     "@type" : [ "ucdlib:owned_by", "schema:significantLinks" ],
     "name" : "owned by"
   }, {
-    "@id" : "UcXsJgI2",
+    "@id" : "#UcXsJgI2",
     "@type" : "schema:significantLinks",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Warren Winiarski founded Stag's Leap Wine Cellars",
+    "schema:position" : 15,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
-    "@id" : "VSfrU3C5",
+    "@id" : "#VSfrU3C5",
     "@type" : [ "ucdlib:organized", "schema:significantLinks" ],
     "description" : "Steven Spurrier organized the 1976 Judgment of Paris with the help of his friend and colleague Patricia Gallagher. ",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "organized", "Steven Spurrier organized the 1976 Judgment of Paris" ],
+    "schema:position" : 25,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "VSfrU3C5:_rev",
     "@type" : [ "ucdlib:organized_by", "schema:significantLinks" ],
     "name" : "organized by"
   }, {
-    "@id" : "W1cj86oR",
+    "@id" : "#W1cj86oR",
     "@type" : "schema:significantLinks",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Warren Winiarski made the 1973 Stag's Leap Wine Cellars Cabernet",
+    "schema:position" : 17,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
-    "@id" : "WUqXfCtS",
+    "@id" : "#WUqXfCtS",
     "@type" : [ "schema:Place", "schema:WebPage" ],
     "creator" : "https://www.stagsleapwinecellars.com/",
     "schema:creator" : "Stag's Leap Wine Cellars",
     "description" : "Founded by Warren Winiarski in 1970, Stag’s Leap Wine Cellars is a winery based in the Stags Leap District of Napa Valley, California. The winery is best known for its estate-grown Cabernet sauvignons: CASK 23, S.L.V., and FAY. Their wines are some of the most highly regarded and collected wines worldwide.\n\n Four years after its establishment, the winery achieved significant international recognition in 1976 at the Judgment of Paris blind wine tasting where its 1973 vintage Cabernet Sauvignon won first place among ten French and California red wines.\n\n The winery was sold to Ste. Michelle Wine Estates and Marchesi Antinori in 2007 for $185 million.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Stag's Leap Wine Cellars",
+    "schema:position" : 74,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Stag%27s_Leap_Wine_Cellars", "https://www.stagsleapwinecellars.com/our-story/history" ],
     "relatedLinkText" : [ "Stag's Leap Wine Cellars: Our History", "Stag's Leap Wine Cellars" ],
     "schema:spatial" : "Napa, California",
-    "spatial" : "_:b4",
+    "spatial" : "_:b9",
     "temporal" : "1970/present",
-    "thumbnail" : "z:WUqXfCtS/stagsleapwc.jpg"
+    "thumbnail" : "WUqXfCtS/stagsleapwc.jpg"
   }, {
-    "@id" : "WgQbldJY",
+    "@id" : "#WgQbldJY",
     "@type" : [ "ucdlib:proved_to", "schema:significantLinks" ],
     "description" : "In the mid 1960s, an agreement was made between Joe Heitz and Tom May to source the cabernet sauvignon fruit from May’s small Oakville vineyard for Heitz wines. Ever since 1966, Heitz Cellar has been crafting the Martha’s Vineyard Cabernet Sauvignon, one of our three vineyard-designated Cabernet Sauvignons.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "proved to", "Martha's Vineyard provided grapes for Martha's Vineyard Cabernet Sauvignon" ],
+    "schema:position" : 37,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "WgQbldJY:_rev",
     "@type" : [ "ucdlib:made_with", "schema:significantLinks" ],
     "name" : "made with"
   }, {
-    "@id" : "WkGe7yhA",
+    "@id" : "#WkGe7yhA",
     "@type" : [ "ucdlib:made", "schema:significantLinks" ],
     "description" : "Produced by Rodney Strong, and first released in 1974, Alexander’s Crown Cabernet Sauvignon became Sonoma County’s first single-vineyard Cabernet Sauvignon. ",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "made", "Rodney Strong made Alexander Valley Estate Cabernet Sauvignon" ],
+    "schema:position" : 31,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "WkGe7yhA:_rev",
     "@type" : [ "ucdlib:made_by", "schema:significantLinks" ],
     "name" : "made by"
   }, {
-    "@id" : "XUbPPC9j",
+    "@id" : "#XUbPPC9j",
     "@type" : [ "ucdlib:purchased", "schema:significantLinks" ],
     "description" : "Barney Rhodes purchased the property that would become Martha's Vineyard with his wife, Belle Rhodes, in 1959.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "purchased", "Barney Rhodes purchased and planted Martha's Vineyard" ],
+    "schema:position" : 33,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "XUbPPC9j:_rev",
     "@type" : [ "ucdlib:purchased_by", "schema:significantLinks" ],
     "name" : "purchased by"
   }, {
-    "@id" : "Xgldhg8n",
+    "@id" : "#Xgldhg8n",
     "@type" : [ "schema:WebPage", "schema:Person" ],
     "creator" : "https://www.winespectator.com/articles/heitz-marthas-vineyard-tom-may",
     "schema:creator" : "Wine Spectator",
     "description" : "Tom May bought the Napa property that would become Martha's Vineyard (named after his wife) from Belle and Barney Rhodes in the early 1960s, and ended up becoming part of the valley's 1960s wine renaissance, when the number of Cabernets increased from a few dozen to more than a hundred. The Mays met the Heitz family after enjoying two bottles of Heitz wine left behind as a welcome gift by the home's previous owners, Belle and Barney Rhodes (the Rhodes' Bella Oaks Vineyard was another of Heitz' longtime sources).\n\n May was a biology teacher in Ojai, Calif., before moving to Napa. He learned grapegrowing on the job, with the benefit of Joe Heitz's advice (Heitz was a winemaker at Beaulieu Vineyard for a decade before founding his winery in 1961). Heitz was so impressed with the quality of May's grapes that he was inspired to create a single-vineyard labeled Cabernet with the 1966 vintage. Their partnership lasted until Heitz' death in 2000; Heitz' son, David, succeeded his father as winemaker, and the families' relationship continues to this day.\n\n May was an early environmentalist, says his wife, Martha. \"He was a member of the Sierra Club, and a great believer in leaving the land as it is and not trying to change everything,\" she said. \"If there was a tree in the middle of a vineyard you didn't have to remove it, or if you had a hill in the middle of the area you didn't have to flatten it.\" Early on the Mays dry farmed their vineyard, only adding drip irrigation later when drought years required water to start new vines.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Tom May",
+    "schema:position" : 50,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : "https://www.winespectator.com/articles/heitz-marthas-vineyard-tom-may",
     "relatedLinkText" : "Remembering Tom May",
     "spatial" : "_:b0",
     "schema:spatial" : "Ojai, California",
     "temporal" : "1934/2017",
-    "thumbnail" : "z:Xgldhg8n/JL_May110317_540.jpg",
-    "fXUzhiij" : "1dSpPRow"
+    "thumbnail" : "Xgldhg8n/JL_May110317_540.jpg",
+    "fXUzhiij" : "#1dSpPRow"
   }, {
-    "@id" : "YBRz41aa",
+    "@id" : "#YBRz41aa",
     "@type" : [ "schema:Event", "schema:WebPage" ],
     "schema:creator" : "Bella Spurrier / Smithsonian",
     "creator" : "https://americanhistory.si.edu/food/wine-table/judgment-paris",
     "description" : "The Paris wine tasting of 1976 — known as the Judgment of Paris — was a wine competition organized in Paris on May 24, 1976, by Steven Spurrier, a British wine merchant, in which French judges carried out two blind tasting comparisons: one of top-quality Chardonnays and another of red wines (Bordeaux wines from France and Cabernet Sauvignon wines from California). A Californian wine rated best in each category, which caused surprise as France was generally regarded as being the foremost producer of the world's best wines.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "1976 Judgment of Paris",
+    "schema:position" : 89,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://en.wikipedia.org/wiki/Judgment_of_Paris_(wine)", "https://www.smithsonianmag.com/smithsonian-institution/that-revolutionary-May-day-1976-when-california-wines-bested-france-finest-180958971/", "https://www.thespruceeats.com/the-judgment-of-paris-3510929", "https://www.npr.org/sections/thesalt/2016/05/24/479163882/the-judgment-of-paris-the-blind-taste-test-that-decanted-the-wine-world" ],
     "relatedLinkText" : [ "The 1976 Paris Wine Tasting", "Judgment of Paris (wine)", "The Judgment Of Paris: The Blind Taste Test That Decanted The Wine World", "That Revolutionary May Day in 1976 When California Wines Bested France’s Finest" ],
-    "spatial" : "_:b18",
+    "spatial" : "_:b36",
     "schema:spatial" : "Paris, France",
     "temporal" : "May 24, 1976",
-    "thumbnail" : "z:YBRz41aa/jop.jpg",
-    "VSfrU3C5_rev" : "3kJMLUSG"
+    "thumbnail" : "YBRz41aa/jop.jpg",
+    "VSfrU3C5_rev" : "#3kJMLUSG"
   }, {
-    "@id" : "YHlh2fTx",
+    "@id" : "#YHlh2fTx",
     "@type" : [ "schema:WebPage", "schema:Person" ],
     "schema:creator" : "California Historical Society / History of To-Kalon",
     "creator" : "http://historyofto-kalon.com/",
     "description" : "H.W. Crabb, also known as H.W. Crabb, Hiram Walker Crabb, or Hamilton Walker Crabb, planted Cabernet Sauvignon in Napa in 1878, on his vineyard property, To Kalon. He was considered one of the pioneers of the development of the Napa Valley as a wine region. In the 1880s, his vine collection was one of the largest in the world.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "H.W. Crabb",
+    "schema:position" : 61,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.thewinecellarinsider.com/california-wine/california-wine-history-from-early-plantings-in-1800s-to-today/", "http://wineindustryinsight.com/@/VineyardHouse-v-Constellation/ToKalon-HistoricLandscapesSurvey-NatlParkSvc-HALS-CA-139.pdf", "http://fps.ucdavis.edu/grapebook/winebook.cfm?chap=Chardonnay", "http://historyofto-kalon.com/?page_id=206", "http://iv.ucdavis.edu/files/121462.pdf" ],
     "relatedLinkText" : [ "Cabernet Sauvignon at FPS", "Complete Napa Valley California Wine History from Early 1800’s to Today", "Wine Grapes of UC Davis: Chardonnay", "Historic American Ladscapes Survey: To-Kalon Vineyard", "California Historical Society / History of To-Kalon" ],
-    "spatial" : "_:b31",
+    "spatial" : "_:b35",
     "schema:spatial" : "Jefferson County, Ohio",
     "temporal" : "1828/1899",
-    "thumbnail" : "z:YHlh2fTx/hwcrabb.jpg",
-    "9R3eH5fc" : "CO6cdKPi"
+    "thumbnail" : "YHlh2fTx/hwcrabb.jpg",
+    "9R3eH5fc" : "#CO6cdKPi"
   }, {
-    "@id" : "YM0BwrXI",
+    "@id" : "#YM0BwrXI",
     "@type" : [ "schema:WebPage", "ucdlib:Story" ],
     "headline" : "Establishing the Region",
     "label" : "Story: Text",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Establishing the Region",
+    "schema:position" : 7,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "text" : "After Prohibition, which stalled the American wine industry for more than a decade, wineries that would become widely known for their Cabernet Sauvignon were reopened or established. Inglenook reopened, Louis M. Martini built a state-of-the-art winery, and the Mondavi family arrived in Napa, purchasing the Charles Krug winery and vineyards."
   }, {
-    "@id" : "Z4ZcOVTo",
+    "@id" : "#Z4ZcOVTo",
     "@type" : [ "schema:WebPage", "ucdlib:Story" ],
     "headline" : "Napa Valley Takes the Stage",
     "label" : "Story: Text / Image",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Napa Valley Takes the Stage",
+    "schema:position" : 9,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "text" : "Napa Valley arrived on the world stage in 1976 at what would become known infamously as “The Judgment of Paris.” An English wine merchant held a blind tasting in Paris with France’s top wine critics on May 24, 1976. Stag’s Leap’s 1973 Cabernet Sauvignon and Chateau Montelena’s 1973 Chardonnay, both out of California, earned top prizes in the categories for reds and whites. This ushered in a new era for Napa Valley, which is now the third-largest global producer of Cabernet Sauvignon.",
-    "thumbnail" : "z:Z4ZcOVTo/cabernet.jpg"
+    "thumbnail" : "Z4ZcOVTo/cabernet.jpg"
   }, {
-    "@id" : "aKEPijg2",
+    "@id" : "#aKEPijg2",
     "@type" : [ "schema:Thing", "schema:WebPage" ],
     "schema:creator" : "Heitz Cellar",
     "creator" : "https://www.heitzcellar.com/",
     "description" : "In the mid 1960s, an agreement was made between Joe Heitz and Tom May to source the cabernet sauvignon fruit from May’s small Oakville vineyard for Heitz wines. Ever since 1966, Heitz Cellar has been crafting the Martha’s Vineyard Cabernet Sauvignon, one of our three vineyard-designated Cabernet Sauvignons. Its style was considered very opulent in its day.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Heitz Cellar Martha's Vineyard Cabernet Sauvignon",
+    "schema:position" : 83,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.rarewineco.com/producer/heitz-marthas-vineyard-cabernet/", "https://www.heitzcellar.com/" ],
     "relatedLinkText" : [ "Heitz Cellars Merchant Bio", "Heitz Cellar" ],
     "schema:spatial" : "St. Helena, California",
-    "spatial" : "_:b29",
+    "spatial" : "_:b39",
     "temporal" : "1961",
-    "thumbnail" : "z:aKEPijg2/heitz-cab-1977.jpg",
-    "QFX0YYRk_rev" : "4OB05MBQ",
-    "WgQbldJY_rev" : "1dSpPRow"
+    "thumbnail" : "aKEPijg2/heitz-cab-1977.jpg",
+    "QFX0YYRk_rev" : "#4OB05MBQ",
+    "WgQbldJY_rev" : "#1dSpPRow"
   }, {
-    "@id" : "awbXocd6",
+    "@id" : "#awbXocd6",
     "@type" : [ "ucdlib:founded", "schema:significantLinks" ],
     "description" : "Frenchman Georges de Latour founded Beaulieu Vineyard near Rutherford in Napa Valley Ca.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "founded", "Georges de Latour founded Beaulieu Vineyard" ],
+    "schema:position" : 13,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "awbXocd6:_rev",
     "@type" : [ "ucdlib:founded_by", "schema:significantLinks" ],
     "name" : "founded by"
   }, {
-    "@id" : "b6X0jiL8",
+    "@id" : "#b6X0jiL8",
     "@type" : [ "ucdlib:provided", "schema:significantLinks" ],
     "description" : "Joe Heitz began making Martha's Vineyard Cabernet Sauvignon in 1966. ",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "provided", "Martha's Vineyard provided grapes to Joe Heitz" ],
+    "schema:position" : 21,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "b6X0jiL8:_rev",
     "@type" : [ "ucdlib:received", "schema:significantLinks" ],
     "name" : "received"
   }, {
-    "@id" : "bspq6IkX",
+    "@id" : "#bspq6IkX",
     "@type" : [ "schema:WebPage", "schema:Person" ],
     "creator" : "https://www.library.ucdavis.edu/wp-content/uploads/2017/05/amerine_maynard_a.jpg",
     "schema:creator" : "UC Davis",
     "description" : "Maynard Andrew Amerine was a pioneering researcher in the cultivation, fermentation, and sensory evaluation of wine. His academic work at the University of California at Davis is recognized internationally. His 16 books and around 400 articles contributed significantly to the development of the modern (post-Prohibition) wine industry in California; to the improvement of wine cultures in Europe, South America, and Australia; and to the professional standards for judging and tasting wine.\n\n In the early 1940s, he and his colleague Albert J. Winkler developed the Winkler scale, a technique for classifying wine growing regions based on temperatures, that continues to be used in the United States and elsewhere. His research, organizational, and advisory efforts in wine tasting helped bring about a more objective vocabulary to that field, based on flavors and scents rather than allusive references.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Maynard Amerine",
+    "schema:position" : 57,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.youtube.com/watch?v=vxEGgWVdxQ8&list=PLOV2wxlHt_ZntavGkb6o72FZ2xJ-YgFO1", "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/", "https://www.library.ucdavis.edu/news/who-is-maynard-amerine/" ],
     "relatedLinkText" : [ "Maynard Amerine manuscript collection at UC Davis Library", "Video of Introduction to Winemaking (VEN3) sessions taught by Vernon Singleton and Maynard Amerine", "Who is Maynard Amerine?" ],
-    "spatial" : "_:b10",
+    "spatial" : "_:b6",
     "schema:spatial" : "San Jose, California",
     "temporal" : "1911/1998",
-    "thumbnail" : "z:bspq6IkX/amerine_maynard_a.jpg",
-    "iaWPyRKm_rev" : "SNQntFO5",
-    "sm69hGqJ" : "4OB05MBQ"
+    "thumbnail" : "bspq6IkX/amerine_maynard_a.jpg",
+    "iaWPyRKm_rev" : "#SNQntFO5",
+    "sm69hGqJ" : "#4OB05MBQ"
   }, {
-    "@id" : "btYMeSO7",
+    "@id" : "#btYMeSO7",
     "@type" : [ "schema:Person", "schema:WebPage" ],
     "creator" : "https://www.forbes.com/sites/katiebell/2013/06/10/a-century-of-robert-mondavi-celebrating-the-father-of-american-wines-100th-2/",
     "schema:creator" : "Forbes",
     "description" : "Robert Mondavi was born in Minnesota. His family moved to Lodi, California. After high school, he attended Stanford University. He graduated in 1936 with a degree in economics and business administration. In 1966, he founded the Robert Mondavi Winery in Napa, California. The winery focused on creating wines that reflected the winemaking traditions of Europe. He founded the Opus One Project with Baron Philippe de Rothschild in 1980 which was the was the first high-profile cooperative venture between European and American vintners. He also launched the Mission Program which intended to redefine the place of wine in daily life. He married his long-time friend and colleague, Margaret Biever. Together, they have many contributions to UC Davis in arts and wine research.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Robert Mondavi",
+    "schema:position" : 67,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.library.ucdavis.edu/archives-and-special-collections/mondavi/mondavipapers/", "https://www.ucdavis.edu/news/robert-mondavi-his-name-lives/", "https://rmi.ucdavis.edu/robert-mondavi", "https://www.library.ucdavis.edu/archives-and-special-collections/mondavi/robert-g-mondavi/", "https://www.nytimes.com/2008/05/17/business/17mondavi.html" ],
     "relatedLinkText" : [ "Robert G. Mondavi Papers", "Robert Mondavi, Napa Wine Champion, Dies at 94", "Robert Mondavi: His Name Lives On", "Robert G. Mondavi", "Robert Mondavi Institute for Wine and Food Science: Robert Mondavi" ],
     "schema:spatial" : "Virginia, Minnesota",
-    "spatial" : "_:b3",
+    "spatial" : "_:b21",
     "temporal" : "1913/2008",
-    "thumbnail" : "z:btYMeSO7/https_3A_2F_2Fspecials-images.forbes.com_2Fimageserve_2F02UK1xfbZK9iJ_2F960x960.jpg_3Ffit_3Dscale_26background_3D000000.jpeg",
-    "168F9lUQ" : "KLFUtPhh"
+    "thumbnail" : "btYMeSO7/https_3A_2F_2Fspecials-images.forbes.com_2Fimageserve_2F02UK1xfbZK9iJ_2F960x960.jpg_3Ffit_3Dscale_26background_3D000000.jpeg",
+    "168F9lUQ" : "#KLFUtPhh"
   }, {
-    "@id" : "buqHYhc6",
+    "@id" : "#buqHYhc6",
     "@type" : [ "ucdlib:owned", "schema:significantLinks" ],
     "description" : "Morris Estee founded Hedgeside Vineyards off the Silverado Trail in 1876.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "owned", "Morris Estee owned Hedgeside Vineyards" ],
+    "schema:position" : 41,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "buqHYhc6:_rev",
     "@type" : [ "ucdlib:owned_by", "schema:significantLinks" ],
     "name" : "owned by"
   }, {
-    "@id" : "cgrJ3Yzm",
+    "@id" : "#cgrJ3Yzm",
     "@type" : [ "schema:Person", "schema:WebPage" ],
     "schema:creator" : "National Portrait Gallery",
     "creator" : "https://www.npg.org.uk/collections/search/portrait/mw126164/Sir-James-Robert-Drummond",
     "description" : "Captain James Drummond planted the first significant vineyard of Bordeaux varieties, including Cabernet Sauvignon, in the North Coast in Sonoma County in 1878.\n\n The California wine industry was young and Drummond proved to be the right man in the right place. In his first year at the ranch, he produced 14,000 gallons of wine, with grapes probably harvested from established vineyards. Over the next 10 years, Drummond contributed much to the quality of California wines. He was one of the first growers to graft imported French varieties onto old Mission vines. He planted the North Coast’s first Bordeaux vineyard, importing Cabernet Sauvignon cuttings from well-known wineries like Château Lafite Rothschild. His Dunfillan Winery, named for his ancestral home in Ireland, produced California’s first commercially bottled Cabernet Sauvignon. Introduced in 1884, it was the “most admired wine” at that year’s California Viticultural Convention.\n\n Drummond planted over 150 grape varieties. Working closely with the University of California’s Experimental Agricultural Station at Davis, he took a great interest in testing which varieties were best suited to different soils. Drummond was one of the first grape growers to show an interest in Chardonnay and the first California winemaker to commercially bottle Merlot. He imported several varieties of Pinot Noir and used them to make a blush wine called Oeil de Perdrix, or “Eye of the Partridge.” The Drummond Ranch also raised dairy and beef cattle, chickens, hogs, hay, and fruit trees. Drummond and his family are said to have lived in one of the most beautiful homes in Sonoma Valley, a two-story square house near the winery.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Captain James Drummond",
+    "schema:position" : 60,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://fps.ucdavis.edu/grapebook/winebook.cfm?chap=Bordeaux", "http://iv.ucdavis.edu/files/121462.pdf", "http://iv.ucdavis.edu/files/24325.pdf", "https://fps.ucdavis.edu/varietyfocuscabernet.cfm", "https://www.kenwoodpress.com/pub/a/8967?full=1" ],
     "relatedLinkText" : [ "Cabernet Sauvignon at FPS", "FPS Grape Variety Focus - Cabernet Sauvignon", "The Black Grapes of Bordeaux", "Cabernet Sauvignon", "Kenwood Press: James Drummon, 'Wine Hero'" ],
-    "spatial" : "_:b24",
     "schema:spatial" : "England, United Kingdom",
+    "spatial" : "_:b22",
     "temporal" : "1812/1895",
-    "thumbnail" : "z:cgrJ3Yzm/mw1261644444.jpg",
-    "s599W2Ta" : "gSUZfXGi"
+    "thumbnail" : "cgrJ3Yzm/mw1261644444.jpg",
+    "s599W2Ta" : "#gSUZfXGi"
   }, {
-    "@id" : "cqoj06Ga",
+    "@id" : "#cqoj06Ga",
     "@type" : [ "schema:WebPage", "schema:Thing" ],
     "schema:creator" : "Robb Report",
     "creator" : "https://robbreport.com/food-drink/wine/slideshow/fathers-day-california-red-wines/2013-georges-de-latour-private-reserve-cabernet-sauvignon/",
     "description" : "When Georges de Latour, founder of Beaulieu Vineyard in the Napa Valley, tasted his first Private Reserve Cabernet Sauvignon, the 1936 vintage, he was reputed to have said, \"This is the wine I have been trying to make all my life.\"\n\n André Tchelistcheff, who joined Beaulieu in 1938, agreed and insisted that the Private Reserve be bottled and sold as the winery’s flagship offering. \n\n In 1940, Beaulieu Vineyard released the first vintage of the Private Reserve,  the Georges de Latour Private Reserve Cabernet Sauvignon.\n\n Most of the grapes for the wine come from BV Ranch No. 1, across the street from the winery, and the nearby BV Ranch No. 2—vineyards originally planted by Georges de Latour in the early 1900s. The rest of the the grapes are chosen from select blocks from Hewitt Vineyard and a handful of blocks from prime Napa sites that have supplied grapes for the blend for more than four decades.\n\n In his interview with Ruth Teiser for the Bancroft Library's \"California Wine Industry Oral History Project,\" Tchelistcheff credited Beaulieu's Private Reserve with being the key to his success as a winemaker in California:\n\n \"I would say I was rather more impressed in the line of dessert\nwines than in the line of table wines, with one single exception, that\nI located a few barrels of very good Cabernet. I compared this Cabernet\nwith generic wines such as Burgundies and Clarets—the public didn't\nknow Cabernet then—and selected definitely Cabernet as the best Beaulieu red wine in the cellar, which actually was the master key to all my\nfuture career in California, because I said to myself, 'This is my\nfirst impression, and very probably I have to check my first impression.'\nI said, 'I will go to California.' That's the master key that became,\nreally, my success.\"",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Beaulieu Vineyard Georges de Latour Private Reserve Cabernet Sauvignon",
+    "schema:position" : 84,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.foodandwine.com/wine/inside-making-napas-most-iconic-cabernet", "https://digitalassets.lib.berkeley.edu/roho/ucb/text/tchelistcheff_andre__w.pdf", "https://vinous.com/articles/vertical-tasting-of-beaulieu-vineyard-s-georges-de-latour-private-reserve-cabernet-sauvignon-apr-2019" ],
     "relatedLinkText" : [ "Inside the Making of Napa's Most Iconic Cabernet", "Vertical Tasting of Beaulieu Vineyard’s Georges de Latour Private Reserve Cabernet Sauvignon: 1965–2016", "California Wine Industry Oral History Project: André Tchelistcheff" ],
-    "spatial" : "_:b34",
+    "spatial" : "_:b38",
     "schema:spatial" : "Rutherford, California",
     "temporal" : "1936/Present",
-    "thumbnail" : "z:cqoj06Ga/bv-georges-de-latour-private-reserve-cabernet-sauvignon.jpg",
-    "4zI2WEr2_rev" : "SNQntFO5",
-    "r80rZ8Tb_rev" : "LfGyUhGE",
-    "wkpsdub0_rev" : "lNnHt1NO"
+    "thumbnail" : "cqoj06Ga/bv-georges-de-latour-private-reserve-cabernet-sauvignon.jpg",
+    "4zI2WEr2_rev" : "#SNQntFO5",
+    "r80rZ8Tb_rev" : "#LfGyUhGE",
+    "wkpsdub0_rev" : "#lNnHt1NO"
   }, {
-    "@id" : "dV2lYvaP",
+    "@id" : "#dV2lYvaP",
     "@type" : [ "ucdlib:founded", "schema:significantLinks" ],
     "description" : "Joe Heitz founded Heitz Cellar in 1961 in St. Helena.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "founded", "Joe Heitz founded Heitz Cellar" ],
+    "schema:position" : 23,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "dV2lYvaP:_rev",
     "@type" : [ "ucdlib:founded_by", "schema:significantLinks" ],
     "name" : "founded by"
   }, {
-    "@id" : "e7y26aQG",
+    "@id" : "#e7y26aQG",
     "@type" : [ "ucdlib:collaborated_with", "schema:significantLinks" ],
     "description" : "In the 1940s and 50s, Olmo took a selection of Cabernet Sauvignon from Larkmead trials and planted the budwood at the Oakville Station. The \"Oakville Clones,\" as they've been since been called, contributed to building the Napa Cab industry in the 1960s. ",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "collaborated with", "Harold Olmo collaborated with Larkmead" ],
+    "schema:position" : 26,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "e7y26aQG:_rev",
     "@type" : [ "ucdlib:collaborated_with", "schema:significantLinks" ],
     "name" : "collaborated with"
   }, {
-    "@id" : "e9Bh4geY",
+    "@id" : "#e9Bh4geY",
     "@type" : [ "schema:WebPage", "schema:Thing" ],
     "schema:creator" : "National Museum of American History",
     "creator" : "https://americanhistory.si.edu/collections/search/object/nmah_1297104",
     "description" : "This bottle of 1973 Cabernet Sauvignon wine was produced by Warren Winiarski, founder, owner, and winemaker at Stag's Leap Wine Cellars, in Napa, California. It is the vintage that outranked some of France's best Bordeaux at a blind tasting held in Paris in 1976. \n\n A bottle of 1973 Stag's Leap Wine Cellars Cabernet Sauvignon was placed into the Smithsonian National Museum of American History collection in 1996 as a result of placing first in this competition and to reflect the impact that the achievement had on the United States wine industry.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "1973 Stag's Leap Wine Cellars Napa Valley Cabernet Sauvignon",
+    "schema:position" : 86,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://americanhistory.si.edu/collections/search/object/nmah_1297104", "https://www.stagsleapwinecellars.com/our-story/history/paris-tasting" ],
     "relatedLinkText" : [ "1973 Stag's Leap Wine Cellars Cabernet Sauvignon", "Our Story: The 1976 Paris Tasting" ],
-    "spatial" : "_:b1",
     "schema:spatial" : "Napa, California",
+    "spatial" : "_:b28",
     "temporal" : "1973",
-    "thumbnail" : "z:e9Bh4geY/1973slv.jpg"
+    "thumbnail" : "e9Bh4geY/1973slv.jpg"
   }, {
-    "@id" : "f2kb4l3W",
+    "@id" : "#f2kb4l3W",
     "@type" : [ "schema:Person", "schema:WebPage" ],
     "schema:creator" : "Louis M. Martini Winery",
     "creator" : "https://www.louismartini.com/explore-martini/our-history",
     "description" : "A recognized pioneering leader in the California wine industry, Louis P. Martini was one of the first winemakers to ferment wine in stainless steel tanks and also one of the first winemakers to plant the Wente clone of Chardonnay in the Carneros region. He also led the charge in mechanically harvesting wine grapes.\n\n Martini studied at Davis when it was known as the University Farm under the mentorship of Dr. Maynard Amerine, graduating in 1941. After serving in the Army Air Corps in England during World War II, Martini returned to the winery as vice president and production manager. Martini was a charter member of the American Society of Enology and Viticulture.\n\n According to Martini's granddaughter, Carolyn Martini, \"My grandfather's idea was that if you wanted to be in business pick something that was not an essential, or the government would regulate and control you in troubled times, but also not a pure luxury, because people would not buy when times got tough.  Something in between.  Not an essential, not a luxury.  To an Italian wine fit the category.  \n\n Cabernet is called the King of varietals.  Besides making interesting blends, the grapes are tough, late maturing and sturdy against inclement weather and produce a pretty hearty crop.  And Napa is perfect in the traits it lends to its Cabernets.  As the name got known and the popularity spread the brand grew.  Even though Martini produced at one point 14 varietals and 6 generics (numbers varied) Cabernet grew to be close to half our sales.  Another of my grandfather's ideas was that true wine drinking nations drank 2/3rds red to 1/3rd white so thats what our brand mix was by volume.\"",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Louis P. Martini",
+    "schema:position" : 66,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://wineserver.ucdavis.edu/giving/scholarhips-endowments/louis-p-martini-endowed-chair-fund", "https://napavalleyregister.com/community/star/news/years-of-history-at-louis-m-martini-winery/article_f2ada8ab-d828-555f-aa50-e41a726d89ca.html", "https://www.sfgate.com/news/article/Louis-P-Martini-Napa-Valley-Winemaker-2989663.php", "https://americanhistory.si.edu/food/wine-table/stainless-steel-and-cold-fermentation", "https://digitalassets.lib.berkeley.edu/roho/ucb/text/martini_louis_m_and_louis_p__w.pdf" ],
     "relatedLinkText" : [ "Louis P. Martini Endowed Chair Fund", "Louis P. Martini: Wine Making in the Napa Valley (Oral History)", "Louis P. Martini: Napa Valley Winemaker", "Years of History at Louis M. Martini Winery", "Stainless Steel and Cold Fermentation" ],
     "spatial" : "_:b20",
     "schema:spatial" : "Livermore, California",
     "temporal" : "1918/1998",
-    "thumbnail" : "z:f2kb4l3W/martini-louis-p2.jpg"
+    "thumbnail" : "f2kb4l3W/martini-louis-p2.jpg",
+    "lxZyDulC" : "#9zztPKSK"
   }, {
-    "@id" : "f2xAuKl4",
+    "@id" : "#f2xAuKl4",
     "@type" : "schema:significantLinks",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "1973 Stag's Leap Wine Cellars Cabernet won the Judgment of Paris",
+    "schema:position" : 19,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
-    "@id" : "fXUzhiij",
+    "@id" : "#fXUzhiij",
     "@type" : [ "ucdlib:owned", "schema:significantLinks" ],
     "description" : "Tom and Martha May purchased the vineyard property that would become Martha's Vineyard from Belle and Barney Rhodes in 1965.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "owned", "Tom and Martha May owned Martha's Vineyard" ],
+    "schema:position" : 35,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "fXUzhiij:_rev",
     "@type" : [ "ucdlib:owned_by", "schema:significantLinks" ],
     "name" : "owned by"
   }, {
-    "@id" : "gM1hIO6x",
-    "@type" : [ "schema:WebPage", "ucdlib:Story" ],
+    "@id" : "#gM1hIO6x",
+    "@type" : [ "ucdlib:Story", "schema:WebPage" ],
     "description" : "Cabernet Sauvignon, the main variety of some of the world’s most famous wines and the second most widely grown grape in California, originated in the Bordeaux region of France in the 17th century as a result of an accidental crossing of Cabernet Franc and Sauvignon Blanc grapes. This is the tale of how California brought its love affair with Bordeaux grown Cabernet Sauvignon stateside and cultivated it into the reigning king of Napa Valley reds.",
     "label" : "Story: EntryPoint",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "A Brief History of California Cabernet Sauvignon",
+    "schema:position" : 4,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "story" : "cabernet",
     "temporal" : "1865/1976"
   }, {
-    "@id" : "gSUZfXGi",
+    "@id" : "#gSUZfXGi",
     "@type" : [ "schema:Place", "schema:WebPage" ],
     "schema:creator" : "Berkeley Heritage",
     "creator" : "http://berkeleyheritage.com/essays/beltane.html",
     "description" : " John Drummond came to California and became a sheep-raiser in Sonoma County. Soon after, he purchased the Dunfillan Ranch in Sonoma county, and was very active in importing new varieties of wine grapes from France, and also table grapes from English hothouses. Drummond did much to improve the quality of California wines. He was one of the few early winegrowers to show an interest in Chardonnay, which he imported in 1880. He imported Cabernet Sauvignon cuttings from Château Margaux, Château Lafite Rothschild, and the Hermitage in Bordeaux. The Drummond Ranch's 1882 Cabernet Sauvignon was the most admired wine at the California Viticultural Convention. His vineyard was about 150 acres. After his death, his land was sold. It went not to a winegrower but to the wealthiest black woman in San Francisco, Mary Ellen Pleasant.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Drummond Ranch",
+    "schema:position" : 78,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.latimes.com/archives/la-xpm-1991-09-05-fo-2422-story.html", "http://berkeleyheritage.com/essays/beltane.html" ],
     "relatedLinkText" : [ "Two Hot (and Brave) New Wineries", "Beltane Ranch: From ‘Dusty Place’ to‘Mammy’s Place’" ],
-    "spatial" : "_:b11",
+    "spatial" : "_:b7",
     "schema:spatial" : "Glen Ellen, California",
     "temporal" : "1878",
-    "thumbnail" : "z:gSUZfXGi/dunfillan.jpg",
-    "s599W2Ta_rev" : "cgrJ3Yzm"
+    "thumbnail" : "gSUZfXGi/dunfillan.jpg",
+    "s599W2Ta_rev" : "#cgrJ3Yzm"
   }, {
-    "@id" : "gxm5XETt",
+    "@id" : "#gxm5XETt",
     "@type" : [ "schema:Place", "schema:WebPage" ],
     "schema:creator" : "Carol M. Highsmith",
     "creator" : "https://commons.wikimedia.org/wiki/File:Aerial_view_of_National_Museum_of_American_History.jpg",
     "description" : "Opened in 1964, the National Museum of American History collects, preserves, and displays the heritage of the United States in the areas of social, political, cultural, scientific, and military history. The National Museum is home to more than 1.8 million objects and more than three shelf-miles of archival collections. It is the greatest single collection of American history in the world.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Smithsonian National Museum of American History",
+    "schema:position" : 70,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://americanhistory.si.edu/food/wine-table/judgment-paris", "https://en.wikipedia.org/wiki/National_Museum_of_American_History" ],
     "relatedLinkText" : [ "National Museum of American History", "FOOD: Judgment of Paris" ],
     "schema:spatial" : "Washington, DC",
-    "spatial" : "_:b40",
+    "spatial" : "_:b25",
     "temporal" : "1964/present",
-    "thumbnail" : "z:gxm5XETt/national-museum-american-history.jpg"
+    "thumbnail" : "gxm5XETt/national-museum-american-history.jpg"
   }, {
-    "@id" : "iDRcL0ZZ",
+    "@id" : "#iDRcL0ZZ",
     "@type" : [ "schema:WebPage", "schema:Person" ],
     "schema:creator" : "Napa Valley Register",
     "creator" : "https://napavalleyregister.com/celebrating-the-legacy-of-belle-and-barney-rhodes/article_66c0b2ae-571c-11df-a292-001cc4c002e0.html",
     "description" : "Barney and Belle Rhodes moved to Napa in the early 1960s and planted a 12-acre Cabernet vineyard in Oakville on land that had previously been occupied by a prune orchard. That vineyard became Martha's Vineyard after the Rhodes sold the land to Martha and Tom May. In the 1970s the Rhodes planted their second Cabernet vineyard, Bella Oaks, in Rutherford. \n\n The Rhodes were known for their love of food and wine and entertaining.\n\n Belle was a wine and food historian and a cookbook collector, and donated her library of 3,500 cookbooks to Napa Valley College.  \n\n “Today, food and wine pairing seems like such a natural part of life in the Napa Valley but in the late ’70s and early ’80s, wine was wine and food was food — except at Belle and Barney’s house,” remembers wine writer Karen MacNeil. “Theirs was the first house where I went to dinner and there were 25 courses all prepared by Belle herself with 25 separate wines that Barney had very painstakingly matched to every course.”",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Barney Rhodes",
+    "schema:position" : 51,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.sfgate.com/bayarea/article/APPRECIATION-Belle-Rhodes-Napa-Valley-s-2611851.php", "https://www.winespectator.com/articles/farewell-to-a-friend-barney-rhodes-dies-at-88-15479", "https://www.winespectator.com/articles/remembering-a-napa-belle-14763" ],
     "relatedLinkText" : [ "APPRECIATION / Belle Rhodes -- Napa Valley's Patron of the Culinary Arts", "Farewell to a Friend: Barney Rhodes Dies at 88", "Remembering a Napa Belle" ],
-    "spatial" : "_:b13",
+    "spatial" : "_:b30",
     "schema:spatial" : "West Virginia",
     "temporal" : "1920/2008",
-    "thumbnail" : "z:iDRcL0ZZ/Belle_and_Barney_Rhodes.jpg",
-    "XUbPPC9j" : "1dSpPRow"
+    "thumbnail" : "iDRcL0ZZ/Belle_and_Barney_Rhodes.jpg",
+    "XUbPPC9j" : "#1dSpPRow"
   }, {
-    "@id" : "iO3Mv5Ho",
+    "@id" : "#iO3Mv5Ho",
     "@type" : [ "schema:WebPage", "schema:Person" ],
     "creator" : "https://commons.wikimedia.org/wiki/File:Warren_Winiarski.jpg",
     "schema:creator" : "Bob McClenahan",
     "description" : "Warren Winiarski is a Napa Valley winemaker and the founder and former proprietor of Stag's Leap Wine Cellars.\n\n Winiarski owns and operates Arcadia Vineyards in the Coombsville AVA of Napa Valley, which produces Chardonnay, Cabernet Sauvignon and Merlot.\n\n In 1976, Winiarski won the Judgment of Paris blind tasting for his 1973 Stag's Leap Wine Cellars Cabernet Sauvignon.\n\n He oversees the Winiarski Family Foundation, which supports educational and charitable causes, in addition to teaching courses at the St. John's College Summer Classics program in Santa Fe, New Mexico.\n\n In 2017, Winiarski was inducted into the 11th class of the California Hall of Fame by Governor Edmund G. Brown Jr. for his global efforts to showcase and preserve the quality and history of California wine. In 2019 he was awarded the Smithsonian's James Smithson Bicentennial Medal and became the first winemaker to receive the accolade.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Warren Winiarski",
+    "schema:position" : 59,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.sacbee.com/food-drink/wine/dunne-on-wine/article102135322.html", "https://www.sfgate.com/bayarea/article/NAPA-VALLEY-STUNNER-FAMED-WINERY-SOLD-Vintner-3416127.php", "https://www.californiamuseum.org/inductee/warren-winiarski", "https://en.wikipedia.org/wiki/Warren_Winiarski" ],
     "relatedLinkText" : [ "Warren Winiarski", "Warren Winiarski Reflects on Half a Century of Making Wine in California", "California Hall of Fame: Warren Winiarski", "Napa Valley Stunner – Famed Winery Sold" ],
+    "spatial" : "_:b12",
     "schema:spatial" : "Chicago, Illinois",
-    "spatial" : "_:b16",
     "temporal" : "1928/present",
-    "thumbnail" : "z:iO3Mv5Ho/warren-winiarski.jpg"
+    "thumbnail" : "iO3Mv5Ho/warren-winiarski.jpg"
   }, {
-    "@id" : "iaWPyRKm",
+    "@id" : "#iaWPyRKm",
     "@type" : [ "ucdlib:collaborated_with", "schema:significantLinks" ],
     "description" : "In the decades following Prohibition, Tchelistcheff and Amerine worked, often together, to educate California winemakers on such subjects as viticulture, fermentation science, and winery sanitation.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "collaborated with", "André Tchelistcheff collaborated with Maynard Amerine" ],
+    "schema:position" : 11,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "iaWPyRKm:_rev",
     "@type" : [ "ucdlib:collaborated_with", "schema:significantLinks" ],
     "name" : "collaborated with"
   }, {
-    "@id" : "k7pPNtTY",
+    "@id" : "#k7pPNtTY",
     "@type" : [ "ucdlib:founded", "schema:significantLinks" ],
     "description" : "Louis M. Martini purchased the property that would become Louis M. Martini winery on June 14, 1933.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "founded", "Louis M. Martini founded Louis M. Martini Winery" ],
+    "schema:position" : 32,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "k7pPNtTY:_rev",
     "@type" : [ "ucdlib:founded_by", "schema:significantLinks" ],
     "name" : "founded by"
   }, {
-    "@id" : "lNnHt1NO",
+    "@id" : "#lNnHt1NO",
     "@type" : [ "schema:WebPage", "schema:Place" ],
     "creator" : "http://highplainsobserver.com/beaulieu-vineyard-p24090-237.htm",
     "schema:creator" : "High Plains Observer",
     "description" : "In 1900, Georges de Latour and his wife, Fernande, purchased a parcel of land adjacent to Niebaum’s Inglenook, which they called Beaulieu, meaning “beautiful place.” De Latour planted his vineyards with imported rootstock from France, resistant to Phylloxera. \n\n Following Prohibition, Beaulieu hired André Tchelistcheff to be Beaulieu's winemaker, and the quality of the wines increased significantly. Tchelistcheff also became a mentor to other important winemakers such as Mike Grgich (whose Chateau Montelena Chardonnay won the Judgment of Paris), Joe Heitz of Heitz Wine Cellars, and Robert Mondavi. By the 1940s, Beaulieu wines were served at all major White House functions.\n\n In the 1950s and 1960s Beaulieu was considered one of the \"big four\" Napa Valley producers, along with Inglenook (also in Rutherford), Charles Krug, and Louis Martini.\n\n The winery was purchased by international conglomerate Heublein Inc., in 1969. Heublein was later acquired by RJR Nabisco, then sold to Grand Metropolitan in 1987. Grand Metropolitan became Diageo plc in 1997 through a merger with Guinness. In 2016 Diageo sold Beaulieu Vineyard to Treasury Wine Estates.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Beaulieu Vineyard",
+    "schema:position" : 75,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "http://www.napawineproject.com/beaulieu-vineyard/", "https://rutherforddust.org/history/", "https://en.wikipedia.org/wiki/Beaulieu_Vineyard", "https://www.bvwines.com/en-us/heritage" ],
     "relatedLinkText" : [ "Our Heritage", "Beaulieu Vineyard", "Grapegrowing and Winemaking in Rutherford" ],
     "schema:spatial" : "Rutherford, California",
-    "spatial" : "_:b25",
+    "spatial" : "_:b8",
     "temporal" : "1900/Present",
-    "thumbnail" : "z:lNnHt1NO/Beaulieu.jpg",
-    "awbXocd6_rev" : "LfGyUhGE",
-    "wkpsdub0" : "cqoj06Ga"
+    "thumbnail" : "lNnHt1NO/Beaulieu.jpg",
+    "awbXocd6_rev" : "#LfGyUhGE",
+    "wkpsdub0" : "#cqoj06Ga"
   }, {
-    "@id" : "lxZyDulC",
+    "@id" : "#lxZyDulC",
     "@type" : [ "ucdlib:made", "schema:significantLinks" ],
     "description" : "In 1952, Louis crafted his first luxury Cabernet, which continues today, from grapes grown on lots that he had cultivated for quality.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "made", "Louis P. Martini made Louis Martini Cabernet Sauvignon" ],
+    "schema:position" : 39,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "lxZyDulC:_rev",
     "@type" : [ "ucdlib:made_by", "schema:significantLinks" ],
     "name" : "made by"
   }, {
-    "@id" : "nRyFlMtg",
+    "@id" : "#nRyFlMtg",
     "@type" : [ "schema:WebPage", "schema:Thing" ],
     "creator" : "https://fps.ucdavis.edu/grapebook/winebook.cfm?chap=Bordeaux",
     "schema:creator" : "Foundation Plant Services, UC Davis",
     "description" : "Cabernet Sauvignon FPS 02 is known as the \"Oakville selection.\" FPS 02 was originally selected by Dr. Harold Olmo (former Professor of Viticulture & Enology, UC Davis) from the Kunde Estate vineyards in Sonoma County before 1940. The property on which the Kunde Estate vineyards were located had been planted in the 19th century with imported cuttings from Chateaux Margaux and Lafite Rothschild in Bordeaux. Dr. Olmo began to develop the selection at Larkmead Vineyards in Napa County and continued with trials at UC Davis Experiment Station in Oakville in the 1950's. FPS 02 arrived at FPS sometime prior to 1963. The original material that became Cabernet Sauvignon 02 did not undergo treatment at FPS prior to qualification for the California Grapevine Registration & Certification Program. Cabernet Sauvignon 02 later underwent microshoot tip tissue culture therapy to qualify for the Russell Ranch Foundation Vineyard. The treated material successfully completed the testing necessary to qualify for Russell Ranch in 2013 and was planted there as Cabernet Sauvignon 02.1.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Cabernet Sauvignon FSP 02 (\"Oakville station\") clone",
+    "schema:position" : 87,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://patch.com/california/davis/digitizing-renowned-viticulturist-s-papers", "https://fps.ucdavis.edu/grapebook/winebook.cfm?chap=FPSHistory2", "https://fps.ucdavis.edu/WebSitePDFs/Newsletters&Publications/GrapeNewsletterOct2008.pdf", "https://fps.ucdavis.edu/fgrdetails.cfm?varietyid=356" ],
     "relatedLinkText" : [ "Patch: Digitizing The Papers Of Renowned UC Davis Viticulturist", "FPS Grape Program Newsletter", "Grape Variety: Cabernet Sauvignon", "US Grapes: FPS Into the 21st Century" ],
-    "spatial" : "_:b19",
+    "spatial" : "_:b23",
     "schema:spatial" : "Larkmead Vineyards, California",
     "temporal" : "Circa 1940",
-    "thumbnail" : "z:nRyFlMtg/Cabsauv02.jpg",
-    "16QzRMPk_rev" : "CkPBD3at",
-    "3RyupM5m_rev" : "CkPBD3at",
-    "A0Y58XtA_rev" : "GIKEjGBM",
-    "w4AYg7GC_rev" : "rxoqPmh9"
+    "thumbnail" : "nRyFlMtg/Cabsauv02.jpg",
+    "16QzRMPk_rev" : "#CkPBD3at",
+    "3RyupM5m_rev" : "#CkPBD3at",
+    "A0Y58XtA_rev" : "#GIKEjGBM",
+    "w4AYg7GC_rev" : "#rxoqPmh9"
   }, {
-    "@id" : "naJ3QVEJ",
+    "@id" : "#naJ3QVEJ",
     "@type" : [ "schema:Person", "schema:WebPage" ],
     "creator" : "https://www.lailvineyards.com/Since-1879/John-Daniel-Jr-",
     "schema:creator" : "Lail Vineyards",
     "description" : "John Daniel succeeded Gustave Niebaum in ownership of the Inglenook Winery in 1939 following the repeal of the prohibition and would continue to carry on its legacy for 25 years. He was a visionary leader who, along with his winemaker George Deuer, created a new version of cabernet considered amongst the best red wines ever made. Daniel was also one of the few vintners to declassify inferior wines as if they didn't meet his standards, no casks were bottled. Despite his success, management of the Inglenook estate started to take its toll and as a result, he decided to sale the winery to Allied Grape Growers in December of 1964.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "John Daniel",
+    "schema:position" : 63,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.inglenook.com/story/history", "https://wineserver.ucdavis.edu/about/facilities/vineyards/oakville-vineyard", "https://www.lailvineyards.com/Since-1879/John-Daniel-Jr-", "https://news.bftv.ucdavis.edu/viticulture-and-enology/ven-celebrates-140th-anniversary-2020" ],
     "relatedLinkText" : [ "Oakville Vineyard", "BFTV Cluster News: VEN celebrates 140th anniversary in 2020 with special Alumni Day", "John Daniel, Jr.: The Visionary", "Inglenook: History" ],
     "schema:spatial" : "San Francisco, California",
-    "spatial" : "_:b7",
+    "spatial" : "_:b5",
     "temporal" : "1907/1970",
-    "thumbnail" : "z:naJ3QVEJ/John-Daniel4.jpg",
-    "QEffs32v" : "H99S57Wj"
+    "thumbnail" : "naJ3QVEJ/John-Daniel4.jpg",
+    "QEffs32v" : "#H99S57Wj"
   }, {
-    "@id" : "nzmxlWBp",
+    "@id" : "#nzmxlWBp",
     "@type" : [ "schema:Place", "schema:WebPage" ],
     "schema:creator" : "University of California",
     "creator" : "https://www.universityofcalifornia.edu/news/california-food-wine",
     "description" : "On April 15, 1880, the California Legislature mandated viticultural research by the University of California. In September 1906 the University took possession of land near Davisville (later renamed Davis). The first instruction began with 40 students in 1908. Viticultural work began soon after.\n\n The current Viticulture and Enology Department dates from 1935. The first department chair was Albert Winker. His first hire was Harold Olmo. \nUC Davis became a separate UC campus in 1959, prior to that it was the farm for UC Berkeley. At this time grape growing and wine making research, which till this time had been conducted on both the Berkeley and Davis campuses, was transferred to UC Davis alone.\n\n The Department of Viticulture & Enology is unique in that it combines the grape aspects of pomology and the wine fermentation aspects of food science into one department. The Department is also unique in that it has prime grape growing land for faculty and student use, located in the To Kalon region of the Oakville AVA in Napa County, California.\n\n The Viticulture & Enology Department at UC Davis is ranked among the very best in the world. UC Davis was ranked 28th among all universities in the United States and 13th among public U.S. universities. It is also ranked 2nd in the world in agricultural research.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "UC Davis Viticulture & Enology Department",
+    "schema:position" : 76,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://wineserver.ucdavis.edu/", "https://www.library.ucdavis.edu/alumni-friends/areas-to-support/collections-academic-disciplines/wine/", "https://en.wikipedia.org/wiki/University_of_California,_Davis" ],
     "relatedLinkText" : [ "UC Davis Viticulture & Enology", "Inside the ‘Greatest Wine Library in the World’", "University of California, Davis" ],
     "schema:spatial" : "Davis, California",
-    "spatial" : "_:b35",
+    "spatial" : "_:b40",
     "temporal" : "1906/present",
-    "thumbnail" : "z:nzmxlWBp/ucd-vineyards.jpg",
-    "2kj7WJkJ" : "GIKEjGBM",
-    "pdMDBkoi" : "CkPBD3at"
+    "thumbnail" : "nzmxlWBp/ucd-vineyards.jpg",
+    "2kj7WJkJ" : "#GIKEjGBM",
+    "pdMDBkoi" : "#CkPBD3at"
   }, {
-    "@id" : "pdMDBkoi",
+    "@id" : "#pdMDBkoi",
     "@type" : [ "ucdlib:hired", "schema:significantLinks" ],
     "description" : "Dr. Harold Olmo was plant breeder on the faculty of the Viticulture and Enology Department at the University of California, Davis, from 1931 until his retirement in 1977. Olmo continued his research in retirement, until shortly before his death.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "hired", "UC Davis Viticulture & Enology Department hired Harold Olmo" ],
+    "schema:position" : 29,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "pdMDBkoi:_rev",
     "@type" : [ "ucdlib:hired_by", "schema:significantLinks" ],
     "name" : "hired by"
   }, {
-    "@id" : "q11Q8URd",
+    "@id" : "#q11Q8URd",
     "@type" : [ "schema:Place", "schema:WebPage" ],
     "schema:creator" : "Napa County Historical Society",
     "creator" : "https://napahistory.pastperfectonline.com/photo/4F9E8F5B-4E58-4898-A13F-895207046650",
     "description" : "In 1876, Morris Estee founded Hedgeside Vineyards, just off the Silverado Trail. Estee and Hedgeside may have been the first winery to plant Cabernet Sauvignon in Napa. The wine was marketed and sold as Claret.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Hedgeside Vineyards",
+    "schema:position" : 80,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.thewinecellarinsider.com/california-wine/california-wine-history-from-early-plantings-in-1800s-to-today/", "https://napavalleyregister.com/lifestyles/ghost-tour-visits-the-haunts-of-vintners-past/article_51552484-0e24-5e08-8ed3-0c46a77fb13b.html" ],
     "relatedLinkText" : [ "Complete Napa Valley California Wine History from Early 1800s to Today", "Ghost Tour Visits the Haunts of Vintners Past" ],
-    "spatial" : "_:b38",
     "schema:spatial" : "Napa Valley, California",
+    "spatial" : "_:b37",
     "temporal" : "1876",
-    "thumbnail" : "z:q11Q8URd/Hedgeside_Winery.jpg",
-    "buqHYhc6_rev" : "2fUJx2Mg"
+    "thumbnail" : "q11Q8URd/Hedgeside_Winery.jpg",
+    "buqHYhc6_rev" : "#2fUJx2Mg"
   }, {
-    "@id" : "q2lHlTcV",
+    "@id" : "#q2lHlTcV",
     "@type" : [ "schema:WebPage", "schema:Place" ],
     "schema:creator" : "Public Domain",
     "creator" : "https://www.piqsels.com/en/public-domain-photo-orcgw",
     "description" : "Heitz Cellar was founded by Joe and Alice Heitz in 1961. An early modern era Napa Valley presence and pioneering exponent of French oak, the estate became renowned for the success of its Martha's Vineyard Cabernet Sauvignon, Napa Valley's first vineyard-designated Cabernet Sauvignon.\n\n After Joe Heitz died in 2000, his children David Heitz and Kathleen Heitz Myers ran the business until April 2018, when they sold the business to Gaylon Lawrence Jr., an agricultural magnate from Arkansas.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Heitz Cellar",
+    "schema:position" : 73,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.nytimes.com/2019/09/05/dining/drinks/wine-heitz-cellar-cabernet-sauvignon.html", "https://www.heitzcellar.com/", "https://en.wikipedia.org/wiki/Heitz_Wine_Cellars" ],
     "relatedLinkText" : [ "Heitz Wine Cellar", "Heitz Cellar", "For Historic Heitz in Napa, a New Team but Some Old Methods" ],
-    "spatial" : "_:b12",
+    "spatial" : "_:b24",
     "schema:spatial" : "St. Helena, California",
     "temporal" : "1961/present",
-    "thumbnail" : "z:q2lHlTcV/heitz-cellar.jpg",
-    "dV2lYvaP_rev" : "4OB05MBQ"
+    "thumbnail" : "q2lHlTcV/heitz-cellar.jpg",
+    "dV2lYvaP_rev" : "#4OB05MBQ"
   }, {
-    "@id" : "r80rZ8Tb",
+    "@id" : "#r80rZ8Tb",
     "@type" : [ "ucdlib:made", "schema:significantLinks" ],
     "description" : "Georges de Latour originally made the Beaulieu Vineyard Georges de Latour Private Reserve Cabernet Sauvignon. André Tchelistcheff tasted his '36 vintage and convinced him to make the Private Reserve the winery's flagship wine.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "made", "Georges de Latour made Beaulieu Vineyard Georges de Latour Private Reserve Cabernet Sauvignon" ],
+    "schema:position" : 27,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "r80rZ8Tb:_rev",
     "@type" : [ "ucdlib:made_by", "schema:significantLinks" ],
     "name" : "made by"
   }, {
-    "@id" : "rDZPI3i9",
+    "@id" : "#rDZPI3i9",
     "@type" : "schema:significantLinks",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Stag's Leap Wine Cellars produced the 1973 Stag's Leap Wine Cellars Cabernet",
+    "schema:position" : 16,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
-    "@id" : "rORWEXM8",
+    "@id" : "#rORWEXM8",
     "@type" : [ "schema:Person", "schema:WebPage" ],
     "creator" : "https://www.louismartini.com/explore-martini/our-history",
     "schema:creator" : "Louis M. Martini Winery",
     "description" : "Louis M. Martini emigrated from Genoa, Italy in 1899. A few years later, in 1906, he made his first wine with his father in a backyard in San Francisco. Initially, he didn’t know how to make wine, so Louis went back to Italy, where he studied winemaking at the University of Alba for two years. After returning to the United States, he leased a facility in Pleasanton to make wine, but it went bankrupt after two years. Louis was a winemaker for hire and worked for a number of people around the state. Louis went to Kingsburg, below Fresno. He started the Louis M. Martini Grape Products Co., which made sacramental wine for churches and grape concentrate for home winemakers that was shipped to the East Coast. When Prohibition ended in 1933, Louis M. Martini came up to St. Helena and built his winery. Along with other Napa Valley wine pioneers, he helped establish the Napa Valley Vintners, a nonprofit trade association, in 1944.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Louis M. Martini",
+    "schema:position" : 65,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://digital.ucdavis.edu/collection/amerine-menus/D-060/39/140/d7fm0b/media/images/d7fm0b-0.png", "https://napavalleyregister.com/wine/the-martini-legacy/article_36bb41e1-fa64-5ffa-907a-ebb200dc4c26.html", "https://digital.ucdavis.edu/collection/amerine-menus/D-060/41/78/d7ng97", "https://daily.sevenfifty.com/understanding-the-legacy-of-napa-pioneer-louis-m-martini/", "http://www.napawineproject.com/louis-martini-winery/" ],
     "relatedLinkText" : [ "Amerine (Maynard) Menu Collection: Wine List", "Louis M. Martini Winery", "Understanding the Legacy of Napa Pioneer Louis M. Martini", "Amerine (Maynard) Menu Collection: A Day of Monte Rosso with Louis M. Martini", "The Martini Legacy" ],
     "schema:spatial" : "Genoa, Italy",
-    "spatial" : "_:b21",
+    "spatial" : "_:b13",
     "temporal" : "1887/1974",
-    "thumbnail" : "z:rORWEXM8/ourhistory_1954_(2).jpg",
-    "8FTr7RCO" : "9zztPKSK",
-    "k7pPNtTY" : "2BvkysPk"
+    "thumbnail" : "rORWEXM8/ourhistory_1954_(2).jpg",
+    "8FTr7RCO" : "#9zztPKSK",
+    "k7pPNtTY" : "#2BvkysPk"
   }, {
-    "@id" : "rxoqPmh9",
+    "@id" : "#rxoqPmh9",
     "@type" : [ "schema:WebPage", "schema:Place" ],
     "creator" : "https://www.forbes.com/sites/johnmariani/2019/04/08/larkmead-winery-of-napa-valley-balances-brawn-with-complexity/#66530c60c04e",
     "schema:creator" : "Forbes",
     "description" : "Harold Olmo planted a Cabernet Sauvignon clonal station at the Larkmead estate in 1939. In the 1950s, Olmo identified a selection of those Cabernet clones that he later transferred from the Larkmead estate to the Oakville Station. It was there that he would develop the widely-planted “Oakville selection,” a clone that was fundamental in establishing Cabernet Sauvignon as California’s signature grape variety.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Larkmead",
+    "schema:position" : 69,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://www.library.ucdavis.edu/news/uc-davis-library-receives-gift-to-preserve-work-of-one-of-historys-top-viticulturists/", "https://napawinetaste.com/wine/article_4fe0d192-550c-11ea-b6c3-73de2f23f51b.html", "https://www.frankfamilyvineyards.com/about", "http://www.napawineproject.com/larkmead-vineyards/", "https://www.larkmead.com/pages/vineyards/" ],
     "relatedLinkText" : [ "Larkmead: Vineyards", "About Frank Family Vineyards", "UC Davis Library Receives Gift to Preserve Work of One of History’s Top Viticulturists", "First Person: A legacy of land and family at Larkmead Vineyards", "The Napa Wine Project: Larkmead Vineyards" ],
-    "spatial" : "_:b37",
+    "spatial" : "_:b34",
     "schema:spatial" : "Napa County, California",
     "temporal" : "1895",
-    "thumbnail" : "z:rxoqPmh9/https_3A_2F_2Fblogs-images.forbes.com_2Fjohnmariani_2Ffiles_2F2019_2F04_2FLARK-VINEYARD-1200x800.jpg",
-    "e7y26aQG_rev" : "CkPBD3at",
-    "w4AYg7GC" : "nRyFlMtg"
+    "thumbnail" : "rxoqPmh9/https_3A_2F_2Fblogs-images.forbes.com_2Fjohnmariani_2Ffiles_2F2019_2F04_2FLARK-VINEYARD-1200x800.jpg",
+    "e7y26aQG_rev" : "#CkPBD3at",
+    "w4AYg7GC" : "#nRyFlMtg"
   }, {
-    "@id" : "s599W2Ta",
+    "@id" : "#s599W2Ta",
     "@type" : [ "ucdlib:owned", "schema:significantLinks" ],
     "description" : "James Drummond was a pioneer in California viticulture and one of the first to plant grapes in the Sonoma Valley. He imported cuttings directly from Chateaux Margaux and Lafite Rothschild and produced the first varietal Cabernet Sauvignon in the world. He owned Drummond Ranch by 1878. Before, it was owned by John Wilson and Ramona Carillo de Wilson, who purchased it as part of a land grant from the Mexican Governor of Upper California.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "owned", "Captain James Drummon owned Drummon Ranch" ],
+    "schema:position" : 38,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "s599W2Ta:_rev",
     "@type" : [ "ucdlib:owned_by", "schema:significantLinks" ],
     "name" : "owned by"
   }, {
-    "@id" : "sm69hGqJ",
+    "@id" : "#sm69hGqJ",
     "@type" : [ "ucdlib:taught", "schema:significantLinks" ],
     "description" : "Maynard Amerine taught at UC Davis while Joe Heitz was a student there in the late '40s and late '50s. ",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "taught", "Maynard Amerine taught Joe Heitz" ],
+    "schema:position" : 20,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "sm69hGqJ:_rev",
     "@type" : [ "ucdlib:taught_by", "schema:significantLinks" ],
     "name" : "taught by"
   }, {
-    "@id" : "vY8bvxxy",
+    "@id" : "#vY8bvxxy",
     "@type" : [ "schema:Person", "schema:WebPage" ],
     "creator" : "https://www.sfgate.com/bayarea/article/Rodney-Strong-pioneering-Sonoma-winemaker-2539819.php#item-85307-tbla-1",
     "schema:creator" : "Rodney Strong",
     "description" : "Before becoming a pioneer winemaker, Rodney Strong was a professional dancer. He starred as the lead dancer in Lido de Paris, a cabaret and burlesque show. It was in France that he discovered his second passion—wine. Strong returned to America in the 50s to continue his dance career but his old age ultimately forced him to switch careers. He moved to Northern California with his wife and began making wine.\n\n Strong bought his distinguished vineyard, Rodney Strong Vineyards (previously called Sonoma Vineyards), in 1962 in Sonoma County. Strong reached many milestones with his vineyard. In 1965, he replanted Chardonnay vines, which became the first to be planted in what would later be known as Chalk Hill AVA. In 1968, he was the first to plant Pinot Noir in Russian River Valley by using climate data from UC Davis. Strong's greatest accomplishment happened when he was one of the first people to acknowledge the prospects of Alexander Valley. In 1974, he released the first Alexander Valley single vineyard Cabernet Sauvignon. Despite this breakthrough, Strong's company was not doing well, and he eventually sold it. Although he was no longer the owner, Strong continued to play an active role until his death. He is still remembered as a transformative visionary in the wine industry.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Rodney Strong",
+    "schema:position" : 54,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "https://digitalassets.lib.berkeley.edu/roho/ucb/text/strong_rodney.pdf", "https://www.pressdemocrat.com/news/2107559-181/former-dancer-helped-transform-sonoma" ],
     "relatedLinkText" : [ "Rodney Strong Vineyards: Creative Winemaking and Winery Management in Sonoma County", "Former Dancer Helped Transform Sonoma County into Wine Superpower" ],
-    "spatial" : "_:b9",
+    "spatial" : "_:b27",
     "schema:spatial" : "Camas, Washington",
     "temporal" : "1927/2006",
-    "thumbnail" : "z:vY8bvxxy/920x920.jpg",
-    "WkGe7yhA" : "CeuhezRP"
+    "thumbnail" : "vY8bvxxy/920x920.jpg",
+    "WkGe7yhA" : "#CeuhezRP"
   }, {
-    "@id" : "w4AYg7GC",
+    "@id" : "#w4AYg7GC",
     "@type" : [ "ucdlib:developed", "schema:significantLinks" ],
     "description" : "FPS 02 was originally selected by Dr. Harold Olmo (former Professor of Viticulture & Enology, UC Davis) from the Kunde Estate vineyards in Sonoma County before 1940. The property on which the Kunde Estate vineyards were located had been planted in the 19th century with imported cuttings from Chateaux Margaux and Lafite Rothschild in Bordeaux. Dr. Olmo began to develop the selection at Larkmead Vineyards in Napa County and continued with trials at UC Davis Experiment Station in Oakville in the 1950s. ",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "developed", "Cabernet Sauvignon FPS 02 was developed at Larkmead" ],
+    "schema:position" : 49,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "w4AYg7GC:_rev",
     "@type" : [ "ucdlib:developed_by", "schema:significantLinks" ],
     "name" : "developed by"
   }, {
-    "@id" : "wkpsdub0",
+    "@id" : "#wkpsdub0",
     "@type" : [ "ucdlib:produced", "schema:significantLinks" ],
     "description" : "Georges de Latour and later André Tchelistcheff made the Beaulieu Vineyard Georges de Latour Private Reserve Cabernet Sauvignon for Beaulieu Vineyard during the 20th century.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "produced", "Beaulieu Vineyard produced and released Beaulieu Vineyard Georges de Latour Private Reserve Cabernet Sauvignon" ],
+    "schema:position" : 28,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "wkpsdub0:_rev",
     "@type" : [ "ucdlib:produced_by", "schema:significantLinks" ],
     "name" : "produced by"
   }, {
-    "@id" : "yPuj4Iv8",
+    "@id" : "#yPuj4Iv8",
     "@type" : [ "schema:Person", "schema:WebPage" ],
     "creator" : "https://www.wsj.com/articles/SB10001424052748704893604576200842057088206",
     "schema:creator" : "The Wall Street Journal",
     "description" : "Andy Beckstoffer is an early leader in evolving Napa Valley into  world-class wine region. In 1970, he moved to California and established the Vinifera Development Corporation for Heublein. Andy also acquired the  Melrose Vineyard and the lease of several other vineyards in the Napa Valley and Mendocino. Today, Beckstoffer Vineyards owns and farms more than 3,600 acres of grape growing properties in the Napa Valley, Mendocino County and the Red Hills of Lake County.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : "Andy Beckstoffer",
+    "schema:position" : 68,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707",
     "relatedLink" : [ "http://www.beckstoffervineyards.com/roots/history/andy-beckstoffer/", "https://youtu.be/gmZeAi9TPas" ],
     "relatedLinkText" : [ "Latife Hayson: Andy Beckstoffer, Beckstoffer Vineyards", "Andy Beckstoffer" ],
+    "spatial" : "_:b11",
     "schema:spatial" : "Richmond, Virginia",
-    "spatial" : "_:b15",
     "temporal" : "1973/Present",
-    "thumbnail" : "z:yPuj4Iv8/OB-NE127_winene_G_20110322155318.jpg",
-    "U8GL3707" : "CO6cdKPi"
+    "thumbnail" : "yPuj4Iv8/OB-NE127_winene_G_20110322155318.jpg",
+    "U8GL3707" : "#CO6cdKPi"
   }, {
-    "@id" : "z8ZZMo1p",
+    "@id" : "#z8ZZMo1p",
     "@type" : [ "ucdlib:provided_to", "schema:significantLinks" ],
     "description" : "Robert Mondavi chose the To Kalon Vineyard as the home for his new winery in 1966.",
     "license" : "http://rightsstatements.org/vocab/CNE/1.0/",
     "name" : [ "provided to", "To Kalon provided grapes to Robert Mondavi Winery" ],
+    "schema:position" : 36,
     "publisher" : "http://id.loc.gov/authorities/names/no2008108707"
   }, {
     "@id" : "z8ZZMo1p:_rev",
@@ -1375,6 +1462,10 @@
     "description" : {
       "@id" : "http://schema.org/description"
     },
+    "position" : {
+      "@id" : "http://schema.org/position",
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer"
+    },
     "creator" : {
       "@id" : "http://schema.org/creator",
       "@type" : "@id"
@@ -1382,15 +1473,15 @@
     "temporal" : {
       "@id" : "http://schema.org/temporal"
     },
+    "spatial" : {
+      "@id" : "http://schema.org/spatial",
+      "@type" : "@id"
+    },
     "relatedLinkText" : {
       "@id" : "http://schema.org/relatedLinkText"
     },
     "fXUzhiij" : {
-      "@id" : "fXUzhiij",
-      "@type" : "@id"
-    },
-    "spatial" : {
-      "@id" : "http://schema.org/spatial",
+      "@id" : "#fXUzhiij",
       "@type" : "@id"
     },
     "license" : {
@@ -1401,6 +1492,33 @@
       "@id" : "http://schema.org/publisher",
       "@type" : "@id"
     },
+    "2TxdoM3L_rev" : {
+      "@id" : "#2TxdoM3L_rev",
+      "@type" : "@id"
+    },
+    "WgQbldJY" : {
+      "@id" : "#WgQbldJY",
+      "@type" : "@id"
+    },
+    "fXUzhiij_rev" : {
+      "@id" : "#fXUzhiij_rev",
+      "@type" : "@id"
+    },
+    "XUbPPC9j_rev" : {
+      "@id" : "#XUbPPC9j_rev",
+      "@type" : "@id"
+    },
+    "b6X0jiL8" : {
+      "@id" : "#b6X0jiL8",
+      "@type" : "@id"
+    },
+    "contentUrl" : {
+      "@id" : "http://schema.org/contentUrl",
+      "@type" : "@id"
+    },
+    "caption" : {
+      "@id" : "http://schema.org/caption"
+    },
     "longitude" : {
       "@id" : "http://schema.org/longitude",
       "@type" : "http://www.w3.org/2001/XMLSchema#double"
@@ -1409,157 +1527,131 @@
       "@id" : "http://schema.org/latitude",
       "@type" : "http://www.w3.org/2001/XMLSchema#double"
     },
-    "2TxdoM3L_rev" : {
-      "@id" : "2TxdoM3L_rev",
-      "@type" : "@id"
-    },
-    "WgQbldJY" : {
-      "@id" : "WgQbldJY",
-      "@type" : "@id"
-    },
-    "fXUzhiij_rev" : {
-      "@id" : "fXUzhiij_rev",
-      "@type" : "@id"
-    },
-    "XUbPPC9j_rev" : {
-      "@id" : "XUbPPC9j_rev",
-      "@type" : "@id"
-    },
-    "b6X0jiL8" : {
-      "@id" : "b6X0jiL8",
-      "@type" : "@id"
-    },
     "8FTr7RCO_rev" : {
-      "@id" : "8FTr7RCO_rev",
+      "@id" : "#8FTr7RCO_rev",
       "@type" : "@id"
     },
     "lxZyDulC_rev" : {
-      "@id" : "lxZyDulC_rev",
+      "@id" : "#lxZyDulC_rev",
       "@type" : "@id"
     },
     "QEffs32v" : {
-      "@id" : "QEffs32v",
+      "@id" : "#QEffs32v",
       "@type" : "@id"
     },
-    "contentUrl" : {
-      "@id" : "http://schema.org/contentUrl"
-    },
-    "caption" : {
-      "@id" : "http://schema.org/caption"
-    },
     "VSfrU3C5" : {
-      "@id" : "VSfrU3C5",
+      "@id" : "#VSfrU3C5",
       "@type" : "@id"
     },
     "sm69hGqJ" : {
-      "@id" : "sm69hGqJ",
+      "@id" : "#sm69hGqJ",
       "@type" : "@id"
     },
     "iaWPyRKm_rev" : {
-      "@id" : "iaWPyRKm_rev",
+      "@id" : "#iaWPyRKm_rev",
       "@type" : "@id"
     },
     "s599W2Ta_rev" : {
-      "@id" : "s599W2Ta_rev",
+      "@id" : "#s599W2Ta_rev",
       "@type" : "@id"
     },
     "z8ZZMo1p" : {
-      "@id" : "z8ZZMo1p",
+      "@id" : "#z8ZZMo1p",
       "@type" : "@id"
     },
     "U8GL3707_rev" : {
-      "@id" : "U8GL3707_rev",
+      "@id" : "#U8GL3707_rev",
       "@type" : "@id"
     },
     "9R3eH5fc_rev" : {
-      "@id" : "9R3eH5fc_rev",
+      "@id" : "#9R3eH5fc_rev",
       "@type" : "@id"
     },
     "U8GL3707" : {
-      "@id" : "U8GL3707",
+      "@id" : "#U8GL3707",
       "@type" : "@id"
     },
     "label" : {
       "@id" : "http://schema.org/label"
     },
     "8FTr7RCO" : {
-      "@id" : "8FTr7RCO",
+      "@id" : "#8FTr7RCO",
       "@type" : "@id"
     },
     "k7pPNtTY" : {
-      "@id" : "k7pPNtTY",
+      "@id" : "#k7pPNtTY",
       "@type" : "@id"
     },
     "16QzRMPk" : {
-      "@id" : "16QzRMPk",
+      "@id" : "#16QzRMPk",
       "@type" : "@id"
     },
     "pdMDBkoi_rev" : {
-      "@id" : "pdMDBkoi_rev",
+      "@id" : "#pdMDBkoi_rev",
       "@type" : "@id"
     },
     "3RyupM5m" : {
-      "@id" : "3RyupM5m",
+      "@id" : "#3RyupM5m",
       "@type" : "@id"
     },
     "e7y26aQG" : {
-      "@id" : "e7y26aQG",
+      "@id" : "#e7y26aQG",
       "@type" : "@id"
     },
     "168F9lUQ_rev" : {
-      "@id" : "168F9lUQ_rev",
+      "@id" : "#168F9lUQ_rev",
       "@type" : "@id"
     },
     "z8ZZMo1p_rev" : {
-      "@id" : "z8ZZMo1p_rev",
+      "@id" : "#z8ZZMo1p_rev",
       "@type" : "@id"
     },
     "s599W2Ta" : {
-      "@id" : "s599W2Ta",
+      "@id" : "#s599W2Ta",
       "@type" : "@id"
     },
     "w4AYg7GC_rev" : {
-      "@id" : "w4AYg7GC_rev",
+      "@id" : "#w4AYg7GC_rev",
       "@type" : "@id"
     },
     "3RyupM5m_rev" : {
-      "@id" : "3RyupM5m_rev",
+      "@id" : "#3RyupM5m_rev",
       "@type" : "@id"
     },
     "16QzRMPk_rev" : {
-      "@id" : "16QzRMPk_rev",
+      "@id" : "#16QzRMPk_rev",
       "@type" : "@id"
     },
     "A0Y58XtA_rev" : {
-      "@id" : "A0Y58XtA_rev",
+      "@id" : "#A0Y58XtA_rev",
       "@type" : "@id"
     },
     "dV2lYvaP_rev" : {
-      "@id" : "dV2lYvaP_rev",
+      "@id" : "#dV2lYvaP_rev",
       "@type" : "@id"
     },
     "r80rZ8Tb" : {
-      "@id" : "r80rZ8Tb",
+      "@id" : "#r80rZ8Tb",
       "@type" : "@id"
     },
     "RGKzdwH3" : {
-      "@id" : "RGKzdwH3",
+      "@id" : "#RGKzdwH3",
       "@type" : "@id"
     },
     "awbXocd6" : {
-      "@id" : "awbXocd6",
+      "@id" : "#awbXocd6",
       "@type" : "@id"
     },
     "WkGe7yhA" : {
-      "@id" : "WkGe7yhA",
+      "@id" : "#WkGe7yhA",
       "@type" : "@id"
     },
     "WkGe7yhA_rev" : {
-      "@id" : "WkGe7yhA_rev",
+      "@id" : "#WkGe7yhA_rev",
       "@type" : "@id"
     },
     "buqHYhc6" : {
-      "@id" : "buqHYhc6",
+      "@id" : "#buqHYhc6",
       "@type" : "@id"
     },
     "headline" : {
@@ -1569,35 +1661,35 @@
       "@id" : "http://schema.org/text"
     },
     "k7pPNtTY_rev" : {
-      "@id" : "k7pPNtTY_rev",
+      "@id" : "#k7pPNtTY_rev",
       "@type" : "@id"
     },
     "168F9lUQ" : {
-      "@id" : "168F9lUQ",
+      "@id" : "#168F9lUQ",
       "@type" : "@id"
     },
     "sm69hGqJ_rev" : {
-      "@id" : "sm69hGqJ_rev",
+      "@id" : "#sm69hGqJ_rev",
       "@type" : "@id"
     },
     "b6X0jiL8_rev" : {
-      "@id" : "b6X0jiL8_rev",
+      "@id" : "#b6X0jiL8_rev",
       "@type" : "@id"
     },
     "dV2lYvaP" : {
-      "@id" : "dV2lYvaP",
+      "@id" : "#dV2lYvaP",
       "@type" : "@id"
     },
     "QFX0YYRk" : {
-      "@id" : "QFX0YYRk",
+      "@id" : "#QFX0YYRk",
       "@type" : "@id"
     },
     "XUbPPC9j" : {
-      "@id" : "XUbPPC9j",
+      "@id" : "#XUbPPC9j",
       "@type" : "@id"
     },
     "QEffs32v_rev" : {
-      "@id" : "QEffs32v_rev",
+      "@id" : "#QEffs32v_rev",
       "@type" : "@id"
     },
     "image" : {
@@ -1605,90 +1697,90 @@
       "@type" : "@id"
     },
     "w4AYg7GC" : {
-      "@id" : "w4AYg7GC",
+      "@id" : "#w4AYg7GC",
       "@type" : "@id"
     },
     "e7y26aQG_rev" : {
-      "@id" : "e7y26aQG_rev",
+      "@id" : "#e7y26aQG_rev",
       "@type" : "@id"
     },
     "VSfrU3C5_rev" : {
-      "@id" : "VSfrU3C5_rev",
+      "@id" : "#VSfrU3C5_rev",
       "@type" : "@id"
     },
     "story" : {
       "@id" : "http://schema.org/story"
     },
     "A0Y58XtA" : {
-      "@id" : "A0Y58XtA",
+      "@id" : "#A0Y58XtA",
       "@type" : "@id"
     },
     "2kj7WJkJ_rev" : {
-      "@id" : "2kj7WJkJ_rev",
-      "@type" : "@id"
-    },
-    "lxZyDulC" : {
-      "@id" : "lxZyDulC",
+      "@id" : "#2kj7WJkJ_rev",
       "@type" : "@id"
     },
     "wkpsdub0" : {
-      "@id" : "wkpsdub0",
+      "@id" : "#wkpsdub0",
       "@type" : "@id"
     },
     "awbXocd6_rev" : {
-      "@id" : "awbXocd6_rev",
+      "@id" : "#awbXocd6_rev",
       "@type" : "@id"
     },
     "2TxdoM3L" : {
-      "@id" : "2TxdoM3L",
+      "@id" : "#2TxdoM3L",
       "@type" : "@id"
     },
     "9R3eH5fc" : {
-      "@id" : "9R3eH5fc",
+      "@id" : "#9R3eH5fc",
       "@type" : "@id"
     },
     "r80rZ8Tb_rev" : {
-      "@id" : "r80rZ8Tb_rev",
+      "@id" : "#r80rZ8Tb_rev",
       "@type" : "@id"
     },
     "4zI2WEr2_rev" : {
-      "@id" : "4zI2WEr2_rev",
+      "@id" : "#4zI2WEr2_rev",
       "@type" : "@id"
     },
     "wkpsdub0_rev" : {
-      "@id" : "wkpsdub0_rev",
+      "@id" : "#wkpsdub0_rev",
       "@type" : "@id"
     },
     "QFX0YYRk_rev" : {
-      "@id" : "QFX0YYRk_rev",
+      "@id" : "#QFX0YYRk_rev",
       "@type" : "@id"
     },
     "WgQbldJY_rev" : {
-      "@id" : "WgQbldJY_rev",
+      "@id" : "#WgQbldJY_rev",
+      "@type" : "@id"
+    },
+    "lxZyDulC" : {
+      "@id" : "#lxZyDulC",
       "@type" : "@id"
     },
     "buqHYhc6_rev" : {
-      "@id" : "buqHYhc6_rev",
+      "@id" : "#buqHYhc6_rev",
       "@type" : "@id"
     },
     "iaWPyRKm" : {
-      "@id" : "iaWPyRKm",
+      "@id" : "#iaWPyRKm",
       "@type" : "@id"
     },
     "RGKzdwH3_rev" : {
-      "@id" : "RGKzdwH3_rev",
+      "@id" : "#RGKzdwH3_rev",
       "@type" : "@id"
     },
     "4zI2WEr2" : {
-      "@id" : "4zI2WEr2",
+      "@id" : "#4zI2WEr2",
       "@type" : "@id"
     },
     "pdMDBkoi" : {
-      "@id" : "pdMDBkoi",
+      "@id" : "#pdMDBkoi",
       "@type" : "@id"
     },
     "2kj7WJkJ" : {
-      "@id" : "2kj7WJkJ",
+      "@id" : "#2kj7WJkJ",
       "@type" : "@id"
     },
     "schema" : "http://schema.org/",

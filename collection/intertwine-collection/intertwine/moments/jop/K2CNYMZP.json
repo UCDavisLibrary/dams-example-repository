@@ -11,18 +11,6 @@
   "pinned": false,
   "url": "https://trello.com/b/K2CNYMZP/intertwine-judgment-of-paris",
   "shortUrl": "https://trello.com/b/K2CNYMZP",
-  "labelNames": {
-    "green": "Location Data",
-    "yellow": "Learn More",
-    "orange": "",
-    "red": "Connections",
-    "purple": "Story: Text",
-    "blue": "Description",
-    "sky": "Image / Image Credit",
-    "lime": "",
-    "pink": "Date",
-    "black": "tasted / tasted at"
-  },
   "prefs": {
     "permissionLevel": "org",
     "hideVotes": false,
@@ -97,6 +85,18 @@
     "canBeOrg": true,
     "canBePrivate": true,
     "canInvite": true
+  },
+  "labelNames": {
+    "green": "Location Data",
+    "yellow": "Learn More",
+    "orange": "",
+    "red": "Connections",
+    "purple": "Story: Text",
+    "blue": "Description",
+    "sky": "Image / Image Credit",
+    "lime": "",
+    "pink": "Date",
+    "black": "tasted / tasted at"
   },
   "cards": [
     {
