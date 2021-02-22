@@ -1,0 +1,17 @@
+@prefix schema: <http://schema.org/> .
+@prefix ebucore: <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#> .
+@prefix my: <http://example.org/> .
+
+<> a schema:ImageObject, schema:CreativeWork;
+ schema:name "Benny The Bruiser";
+ ebucore:hasMimeType "image/jpeg";
+ ebucore:filename "bb.jpg";
+ schema:alternativeHeadline "I'm smelly.";
+ schema:description "He just showed up one day.";
+ schema:keywords "Cat";
+ schema:license <http://rightsstatements.org/vocab/InC-NC/1.0/>;
+ schema:encodingFormat "image/jpeg";
+ schema:about <http://en.wikipedia.org/wiki/Cat>;
+ schema:creator "Steve Pelkey";
+ schema:datePublished "2020"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+ my:owner "Steve Pelkey".

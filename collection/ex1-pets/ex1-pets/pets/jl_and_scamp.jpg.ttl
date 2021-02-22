@@ -1,0 +1,17 @@
+@prefix schema: <http://schema.org/> .
+@prefix ebucore: <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#> .
+@prefix my: <http://example.org/> .
+
+<> a schema:ImageObject, schema:CreativeWork;
+ schema:name "Jean-Luc and Scampi";
+ ebucore:hasMimeType "image/jpeg";
+ ebucore:filename "jl_and_scamp.jpg";
+ schema:alternativeHeadline "Interspecies BFFs";
+ schema:description "The cat is the boss.";
+ schema:keywords "Cat", "Dog";
+ schema:license <http://rightsstatements.org/vocab/InC-NC/1.0/>;
+ schema:encodingFormat "image/jpeg";
+ schema:about <http://en.wikipedia.org/wiki/Cat>, <http://en.wikipedia.org/wiki/Dog>;
+ schema:creator "Steve Pelkey";
+ schema:datePublished "2020"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
+ my:owner "Steve Pelkey".
