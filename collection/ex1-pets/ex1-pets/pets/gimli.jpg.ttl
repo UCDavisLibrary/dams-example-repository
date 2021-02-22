@@ -12,6 +12,7 @@
  schema:license <http://rightsstatements.org/vocab/InC-NC/1.0/>;
  schema:encodingFormat "image/jpeg";
  schema:about <http://en.wikipedia.org/wiki/Cat>;
+ schema:about "bites face";
  schema:creator "Justin Merz";
  schema:datePublished "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> ;
  my:owner "Justin Merz".
